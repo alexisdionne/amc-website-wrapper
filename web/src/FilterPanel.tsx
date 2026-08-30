@@ -24,6 +24,8 @@ interface Props {
   chapters: Chapter[];
   criteria: Criteria;
   onChange: (next: Criteria) => void;
+  onClear: () => void;
+  canClear: boolean;
 }
 
 const toggle = (list: string[], value: string): string[] =>
@@ -48,7 +50,14 @@ function facetCounts(
   return counts;
 }
 
-export function FilterPanel({ activities, chapters, criteria, onChange }: Props): React.JSX.Element {
+export function FilterPanel({
+  activities,
+  chapters,
+  criteria,
+  onChange,
+  onClear,
+  canClear,
+}: Props): React.JSX.Element {
   const chapterCounts = useMemo(
     () => facetCounts(activities, { ...criteria, chapters: [] }, (a) => a.chapterId),
     [activities, criteria],
@@ -105,6 +114,17 @@ export function FilterPanel({ activities, chapters, criteria, onChange }: Props)
 
   return (
     <form onSubmit={(e) => e.preventDefault()}>
+      {/* First element in the form so it is reachable without scrolling past
+          twenty type checkboxes to undo a filter you just set. */}
+      <p>
+        <button type="button" onClick={onClear} disabled={!canClear}>
+          Clear filters
+        </button>{' '}
+        <span className="muted">
+          {canClear ? 'Resets to the default view' : 'Already showing the default view'}
+        </span>
+      </p>
+
       <fieldset>
         <legend>Activity type</legend>
         {allTypes.map((t) => (
