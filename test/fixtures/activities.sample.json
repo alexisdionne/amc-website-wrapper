@@ -1,5 +1,54 @@
 [
   {
+    "Id": "a5UUN000001ebWY2AY",
+    "Account__c": "0015000001Sg06EAAR",
+    "Activity_Name__c": "Cold Weather Backpack Near Harpers Ferry",
+    "Audience_Type__c": "Adults",
+    "Description__c": "<p>Trail Overview: Keys Gap → David Lesser Shelter → Blackbu [truncated for fixture]",
+    "End_Date__c": "2026-11-15",
+    "Hide_Start_Location_Until_Registered__c": false,
+    "Keywords__c": "Cold Weather backpacking and backpacking experience",
+    "Main_Activity_Difficulty_Rating__c": "4 - Moderate",
+    "Main_Activity_Sub_Type__c": "Backpacking",
+    "Main_Activity_Type__c": "Backpacking",
+    "Program_Type__c": "Volunteer Led",
+    "Online_Event__c": false,
+    "Private_Activity__c": false,
+    "Open_for_registration__c": false,
+    "Registration_Open_Date__c": "2026-10-11",
+    "Registration_Open_Date_Passed__c": false,
+    "Register_By_Date__c": "2026-11-08",
+    "Register_By_Date_Passed__c": false,
+    "Registration_Type__c": "Registration",
+    "Start_Date__c": "2026-11-13",
+    "Start_Latitude__c": 40.48,
+    "Start_Location__c": {
+      "street": "Appalachian National Scenic Trail, United States",
+      "city": "Purcellville",
+      "state": "WV",
+      "postalCode": "20132",
+      "country": "United States",
+      "stateCode": "WV",
+      "countryCode": "US"
+    },
+    "Start_Longitude__c": -76.54,
+    "Start_Time__c": "9:00 AM",
+    "Start_Concatenation_Formula_Unconverted__c": "Friday, November 13, 2026 | 9:00 AM",
+    "Status__c": "Waitlist",
+    "Time_Zone__c": "US EST",
+    "OC_Trip_Leaders__r": [
+      {
+        "OC_Activity__c": "a5UUN000001ebWY2AY",
+        "Id": "a5YUN000002gwPp2AI",
+        "Contact__c": "003Ht00003t1tGWIAY",
+        "Contact__r": {
+          "Name": "Carmen Shippy",
+          "Id": "003Ht00003t1tGWIAY"
+        }
+      }
+    ]
+  },
+  {
     "Id": "a5UUN000001k8Ob2AI",
     "Account__c": "001UN00000bpnMdYAI",
     "Activity_Name__c": "Outdoor Leader Fundamentals",

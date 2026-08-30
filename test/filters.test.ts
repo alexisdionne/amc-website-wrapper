@@ -20,14 +20,14 @@ const spanDays = (a: { startDate: string; endDate: string }): number =>
 const select = (c: Partial<Criteria>) =>
   activities.filter((a) => matches(a, { ...EMPTY_CRITERIA, ...c }));
 
-test('fixture normalizes to 12 activities sorted by id', () => {
-  assert.equal(activities.length, 12);
+test('fixture normalizes to 13 activities sorted by id', () => {
+  assert.equal(activities.length, 13);
   const ids = activities.map((a) => a.id);
   assert.deepEqual(ids, [...ids].sort());
 });
 
 test('empty criteria constrains nothing', () => {
-  assert.equal(select({}).length, 12);
+  assert.equal(select({}).length, 13);
 });
 
 test('date window uses range overlap, not start-date containment', () => {
@@ -95,11 +95,11 @@ test('a 364-day activity is not treated as evergreen', () => {
 });
 
 test('type filter matches the main type only by default', () => {
-  assert.equal(select({ types: TARGETS }).length, 3);
+  assert.equal(select({ types: TARGETS }).length, 4);
 });
 
 test('includeSecondaryType widens the match', () => {
-  assert.equal(select({ types: TARGETS, includeSecondaryType: true }).length, 4);
+  assert.equal(select({ types: TARGETS, includeSecondaryType: true }).length, 5);
 });
 
 test('type values containing commas survive as filter input', () => {
@@ -165,6 +165,7 @@ test('property: 2000 generated criteria round-trip exactly', () => {
     chapters: ['0015000001Sg061AAB', '001VX00000utYFKYA2'],
     statuses: ['Published', 'Full', 'Waitlist'] as const,
     audiences: ['Family Friendly', '20s & 30s'],
+    registrations: ['open', 'not-yet', 'closed'] as const,
     keywords: ['waterfall', 'a&b, c', '', 'x?=&#'],
   };
   const pick = <T>(arr: readonly T[]): T[] => arr.filter(() => Math.random() < 0.5);
@@ -177,6 +178,7 @@ test('property: 2000 generated criteria round-trip exactly', () => {
       chapters: pick(pool.chapters).sort(),
       statuses: pick(pool.statuses).sort(),
       audiences: pick(pool.audiences).sort(),
+      registrations: pick(pool.registrations).sort(),
       includeSecondaryType: Math.random() < 0.5,
       ...(Math.random() < 0.5 ? { difficultyMin: 1 + Math.floor(Math.random() * 6) } : {}),
       ...(Math.random() < 0.5 ? { windowStart: '2026-09-01' } : {}),
@@ -202,4 +204,33 @@ test('preview truncates on a word boundary and never mid-tag', () => {
 
 test('preview leaves short descriptions untouched', () => {
   assert.equal(toPreview('<p>Short walk.</p>'), 'Short walk.');
+});
+
+test('registration filter selects only the requested states', () => {
+  assert.equal(select({ registrations: ['open'] }).length, 11);
+  assert.equal(select({ registrations: ['not-yet'] }).length, 1);
+  assert.equal(select({ registrations: ['closed'] }).length, 1);
+});
+
+test('registration is independent of capacity status', () => {
+  // The case the old boolean could not express: full, yet still accepting registrations.
+  const hits = select({ registrations: ['open'], statuses: ['Full'] });
+  assert.equal(hits.length, 2);
+  for (const a of hits) {
+    assert.equal(a.status, 'Full');
+    assert.equal(a.registration, 'open');
+  }
+});
+
+test('the default view hides only closed activities', () => {
+  const shown = select({ registrations: ['open', 'not-yet'] });
+  assert.equal(shown.length, 12);
+  assert.equal(
+    shown.some((a) => a.registration === 'closed'),
+    false,
+  );
+});
+
+test('an empty registrations list constrains nothing', () => {
+  assert.equal(select({ registrations: [] }).length, 13);
 });

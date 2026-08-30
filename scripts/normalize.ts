@@ -1,4 +1,10 @@
-import type { Activity, ActivityDetails, Chapter, RawActivity } from '../shared/types';
+import type {
+  Activity,
+  ActivityDetails,
+  Chapter,
+  RawActivity,
+  RegistrationState,
+} from '../shared/types';
 
 /** Locale-independent. localeCompare would make output machine-dependent and break byte-stability. */
 const byCodePoint = (a: string, b: string): number => (a < b ? -1 : a > b ? 1 : 0);
@@ -45,6 +51,22 @@ function warnUnknownStatuses(rows: RawActivity[]): void {
   }
 }
 
+/**
+ * Only three combinations of the three source booleans occur, verified against
+ * all 601 rows of a live response:
+ *
+ *   Open_for_registration=true,  OpenDatePassed=true,  ByDatePassed=false -> open     (538)
+ *   Open_for_registration=false, OpenDatePassed=false, ByDatePassed=false -> not-yet   (54)
+ *   Open_for_registration=false, OpenDatePassed=true,  ByDatePassed=true  -> closed     (9)
+ *
+ * Open_for_registration__c alone is not an availability signal - it is true on
+ * 43 activities whose Status__c is Full. Capacity lives in Status__c.
+ */
+function registrationState(raw: RawActivity): RegistrationState {
+  if (raw.Open_for_registration__c) return 'open';
+  return raw.Register_By_Date_Passed__c ? 'closed' : 'not-yet';
+}
+
 export function normalizeActivity(raw: RawActivity): Activity {
   const difficulty = Number(/^(\d)/.exec(raw.Main_Activity_Difficulty_Rating__c)?.[1] ?? 0);
 
@@ -78,7 +100,7 @@ export function normalizeActivity(raw: RawActivity): Activity {
     ...(raw.Audience_Type__c ? { audience: raw.Audience_Type__c } : {}),
     registrationType: raw.Registration_Type__c,
     status: raw.Status__c,
-    openForRegistration: raw.Open_for_registration__c,
+    registration: registrationState(raw),
     ...(raw.Registration_Open_Date__c
       ? { registrationOpenDate: raw.Registration_Open_Date__c }
       : {}),

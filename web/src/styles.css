@@ -198,6 +198,19 @@ tbody tr:hover {
   color: var(--status-full);
 }
 
+/* Registration reuses the semantic tokens: joinable, pending, unavailable. */
+.chip-open {
+  color: var(--status-open);
+}
+
+.chip-not-yet {
+  color: var(--status-wait);
+}
+
+.chip-closed {
+  color: var(--status-full);
+}
+
 .columns-toggle {
   display: flex;
   flex-wrap: wrap;

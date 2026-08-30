@@ -6,6 +6,13 @@
 export type ActivityStatus = 'Published' | 'Full' | 'Waitlist';
 export type RegistrationType = 'Show & Go' | 'Registration' | 'Application';
 
+/**
+ * Whether registration is being accepted, independent of capacity. An activity
+ * can be accepting registrations while Full, or Published with its deadline
+ * already past - the source site conflates these and this model does not.
+ */
+export type RegistrationState = 'open' | 'not-yet' | 'closed';
+
 /** Salesforce compound address. Every subkey optional — many rows carry only `country`. */
 export interface SalesforceAddress {
   street?: string;
@@ -94,7 +101,8 @@ export interface Activity {
   audience?: string;
   registrationType: RegistrationType;
   status: ActivityStatus;
-  openForRegistration: boolean;
+  /** Derived from three source booleans; see registrationState in normalize.ts. */
+  registration: RegistrationState;
   registrationOpenDate?: string;
   registerByDate?: string;
   /** Source caps at 1, but kept plural — no invariant AMC has promised. */

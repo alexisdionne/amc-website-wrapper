@@ -11,6 +11,7 @@ const COLUMNS = [
   { key: 'type', label: 'Type' },
   { key: 'difficulty', label: 'Difficulty' },
   { key: 'status', label: 'Status' },
+  { key: 'registration', label: 'Registration' },
   { key: 'cost', label: 'Cost' },
   { key: 'leaders', label: 'Leader' },
 ] as const;
@@ -22,6 +23,15 @@ const cmp = (a: string, b: string): number => (a < b ? -1 : a > b ? 1 : 0);
 
 /** Availability order, not alphabetical - "what can I still join" is the useful sort. */
 const STATUS_RANK: Record<string, number> = { Published: 0, Waitlist: 1, Full: 2 };
+
+/** Same principle as status: sorted by what you can act on, not alphabetically. */
+const REGISTRATION_RANK: Record<string, number> = { open: 0, 'not-yet': 1, closed: 2 };
+
+const REGISTRATION_LABEL: Record<string, string> = {
+  open: 'Open',
+  'not-yet': 'Not yet open',
+  closed: 'Closed',
+};
 
 function comparator(key: ColKey, chapterName: (id: string) => string) {
   switch (key) {
@@ -39,6 +49,9 @@ function comparator(key: ColKey, chapterName: (id: string) => string) {
     case 'status':
       return (a: Activity, b: Activity) =>
         (STATUS_RANK[a.status] ?? 9) - (STATUS_RANK[b.status] ?? 9);
+    case 'registration':
+      return (a: Activity, b: Activity) =>
+        (REGISTRATION_RANK[a.registration] ?? 9) - (REGISTRATION_RANK[b.registration] ?? 9);
     case 'cost':
       // Unpriced sorts last ascending - absence is not "free".
       return (a: Activity, b: Activity) => (a.costs[0] ?? Infinity) - (b.costs[0] ?? Infinity);
@@ -157,6 +170,14 @@ export function ActivityTable({ activities, chapters }: Props): React.JSX.Elemen
                       return (
                         <td key={c.key}>
                           <span className={`chip chip-${a.status.toLowerCase()}`}>{a.status}</span>
+                        </td>
+                      );
+                    case 'registration':
+                      return (
+                        <td key={c.key}>
+                          <span className={`chip chip-${a.registration}`}>
+                            {REGISTRATION_LABEL[a.registration] ?? a.registration}
+                          </span>
                         </td>
                       );
                     case 'cost':

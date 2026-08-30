@@ -25,7 +25,7 @@ function activity(id: string, status: ActivityStatus = 'Published', type = 'Camp
     program: 'Chapter',
     registrationType: 'Registration',
     status,
-    openForRegistration: true,
+    registration: 'open',
     costs: [],
     leaders: [],
     url: `/s/oc-activity/${id}`,

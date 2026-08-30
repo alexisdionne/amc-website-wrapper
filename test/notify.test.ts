@@ -23,7 +23,7 @@ function activity(id: string, over: Partial<Activity> = {}): Activity {
     program: 'Chapter',
     registrationType: 'Registration',
     status: 'Published',
-    openForRegistration: true,
+    registration: 'open',
     costs: [],
     leaders: [],
     url: `/s/oc-activity/${id}`,
