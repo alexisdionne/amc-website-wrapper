@@ -26,7 +26,10 @@ jobs:
           node-version: '24'
           cache: npm
 
-      - run: npm ci
+      # Dependency install scripts would otherwise execute in a job holding a
+      # token that can push to main. Platform binaries come from optional
+      # dependencies, not postinstall, so nothing here needs them.
+      - run: npm ci --ignore-scripts
 
       # Fails loudly on a truncated feed rather than committing a bad snapshot.
       - run: npm run poll

@@ -32,7 +32,10 @@ jobs:
           node-version: '24'
           cache: npm
 
-      - run: npm ci
+      # Dependency install scripts would otherwise execute in a job holding a
+      # token that can push to main. Platform binaries come from optional
+      # dependencies, not postinstall, so nothing here needs them.
+      - run: npm ci --ignore-scripts
       - run: npm run typecheck
       - run: npm test
       - run: npm run build
