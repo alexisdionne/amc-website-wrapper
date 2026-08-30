@@ -18,6 +18,11 @@ const PREVIEW_CHARS = 300;
  * Descriptions arrive as raw HTML averaging 1.6 KB, 1.35 MB across the feed.
  * Slicing markup mid-tag produces broken output, so tags are stripped and the
  * common entities decoded before truncating on a word boundary.
+ *
+ * SECURITY: this is tag stripping, not sanitization. A regex cannot safely
+ * neutralize hostile HTML, and this input comes from a third party. The output
+ * is safe only because it is rendered as text, where React escapes it. Never
+ * pass it to dangerouslySetInnerHTML or an equivalent - sanitize properly first.
  */
 export function toPreview(html: string): string {
   const text = html

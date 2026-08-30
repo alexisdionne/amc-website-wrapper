@@ -116,3 +116,14 @@ test('reopened alerts lead the batch', () => {
   const [first] = buildMessages(alerts, chapterName);
   assert.equal(first?.embeds[0]?.title.startsWith('Reopened'), true);
 });
+
+test('footer is truncated so one long watch name cannot fail the whole batch', () => {
+  const a: Alert = {
+    watchId: 'x',
+    watchName: 'w'.repeat(5000),
+    kind: 'new',
+    activity: activity('x'),
+  };
+  const e = buildEmbed(a, chapterName);
+  assert.ok(e.footer.text.length <= 100, `footer was ${e.footer.text.length}`);
+});

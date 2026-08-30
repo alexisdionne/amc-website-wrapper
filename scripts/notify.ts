@@ -6,6 +6,15 @@ const AMC_ORIGIN = 'https://activities.outdoors.org';
 /** Discord caps a message at 10 embeds and an embed title at 256 characters. */
 const MAX_EMBEDS_PER_MESSAGE = 10;
 const TITLE_MAX = 200;
+/**
+ * Far below Discord's 2048 footer limit, because the binding constraint is the
+ * 6000-character total across all embeds in one message. At 10 embeds, a title
+ * of 200 and a footer of 100 leaves comfortable headroom.
+ *
+ * Untruncated, a single long watch name makes Discord reject the entire batch
+ * with a 400 - which fails the poll and suppresses every alert, not just that one.
+ */
+const FOOTER_MAX = 100;
 
 const COLORS: Record<AlertKind, number> = {
   new: 0x2d5bd1,
@@ -51,7 +60,7 @@ export function buildEmbed(alert: Alert, chapterName: (id: string) => string): D
     url: `${AMC_ORIGIN}${a.url}`,
     color: COLORS[alert.kind],
     fields,
-    footer: { text: `Watch: ${alert.watchName}` },
+    footer: { text: truncate(`Watch: ${alert.watchName}`, FOOTER_MAX) },
   };
 }
 
