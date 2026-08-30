@@ -129,3 +129,77 @@ select {
     transition-duration: 0.01ms !important;
   }
 }
+
+/* --- table --- */
+
+.table-wrap {
+  /* Wide content scrolls in its own container so the page never scrolls sideways. */
+  overflow-x: auto;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  text-align: left;
+  padding: var(--space-2);
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+  white-space: nowrap;
+}
+
+td.wrap {
+  white-space: normal;
+  min-width: 22ch;
+}
+
+thead th {
+  position: sticky;
+  top: 0;
+  background: var(--surface);
+  z-index: 1;
+}
+
+th button {
+  background: none;
+  border: 0;
+  padding: 0;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+tbody tr:hover {
+  background: var(--surface-alt);
+}
+
+.chip {
+  display: inline-block;
+  padding: 0 var(--space-2);
+  border-radius: 999px;
+  border: 1px solid currentColor;
+  font-size: 12px;
+}
+
+/* Semantic status, separate from --accent. Text carries the meaning; colour reinforces. */
+.chip-published {
+  color: var(--status-open);
+}
+
+.chip-waitlist {
+  color: var(--status-wait);
+}
+
+.chip-full {
+  color: var(--status-full);
+}
+
+.columns-toggle {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+}
