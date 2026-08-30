@@ -1,0 +1,577 @@
+[
+  {
+    "Id": "a5UUN000001k8Ob2AI",
+    "Account__c": "001UN00000bpnMdYAI",
+    "Activity_Name__c": "Outdoor Leader Fundamentals",
+    "Audience_Type__c": "Adults",
+    "Description__c": "<p><em style=\"font-size: 14px;\">*Disregard the green Registe [truncated for fixture]",
+    "End_Date__c": "2050-12-31",
+    "Hide_Start_Location_Until_Registered__c": false,
+    "Thumbnail_Image_ContentDocumentId__c": "069VX00000jM3a3YAC",
+    "Keywords__c": "Outdoor Leadership Training, outdoor leader, training, learning, skill development",
+    "Main_Activity_Difficulty_Rating__c": "1 - Accessible",
+    "Main_Activity_Sub_Type__c": "Outdoor Leadership Training",
+    "Main_Activity_Type__c": "Outdoor Leadership Training",
+    "Program_Type__c": "Staff Activities",
+    "Online_Event__c": true,
+    "Private_Activity__c": false,
+    "Open_for_registration__c": true,
+    "Registration_Open_Date_Passed__c": true,
+    "Register_By_Date_Passed__c": false,
+    "Registration_Type__c": "Show & Go",
+    "Secondary_Activity_Type__c": "Outdoor Leadership Training",
+    "Start_Date__c": "2025-03-01",
+    "Start_Latitude__c": 0,
+    "Start_Location__c": {
+      "country": "United States",
+      "countryCode": "US"
+    },
+    "Start_Longitude__c": 0,
+    "Start_Time__c": "All Day",
+    "Start_Concatenation_Formula_Unconverted__c": "Saturday, March 1, 2025 | All Day",
+    "Status__c": "Published",
+    "Time_Zone__c": "US EST",
+    "OC_Trip_Leaders__r": [
+      {
+        "OC_Activity__c": "a5UUN000001k8Ob2AI",
+        "Id": "a5YVX000000M01N2AS",
+        "Contact__c": "003UN00000DXIUwYAP",
+        "Contact__r": {
+          "Name": "Celia Revell Binder",
+          "Id": "003UN00000DXIUwYAP"
+        }
+      }
+    ],
+    "Image_File_ID__c": "{\"publicLinkIdentifier\":\"/a/VX0000030taf/s2ksdGgHF3XY3dajF.DUcS4Bq_dhH.uSbcn49TNNopk\",\"cvId\":\"068VX00000jLzGIYA0\",\"orgDomain\":\"https://outdoors.my.salesforce.com\",\"orgId\":\"00D50000000cBTwEAM\"}"
+  },
+  {
+    "Id": "a5UUN000001uKbN2AU",
+    "Account__c": "0015000001TGzFBAA1",
+    "Activity_Name__c": "Women’s + Canadian Rockies Adventure: A Backpacking and Wellness Journey",
+    "Audience_Type__c": "Women+",
+    "Description__c": "<p>Join us in the Canadian Rockies for an adventure filled w [truncated for fixture]",
+    "End_Date__c": "2026-09-09",
+    "Hide_Start_Location_Until_Registered__c": false,
+    "Thumbnail_Image_ContentDocumentId__c": "069UN00000bQHJIYA4",
+    "Main_Activity_Difficulty_Rating__c": "6 - Strenuous",
+    "Main_Activity_Sub_Type__c": "Adventure Travel",
+    "Main_Activity_Type__c": "Adventure Travel",
+    "Program_Type__c": "Adventure Travel",
+    "Online_Event__c": false,
+    "Private_Activity__c": false,
+    "Open_for_registration__c": true,
+    "Registration_Open_Date_Passed__c": true,
+    "Register_By_Date_Passed__c": false,
+    "Registration_Type__c": "Show & Go",
+    "Secondary_Activity_Type__c": "Adventure Travel",
+    "Start_Date__c": "2026-08-29",
+    "Start_Latitude__c": 51.04,
+    "Start_Location__c": {
+      "city": "Calgary",
+      "state": "AB",
+      "country": "Canada",
+      "stateCode": "AB",
+      "countryCode": "CA"
+    },
+    "Start_Longitude__c": -114.07,
+    "Start_Time__c": "All Day",
+    "Start_Concatenation_Formula_Unconverted__c": "Saturday, August 29, 2026 | All Day",
+    "Status__c": "Waitlist",
+    "Time_Zone__c": "US EST",
+    "OC_Trip_Leaders__r": [
+      {
+        "OC_Activity__c": "a5UUN000001uKbN2AU",
+        "Id": "a5YUN000002tJor2AE",
+        "Contact__c": "00350000032KTbMAAW",
+        "Contact__r": {
+          "Name": "Stacia Biel",
+          "Id": "00350000032KTbMAAW"
+        }
+      }
+    ],
+    "Image_File_ID__c": "{\"publicLinkIdentifier\":\"/a/UN0000091xVV/qulgH1s2buzkD9PSQeVlcY0EIioT.OBUrsoChYEuQtk\",\"cvId\":\"068UN00000c4e7UYAQ\",\"orgDomain\":\"https://outdoors.my.salesforce.com\",\"orgId\":\"00D50000000cBTwEAM\"}"
+  },
+  {
+    "Id": "a5UUN0000027jFN2AY",
+    "Account__c": "0015000001Sg066AAB",
+    "Activity_Name__c": "20s/30s Acadia National Park Car Camping Trip",
+    "Audience_Type__c": "20’s & 30’s",
+    "Description__c": "<p><span style=\"font-size: 11pt; font-family: Arial, sans-se [truncated for fixture]",
+    "End_Date__c": "2026-08-30",
+    "Hide_Start_Location_Until_Registered__c": false,
+    "Keywords__c": "camping, car camping, hiking",
+    "Main_Activity_Difficulty_Rating__c": "2 - Relaxed",
+    "Main_Activity_Sub_Type__c": "Lodges, Huts, Camps, Cabins, & Campsites",
+    "Main_Activity_Type__c": "Camping",
+    "Program_Type__c": "Volunteer Led",
+    "Online_Event__c": false,
+    "Private_Activity__c": false,
+    "Open_for_registration__c": true,
+    "Registration_Open_Date_Passed__c": true,
+    "Register_By_Date_Passed__c": false,
+    "Registration_Type__c": "Application",
+    "Secondary_Activity_Type__c": "Camping",
+    "Start_Date__c": "2026-08-27",
+    "Start_Latitude__c": 44.34,
+    "Start_Location__c": {
+      "street": "Acadia National Park, Maine, USA",
+      "city": "Bar Harbor",
+      "state": "ME",
+      "country": "United States",
+      "stateCode": "ME",
+      "countryCode": "US"
+    },
+    "Start_Longitude__c": -68.27,
+    "Start_Time__c": "3:00 PM",
+    "Start_Concatenation_Formula_Unconverted__c": "Thursday, August 27, 2026 | 3:00 PM",
+    "Status__c": "Full",
+    "Time_Zone__c": "US EST",
+    "OC_Trip_Leaders__r": [
+      {
+        "OC_Activity__c": "a5UUN0000027jFN2AY",
+        "Id": "a5YUN0000031XUr2AM",
+        "Contact__c": "003Ht00003tHT8FIAW",
+        "Contact__r": {
+          "Name": "Lauren Buchholz",
+          "Id": "003Ht00003tHT8FIAW"
+        }
+      }
+    ]
+  },
+  {
+    "Id": "a5UVX000000zYKv2AM",
+    "Account__c": "001UN00000bpnMdYAI",
+    "Activity_Name__c": "Woman+ Work Party Weekend",
+    "Audience_Type__c": "Women+",
+    "Description__c": "<p><strong style=\"font-size: 18px;\">Woman+ Volunteer Work Pa [truncated for fixture]",
+    "End_Date__c": "2026-08-31",
+    "Hide_Start_Location_Until_Registered__c": false,
+    "Thumbnail_Image_ContentDocumentId__c": "069VX00000dlwrlYAA",
+    "Keywords__c": "Heinselman Woman+ Woman Work Party Trail Volunteer Trailwork Passios  Larme",
+    "Main_Activity_Difficulty_Rating__c": "4 - Moderate",
+    "Main_Activity_Sub_Type__c": "Trail Work",
+    "Main_Activity_Type__c": "Volunteer Opportunities",
+    "Program_Type__c": "Volunteer Opportunity",
+    "Online_Event__c": false,
+    "Private_Activity__c": false,
+    "Open_for_registration__c": true,
+    "Registration_Open_Date_Passed__c": true,
+    "Register_By_Date_Passed__c": false,
+    "Registration_Type__c": "Registration",
+    "Secondary_Activity_Type__c": "Trail Work;Volunteer Opportunities",
+    "Start_Date__c": "2026-08-28",
+    "Start_Latitude__c": 44.31,
+    "Start_Location__c": {
+      "street": "1 Camp Dodge R",
+      "city": "Gorham",
+      "state": "NH",
+      "postalCode": "03581",
+      "country": "United States",
+      "stateCode": "NH",
+      "countryCode": "US"
+    },
+    "Start_Longitude__c": -71.22,
+    "Start_Time__c": "5:00 PM",
+    "Start_Concatenation_Formula_Unconverted__c": "Friday, August 28, 2026 | 5:00 PM",
+    "Status__c": "Waitlist",
+    "Time_Zone__c": "US EST",
+    "OC_Trip_Leaders__r": [
+      {
+        "OC_Activity__c": "a5UVX000000zYKv2AM",
+        "Id": "a5YVX000000FXjd2AG",
+        "Contact__c": "00350000032K6pmAAC",
+        "Contact__r": {
+          "Name": "Craig Aaron Heinselman",
+          "Id": "00350000032K6pmAAC"
+        }
+      }
+    ],
+    "Image_File_ID__c": "{\"publicLinkIdentifier\":\"/a/VX000002fGnd/C3cNQ7SZOZCek8QCHVZs_lbez2fTO2X.zCBDIP8Ggnc\",\"cvId\":\"068VX00000dr23hYAA\",\"orgDomain\":\"https://outdoors.my.salesforce.com\",\"orgId\":\"00D50000000cBTwEAM\"}"
+  },
+  {
+    "Id": "a5UVX0000011cdl2AA",
+    "Account__c": "0015000001Sg06DAAR",
+    "Activity_Name__c": "Hiking Vice Chair of Local Hikes. and Walks - Southeastern Massachusetts Chapter",
+    "Description__c": "<p>Do you lead Hikes for SEM, do you have a vision for how w [truncated for fixture]",
+    "End_Date__c": "2026-12-31",
+    "Hide_Start_Location_Until_Registered__c": false,
+    "Keywords__c": "volunteer",
+    "Main_Activity_Difficulty_Rating__c": "1 - Accessible",
+    "Main_Activity_Sub_Type__c": "All Volunteer Opportunities",
+    "Main_Activity_Type__c": "Volunteer Opportunities",
+    "Program_Type__c": "Volunteer Opportunity",
+    "Online_Event__c": false,
+    "Private_Activity__c": false,
+    "Open_for_registration__c": true,
+    "Registration_Open_Date_Passed__c": true,
+    "Register_By_Date_Passed__c": false,
+    "Registration_Type__c": "Show & Go",
+    "Secondary_Activity_Type__c": "Hiking, Local Walks, & Trail Running",
+    "Start_Date__c": "2026-02-23",
+    "Start_Latitude__c": 41.99,
+    "Start_Location__c": {
+      "city": "Bridgewater",
+      "state": "MA",
+      "country": "United States",
+      "stateCode": "MA",
+      "countryCode": "US"
+    },
+    "Start_Longitude__c": -70.98,
+    "Start_Time__c": "All Day",
+    "Start_Concatenation_Formula_Unconverted__c": "Monday, February 23, 2026 | All Day",
+    "Status__c": "Published",
+    "Time_Zone__c": "US EST",
+    "OC_Trip_Leaders__r": [
+      {
+        "OC_Activity__c": "a5UVX0000011cdl2AA",
+        "Id": "a5YVX000000HpNt2AK",
+        "Contact__c": "00350000032IfzZAAS",
+        "Contact__r": {
+          "Name": "Jeannine Audet",
+          "Id": "00350000032IfzZAAS"
+        }
+      }
+    ]
+  },
+  {
+    "Id": "a5UVX0000014DsX2AU",
+    "Account__c": "0015000001Sg060AAB",
+    "Activity_Name__c": "Join NH 20s & 30s What's App",
+    "Audience_Type__c": "20’s & 30’s",
+    "Description__c": "<p>You asked and you shall receive! We&#39;re making getting [truncated for fixture]",
+    "End_Date__c": "2034-12-31",
+    "Hide_Start_Location_Until_Registered__c": false,
+    "Thumbnail_Image_ContentDocumentId__c": "069VX00000iU5aPYAS",
+    "Keywords__c": "join, community, page, hike, paddle, swim, 20s, 30s, ski, snowboard, trip, leader",
+    "Main_Activity_Difficulty_Rating__c": "1 - Accessible",
+    "Main_Activity_Sub_Type__c": "Local Socials",
+    "Main_Activity_Type__c": "Social",
+    "Program_Type__c": "Not applicable",
+    "Online_Event__c": false,
+    "Private_Activity__c": false,
+    "Open_for_registration__c": true,
+    "Registration_Open_Date_Passed__c": true,
+    "Register_By_Date_Passed__c": false,
+    "Registration_Type__c": "Show & Go",
+    "Secondary_Activity_Type__c": "Adventure Travel;Backpacking;Biking;Camping;Climbing & Mountaineering;Conservation;Fishing;Hiking, Local Walks, & Trail Running;Nature & Arts;Outdoor Leadership Training;Outdoor Learning Experience;Paddling;Sailing;Skiing;Snowshoeing;Social;Trail Work;Volunteer Opportunities;Wilderness First Aid;Windsurfing;Yoga;Evening Programs;Nature Walks",
+    "Start_Date__c": "2026-03-26",
+    "Start_Latitude__c": 43.19,
+    "Start_Location__c": {
+      "street": "New Hampshire, USA",
+      "state": "NH",
+      "country": "United States",
+      "stateCode": "NH",
+      "countryCode": "US"
+    },
+    "Start_Longitude__c": -71.57,
+    "Start_Time__c": "All Day",
+    "Start_Concatenation_Formula_Unconverted__c": "Thursday, March 26, 2026 | All Day",
+    "Status__c": "Full",
+    "Time_Zone__c": "US EST",
+    "OC_Trip_Leaders__r": [
+      {
+        "OC_Activity__c": "a5UVX0000014DsX2AU",
+        "Id": "a5YVX000000L2zh2AC",
+        "Contact__c": "0032J00003dWt8cQAC",
+        "Contact__r": {
+          "Name": "Selene Berube",
+          "Id": "0032J00003dWt8cQAC"
+        }
+      }
+    ],
+    "Image_File_ID__c": "{\"publicLinkIdentifier\":\"/a/VX000002xkgn/2xnI93wCkB9tYmIbuiMhUG2J50uUQyjulBVe4UA6vdE\",\"cvId\":\"068VX00000iUxpJYAS\",\"orgDomain\":\"https://outdoors.my.salesforce.com\",\"orgId\":\"00D50000000cBTwEAM\"}"
+  },
+  {
+    "Id": "a5UVX0000016czh2AA",
+    "Account__c": "0015000001Sg060AAB",
+    "Activity_Name__c": "Car Camping and Sea Kayak Paddle - Freeport, Maine",
+    "Audience_Type__c": "20’s & 30’s;Adults",
+    "Description__c": "<p><span style=\"font-size: 13pt; font-family: Benton, serif; [truncated for fixture]",
+    "End_Date__c": "2926-08-23",
+    "Hide_Start_Location_Until_Registered__c": false,
+    "Thumbnail_Image_ContentDocumentId__c": "069VX00000kXPGcYAO",
+    "Main_Activity_Difficulty_Rating__c": "4 - Moderate",
+    "Main_Activity_Sub_Type__c": "Sea",
+    "Main_Activity_Type__c": "Paddling",
+    "Program_Type__c": "Volunteer Led",
+    "Online_Event__c": false,
+    "Private_Activity__c": false,
+    "Open_for_registration__c": true,
+    "Registration_Open_Date_Passed__c": true,
+    "Register_By_Date__c": "2026-08-18",
+    "Register_By_Date_Passed__c": false,
+    "Registration_Type__c": "Registration",
+    "Secondary_Activity_Type__c": "Camping;Paddling",
+    "Start_Date__c": "2026-08-21",
+    "Start_Latitude__c": 43.8,
+    "Start_Location__c": {
+      "street": "Winslow Memorial Park, 10 Winslow Park",
+      "city": "Freeport",
+      "state": "ME",
+      "postalCode": "04032",
+      "country": "United States",
+      "stateCode": "ME",
+      "countryCode": "US"
+    },
+    "Start_Longitude__c": -70.12,
+    "Start_Time__c": "2:00 AM",
+    "Start_Concatenation_Formula_Unconverted__c": "Friday, August 21, 2026 | 2:00 AM",
+    "Status__c": "Published",
+    "Time_Zone__c": "US EST",
+    "Activity_Costs__r": [
+      {
+        "OC_Activity__c": "a5UVX0000016czh2AA",
+        "Id": "a5RVX000000U8Ef2AK",
+        "Name": "COST-0001465",
+        "Amount__c": 60
+      }
+    ],
+    "OC_Trip_Leaders__r": [
+      {
+        "OC_Activity__c": "a5UVX0000016czh2AA",
+        "Id": "a5YVX000000NOMb2AO",
+        "Contact__c": "00350000032J5MqAAK",
+        "Contact__r": {
+          "Name": "Robin Diamond",
+          "Id": "00350000032J5MqAAK"
+        }
+      }
+    ],
+    "Image_File_ID__c": "{\"publicLinkIdentifier\":\"/a/VX00000359wz/T9fbEgPBvOujSh79Xbrj45FpODCT7YaRT4VuMu7uLMw\",\"cvId\":\"068VX00000kWLQLYA4\",\"orgDomain\":\"https://outdoors.my.salesforce.com\",\"orgId\":\"00D50000000cBTwEAM\"}"
+  },
+  {
+    "Id": "a5UVX0000017NqX2AU",
+    "Account__c": "0015000001Sg069AAB",
+    "Activity_Name__c": "Citizen Science Coordinator",
+    "Description__c": "<p>We want you! Yes, you! You right there, doing the thing.  [truncated for fixture]",
+    "End_Date__c": "2026-11-30",
+    "Hide_Start_Location_Until_Registered__c": false,
+    "Thumbnail_Image_ContentDocumentId__c": "069VX00000lEIByYAO",
+    "Keywords__c": "citizen science coordinator snow report readings measurements lab coat smartness data calculator",
+    "Main_Activity_Difficulty_Rating__c": "1 - Accessible",
+    "Main_Activity_Sub_Type__c": "Community Science",
+    "Main_Activity_Type__c": "Volunteer Opportunities",
+    "Program_Type__c": "Volunteer Opportunity",
+    "Online_Event__c": true,
+    "Private_Activity__c": false,
+    "Open_for_registration__c": true,
+    "Registration_Open_Date_Passed__c": true,
+    "Register_By_Date_Passed__c": false,
+    "Registration_Type__c": "Registration",
+    "Start_Date__c": "2026-04-30",
+    "Start_Latitude__c": 0,
+    "Start_Longitude__c": 0,
+    "Start_Time__c": "All Day",
+    "Start_Concatenation_Formula_Unconverted__c": "Thursday, April 30, 2026 | All Day",
+    "Status__c": "Published",
+    "Time_Zone__c": "US EST",
+    "OC_Trip_Leaders__r": [
+      {
+        "OC_Activity__c": "a5UVX0000017NqX2AU",
+        "Id": "a5YVX000000OKDh2AO",
+        "Contact__c": "0032J00003c8l2PQAQ",
+        "Contact__r": {
+          "Name": "Robert Gonzalez",
+          "Id": "0032J00003c8l2PQAQ"
+        }
+      }
+    ],
+    "Image_File_ID__c": "{\"publicLinkIdentifier\":\"/a/VX0000037rqf/iLt88e7rb9HPc_NvzGSUpb5PFlExOao10yCCROfZw_w\",\"cvId\":\"068VX00000lCmMDYA0\",\"orgDomain\":\"https://outdoors.my.salesforce.com\",\"orgId\":\"00D50000000cBTwEAM\"}"
+  },
+  {
+    "Id": "a5UVX000001D7Kr2AK",
+    "Account__c": "0015000001Sg061AAB",
+    "Activity_Name__c": "Boston Paddling Equipment Rental Payment - 2026",
+    "Description__c": "<p><strong style=\"color: rgb(244, 24, 24);\">THIS POST IS PRO [truncated for fixture]",
+    "End_Date__c": "2026-12-31",
+    "Hide_Start_Location_Until_Registered__c": false,
+    "Thumbnail_Image_ContentDocumentId__c": "069VX00000s9O7FYAU",
+    "Main_Activity_Difficulty_Rating__c": "1 - Accessible",
+    "Main_Activity_Sub_Type__c": "Whitewater",
+    "Main_Activity_Type__c": "Paddling",
+    "Program_Type__c": "Volunteer Led",
+    "Online_Event__c": true,
+    "Private_Activity__c": false,
+    "Open_for_registration__c": true,
+    "Registration_Open_Date_Passed__c": true,
+    "Register_By_Date_Passed__c": false,
+    "Registration_Type__c": "Registration",
+    "Secondary_Activity_Type__c": "Paddling",
+    "Start_Date__c": "2026-01-01",
+    "Start_Latitude__c": 0,
+    "Start_Location__c": {
+      "country": "United States",
+      "countryCode": "US"
+    },
+    "Start_Longitude__c": 0,
+    "Start_Time__c": "All Day",
+    "Start_Concatenation_Formula_Unconverted__c": "Thursday, January 1, 2026 | All Day",
+    "Status__c": "Published",
+    "Time_Zone__c": "US EST",
+    "Activity_Costs__r": [
+      {
+        "OC_Activity__c": "a5UVX000001D7Kr2AK",
+        "Id": "a5RVX000000XSok2AG",
+        "Name": "COST-0001614",
+        "Amount__c": 40
+      }
+    ],
+    "OC_Trip_Leaders__r": [
+      {
+        "OC_Activity__c": "a5UVX000001D7Kr2AK",
+        "Id": "a5YVX000000UXmX2AW",
+        "Contact__c": "00350000032J6urAAC",
+        "Contact__r": {
+          "Name": "David Yang",
+          "Id": "00350000032J6urAAC"
+        }
+      }
+    ],
+    "Image_File_ID__c": "{\"publicLinkIdentifier\":\"/a/VX000003TSyT/tkRjUdeMlUANS5.ter_xhVSHZ0lcIkh_VXW3MqNxrcE\",\"cvId\":\"068VX00000s0v5dYAA\",\"orgDomain\":\"https://outdoors.my.salesforce.com\",\"orgId\":\"00D50000000cBTwEAM\"}"
+  },
+  {
+    "Id": "a5UVX000001E3lR2AS",
+    "Account__c": "0015000001Sg06DAAR",
+    "Activity_Name__c": "Beginner Backpack #2 (2 night/3 days) with Southeastern MA Chapter-Rescheduled",
+    "Audience_Type__c": "Adults",
+    "Description__c": "<p>Backpack #2 (2 night/3 days) is the next step in the Sout [truncated for fixture]",
+    "End_Date__c": "2026-08-30",
+    "Hide_Start_Location_Until_Registered__c": false,
+    "Thumbnail_Image_ContentDocumentId__c": "069VX00000nADB8YAO",
+    "Main_Activity_Difficulty_Rating__c": "5 - Vigorous",
+    "Main_Activity_Sub_Type__c": "Backpacking",
+    "Main_Activity_Type__c": "Backpacking",
+    "Program_Type__c": "Volunteer Led",
+    "Online_Event__c": false,
+    "Private_Activity__c": false,
+    "Open_for_registration__c": false,
+    "Registration_Open_Date__c": "2026-08-14",
+    "Registration_Open_Date_Passed__c": true,
+    "Register_By_Date__c": "2026-08-26",
+    "Register_By_Date_Passed__c": true,
+    "Registration_Type__c": "Application",
+    "Secondary_Activity_Type__c": "Hiking, Local Walks, & Trail Running",
+    "Start_Date__c": "2026-08-28",
+    "Start_Latitude__c": 43.14,
+    "Start_Location__c": {
+      "street": "Lye Brook Falls Trai",
+      "city": "Manchester",
+      "state": "VT",
+      "postalCode": "05255",
+      "country": "United States",
+      "stateCode": "VT",
+      "countryCode": "US"
+    },
+    "Start_Longitude__c": -73.04,
+    "Start_Time__c": "12:00 PM",
+    "Start_Concatenation_Formula_Unconverted__c": "Friday, August 28, 2026 | 12:00 PM",
+    "Status__c": "Published",
+    "Time_Zone__c": "US EST",
+    "OC_Trip_Leaders__r": [
+      {
+        "OC_Activity__c": "a5UVX000001E3lR2AS",
+        "Id": "a5YVX000000W0cn2AC",
+        "Contact__c": "00350000032J4PvAAK",
+        "Contact__r": {
+          "Name": "Katherine Sullivan",
+          "Id": "00350000032J4PvAAK"
+        }
+      }
+    ],
+    "Image_File_ID__c": "{\"publicLinkIdentifier\":\"/a/VX000003EQ49/fwOovbUumMQOtmeHDuNkO.W3HMjZ0HlqQlJIISteBsk\",\"cvId\":\"068VX00000n6vaYYAQ\",\"orgDomain\":\"https://outdoors.my.salesforce.com\",\"orgId\":\"00D50000000cBTwEAM\"}"
+  },
+  {
+    "Id": "a5UVX000001EsSz2AK",
+    "Account__c": "0015000001Sg06EAAR",
+    "Activity_Name__c": "AMC×CASA Family-Friendly Hike and Picnic",
+    "Description__c": "<p><strong>Are you a CASA or a volunteer supporting children [truncated for fixture]",
+    "End_Date__c": "2026-08-30",
+    "Hide_Start_Location_Until_Registered__c": false,
+    "Thumbnail_Image_ContentDocumentId__c": "069VX00000siKSBYA2",
+    "Keywords__c": "Picnic, hiking, family, children",
+    "Main_Activity_Difficulty_Rating__c": "2 - Relaxed",
+    "Main_Activity_Sub_Type__c": "Hiking",
+    "Main_Activity_Type__c": "Hiking, Local Walks, & Trail Running",
+    "Program_Type__c": "Volunteer Led",
+    "Online_Event__c": false,
+    "Private_Activity__c": false,
+    "Open_for_registration__c": true,
+    "Registration_Open_Date_Passed__c": true,
+    "Register_By_Date_Passed__c": false,
+    "Registration_Type__c": "Registration",
+    "Secondary_Activity_Type__c": "Social",
+    "Start_Date__c": "2026-08-30",
+    "Start_Latitude__c": 38.98,
+    "Start_Location__c": {
+      "street": "6565 greenbelt rd",
+      "city": "Greenbelt",
+      "state": "MD",
+      "postalCode": "20770",
+      "country": "United States",
+      "stateCode": "MD",
+      "countryCode": "US"
+    },
+    "Start_Longitude__c": -76.9,
+    "Start_Time__c": "10:00 AM",
+    "Start_Concatenation_Formula_Unconverted__c": "Sunday, August 30, 2026 | 10:00 AM",
+    "Status__c": "Published",
+    "Time_Zone__c": "US EST",
+    "OC_Trip_Leaders__r": [
+      {
+        "OC_Activity__c": "a5UVX000001EsSz2AK",
+        "Id": "a5YVX000000X8oP2AS",
+        "Contact__c": "0032J00003eW8IkQAK",
+        "Contact__r": {
+          "Name": "Mina Yousefi",
+          "Id": "0032J00003eW8IkQAK"
+        }
+      }
+    ],
+    "Image_File_ID__c": "{\"publicLinkIdentifier\":\"/a/VX000003VMnJ/X963FT6NoPejxcxSdXqrTEOsQPtTRChiqRLe0iRGb2Q\",\"cvId\":\"068VX00000sZAyJYAW\",\"orgDomain\":\"https://outdoors.my.salesforce.com\",\"orgId\":\"00D50000000cBTwEAM\"}"
+  },
+  {
+    "Id": "a5UVX000001GtzF2AS",
+    "Account__c": "0015000001Sg05zAAB",
+    "Activity_Name__c": "CT-AMC Leadership Training - Hammonasset Beach State Park, Madison CT",
+    "Description__c": "<p>Class covers many aspects of being a leader such as:</p>< [truncated for fixture]",
+    "End_Date__c": "2026-10-24",
+    "Hide_Start_Location_Until_Registered__c": false,
+    "Image_File_ID__c": "{\"publicLinkIdentifier\":\"/a/UN000005Piar/V3qNsfjML8lKjD9i0VozNerjUeTJXMVzh0ZmV6XYTlc\",\"cvId\":\"068UN00000IQTf7YAH\",\"orgDomain\":\"https://outdoors.my.salesforce.com\",\"orgId\":\"00D50000000cBTwEAM\"}",
+    "Keywords__c": "Leadership",
+    "Main_Activity_Difficulty_Rating__c": "3 - Easy",
+    "Main_Activity_Sub_Type__c": "Outdoor Leadership Training",
+    "Main_Activity_Type__c": "Outdoor Leadership Training",
+    "Program_Type__c": "Volunteer Led",
+    "Online_Event__c": false,
+    "Private_Activity__c": false,
+    "Open_for_registration__c": true,
+    "Registration_Open_Date_Passed__c": true,
+    "Register_By_Date_Passed__c": false,
+    "Registration_Type__c": "Registration",
+    "Secondary_Activity_Type__c": "Outdoor Leadership Training",
+    "Start_Date__c": "2026-10-24",
+    "Start_Latitude__c": 41.27,
+    "Start_Location__c": {
+      "street": "1288 Boston Post R",
+      "city": "Madison",
+      "state": "CT",
+      "postalCode": "06443",
+      "country": "United States",
+      "stateCode": "CT",
+      "countryCode": "US"
+    },
+    "Start_Longitude__c": -72.56,
+    "Start_Time__c": "8:30 AM",
+    "Start_Concatenation_Formula_Unconverted__c": "Saturday, October 24, 2026 | 8:30 AM",
+    "Status__c": "Published",
+    "Time_Zone__c": "US EST",
+    "Activity_Costs__r": [
+      {
+        "OC_Activity__c": "a5UVX000001GtzF2AS",
+        "Id": "a5RVX000000aLQv2AM",
+        "Name": "COST-0001686",
+        "Amount__c": 25
+      }
+    ]
+  }
+]
