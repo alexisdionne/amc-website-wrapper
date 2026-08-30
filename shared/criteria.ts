@@ -1,4 +1,4 @@
-import type { ActivityStatus } from './types';
+import type { ActivityStatus, RegistrationState } from './types';
 
 /**
  * The one criteria representation in this project. The UI address bar, bookmarks,
@@ -11,6 +11,8 @@ export interface Criteria {
   includeSecondaryType: boolean;
   chapters: string[];
   statuses: ActivityStatus[];
+  /** Registration timing. Independent of `statuses`, which is capacity. */
+  registrations: RegistrationState[];
   audiences: string[];
   difficultyMin?: number;
   difficultyMax?: number;
@@ -25,6 +27,7 @@ export const EMPTY_CRITERIA: Criteria = {
   includeSecondaryType: false,
   chapters: [],
   statuses: [],
+  registrations: [],
   audiences: [],
 };
 
@@ -39,6 +42,7 @@ export function serializeCriteria(c: Criteria): string {
   for (const v of [...c.types].sort()) p.append('type', v);
   for (const v of [...c.chapters].sort()) p.append('chapter', v);
   for (const v of [...c.statuses].sort()) p.append('status', v);
+  for (const v of [...c.registrations].sort()) p.append('reg', v);
   for (const v of [...c.audiences].sort()) p.append('audience', v);
   if (c.includeSecondaryType) p.set('sec', '1');
   if (c.difficultyMin !== undefined) p.set('dmin', String(c.difficultyMin));
@@ -73,6 +77,7 @@ export function parseCriteria(qs: string): Criteria {
     types: p.getAll('type').sort(),
     chapters: p.getAll('chapter').sort(),
     statuses: p.getAll('status').sort() as ActivityStatus[],
+    registrations: p.getAll('reg').sort() as RegistrationState[],
     audiences: p.getAll('audience').sort(),
     includeSecondaryType: p.get('sec') === '1',
     ...(dmin === undefined ? {} : { difficultyMin: dmin }),

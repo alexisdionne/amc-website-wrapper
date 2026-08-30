@@ -36,6 +36,10 @@ export function matches(a: Activity, c: Criteria): boolean {
   if (c.chapters.length > 0 && !c.chapters.includes(a.chapterId)) return false;
   if (c.statuses.length > 0 && !c.statuses.includes(a.status)) return false;
 
+  // Independent of status: an activity can be Full but accepting registrations,
+  // or Published with its deadline already past.
+  if (c.registrations.length > 0 && !c.registrations.includes(a.registration)) return false;
+
   // Only 36% of rows carry an audience, so an active audience filter necessarily
   // excludes rows that have none. Absent is treated as "does not match".
   if (c.audiences.length > 0) {
