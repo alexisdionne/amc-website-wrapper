@@ -10,6 +10,7 @@ import { matches } from '../../shared/match';
 import type { Activity, Chapter } from '../../shared/types';
 import { ActivityTable } from './ActivityTable';
 import { FilterPanel } from './FilterPanel';
+import { SaveWatch } from './SaveWatch';
 
 /**
  * The only default is hiding activities you can no longer register for. Every
@@ -113,6 +114,7 @@ export function App(): React.JSX.Element {
         onChange={setCriteria}
       />
       <ActivityTable activities={visible} chapters={feed.chapters} />
+      <SaveWatch criteria={criteria} matchCount={visible.length} />
     </main>
   );
 }
