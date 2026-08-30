@@ -8,6 +8,7 @@ import {
 } from '../../shared/criteria';
 import { matches } from '../../shared/match';
 import type { Activity, Chapter } from '../../shared/types';
+import { FilterPanel } from './FilterPanel';
 
 /**
  * AMC's own label for the hiking category. Hardcoded because a default needs a
@@ -88,7 +89,7 @@ function useCriteriaUrl(): [Criteria, (next: Criteria) => void] {
 
 export function App(): React.JSX.Element {
   const feed = useFeed();
-  const [criteria] = useCriteriaUrl();
+  const [criteria, setCriteria] = useCriteriaUrl();
 
   const activities = feed.status === 'ready' ? feed.activities : [];
   const visible = useMemo(
@@ -117,6 +118,12 @@ export function App(): React.JSX.Element {
         {visible.length} of {feed.activities.length} activities across {feed.chapters.length}{' '}
         chapters.
       </p>
+      <FilterPanel
+        activities={feed.activities}
+        chapters={feed.chapters}
+        criteria={criteria}
+        onChange={setCriteria}
+      />
     </main>
   );
 }
