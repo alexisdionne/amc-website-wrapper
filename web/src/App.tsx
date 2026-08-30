@@ -8,6 +8,7 @@ import {
 } from '../../shared/criteria';
 import { matches } from '../../shared/match';
 import type { Activity, Chapter } from '../../shared/types';
+import { ActivityTable } from './ActivityTable';
 import { FilterPanel } from './FilterPanel';
 
 /**
@@ -124,6 +125,7 @@ export function App(): React.JSX.Element {
         criteria={criteria}
         onChange={setCriteria}
       />
+      <ActivityTable activities={visible} chapters={feed.chapters} />
     </main>
   );
 }
