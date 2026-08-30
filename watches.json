@@ -2,5 +2,17 @@
   {
   "name": "Backpacking - All Chapters",
   "query": "type=Backpacking&status=Published&status=Waitlist&reg=not-yet&reg=open"
+  },
+  {
+  "name": "Hikes with NYNJ",
+  "query": "type=Hiking%2C+Local+Walks%2C+%26+Trail+Running&chapter=0015000001Sg064AAB&status=Published&status=Waitlist&reg=not-yet&reg=open"
+  },
+  {
+  "name": "Young Peoples",
+  "query": "status=Published&status=Waitlist&reg=not-yet&reg=open&q=30s"
+  },
+  {
+  "name": "NYNJ",
+  "query": "chapter=0015000001Sg064AAB&status=Published&status=Waitlist&reg=not-yet&reg=open"
   }
 ]
