@@ -70,8 +70,17 @@ export function computeAlerts(input: DiffInput): { alerts: Alert[]; nextState: A
   }
 
   // 2. Rebuild the status table from the current feed, dropping departed rows.
+  //
+  // Carry the previous entry forward unchanged when the status is the same, so
+  // seenAt means "when this status was first observed" rather than "when we last
+  // polled". Rewriting it every run made this file differ on every poll and
+  // commit 612 lines of pure timestamp churn 48 times a day.
   const nextActivities: AlertState['activities'] = {};
-  for (const a of activities) nextActivities[a.id] = { status: a.status, seenAt: nowIso };
+  for (const a of activities) {
+    const previous = state.activities[a.id];
+    nextActivities[a.id] =
+      previous && previous.status === a.status ? previous : { status: a.status, seenAt: nowIso };
+  }
 
   const alerts: Alert[] = [];
   const nextWatches: AlertState['watches'] = {};

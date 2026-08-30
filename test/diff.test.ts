@@ -214,3 +214,36 @@ test('a watch filtered to Published retains entries through a Full spell', () =>
     'must report reopened, not new - proving the entry was retained',
   );
 });
+
+test('an unchanged feed produces byte-identical state, so nothing commits', () => {
+  const state = seeded([activity('a'), activity('b')]);
+  const again = computeAlerts({
+    state,
+    activities: [activity('a'), activity('b')],
+    watches: [WATCH],
+    now: later(6),
+  });
+  assert.deepEqual(again.nextState, state, 'state must not churn between identical polls');
+});
+
+test('seenAt updates only when the status actually changes', () => {
+  const state = seeded([activity('a')]);
+  const before = state.activities['a']?.seenAt;
+
+  const unchanged = computeAlerts({
+    state,
+    activities: [activity('a')],
+    watches: [WATCH],
+    now: later(6),
+  });
+  assert.equal(unchanged.nextState.activities['a']?.seenAt, before);
+
+  const changed = computeAlerts({
+    state,
+    activities: [activity('a', 'Full')],
+    watches: [WATCH],
+    now: later(6),
+  });
+  assert.notEqual(changed.nextState.activities['a']?.seenAt, before);
+  assert.equal(changed.nextState.activities['a']?.status, 'Full');
+});
