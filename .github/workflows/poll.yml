@@ -1,0 +1,55 @@
+name: Poll AMC feed
+
+on:
+  schedule:
+    # Roughly hourly worst case - scheduled runs are best-effort and often run
+    # 5-20 minutes late. The feed call is 2.3 MB, so do not tighten without reason.
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+# A manual dispatch overlapping a scheduled run causes a non-fast-forward push,
+# and the losing run's ledger write is lost after its Discord posts have landed.
+concurrency:
+  group: poll
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+
+      - run: npm ci
+
+      # Fails loudly on a truncated feed rather than committing a bad snapshot.
+      - run: npm run poll
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+
+      - name: Commit snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if [ -d state ]; then git add state; fi
+          if git diff --cached --quiet; then
+            echo "no changes to commit"
+            exit 0
+          fi
+          git commit -m "Update activity snapshot"
+          git push
+
+  deploy:
+    needs: poll
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/deploy.yml
