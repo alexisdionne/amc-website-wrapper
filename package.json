@@ -6,6 +6,7 @@
   "engines": { "node": ">=20" },
   "scripts": {
     "poll": "tsx scripts/poll.ts",
+    "test": "tsx --test \"test/**/*.test.ts\"",
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
