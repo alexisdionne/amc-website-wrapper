@@ -1,0 +1,4 @@
+# Byte-stable line endings regardless of each machine's core.autocrlf setting.
+# poll.ts rewrites data/*.json every 30 minutes, and git can only store small
+# deltas if those bytes are identical across Windows and the Linux Actions runner.
+* text=auto eol=lf

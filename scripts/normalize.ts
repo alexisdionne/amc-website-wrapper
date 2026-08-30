@@ -5,6 +5,33 @@ const byCodePoint = (a: string, b: string): number => (a < b ? -1 : a > b ? 1 : 
 
 const KNOWN_STATUS = new Set(['Published', 'Full', 'Waitlist']);
 
+/** Preview length. Full text stays on the AMC page, reachable via Activity.url. */
+const PREVIEW_CHARS = 300;
+
+/**
+ * Descriptions arrive as raw HTML averaging 1.6 KB, 1.35 MB across the feed.
+ * Slicing markup mid-tag produces broken output, so tags are stripped and the
+ * common entities decoded before truncating on a word boundary.
+ */
+export function toPreview(html: string): string {
+  const text = html
+    .replace(/<[^>]*>/g, ' ')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  if (text.length <= PREVIEW_CHARS) return text;
+  const cut = text.slice(0, PREVIEW_CHARS);
+  const lastSpace = cut.lastIndexOf(' ');
+  const body = lastSpace > PREVIEW_CHARS * 0.6 ? cut.slice(0, lastSpace) : cut;
+  return `${body.trimEnd()}...`;
+}
+
 /**
  * Unknown Status__c values are warned about, never thrown on. A new value such as
  * "Cancelled" simply compares unequal to "Published", so the activity reads as
@@ -72,7 +99,7 @@ export function normalizeFeed(rows: RawActivity[]): {
   warnUnknownStatuses(rows);
   const sorted = [...rows].sort((a, b) => byCodePoint(a.Id, b.Id));
   const details: ActivityDetails = {};
-  for (const r of sorted) details[r.Id] = r.Description__c;
+  for (const r of sorted) details[r.Id] = toPreview(r.Description__c);
   return { activities: sorted.map(normalizeActivity), details };
 }
 
