@@ -12,7 +12,7 @@
     "preview": "vite preview --config web/vite.config.ts",
     "poll": "tsx scripts/poll.ts",
     "test": "tsx --test \"test/**/*.test.ts\"",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit && tsc --noEmit -p web/tsconfig.json"
   },
   "devDependencies": {
     "@types/node": "^22.7.5",
