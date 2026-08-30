@@ -19932,6 +19932,72 @@
   },
   {
     "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-24",
+    "id": "a5UVX000001HSc12AG",
+    "keywords": "fall Tuesday morning blue hills conditioning hike series",
+    "leaders": [
+      "Brian Gollub"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Fall Tuesday Morning Blue Hills Conditioning Series Hike #10",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-21",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-10-20",
+    "registrationType": "Application",
+    "startDate": "2026-11-24",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001HSc12AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.13
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-12-15",
+    "id": "a5UVX000001HSdd2AG",
+    "keywords": "Tuesday Blue Hills Conditioning Series",
+    "leaders": [
+      "Brian Gollub"
+    ],
+    "location": {
+      "city": "Canton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Fall Tuesday Morning Blue Hills Conditioning Series Finale -  Hike #13",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-12",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-11-10",
+    "registrationType": "Application",
+    "startDate": "2026-12-15",
+    "startTime": "8:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001HSdd2AG"
+  },
+  {
+    "audience": "Adults",
     "chapterId": "0015000001Sg05zAAB",
     "coords": {
       "lat": 41.71,
@@ -19961,5 +20027,41 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001HSfF2AW"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.31,
+      "lon": -71.12
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-29",
+    "id": "a5UVX000001HSk52AG",
+    "keywords": "fall, nature, arboretum",
+    "leaders": [
+      "Ken Cohen"
+    ],
+    "location": {
+      "city": "Boston",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "SEM's 50th Anniversary! - A Thursday Morning Hike At The Arnold Arboretum",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-27",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-10-14",
+    "registrationType": "Registration",
+    "secondaryType": "Outdoor Learning Experience",
+    "startDate": "2026-10-29",
+    "startTime": "10:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001HSk52AG"
   }
 ]
