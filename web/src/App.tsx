@@ -12,15 +12,13 @@ import { ActivityTable } from './ActivityTable';
 import { FilterPanel } from './FilterPanel';
 
 /**
- * AMC's own label for the hiking category. Hardcoded because a default needs a
- * concrete value; if AMC renames it the filter silently matches nothing, so the
- * app warns when no loaded activity carries it.
+ * The only default is hiding activities you can no longer register for. Every
+ * other dimension starts unfiltered, and this one is written into the URL on
+ * load so the "Closed" box is visibly unchecked rather than silently applied.
  */
-const HIKING = 'Hiking, Local Walks, & Trail Running';
-
 const DEFAULT_CRITERIA: Criteria = {
   ...EMPTY_CRITERIA,
-  types: [HIKING, 'Backpacking', 'Camping'],
+  registrations: ['open', 'not-yet'],
 };
 
 type FeedState =
@@ -97,17 +95,6 @@ export function App(): React.JSX.Element {
     () => activities.filter((a) => matches(a, criteria)),
     [activities, criteria],
   );
-
-  useEffect(() => {
-    if (feed.status !== 'ready') return;
-    const known = new Set(feed.activities.map((a) => a.type));
-    const missing = DEFAULT_CRITERIA.types.filter((t) => !known.has(t));
-    if (missing.length > 0) {
-      console.warn(
-        `[App] default type not present in feed - AMC may have renamed: ${missing.join(', ')}`,
-      );
-    }
-  }, [feed]);
 
   if (feed.status === 'loading') return <p>Loading activities...</p>;
   if (feed.status === 'error') return <p role="alert">Failed to load: {feed.error.message}</p>;

@@ -2,9 +2,21 @@ import { useMemo } from 'react';
 
 import { EMPTY_CRITERIA, type Criteria } from '../../shared/criteria';
 import { matches } from '../../shared/match';
-import type { Activity, ActivityStatus, Chapter } from '../../shared/types';
+import type {
+  Activity,
+  ActivityStatus,
+  Chapter,
+  RegistrationState,
+} from '../../shared/types';
 
 const STATUSES: ActivityStatus[] = ['Published', 'Waitlist', 'Full'];
+
+/** Ordered by usefulness, not alphabetically: what you can join, then what is coming. */
+const REGISTRATIONS: Array<{ value: RegistrationState; label: string }> = [
+  { value: 'open', label: 'Open' },
+  { value: 'not-yet', label: 'Not yet open' },
+  { value: 'closed', label: 'Closed' },
+];
 const DIFFICULTIES = [1, 2, 3, 4, 5, 6];
 
 interface Props {
@@ -68,6 +80,11 @@ export function FilterPanel({ activities, chapters, criteria, onChange }: Props)
       ),
     [chapters, chapterTotals, criteria.chapters],
   );
+  const registrationCounts = useMemo(
+    () => facetCounts(activities, { ...criteria, registrations: [] }, (a) => a.registration),
+    [activities, criteria],
+  );
+
   const allTypes = useMemo(() => [...new Set(activities.map((a) => a.type))].sort(), [activities]);
 
   /** exactOptionalPropertyTypes forbids assigning undefined, so clearing deletes the key. */
@@ -146,6 +163,29 @@ export function FilterPanel({ activities, chapters, criteria, onChange }: Props)
             {s}
           </label>
         ))}
+      </fieldset>
+
+      <fieldset>
+        <legend>Registration</legend>
+        {REGISTRATIONS.map((r) => (
+          <label key={r.value} style={{ display: 'block' }}>
+            <input
+              type="checkbox"
+              checked={criteria.registrations.includes(r.value)}
+              onChange={() =>
+                onChange({
+                  ...criteria,
+                  registrations: toggle(criteria.registrations, r.value) as RegistrationState[],
+                })
+              }
+            />{' '}
+            {r.label}{' '}
+            <span className="muted tabular">({registrationCounts.get(r.value) ?? 0})</span>
+          </label>
+        ))}
+        <p className="muted">
+          Separate from status - an activity can be full but still accepting registrations.
+        </p>
       </fieldset>
 
       <fieldset>
