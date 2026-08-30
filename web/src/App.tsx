@@ -113,8 +113,8 @@ export function App(): React.JSX.Element {
         criteria={criteria}
         onChange={setCriteria}
       />
-      <ActivityTable activities={visible} chapters={feed.chapters} />
       <SaveWatch criteria={criteria} matchCount={visible.length} />
+      <ActivityTable activities={visible} chapters={feed.chapters} />
     </main>
   );
 }
