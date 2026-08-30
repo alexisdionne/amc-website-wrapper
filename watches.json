@@ -1,1 +1,6 @@
-[]
+[
+  {
+  "name": "Backpacking - All Chapters",
+  "query": "type=Backpacking&status=Published&status=Waitlist&reg=not-yet&reg=open"
+  }
+]
