@@ -56,6 +56,18 @@ export function FilterPanel({ activities, chapters, criteria, onChange }: Props)
     [activities, criteria],
   );
 
+  /**
+   * Chapters with no activities at all are hidden. A selected one stays listed
+   * even when empty - otherwise a bookmarked or watch-derived selection would
+   * filter invisibly with no way to clear it.
+   */
+  const visibleChapters = useMemo(
+    () =>
+      chapters.filter(
+        (c) => (chapterTotals.get(c.id) ?? 0) > 0 || criteria.chapters.includes(c.id),
+      ),
+    [chapters, chapterTotals, criteria.chapters],
+  );
   const allTypes = useMemo(() => [...new Set(activities.map((a) => a.type))].sort(), [activities]);
 
   /** exactOptionalPropertyTypes forbids assigning undefined, so clearing deletes the key. */
@@ -102,9 +114,8 @@ export function FilterPanel({ activities, chapters, criteria, onChange }: Props)
 
       <fieldset>
         <legend>Chapter</legend>
-        {chapters.map((c) => {
+        {visibleChapters.map((c) => {
           const n = chapterCounts.get(c.id) ?? 0;
-          const total = chapterTotals.get(c.id) ?? 0;
           return (
             <label key={c.id} style={{ display: 'block' }}>
               <input
@@ -112,10 +123,7 @@ export function FilterPanel({ activities, chapters, criteria, onChange }: Props)
                 checked={criteria.chapters.includes(c.id)}
                 onChange={() => onChange({ ...criteria, chapters: toggle(criteria.chapters, c.id) })}
               />{' '}
-              {c.name}{' '}
-              <span className="muted tabular">
-                {total === 0 ? '(inactive)' : `(${n})`}
-              </span>
+              {c.name} <span className="muted tabular">({n})</span>
             </label>
           );
         })}
