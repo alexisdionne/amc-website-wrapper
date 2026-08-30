@@ -91,6 +91,9 @@ export function App(): React.JSX.Element {
   const feed = useFeed();
   const [criteria, setCriteria] = useCriteriaUrl();
 
+  // App owns what "default" means, so FilterPanel does not need to know.
+  const isDefault = serializeCriteria(criteria) === serializeCriteria(DEFAULT_CRITERIA);
+
   const activities = feed.status === 'ready' ? feed.activities : [];
   const visible = useMemo(
     () => activities.filter((a) => matches(a, criteria)),
@@ -112,6 +115,8 @@ export function App(): React.JSX.Element {
         chapters={feed.chapters}
         criteria={criteria}
         onChange={setCriteria}
+        onClear={() => setCriteria(DEFAULT_CRITERIA)}
+        canClear={!isDefault}
       />
       <SaveWatch criteria={criteria} matchCount={visible.length} />
       <ActivityTable activities={visible} chapters={feed.chapters} />
