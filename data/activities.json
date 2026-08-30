@@ -699,7 +699,7 @@
     "secondaryType": "Outdoor Leadership Training",
     "startDate": "2026-09-12",
     "startTime": "8:00 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Wilderness First Aid",
     "timeZone": "US EST",
     "type": "Wilderness First Aid",
@@ -16836,38 +16836,6 @@
     "url": "/s/oc-activity/a5UVX000001GtzF2AS"
   },
   {
-    "audience": "20’s & 30’s",
-    "chapterId": "0015000001Sg05zAAB",
-    "coords": {
-      "lat": 41.27,
-      "lon": -72.73
-    },
-    "costs": [],
-    "difficulty": 2,
-    "difficultyLabel": "2 - Relaxed",
-    "endDate": "2026-09-01",
-    "id": "a5UVX000001Gu2T2AS",
-    "leaders": [
-      "Conrad Ward"
-    ],
-    "location": {
-      "city": "Branford",
-      "country": "United States",
-      "state": "CT"
-    },
-    "name": "20s/30s Jarvis Creek Farm to Stony Creek (hike)",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2026-09-01",
-    "startTime": "5:30 PM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001Gu2T2AS"
-  },
-  {
     "audience": "Adults",
     "chapterId": "0015000001Sg05xAAB",
     "coords": {
@@ -19927,5 +19895,71 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001HSYn2AO"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.42,
+      "lon": -73.96
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-06",
+    "id": "a5UVX000001HSaP2AW",
+    "keywords": "Hiking",
+    "leaders": [
+      "John Power"
+    ],
+    "location": {
+      "city": "Cold Spring",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "20s & 30s Bull Hill Full Loop Hike (Moderate)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-09-06",
+    "startTime": "10:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001HSaP2AW"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.71,
+      "lon": -72.49
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-22",
+    "id": "a5UVX000001HSfF2AW",
+    "leaders": [
+      "Jeannine Loughlin"
+    ],
+    "location": {
+      "city": "Glastonbury",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Longo Farm Open Space",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-09-22",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001HSfF2AW"
   }
 ]
