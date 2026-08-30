@@ -1,0 +1,131 @@
+/*
+ * Utilitarian baseline. Deliberately plain - the job now is legibility and
+ * density, not identity. Every colour is a token so a later visual pass is a
+ * values edit, not a hunt through components.
+ *
+ * Three theme states are supported: bare :root is light; the media query covers
+ * viewers on system default; the [data-theme] blocks let an explicit toggle win
+ * in either direction. No toggle UI exists yet - the hooks are here so adding
+ * one later needs no restructuring.
+ */
+
+:root {
+  color-scheme: light dark;
+
+  --bg: #ffffff;
+  --surface: #f5f5f7;
+  --surface-alt: #ececef;
+  --border: #d5d5da;
+  --text: #17171a;
+  --text-muted: #5a5a63;
+  --accent: #2d5bd1;
+  --accent-contrast: #ffffff;
+  --status-open: #14713f;
+  --status-wait: #8a5a00;
+  --status-full: #a3211b;
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+
+  --radius: 4px;
+  --font-ui: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --bg: #131316;
+    --surface: #1c1c21;
+    --surface-alt: #26262d;
+    --border: #3a3a43;
+    --text: #ececef;
+    --text-muted: #a0a0ad;
+    --accent: #7ba3f5;
+    --accent-contrast: #101014;
+    --status-open: #4cc98a;
+    --status-wait: #e0a94a;
+    --status-full: #f0736b;
+  }
+}
+
+:root[data-theme='dark'] {
+  --bg: #131316;
+  --surface: #1c1c21;
+  --surface-alt: #26262d;
+  --border: #3a3a43;
+  --text: #ececef;
+  --text-muted: #a0a0ad;
+  --accent: #7ba3f5;
+  --accent-contrast: #101014;
+  --status-open: #4cc98a;
+  --status-wait: #e0a94a;
+  --status-full: #f0736b;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  /* Explicit, not inherited - a transparent body borrows the host's ground. */
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-ui);
+  font-size: 14px;
+  line-height: 1.45;
+}
+
+main {
+  padding: var(--space-4);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+h1 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+a {
+  color: var(--accent);
+}
+
+.muted {
+  color: var(--text-muted);
+}
+
+/* Digits in columns must line up. */
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+button,
+input,
+select {
+  font: inherit;
+  color: inherit;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: var(--space-1) var(--space-2);
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
