@@ -113,5 +113,5 @@ export interface Chapter {
   name: string;
 }
 
-/** details.json — id -> raw HTML description. */
+/** details.json - id -> plain-text description preview, ~300 chars. */
 export type ActivityDetails = Record<string, string>;

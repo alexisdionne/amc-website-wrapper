@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { test } from 'node:test';
 
-import { normalizeFeed, stableStringify } from '../scripts/normalize';
+import { normalizeFeed, stableStringify, toPreview } from '../scripts/normalize';
 import { EMPTY_CRITERIA, parseCriteria, serializeCriteria, type Criteria } from '../shared/criteria';
 import { matches } from '../shared/match';
 import type { RawActivity } from '../shared/types';
@@ -184,4 +184,22 @@ test('property: 2000 generated criteria round-trip exactly', () => {
     };
     assert.equal(stableStringify(parseCriteria(serializeCriteria(c))), stableStringify(c));
   }
+});
+
+test('preview strips html, decodes entities and collapses whitespace', () => {
+  const out = toPreview('<p>Hike   the\n<b>Whites</b> &amp; camp &nbsp;out</p>');
+  assert.equal(out, 'Hike the Whites & camp out');
+});
+
+test('preview truncates on a word boundary and never mid-tag', () => {
+  const long = `<p>${'word '.repeat(200)}</p>`;
+  const out = toPreview(long);
+  assert.ok(out.length <= 303, `got ${out.length}`);
+  assert.ok(out.endsWith('...'));
+  assert.ok(!out.includes('<'));
+  assert.ok(!out.endsWith(' ...'));
+});
+
+test('preview leaves short descriptions untouched', () => {
+  assert.equal(toPreview('<p>Short walk.</p>'), 'Short walk.');
 });
