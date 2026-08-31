@@ -145,7 +145,7 @@
     "name": "Trek Mt Fuji & North Japan Alps Traverse (#2629)",
     "program": "Adventure Travel",
     "registerByDate": "2026-08-31",
-    "registration": "open",
+    "registration": "closed",
     "registrationType": "Application",
     "secondaryType": "Adventure Travel",
     "startDate": "2026-08-31",
@@ -536,34 +536,6 @@
     "timeZone": "US EST",
     "type": "Volunteer Opportunities",
     "url": "/s/oc-activity/a5UUN000001iV7Z2AU"
-  },
-  {
-    "audience": "Adults",
-    "chapterId": "001UN00000bpnMdYAI",
-    "costs": [],
-    "difficulty": 1,
-    "difficultyLabel": "1 - Accessible",
-    "endDate": "2050-12-31",
-    "id": "a5UUN000001k8Ob2AI",
-    "keywords": "Outdoor Leadership Training, outdoor leader, training, learning, skill development",
-    "leaders": [
-      "Celia Revell Binder"
-    ],
-    "location": {
-      "country": "United States"
-    },
-    "name": "Outdoor Leader Fundamentals",
-    "program": "Staff Activities",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "secondaryType": "Outdoor Leadership Training",
-    "startDate": "2025-03-01",
-    "startTime": "All Day",
-    "status": "Published",
-    "subType": "Outdoor Leadership Training",
-    "timeZone": "US EST",
-    "type": "Outdoor Leadership Training",
-    "url": "/s/oc-activity/a5UUN000001k8Ob2AI"
   },
   {
     "chapterId": "001UN00000KhlIGYAZ",
@@ -3743,33 +3715,6 @@
     "url": "/s/oc-activity/a5UVX0000016iyf2AA"
   },
   {
-    "chapterId": "0015000001Sg061AAB",
-    "costs": [],
-    "difficulty": 1,
-    "difficultyLabel": "1 - Accessible",
-    "endDate": "2026-12-15",
-    "id": "a5UVX0000016omL2AQ",
-    "keywords": "Climbing, Mountaineering, AMC 150, BCMC, Trad Climbing, Ice Climbing, Mixed Climbing, Drytooling, Social, Anniversary",
-    "leaders": [
-      "Seda Salar"
-    ],
-    "location": {
-      "country": "United States"
-    },
-    "name": "[BCMC] Boston Chapter Climbing Community 150 Routes for AMC 150th Anniversary - Virtual-please submit your climbs",
-    "program": "AMC 150",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "secondaryType": "Climbing & Mountaineering",
-    "startDate": "2026-01-01",
-    "startTime": "All Day",
-    "status": "Published",
-    "subType": "Top Rope Rock",
-    "timeZone": "US EST",
-    "type": "Climbing & Mountaineering",
-    "url": "/s/oc-activity/a5UVX0000016omL2AQ"
-  },
-  {
     "chapterId": "001UN00000bpnMdYAI",
     "coords": {
       "lat": 43.86,
@@ -3983,38 +3928,6 @@
     "timeZone": "US EST",
     "type": "Adventure Travel",
     "url": "/s/oc-activity/a5UVX00000172PV2AY"
-  },
-  {
-    "chapterId": "0015000001TGzFBAA1",
-    "coords": {
-      "lat": 36.74,
-      "lon": -119.79
-    },
-    "costs": [],
-    "difficulty": 5,
-    "difficultyLabel": "5 - Vigorous",
-    "endDate": "2027-09-19",
-    "id": "a5UVX00000175bt2AA",
-    "leaders": [
-      "Leslie Carson"
-    ],
-    "location": {
-      "city": "Fresno",
-      "country": "United States",
-      "state": "CA"
-    },
-    "name": "Day Hiking in Sequoia / Kings Canyon National Parks (#2731)",
-    "program": "Adventure Travel",
-    "registration": "open",
-    "registrationType": "Application",
-    "secondaryType": "Adventure Travel",
-    "startDate": "2027-09-11",
-    "startTime": "All Day",
-    "status": "Waitlist",
-    "subType": "Adventure Travel",
-    "timeZone": "US EST",
-    "type": "Adventure Travel",
-    "url": "/s/oc-activity/a5UVX00000175bt2AA"
   },
   {
     "chapterId": "0015000001TGzFBAA1",
@@ -4609,7 +4522,7 @@
     "name": "JAM Traverse: Jefferson, Adams, Madison",
     "program": "Volunteer Led",
     "registerByDate": "2026-08-30",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-07-20",
     "registrationType": "Application",
     "startDate": "2026-09-05",
@@ -5915,7 +5828,7 @@
     "name": "Moderate Wednesday Day Hike – Mt Morgan & Percival – Holderness NH - Oct 7, 2026",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-04",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-08-31",
     "registrationType": "Application",
     "startDate": "2026-10-07",
@@ -13531,7 +13444,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-05",
     "startTime": "8:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
