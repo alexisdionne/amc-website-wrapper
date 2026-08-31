@@ -2,9 +2,10 @@ name: Poll AMC feed
 
 on:
   schedule:
-    # Roughly hourly worst case - scheduled runs are best-effort and often run
-    # 5-20 minutes late. The feed call is 2.3 MB, so do not tighten without reason.
-    - cron: '*/30 * * * *'
+    # Twice daily. Scheduled runs are best-effort and often run 5-20 minutes
+    # late, and top-of-day UTC is the most contended slot. Worst-case alert
+    # latency is ~12h. The feed call is 2.3 MB, so do not tighten without reason.
+    - cron: '0 0,12 * * *'
   workflow_dispatch:
 
 # A manual dispatch overlapping a scheduled run causes a non-fast-forward push,
