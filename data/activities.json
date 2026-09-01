@@ -1250,7 +1250,7 @@
     },
     "name": "Maine Woods Trail and Boundary Work Weekend at Medawisla Lodge",
     "program": "Volunteer Led",
-    "registerByDate": "2026-08-28",
+    "registerByDate": "2026-09-08",
     "registration": "closed",
     "registrationOpenDate": "2026-06-01",
     "registrationType": "Application",
@@ -1418,7 +1418,7 @@
     "name": "TRY EXPLORING ANDOVER (TEA) TIME HIKE –  BESSIE GOLDSMITH RESERVATION AND ALL PERSONS TRAIL",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-16",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-01",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -4427,7 +4427,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-26",
     "startTime": "9:15 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -4460,7 +4460,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-05",
     "startTime": "All Day",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5468,10 +5468,6 @@
   {
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg065AAB",
-    "coords": {
-      "lat": 44.59,
-      "lon": -69.29
-    },
     "costs": [],
     "difficulty": 1,
     "difficultyLabel": "1 - Accessible",
@@ -5480,15 +5476,10 @@
     "leaders": [
       "Andrew Metz"
     ],
-    "location": {
-      "city": "Unity",
-      "country": "United States",
-      "state": "ME"
-    },
     "name": "Join the Maine 20s/30s WhatsApp",
     "program": "Volunteer Led",
     "registration": "open",
-    "registrationType": "Registration",
+    "registrationType": "Show & Go",
     "startDate": "2026-05-01",
     "startTime": "All Day",
     "status": "Published",
@@ -8272,7 +8263,7 @@
     "secondaryType": "Paddling",
     "startDate": "2026-09-11",
     "startTime": "5:00 PM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Local Socials",
     "timeZone": "US EST",
     "type": "Social",
@@ -8856,7 +8847,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-26",
     "startTime": "All Day",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -9565,7 +9556,7 @@
     "name": "Beginner Winter Hiking Series for experienced three-season hikers",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-26",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-01",
     "registrationType": "Application",
     "startDate": "2026-11-01",
@@ -11729,39 +11720,6 @@
     "url": "/s/oc-activity/a5UVX000001G5ft2AC"
   },
   {
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 40.13,
-      "lon": -75.48
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-09-01",
-    "id": "a5UVX000001G6gn2AC",
-    "keywords": "Ice Cream Guided Hike PA Highlands Trail Pennsylvania Phoenixville Philadelphia Walk Schuylkill River Trail",
-    "leaders": [
-      "Madison Nicole DeGerolamo"
-    ],
-    "location": {
-      "city": "Phoenixville",
-      "country": "United States",
-      "state": "PA"
-    },
-    "name": "Guided Hike and Ice Cream on the PA Highlands Section of the Schuylkill River Trail",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-09-01",
-    "startTime": "5:00 PM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001G6gn2AC"
-  },
-  {
     "audience": "Adults",
     "chapterId": "0015000001Sg06DAAR",
     "coords": {
@@ -13100,7 +13058,7 @@
     "name": "52WAV – Early Autumn Hike to Mt Paugus",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-23",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-01",
     "registrationType": "Application",
     "startDate": "2026-10-10",
@@ -13200,7 +13158,7 @@
     "name": "20s & 30s Trail Work Weekend - Camp Dodge",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-30",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-01",
     "registrationType": "Application",
     "startDate": "2026-10-02",
@@ -17452,7 +17410,7 @@
     "name": "AMC Boston Leadership Training - Fall 2026",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-30",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-01",
     "registrationType": "Application",
     "startDate": "2026-10-17",
@@ -18595,6 +18553,39 @@
   },
   {
     "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.36,
+      "lon": -71.08
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-01",
+    "id": "a5UVX000001HSAb2AO",
+    "leaders": [
+      "Kaitlyn Hung"
+    ],
+    "location": {
+      "city": "Cambridge",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Awesome Autumn After-Work Ride",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Biking",
+    "startDate": "2026-10-01",
+    "startTime": "5:30 PM",
+    "status": "Published",
+    "subType": "Road",
+    "timeZone": "US EST",
+    "type": "Biking",
+    "url": "/s/oc-activity/a5UVX000001HSAb2AO"
+  },
+  {
+    "audience": "Adults",
     "chapterId": "0015000001Sg06DAAR",
     "coords": {
       "lat": 42.21,
@@ -19470,6 +19461,42 @@
     "url": "/s/oc-activity/a5UVX000001HVYH2A4"
   },
   {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg060AAB",
+    "coords": {
+      "lat": 44.25,
+      "lon": -71.45
+    },
+    "costs": [
+      187
+    ],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-22",
+    "id": "a5UVX000001HW4X2AW",
+    "keywords": "20's & 30's, young members, social events, highland center, shapleigh",
+    "leaders": [
+      "Jack Hutchison"
+    ],
+    "location": {
+      "city": "Carroll",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "AMC Young Members (20s, 30s, 40s) Late Fall Weekend at AMC Highland Center",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Social",
+    "startDate": "2026-11-20",
+    "startTime": "2:00 PM",
+    "status": "Published",
+    "subType": "Local Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001HW4X2AW"
+  },
+  {
     "chapterId": "0015000001Sg06BAAR",
     "coords": {
       "lat": 40.6,
@@ -19568,6 +19595,66 @@
   },
   {
     "chapterId": "0015000001Sg066AAB",
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-09-05",
+    "id": "a5UVX000001HZGv2AO",
+    "keywords": "hiking, music",
+    "leaders": [
+      "Linda Pease"
+    ],
+    "location": {
+      "city": "Lincoln",
+      "country": "United States",
+      "state": "RI"
+    },
+    "name": "HALF A HIKE AND A WHOLE CONCERT",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Conservation",
+    "startDate": "2026-09-05",
+    "startTime": "2:15 PM",
+    "status": "Published",
+    "subType": "Local Walks",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001HZGv2AO"
+  },
+  {
+    "chapterId": "0015000001Sg060AAB",
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-27",
+    "id": "a5UVX000001HZQb2AO",
+    "keywords": "Belknap, Fall Foliage, Moderate, Views, Winnipesaukee",
+    "leaders": [
+      "Jennifer Thomas-Starck"
+    ],
+    "location": {
+      "city": "Gilford",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Autumn Above Winnipesaukee: Piper, Belknap & Gunstock Mountains",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-09-24",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-09-01",
+    "registrationType": "Application",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-09-27",
+    "startTime": "8:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001HZQb2AO"
+  },
+  {
+    "chapterId": "0015000001Sg066AAB",
     "coords": {
       "lat": 41.91,
       "lon": -71.78
@@ -19632,6 +19719,10 @@
   },
   {
     "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.11,
+      "lon": -74.15
+    },
     "costs": [],
     "difficulty": 5,
     "difficultyLabel": "5 - Vigorous",
@@ -19645,7 +19736,7 @@
       "country": "United States",
       "state": "NY"
     },
-    "name": "8-10 Mile Suffern Hike",
+    "name": "8-10 Mile Suffern Hike (Vigorous)",
     "program": "Volunteer Led",
     "registration": "open",
     "registrationType": "Show & Go",
@@ -19657,5 +19748,37 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001HZbt2AG"
+  },
+  {
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 41.91,
+      "lon": -69.97
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-17",
+    "id": "a5UVX000001HcWX2A0",
+    "keywords": "Cape Hikes",
+    "leaders": [
+      "Richard Kaiser"
+    ],
+    "location": {
+      "city": "Wellfleet",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Cape Hikes--Marconi Station, Wellfleet",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-17",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001HcWX2A0"
   }
 ]
