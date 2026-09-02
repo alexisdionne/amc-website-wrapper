@@ -2844,7 +2844,7 @@
     "secondaryType": "Trail Work",
     "startDate": "2026-09-26",
     "startTime": "All Day",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Backpacking",
     "timeZone": "US EST",
     "type": "Backpacking",
@@ -7266,6 +7266,41 @@
     "audience": "Adults",
     "chapterId": "0015000001Sg06DAAR",
     "coords": {
+      "lat": 44.14,
+      "lon": -71.36
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-09-19",
+    "id": "a5UVX000001Dbu12AC",
+    "keywords": "Jackson pierce white mountains doubles",
+    "leaders": [
+      "Brian Gollub"
+    ],
+    "location": {
+      "city": "Hart's Location",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "White Mountain 4,000 Footer Double Series #2 - Mount Jackson & Mount Pierce",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-09-05",
+    "registration": "open",
+    "registrationOpenDate": "2026-08-16",
+    "registrationType": "Application",
+    "startDate": "2026-09-19",
+    "startTime": "7:45 AM",
+    "status": "Waitlist",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Dbu12AC"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
       "lat": 44.04,
       "lon": -71.52
     },
@@ -8880,7 +8915,7 @@
     "name": "Flatwater paddle  Androscoggin River to Lake Umbagog",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-04",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-02",
     "registrationType": "Application",
     "secondaryType": "Paddling",
@@ -9575,7 +9610,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-05",
     "startTime": "8:00 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -20270,5 +20305,138 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001HglR2AS"
+  },
+  {
+    "audience": "20’s & 30’s;Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.4,
+      "lon": -71.33
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-20",
+    "id": "a5UVX000001Hgrt2AC",
+    "keywords": "Whitewater Canoeing Paddling",
+    "leaders": [
+      "Charles Sweet"
+    ],
+    "location": {
+      "city": "Lincoln",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Instruction for Moderate (CL II) Whitewater Canoeing",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-09-17",
+    "registration": "open",
+    "registrationOpenDate": "2026-09-02",
+    "registrationType": "Registration",
+    "secondaryType": "Paddling",
+    "startDate": "2026-09-18",
+    "startTime": "1:00 PM",
+    "status": "Published",
+    "subType": "Whitewater",
+    "timeZone": "US EST",
+    "type": "Paddling",
+    "url": "/s/oc-activity/a5UVX000001Hgrt2AC"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.26,
+      "lon": -73.59
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-07",
+    "id": "a5UVX000001HivJ2AS",
+    "leaders": [
+      "Hank Zupnick"
+    ],
+    "location": {
+      "city": "Pound Ridge",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Rocks Trail at Ward Pound Ridge",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-09-07",
+    "startTime": "8:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001HivJ2AS"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.32,
+      "lon": -75.19
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-11-14",
+    "id": "a5UVX000001Hj4z2AC",
+    "keywords": "training, leadership",
+    "leaders": [
+      "Peni MacMeekin"
+    ],
+    "location": {
+      "city": "Doylestown",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Delaware Valley Chapter Outdoor Leadership Training",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Outdoor Leadership Training",
+    "startDate": "2026-11-14",
+    "startTime": "8:30 AM",
+    "status": "Published",
+    "subType": "Outdoor Leadership Training",
+    "timeZone": "US EST",
+    "type": "Outdoor Leadership Training",
+    "url": "/s/oc-activity/a5UVX000001Hj4z2AC"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.26,
+      "lon": -70.98
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-09-05",
+    "id": "a5UVX000001HkM12AK",
+    "keywords": "AMC, Quincy, Houghs Neck, hike",
+    "leaders": [
+      "Marc Hurwitz"
+    ],
+    "location": {
+      "city": "Quincy",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Hough’s Neck (including Rock Island Cove Salt Marsh and Raccoon Island), Quincy",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-09-05",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001HkM12AK"
   }
 ]
