@@ -3379,7 +3379,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-12",
     "startTime": "8:00 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -7169,6 +7169,37 @@
     "url": "/s/oc-activity/a5UVX000001DFrt2AG"
   },
   {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 43.3,
+      "lon": -74.22
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-11-14",
+    "id": "a5UVX000001DGuP2AW",
+    "leaders": [
+      "Timothy Watters"
+    ],
+    "location": {
+      "city": "cornwall",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Hike Black Rock Forest (Vigorous)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-14",
+    "startTime": "8:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001DGuP2AW"
+  },
+  {
     "chapterId": "0015000001Sg069AAB",
     "coords": {
       "lat": 42.56,
@@ -10877,7 +10908,7 @@
     "secondaryType": "Nature Walks",
     "startDate": "2026-09-11",
     "startTime": "8:30 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -16450,7 +16481,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-20",
     "startTime": "7:45 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -20841,5 +20872,101 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001HpC12AK"
+  },
+  {
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 43.75,
+      "lon": -74.06
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-10",
+    "id": "a5UVX000001Hpjt2AC",
+    "keywords": "paddling, whitewater, class 3",
+    "leaders": [
+      "Normand Labbe"
+    ],
+    "location": {
+      "city": "North River",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Hudson River Gorge Whitewater Paddling",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-10",
+    "startTime": "9:15 AM",
+    "status": "Published",
+    "subType": "Whitewater",
+    "timeZone": "US EST",
+    "type": "Paddling",
+    "url": "/s/oc-activity/a5UVX000001Hpjt2AC"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 39.96,
+      "lon": -74.64
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-09-14",
+    "id": "a5UVX000001HpqL2AS",
+    "leaders": [
+      "Michael Ahern"
+    ],
+    "location": {
+      "city": "Pemberton Township",
+      "country": "United States",
+      "state": "NJ"
+    },
+    "name": "Rancocas Creek Paddle 6 miles",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-09-14",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Flatwater",
+    "timeZone": "US EST",
+    "type": "Paddling",
+    "url": "/s/oc-activity/a5UVX000001HpqL2AS"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.44,
+      "lon": -72.33
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-09-29",
+    "id": "a5UVX000001HptZ2AS",
+    "leaders": [
+      "Heidi Bucholtz"
+    ],
+    "location": {
+      "city": "East Haddam",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Chapal Farm Preserve, East Haddam - Easy",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-09-29",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001HptZ2AS"
   }
 ]
