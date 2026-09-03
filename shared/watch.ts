@@ -8,6 +8,16 @@ export interface Watch {
   name: string;
   /** URL query string, the same format the UI address bar holds. */
   query: string;
+  /**
+   * Name of the environment variable holding this watch's Discord webhook.
+   * Absent means the default channel, DISCORD_WEBHOOK_URL.
+   *
+   * The variable NAME, never the URL - this file is committed, and a webhook
+   * URL is a credential that lets anyone post to the channel. It is also
+   * outside `watchId`, so moving a watch to another channel keeps its ledger
+   * instead of re-seeding it silently.
+   */
+  webhookEnv?: string;
 }
 
 /**
@@ -28,6 +38,9 @@ export function watchId(watch: Watch): string {
   return hash.toString(16).padStart(8, '0');
 }
 
+/** Shell-style environment variable name. Rejects a pasted webhook URL. */
+const ENV_NAME = /^[A-Z][A-Z0-9_]*$/;
+
 /**
  * Validates watches.json. A malformed entry fails the whole poll rather than
  * being skipped - a watch silently dropped is a watch that never alerts, which
@@ -41,12 +54,21 @@ export function parseWatches(raw: unknown): Watch[] {
     if (typeof entry !== 'object' || entry === null) {
       throw new Error(`watches.json[${i}]: expected an object`);
     }
-    const { name, query } = entry as Record<string, unknown>;
+    const { name, query, webhookEnv } = entry as Record<string, unknown>;
     if (typeof name !== 'string' || name === '') {
       throw new Error(`watches.json[${i}]: "name" must be a non-empty string`);
     }
     if (typeof query !== 'string' || query === '') {
       throw new Error(`watches.json[${i}]: "query" must be a non-empty string`);
+    }
+    if (webhookEnv !== undefined) {
+      if (typeof webhookEnv !== 'string' || !ENV_NAME.test(webhookEnv)) {
+        throw new Error(
+          `watches.json[${i}]: "webhookEnv" must be an environment variable name ` +
+            'like DISCORD_WEBHOOK_HIKING, not a webhook URL',
+        );
+      }
+      return { name, query, webhookEnv };
     }
     return { name, query };
   });

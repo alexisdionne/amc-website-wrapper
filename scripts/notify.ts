@@ -86,6 +86,32 @@ export function buildMessages(
   return messages;
 }
 
+/**
+ * Splits alerts by destination, then batches each group independently so the
+ * ten-embed cap applies per channel rather than across all of them.
+ *
+ * Keyed by environment variable name, not by URL: this key reaches log output.
+ */
+export function buildRoutedMessages(
+  alerts: Alert[],
+  chapterName: (id: string) => string,
+  route: (watchId: string) => string,
+): Map<string, DiscordMessage[]> {
+  const byChannel = new Map<string, Alert[]>();
+  for (const alert of alerts) {
+    const env = route(alert.watchId);
+    const bucket = byChannel.get(env);
+    if (bucket === undefined) byChannel.set(env, [alert]);
+    else bucket.push(alert);
+  }
+
+  const routed = new Map<string, DiscordMessage[]>();
+  for (const [env, group] of byChannel) {
+    routed.set(env, buildMessages(group, chapterName));
+  }
+  return routed;
+}
+
 async function postOne(webhookUrl: string, message: DiscordMessage): Promise<void> {
   const res = await fetch(webhookUrl, {
     method: 'POST',

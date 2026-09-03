@@ -61,3 +61,30 @@ test('parseWatches rejects malformed entries loudly', () => {
   assert.throws(() => parseWatches([{ name: 'x' }]), /"query"/);
   assert.throws(() => parseWatches([{ name: '', query: 'x' }]), /"name"/);
 });
+
+test('parseWatches accepts a webhook env name', () => {
+  const parsed = parseWatches([
+    { name: 'Hiking', query: 'type=Camping', webhookEnv: 'DISCORD_WEBHOOK_HIKING' },
+  ]);
+  assert.equal(parsed[0]?.webhookEnv, 'DISCORD_WEBHOOK_HIKING');
+});
+
+test('parseWatches rejects a webhook URL in the committed file', () => {
+  const url = 'https://discord.com/api/webhooks/123/abc';
+  assert.throws(
+    () => parseWatches([{ name: 'x', query: 'y', webhookEnv: url }]),
+    /not a webhook URL/,
+  );
+  assert.throws(
+    () => parseWatches([{ name: 'x', query: 'y', webhookEnv: 'lower_case' }]),
+    /webhookEnv/,
+  );
+});
+
+test('rerouting a watch keeps its id, so the ledger survives', () => {
+  const query = 'type=Camping';
+  assert.equal(
+    watchId({ name: 'w', query }),
+    watchId({ name: 'w', query, webhookEnv: 'DISCORD_WEBHOOK_HIKING' }),
+  );
+});

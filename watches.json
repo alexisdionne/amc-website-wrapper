@@ -1,18 +1,22 @@
 [
   {
   "name": "Backpacking - All Chapters",
-  "query": "type=Backpacking&status=Published&status=Waitlist&reg=not-yet&reg=open"
+  "query": "type=Backpacking&status=Published&status=Waitlist&reg=not-yet&reg=open",
+  "webhookEnv": "DISCORD_WEBHOOK_HIKING"
   },
   {
   "name": "Hikes with NYNJ",
-  "query": "type=Hiking%2C+Local+Walks%2C+%26+Trail+Running&chapter=0015000001Sg064AAB&status=Published&status=Waitlist&reg=not-yet&reg=open"
+  "query": "type=Hiking%2C+Local+Walks%2C+%26+Trail+Running&chapter=0015000001Sg064AAB&status=Published&status=Waitlist&reg=not-yet&reg=open",
+  "webhookEnv": "DISCORD_WEBHOOK_HIKING"
   },
   {
   "name": "Young Peoples",
-  "query": "status=Published&status=Waitlist&reg=not-yet&reg=open&q=30s"
+  "query": "status=Published&status=Waitlist&reg=not-yet&reg=open&q=30s",
+  "webhookEnv": "DISCORD_WEBHOOK_YOUNG_PEOPLES"
   },
   {
   "name": "NYNJ",
-  "query": "chapter=0015000001Sg064AAB&status=Published&status=Waitlist&reg=not-yet&reg=open"
+  "query": "chapter=0015000001Sg064AAB&status=Published&status=Waitlist&reg=not-yet&reg=open",
+  "webhookEnv": "DISCORD_WEBHOOK_NYNJ"
   }
 ]

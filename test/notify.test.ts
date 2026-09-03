@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import { test } from 'node:test';
 
 import type { Alert } from '../scripts/diff';
-import { buildEmbed, buildMessages } from '../scripts/notify';
+import { buildEmbed, buildMessages, buildRoutedMessages } from '../scripts/notify';
 import type { Activity } from '../shared/types';
 
 const chapterName = (id: string): string => (id === 'c1' ? 'AMC Boston Chapter' : id);
@@ -31,8 +31,8 @@ function activity(id: string, over: Partial<Activity> = {}): Activity {
   };
 }
 
-const alert = (kind: 'new' | 'reopened', a: Activity): Alert => ({
-  watchId: 'abcd1234',
+const alert = (kind: 'new' | 'reopened', a: Activity, watchId = 'abcd1234'): Alert => ({
+  watchId,
   watchName: 'Camping',
   kind,
   activity: a,
@@ -126,4 +126,36 @@ test('footer is truncated so one long watch name cannot fail the whole batch', (
   };
   const e = buildEmbed(a, chapterName);
   assert.ok(e.footer.text.length <= 100, `footer was ${e.footer.text.length}`);
+});
+
+test('alerts split by destination channel', () => {
+  const route = (id: string): string =>
+    id === 'young' ? 'DISCORD_WEBHOOK_YOUNG' : 'DISCORD_WEBHOOK_HIKING';
+  const routed = buildRoutedMessages(
+    [
+      alert('new', activity('a'), 'young'),
+      alert('new', activity('b'), 'hike'),
+      alert('new', activity('c'), 'young'),
+    ],
+    chapterName,
+    route,
+  );
+  assert.deepEqual([...routed.keys()], ['DISCORD_WEBHOOK_YOUNG', 'DISCORD_WEBHOOK_HIKING']);
+  assert.equal(routed.get('DISCORD_WEBHOOK_YOUNG')?.[0]?.embeds.length, 2);
+  assert.equal(routed.get('DISCORD_WEBHOOK_HIKING')?.[0]?.embeds.length, 1);
+});
+
+test('the ten-embed cap applies per channel, not across them', () => {
+  const alerts = Array.from({ length: 12 }, (_, i) =>
+    alert('new', activity(`a${i}`), i < 6 ? 'x' : 'y'),
+  );
+  const routed = buildRoutedMessages(alerts, chapterName, (id) => `DISCORD_WEBHOOK_${id.toUpperCase()}`);
+  assert.deepEqual(
+    [...routed.values()].map((m) => m.length),
+    [1, 1],
+  );
+});
+
+test('no alerts routes nowhere', () => {
+  assert.equal(buildRoutedMessages([], chapterName, () => 'X').size, 0);
 });

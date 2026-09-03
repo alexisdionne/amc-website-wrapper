@@ -1,11 +1,11 @@
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 
-import { parseWatches } from '../shared/watch';
+import { parseWatches, watchId } from '../shared/watch';
 import { fetchFeed } from './aura';
 import { computeAlerts, loadState } from './diff';
 import { normalizeChapters, normalizeFeed, stableStringify } from './normalize';
-import { buildMessages, postAlerts } from './notify';
+import { buildRoutedMessages, postAlerts, type DiscordMessage } from './notify';
 
 const ROOT = new URL('../', import.meta.url);
 /** Served to GitHub Pages via Vite's publicDir - public by definition. */
@@ -13,6 +13,8 @@ const DATA_DIR = fileURLToPath(new URL('data/', ROOT));
 /** Internal bookkeeping, deliberately outside publicDir. */
 const STATE_DIR = fileURLToPath(new URL('state/', ROOT));
 const WATCHES_FILE = fileURLToPath(new URL('watches.json', ROOT));
+/** Where a watch with no explicit webhookEnv delivers. */
+const DEFAULT_WEBHOOK_ENV = 'DISCORD_WEBHOOK_URL';
 
 async function readJson(path: string): Promise<unknown> {
   try {
@@ -65,7 +67,6 @@ async function main(): Promise<void> {
     now: new Date(),
   });
 
-  const webhook = process.env['DISCORD_WEBHOOK_URL'];
   const byId = new Map(chapters.map((c) => [c.id, c.name]));
   const chapterName = (id: string): string => byId.get(id) ?? id;
 
@@ -77,24 +78,49 @@ async function main(): Promise<void> {
     return;
   }
 
-  if (webhook === undefined || webhook === '') {
+  const envByWatch = new Map(watches.map((w) => [watchId(w), w.webhookEnv ?? DEFAULT_WEBHOOK_ENV]));
+  const routed = buildRoutedMessages(
+    alerts,
+    chapterName,
+    (id) => envByWatch.get(id) ?? DEFAULT_WEBHOOK_ENV,
+  );
+
+  const deliveries: Array<{ env: string; url: string; messages: DiscordMessage[] }> = [];
+  const missing: string[] = [];
+  for (const [env, messages] of routed) {
+    const url = process.env[env];
+    if (url === undefined || url === '') missing.push(env);
+    else deliveries.push({ env, url, messages });
+  }
+
+  if (missing.length > 0) {
+    // Withholds every channel, not only the unconfigured one. Posting the rest
+    // without persisting would repost them on each run, and persisting after a
+    // partial post would mark the withheld alerts delivered.
+    //
     // Deliberately does NOT persist: writing the ledger here would mark these
     // alerts as delivered when nothing was sent, and they would never fire again.
     console.warn(
-      `[poll] ${alerts.length} alert(s) withheld - DISCORD_WEBHOOK_URL is not set. ` +
+      `[poll] ${alerts.length} alert(s) withheld - not set: ${missing.join(', ')}. ` +
         'State not written, so these will be delivered once it is configured.',
     );
     for (const a of alerts) console.warn(`  ${a.kind}: ${a.activity.name} (${a.watchName})`);
     return;
   }
 
-  // Notify first, then persist. If the post fails, state stays untouched and the
-  // next run retries - at-least-once delivery, which risks a duplicate but never
-  // a silent loss.
-  const messages = buildMessages(alerts, chapterName);
-  await postAlerts(webhook, messages);
+  // Notify first, then persist. If any post fails, state stays untouched and the
+  // next run retries every channel - at-least-once delivery, so a channel that
+  // already succeeded can repeat an alert, but none is ever silently lost.
+  let sent = 0;
+  for (const { env, url, messages } of deliveries) {
+    await postAlerts(url, messages);
+    sent += messages.length;
+    console.log(`  ${env}: ${messages.length} message(s)`);
+  }
   await writeJson(statePath, nextState);
-  console.log(`posted ${alerts.length} alert(s) in ${messages.length} message(s)`);
+  console.log(
+    `posted ${alerts.length} alert(s) in ${sent} message(s) across ${deliveries.length} channel(s)`,
+  );
 }
 
 await main();

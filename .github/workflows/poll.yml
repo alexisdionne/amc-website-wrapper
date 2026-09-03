@@ -36,6 +36,9 @@ jobs:
       - run: npm run poll
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_HIKING: ${{ secrets.DISCORD_WEBHOOK_HIKING }}
+          DISCORD_WEBHOOK_YOUNG_PEOPLES: ${{ secrets.DISCORD_WEBHOOK_YOUNG_PEOPLES }}
+          DISCORD_WEBHOOK_NYNJ: ${{ secrets.DISCORD_WEBHOOK_NYNJ }}
 
       - name: Commit snapshot
         run: |
