@@ -2506,7 +2506,7 @@
     "secondaryType": "Camping",
     "startDate": "2026-09-25",
     "startTime": "2:00 PM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Local Socials",
     "timeZone": "US EST",
     "type": "Social",
@@ -8893,7 +8893,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-12",
     "startTime": "All Day",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -10384,7 +10384,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-24",
     "startTime": "8:45 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -12001,38 +12001,6 @@
     "timeZone": "US EST",
     "type": "Social",
     "url": "/s/oc-activity/a5UVX000001GHHF2A4"
-  },
-  {
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 40.69,
-      "lon": -75.22
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-09-03",
-    "id": "a5UVX000001GIDJ2A4",
-    "keywords": "Bike ride",
-    "leaders": [
-      "Martha Keck"
-    ],
-    "location": {
-      "city": "Easton",
-      "country": "United States",
-      "state": "PA"
-    },
-    "name": "Bike ride from Easton to Sand Island/Bethlehem",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2026-09-03",
-    "startTime": "10:00 AM",
-    "status": "Published",
-    "subType": "Gravel",
-    "timeZone": "US EST",
-    "type": "Biking",
-    "url": "/s/oc-activity/a5UVX000001GIDJ2A4"
   },
   {
     "audience": "Adults",
@@ -20609,6 +20577,76 @@
     "url": "/s/oc-activity/a5UVX000001Hnjh2AC"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.05,
+      "lon": -71.27
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-05",
+    "id": "a5UVX000001HnoX2AS",
+    "keywords": "Thursday Hike",
+    "leaders": [
+      "Kathleen O’Keefe"
+    ],
+    "location": {
+      "city": "Foxborough",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Thursday Morning Hike - F. Gilbert Hills - Stone Sites",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-02",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-10-19",
+    "registrationType": "Application",
+    "startDate": "2026-11-05",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001HnoX2AS"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.12,
+      "lon": -71.24
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-22",
+    "id": "a5UVX000001Hnrl2AC",
+    "keywords": "Thursday Hike",
+    "leaders": [
+      "Kathleen O’Keefe"
+    ],
+    "location": {
+      "city": "Walpole",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Thursday Hike - Walpole Town Forest",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-19",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-10-05",
+    "registrationType": "Registration",
+    "startDate": "2026-10-22",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Hnrl2AC"
+  },
+  {
     "chapterId": "0015000001Sg06BAAR",
     "coords": {
       "lat": 40.64,
@@ -20639,6 +20677,38 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001Hnuz2AC"
+  },
+  {
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 41.76,
+      "lon": -70.15
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-09-20",
+    "id": "a5UVX000001Hnwb2AC",
+    "keywords": "Cape Hikes Dennis Crowes",
+    "leaders": [
+      "Margaret Christen"
+    ],
+    "location": {
+      "city": "Dennis",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Cape Hikes - Dennis, MA Crowes Pasture and Cold Storage Beach",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-09-20",
+    "startTime": "12:45 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Hnwb2AC"
   },
   {
     "audience": "Adults",
@@ -20738,5 +20808,38 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001Ho4f2AC"
+  },
+  {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.09
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-09",
+    "id": "a5UVX000001HpC12AK",
+    "leaders": [
+      "Joanne Newton"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Let's Trail Trace the Blue Hills Hancock and Hemenway Hill Sections",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-09-08",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-09-04",
+    "registrationType": "Registration",
+    "startDate": "2026-09-09",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001HpC12AK"
   }
 ]
