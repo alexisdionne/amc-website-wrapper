@@ -5865,7 +5865,7 @@
     "secondaryType": "Biking",
     "startDate": "2026-09-05",
     "startTime": "9:30 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Road",
     "timeZone": "US EST",
     "type": "Biking",
@@ -9548,7 +9548,7 @@
     "secondaryType": "Camping",
     "startDate": "2026-09-11",
     "startTime": "All Day",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Backpacking",
     "timeZone": "US EST",
     "type": "Backpacking",
@@ -9977,7 +9977,7 @@
       "country": "United States",
       "state": "NH"
     },
-    "name": "Evening Program: Who Was Bradford Washburn?",
+    "name": "Evening Program: The History of Crawford Notch",
     "program": "Naturalist Program",
     "registration": "open",
     "registrationType": "Show & Go",
@@ -10480,7 +10480,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-12",
     "startTime": "11:00 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -12129,7 +12129,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-12",
     "startTime": "8:30 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -14609,7 +14609,7 @@
     "name": "Fast and Light - Mattapoisett Rail Trail",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-16",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-04",
     "registrationType": "Registration",
     "startDate": "2026-09-18",
@@ -18253,6 +18253,39 @@
     "url": "/s/oc-activity/a5UVX000001HSov2AG"
   },
   {
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.14,
+      "lon": -72.86
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-17",
+    "id": "a5UVX000001HSqX2AW",
+    "keywords": "Noble View, Mushrooms",
+    "leaders": [
+      "Laura Stinnette"
+    ],
+    "location": {
+      "city": "Russell",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "The Fabulous World of Fungi: A Beginners Guide",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Conservation;Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-17",
+    "startTime": "1:00 PM",
+    "status": "Published",
+    "subType": "Local Walks",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001HSqX2AW"
+  },
+  {
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg05xAAB",
     "costs": [],
@@ -18726,7 +18759,7 @@
     "secondaryType": "Camping",
     "startDate": "2026-09-05",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -20567,7 +20600,7 @@
     "name": "Let's Trail Trace the Blue Hills Hancock and Hemenway Hill Sections",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-08",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-04",
     "registrationType": "Registration",
     "startDate": "2026-09-09",
@@ -20673,6 +20706,38 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001HptZ2AS"
+  },
+  {
+    "audience": "20’s & 30’s;Adults",
+    "chapterId": "0015000001Sg060AAB",
+    "coords": {
+      "lat": 43.23,
+      "lon": -71.61
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-09-20",
+    "id": "a5UVX000001Hq1d2AC",
+    "leaders": [
+      "Jack Hutchison"
+    ],
+    "location": {
+      "city": "Concord",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "AMC NH YM (20s, 30s, 40s) Apple Picking at Carter Hill Orchard",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-09-20",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Local Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001Hq1d2AC"
   },
   {
     "chapterId": "0015000001Sg064AAB",
@@ -21130,6 +21195,40 @@
     "url": "/s/oc-activity/a5UVX000001HuJl2AK"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 42.05,
+      "lon": -73.45
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-19",
+    "id": "a5UVX000001HubV2AS",
+    "keywords": "Northwest Camp, workparty, gathering",
+    "leaders": [
+      "David Boone"
+    ],
+    "location": {
+      "city": "Salisbury",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "NWC VOLUNTEER WORKPARTY/GATHERING",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Social",
+    "startDate": "2026-09-19",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Trail Work",
+    "timeZone": "US EST",
+    "type": "Trail Work",
+    "url": "/s/oc-activity/a5UVX000001HubV2AS"
+  },
+  {
     "chapterId": "001VX00000pWLlVYAW",
     "coords": {
       "lat": 44.18,
@@ -21160,5 +21259,99 @@
     "timeZone": "US EST",
     "type": "Volunteer Opportunities",
     "url": "/s/oc-activity/a5UVX000001Hv1J2AS"
+  },
+  {
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 41.92,
+      "lon": -70.57
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-21",
+    "id": "a5UVX000001HwQP2A0",
+    "leaders": [
+      "Janet Harris"
+    ],
+    "location": {
+      "city": "Plymouth",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Hike & Learn – Wednesday Morning Tidmarsh Wildlife Sanctuary with Mass Audubon",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-19",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-09-22",
+    "registrationType": "Registration",
+    "startDate": "2026-10-21",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001HwQP2A0"
+  },
+  {
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 41.86,
+      "lon": -69.99
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-02",
+    "id": "a5UVX000001HwVF2A0",
+    "keywords": "Chapter Hut Weekend",
+    "leaders": [
+      "Robert Akie"
+    ],
+    "location": {
+      "city": "Eastham",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Hike for registered Chapter Hut Weekend participants - Cape Cod National Seashore",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-02",
+    "startTime": "2:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001HwVF2A0"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-09-09",
+    "id": "a5UVX000001HwyH2AS",
+    "leaders": [
+      "Steve Galla"
+    ],
+    "location": {
+      "city": "White Plains",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Saxon Woods Moderate Hike Northern Section",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-09-09",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001HwyH2AS"
   }
 ]
