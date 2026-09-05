@@ -3279,7 +3279,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-12",
     "startTime": "8:00 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -10444,7 +10444,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-26",
     "startTime": "8:00 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -15922,7 +15922,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-20",
     "startTime": "7:45 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -20209,7 +20209,7 @@
     "name": "Hudson River Gorge Whitewater Paddling",
     "program": "Volunteer Led",
     "registration": "open",
-    "registrationType": "Registration",
+    "registrationType": "Application",
     "startDate": "2026-10-10",
     "startTime": "9:15 AM",
     "status": "Published",
@@ -20858,7 +20858,7 @@
       "country": "United States",
       "state": "MA"
     },
-    "name": "Hike & Learn – Wednesday Morning Tidmarsh Wildlife Sanctuary with Mass Audubon",
+    "name": "Wednesday Hike & Learn – Tidmarsh Wildlife Sanctuary with Mass Audubon",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-19",
     "registration": "not-yet",
@@ -21063,5 +21063,105 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001Hz9l2AC"
+  },
+  {
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 41.62,
+      "lon": -71.15
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-15",
+    "id": "a5UVX000001HzuX2AS",
+    "leaders": [
+      "John Nery"
+    ],
+    "location": {
+      "city": "Tiverton",
+      "country": "United States",
+      "state": "RI"
+    },
+    "name": "Late Summer Bike Ride to Explore Tiverton and Little Compton, RI",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-09-15",
+    "startTime": "10:30 AM",
+    "status": "Published",
+    "subType": "Road",
+    "timeZone": "US EST",
+    "type": "Biking",
+    "url": "/s/oc-activity/a5UVX000001HzuX2AS"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg065AAB",
+    "coords": {
+      "lat": 45.46,
+      "lon": -69.59
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2027-02-08",
+    "id": "a5UVX000001I0Qn2AK",
+    "keywords": "Lodge-to-Lodge Ski; Maine Woods; Backcountry ski; MWI",
+    "leaders": [
+      "Phillip Coyne"
+    ],
+    "location": {
+      "city": "Greenville",
+      "country": "United States",
+      "state": "ME"
+    },
+    "name": "Maine Woods Lodge-to-Lodge Ski Adventure",
+    "program": "Volunteer Led",
+    "registerByDate": "2027-01-03",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-09-14",
+    "registrationType": "Application",
+    "secondaryType": "Snowshoeing",
+    "startDate": "2027-02-02",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "Cross Country",
+    "timeZone": "US EST",
+    "type": "Skiing",
+    "url": "/s/oc-activity/a5UVX000001I0Qn2AK"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.37,
+      "lon": -71.06
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-03",
+    "id": "a5UVX000001I0U12AK",
+    "leaders": [
+      "Paul Noe"
+    ],
+    "location": {
+      "city": "Boston",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Cycle the City",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Biking",
+    "startDate": "2026-10-03",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Road",
+    "timeZone": "US EST",
+    "type": "Biking",
+    "url": "/s/oc-activity/a5UVX000001I0U12AK"
   }
 ]
