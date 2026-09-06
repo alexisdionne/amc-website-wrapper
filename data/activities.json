@@ -6676,7 +6676,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-25",
     "startTime": "4:00 PM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -7058,7 +7058,7 @@
     "name": "White Mountain 4,000 Footer Double Series #2 - Mount Jackson & Mount Pierce",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-05",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-08-16",
     "registrationType": "Application",
     "startDate": "2026-09-19",
@@ -7202,6 +7202,40 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001DiQr2AK"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.2,
+      "lon": -73.36
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-07",
+    "id": "a5UVX000001DjGT2A0",
+    "leaders": [
+      "Janine Papesh"
+    ],
+    "location": {
+      "city": "Great Barrington",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Cycling the Berkshires:  Great Barrington to Southfield",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-04",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-09-14",
+    "registrationType": "Application",
+    "startDate": "2026-10-07",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Road",
+    "timeZone": "US EST",
+    "type": "Biking",
+    "url": "/s/oc-activity/a5UVX000001DjGT2A0"
   },
   {
     "chapterId": "0015000001Sg060AAB",
@@ -8635,7 +8669,7 @@
     "name": "Fitness Hike - F Gilbert Hills State Forest",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-06",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-08-28",
     "registrationType": "Registration",
     "startDate": "2026-09-08",
@@ -14318,6 +14352,40 @@
     "url": "/s/oc-activity/a5UVX000001Gwp32AC"
   },
   {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.08
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-09-07",
+    "id": "a5UVX000001GwsH2AS",
+    "keywords": "trailwork",
+    "leaders": [
+      "Joanne Newton"
+    ],
+    "location": {
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Hiking with Trailwork in the Blue Hills",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-09-06",
+    "registration": "open",
+    "registrationOpenDate": "2026-08-24",
+    "registrationType": "Registration",
+    "secondaryType": "Trail Work",
+    "startDate": "2026-09-07",
+    "startTime": "10:00 AM",
+    "status": "Waitlist",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001GwsH2AS"
+  },
+  {
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg06BAAR",
     "coords": {
@@ -16769,7 +16837,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-06",
     "startTime": "10:30 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -20066,5 +20134,174 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001I0gv2AC"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.64,
+      "lon": -71.11
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-09-13",
+    "id": "a5UVX000001I11t2AC",
+    "keywords": "Ward Reservation, The Trustees, Bay Circuit Trail",
+    "leaders": [
+      "Richard Lombard"
+    ],
+    "location": {
+      "city": "Andover",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "LET'S HIKE THE SOUTHERN SECTION OF WARD RESERVATION",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-09-12",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-09-06",
+    "registrationType": "Registration",
+    "secondaryType": "Outdoor Leadership Training",
+    "startDate": "2026-09-13",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001I11t2AC"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 43.12,
+      "lon": -71.37
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-20",
+    "id": "a5UVX000001I13V2AS",
+    "keywords": "Bear Brook State Park, New Hampshire State Parks",
+    "leaders": [
+      "Richard Lombard"
+    ],
+    "location": {
+      "city": "Allenstown",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "LET'S HIKE CATAMOUNT HILL IN BEAR BROOK STATE PARK/ALLENSTOWN NH",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-09-19",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-09-10",
+    "registrationType": "Registration",
+    "startDate": "2026-09-20",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001I13V2AS"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.97,
+      "lon": -75.13
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-21",
+    "id": "a5UVX000001I2KX2A0",
+    "leaders": [
+      "John Rogers"
+    ],
+    "location": {
+      "city": "Hardwick Township",
+      "country": "United States",
+      "state": "NJ"
+    },
+    "name": "Dunnfield Creek Trail, Sunfish Pond, & AT Loop Hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-21",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001I2KX2A0"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 41.4,
+      "lon": -74.32
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-16",
+    "id": "a5UVX000001I2Sb2AK",
+    "leaders": [
+      "Theresa Berntsen"
+    ],
+    "location": {
+      "city": "Goshen",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Biking the Heritage Trail - Goshen to Monroe",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "secondaryType": "Biking",
+    "startDate": "2026-09-16",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Gravel",
+    "timeZone": "US EST",
+    "type": "Biking",
+    "url": "/s/oc-activity/a5UVX000001I2Sb2AK"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.67,
+      "lon": -72.55
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-11",
+    "id": "a5UVX000001I2XR2A0",
+    "leaders": [
+      "Brant Cheikes"
+    ],
+    "location": {
+      "city": "Bernardston",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Cycling from Bernardston MA to Guilford VT",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-08",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-09-14",
+    "registrationType": "Application",
+    "secondaryType": "Biking",
+    "startDate": "2026-10-11",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Road",
+    "timeZone": "US EST",
+    "type": "Biking",
+    "url": "/s/oc-activity/a5UVX000001I2XR2A0"
   }
 ]
