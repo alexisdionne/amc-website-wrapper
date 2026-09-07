@@ -2683,7 +2683,7 @@
     "secondaryType": "Trail Work",
     "startDate": "2026-09-26",
     "startTime": "All Day",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Backpacking",
     "timeZone": "US EST",
     "type": "Backpacking",
@@ -8497,7 +8497,7 @@
     "secondaryType": "Social",
     "startDate": "2026-09-19",
     "startTime": "1:00 PM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -11907,7 +11907,7 @@
     "name": "SEM Tuesday Blue Hills Summer Series #15",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-07",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-08-19",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -13841,7 +13841,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-19",
     "startTime": "All Day",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -13938,7 +13938,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-08",
     "startTime": "9:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -17051,7 +17051,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-27",
     "startTime": "8:30 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -19896,5 +19896,130 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001I2u12AC"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.84,
+      "lon": -72.55
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-13",
+    "id": "a5UVX000001I3zl2AC",
+    "keywords": "Road Bike Ride",
+    "leaders": [
+      "Judy Borrmann"
+    ],
+    "location": {
+      "city": "South Windsor",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Sunday Morning Road Bike Ride",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Biking",
+    "startDate": "2026-09-13",
+    "startTime": "8:30 AM",
+    "status": "Published",
+    "subType": "Road",
+    "timeZone": "US EST",
+    "type": "Biking",
+    "url": "/s/oc-activity/a5UVX000001I3zl2AC"
+  },
+  {
+    "chapterId": "0015000001Sg069AAB",
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-18",
+    "id": "a5UVX000001I47p2AC",
+    "leaders": [
+      "David Miller"
+    ],
+    "location": {
+      "city": "Princeton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Camping with a Tarp",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "secondaryType": "Outdoor Learning Experience",
+    "startDate": "2026-10-17",
+    "startTime": "11:00 AM",
+    "status": "Published",
+    "subType": "Backpacking",
+    "timeZone": "US EST",
+    "type": "Backpacking",
+    "url": "/s/oc-activity/a5UVX000001I47p2AC"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 42.32,
+      "lon": -71.64
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-09-24",
+    "id": "a5UVX000001I4Cf2AK",
+    "keywords": "Volunteer Leader Appreciation, Social",
+    "leaders": [
+      "Wendy M Dziemian"
+    ],
+    "location": {
+      "city": "Northborough",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Volunteer Leader Appreciation Social",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-09-24",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Leader Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001I4Cf2AK"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.15,
+      "lon": -75.53
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-17",
+    "id": "a5UVX000001I4J72AK",
+    "leaders": [
+      "Sandra Guillory"
+    ],
+    "location": {
+      "city": "Phoenixville",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Schuylkill River Trail - Phoenixville to Pottstown",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-17",
+    "startTime": "10:30 AM",
+    "status": "Published",
+    "subType": "Gravel",
+    "timeZone": "US EST",
+    "type": "Biking",
+    "url": "/s/oc-activity/a5UVX000001I4J72AK"
   }
 ]
