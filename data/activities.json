@@ -1299,7 +1299,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-20",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -3209,7 +3209,7 @@
     "name": "North Pack and Pack Monadnock",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-07",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-08-01",
     "registrationType": "Application",
     "startDate": "2026-09-12",
@@ -3287,38 +3287,6 @@
     "timeZone": "US EST",
     "type": "Backpacking",
     "url": "/s/oc-activity/a5UVX0000015rKr2AI"
-  },
-  {
-    "chapterId": "0015000001Sg060AAB",
-    "coords": {
-      "lat": 44.78,
-      "lon": -71.14
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-09-07",
-    "id": "a5UVX000001603B2AQ",
-    "leaders": [
-      "Frank Harrison"
-    ],
-    "location": {
-      "city": "Errol",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "Labor Day Paddlers Gathering",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Camping",
-    "startDate": "2026-09-04",
-    "startTime": "All Day",
-    "status": "Published",
-    "subType": "Flatwater",
-    "timeZone": "US EST",
-    "type": "Paddling",
-    "url": "/s/oc-activity/a5UVX000001603B2AQ"
   },
   {
     "chapterId": "001UN00000Wr5vBYAR",
@@ -5598,7 +5566,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-20",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -6994,7 +6962,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-19",
     "startTime": "7:45 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -7262,7 +7230,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-25",
     "startTime": "8:30 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -8930,38 +8898,6 @@
     "url": "/s/oc-activity/a5UVX000001Fcqn2AC"
   },
   {
-    "chapterId": "0015000001Sg06DAAR",
-    "coords": {
-      "lat": 43.11,
-      "lon": -72.91
-    },
-    "costs": [],
-    "difficulty": 5,
-    "difficultyLabel": "5 - Vigorous",
-    "endDate": "2026-09-07",
-    "id": "a5UVX000001Fefh2AC",
-    "leaders": [
-      "Dia Prantis"
-    ],
-    "location": {
-      "city": "Stratton",
-      "country": "United States",
-      "state": "VT"
-    },
-    "name": "SEM 50th Anniversary Backpacking Vermont's Long Trail, section #2",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Application",
-    "secondaryType": "Backpacking",
-    "startDate": "2026-09-05",
-    "startTime": "All Day",
-    "status": "Published",
-    "subType": "Backpacking",
-    "timeZone": "US EST",
-    "type": "Backpacking",
-    "url": "/s/oc-activity/a5UVX000001Fefh2AC"
-  },
-  {
     "audience": "Adults",
     "chapterId": "0015000001Sg05zAAB",
     "coords": {
@@ -10222,38 +10158,6 @@
   },
   {
     "chapterId": "0015000001Sg069AAB",
-    "coords": {
-      "lat": 42.33,
-      "lon": -71.56
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-09-07",
-    "id": "a5UVX000001Fxf72AC",
-    "leaders": [
-      "Neil Schutzman"
-    ],
-    "location": {
-      "city": "Marlborough",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "Labor Day Ice Cream Bicycle Ride",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Application",
-    "secondaryType": "Biking",
-    "startDate": "2026-09-07",
-    "startTime": "9:30 AM",
-    "status": "Published",
-    "subType": "Road",
-    "timeZone": "US EST",
-    "type": "Biking",
-    "url": "/s/oc-activity/a5UVX000001Fxf72AC"
-  },
-  {
-    "chapterId": "0015000001Sg069AAB",
     "costs": [],
     "difficulty": 4,
     "difficultyLabel": "4 - Moderate",
@@ -11136,39 +11040,6 @@
     "url": "/s/oc-activity/a5UVX000001GLzB2AW"
   },
   {
-    "chapterId": "0015000001Sg06EAAR",
-    "coords": {
-      "lat": 38.84,
-      "lon": -78.33
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-09-07",
-    "id": "a5UVX000001GM0n2AG",
-    "keywords": "Paddling, Shenandoah River, Camping",
-    "leaders": [
-      "Peg Barratt"
-    ],
-    "location": {
-      "city": "Bentonville",
-      "country": "United States",
-      "state": "VA"
-    },
-    "name": "Two or Three day paddling and camping trip – South Fork of the Shenandoah River -- Labor Day Weekend",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Paddling",
-    "startDate": "2026-09-05",
-    "startTime": "3:00 PM",
-    "status": "Published",
-    "subType": "Flatwater",
-    "timeZone": "US EST",
-    "type": "Paddling",
-    "url": "/s/oc-activity/a5UVX000001GM0n2AG"
-  },
-  {
     "audience": "Adults",
     "chapterId": "0015000001Sg06DAAR",
     "coords": {
@@ -11719,39 +11590,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001GYRl2AO"
-  },
-  {
-    "chapterId": "001UN00000bpnMdYAI",
-    "coords": {
-      "lat": 44.22,
-      "lon": -71.41
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-09-07",
-    "id": "a5UVX000001GZAv2AO",
-    "keywords": "Nature, walk, free, public, naturalist, programming, program, hike, short, guided, education, educational, wildlife, plants, Elephant Head, Highland Center, Highland, white mountains",
-    "leaders": [
-      "AMC Naturalist"
-    ],
-    "location": {
-      "city": "Carroll",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "Nature Walk: Elephant Head",
-    "program": "Naturalist Program",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-09-07",
-    "startTime": "9:00 AM",
-    "status": "Published",
-    "subType": "Nature Walks",
-    "timeZone": "US EST",
-    "type": "Nature Walks",
-    "url": "/s/oc-activity/a5UVX000001GZAv2AO"
   },
   {
     "chapterId": "001UN00000bpnMdYAI",
@@ -12572,39 +12410,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001GfLB2A0"
-  },
-  {
-    "chapterId": "001UN00000bpnMdYAI",
-    "coords": {
-      "lat": 44.26,
-      "lon": -71.25
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-09-07",
-    "id": "a5UVX000001GfeX2AS",
-    "keywords": "Nature, walk, free, public, naturalist, programming, program, hike, short, guided, education, educational, wildlife, plants, Square Ledge, Pinkham, Pinkham Notch, white mountains",
-    "leaders": [
-      "AMC Naturalist"
-    ],
-    "location": {
-      "city": "Gorham",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "Nature Walk: Square Ledge",
-    "program": "Naturalist Program",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-09-07",
-    "startTime": "9:00 AM",
-    "status": "Published",
-    "subType": "Nature Walks",
-    "timeZone": "US EST",
-    "type": "Nature Walks",
-    "url": "/s/oc-activity/a5UVX000001GfeX2AS"
   },
   {
     "chapterId": "001UN00000bpnMdYAI",
@@ -14009,40 +13814,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001Gwp32AC"
-  },
-  {
-    "chapterId": "0015000001Sg061AAB",
-    "coords": {
-      "lat": 42.21,
-      "lon": -71.08
-    },
-    "costs": [],
-    "difficulty": 2,
-    "difficultyLabel": "2 - Relaxed",
-    "endDate": "2026-09-07",
-    "id": "a5UVX000001GwsH2AS",
-    "keywords": "trailwork",
-    "leaders": [
-      "Joanne Newton"
-    ],
-    "location": {
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "Hiking with Trailwork in the Blue Hills",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-09-06",
-    "registration": "closed",
-    "registrationOpenDate": "2026-08-24",
-    "registrationType": "Registration",
-    "secondaryType": "Trail Work",
-    "startDate": "2026-09-07",
-    "startTime": "10:00 AM",
-    "status": "Waitlist",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001GwsH2AS"
   },
   {
     "audience": "20’s & 30’s",
@@ -15708,7 +15479,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-16",
     "startTime": "6:00 PM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -16757,7 +16528,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-15",
     "startTime": "5:30 PM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Local Socials",
     "timeZone": "US EST",
     "type": "Social",
@@ -17580,38 +17351,6 @@
     "url": "/s/oc-activity/a5UVX000001HfcT2AS"
   },
   {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 40.06,
-      "lon": -75.53
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-09-07",
-    "id": "a5UVX000001Hfqz2AC",
-    "leaders": [
-      "Lisa Lombardo"
-    ],
-    "location": {
-      "city": "Malvern",
-      "country": "United States",
-      "state": "PA"
-    },
-    "name": "Easy Labor Day Park Hop:  Valley Creek Park and Cedar Hollow Preserve",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2026-09-07",
-    "startTime": "9:45 AM",
-    "status": "Waitlist",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001Hfqz2AC"
-  },
-  {
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg066AAB",
     "coords": {
@@ -17675,71 +17414,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001HgIP2A0"
-  },
-  {
-    "chapterId": "0015000001Sg05zAAB",
-    "coords": {
-      "lat": 42.47,
-      "lon": -73.21
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-09-07",
-    "id": "a5UVX000001HgQT2A0",
-    "leaders": [
-      "Leo Pon"
-    ],
-    "location": {
-      "city": "Pittsfield",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "Labor Day Ride - Ashuwillticook Rail Trail, Pittsfield MA (SO, FL/RL, RG, 10-12 mph) 30 miles",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Biking",
-    "startDate": "2026-09-07",
-    "startTime": "10:30 AM",
-    "status": "Published",
-    "subType": "Road",
-    "timeZone": "US EST",
-    "type": "Biking",
-    "url": "/s/oc-activity/a5UVX000001HgQT2A0"
-  },
-  {
-    "chapterId": "0015000001Sg064AAB",
-    "coords": {
-      "lat": 40.89,
-      "lon": -73.9
-    },
-    "costs": [
-      5
-    ],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-09-07",
-    "id": "a5UVX000001HgWv2AK",
-    "leaders": [
-      "Richard Perez"
-    ],
-    "location": {
-      "city": "Bronx",
-      "country": "United States",
-      "state": "NY"
-    },
-    "name": "Wave Hill Walk Say Goodbye to Summer",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2026-09-07",
-    "startTime": "9:30 AM",
-    "status": "Published",
-    "subType": "Local Walks",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001HgWv2AK"
   },
   {
     "audience": "20’s & 30’s;Adults",
@@ -17809,37 +17483,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001Hhxd2AC"
-  },
-  {
-    "chapterId": "0015000001Sg064AAB",
-    "coords": {
-      "lat": 41.26,
-      "lon": -73.59
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-09-07",
-    "id": "a5UVX000001HivJ2AS",
-    "leaders": [
-      "Hank Zupnick"
-    ],
-    "location": {
-      "city": "Pound Ridge",
-      "country": "United States",
-      "state": "NY"
-    },
-    "name": "Rocks Trail at Ward Pound Ridge",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2026-09-07",
-    "startTime": "8:45 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001HivJ2AS"
   },
   {
     "chapterId": "0015000001Sg06BAAR",
@@ -18064,38 +17707,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001HmXV2A0"
-  },
-  {
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 40.13,
-      "lon": -75.48
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-09-07",
-    "id": "a5UVX000001HmfZ2AS",
-    "keywords": "hiking, walks, dog walk, Phoenixville",
-    "leaders": [
-      "Jay Gross"
-    ],
-    "location": {
-      "city": "Phoenixville",
-      "country": "United States",
-      "state": "PA"
-    },
-    "name": "Monday Evening Hike in Phoenixville",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "startDate": "2026-09-07",
-    "startTime": "6:30 PM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001HmfZ2AS"
   },
   {
     "chapterId": "0015000001Sg06BAAR",
@@ -18427,39 +18038,6 @@
     "timeZone": "US EST",
     "type": "Social",
     "url": "/s/oc-activity/a5UVX000001Ho332AC"
-  },
-  {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg05zAAB",
-    "coords": {
-      "lat": 41.9,
-      "lon": -72.7
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-09-07",
-    "id": "a5UVX000001Ho4f2AC",
-    "leaders": [
-      "Patrick Kennedy"
-    ],
-    "location": {
-      "city": "Windsor",
-      "country": "United States",
-      "state": "CT"
-    },
-    "name": "Northwest Park, Windsor, (C4C, Easy)",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "secondaryType": "Outdoor Leadership Training",
-    "startDate": "2026-09-07",
-    "startTime": "9:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001Ho4f2AC"
   },
   {
     "chapterId": "0015000001Sg061AAB",
@@ -19309,38 +18887,6 @@
     "url": "/s/oc-activity/a5UVX000001HyNN2A0"
   },
   {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg064AAB",
-    "coords": {
-      "lat": 41.28,
-      "lon": -74.08
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-09-07",
-    "id": "a5UVX000001HyVR2A0",
-    "leaders": [
-      "Sarah David"
-    ],
-    "location": {
-      "city": "Tuxedo",
-      "country": "United States",
-      "state": "NY"
-    },
-    "name": "Labor Day in Harriman (Moderate)",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2026-09-07",
-    "startTime": "8:45 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001HyVR2A0"
-  },
-  {
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg05xAAB",
     "coords": {
@@ -20021,5 +19567,161 @@
     "timeZone": "US EST",
     "type": "Biking",
     "url": "/s/oc-activity/a5UVX000001I4J72AK"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.41,
+      "lon": -72.96
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-15",
+    "id": "a5UVX000001I4Nx2AK",
+    "leaders": [
+      "Joanna Miller"
+    ],
+    "location": {
+      "city": "Bethany",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Easy hike at Lake Bethany, in Bethany",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-15",
+    "startTime": "8:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001I4Nx2AK"
+  },
+  {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.23,
+      "lon": -71.06
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-16",
+    "id": "a5UVX000001I4m92AC",
+    "leaders": [
+      "Joanne Newton"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "TRAIL TRACE THE BLUE HILLS - Olf Route 128 - 3 Hour Map Development",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-09-15",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-09-08",
+    "registrationType": "Application",
+    "startDate": "2026-09-16",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001I4m92AC"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.82,
+      "lon": -73.37
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-03",
+    "id": "a5UVX000001I4nl2AC",
+    "leaders": [
+      "Claire Rusowicz"
+    ],
+    "location": {
+      "city": "Cornwall",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Hike the CT AT : River Rd.(Cornwall Bridge) to W. Cornwall Rd. (Sharon)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-03",
+    "startTime": "8:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001I4nl2AC"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-31",
+    "id": "a5UVX000001I50f2AC",
+    "leaders": [
+      "Leo Pon"
+    ],
+    "location": {
+      "city": "Cheshire",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "20s & 30s Farmington Canal Heritage Trail Bike Ride Cheshire to Hamden",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-31",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Road",
+    "timeZone": "US EST",
+    "type": "Biking",
+    "url": "/s/oc-activity/a5UVX000001I50f2AC"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.9,
+      "lon": -72.7
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-09-10",
+    "id": "a5UVX000001I52H2AS",
+    "leaders": [
+      "Leo Pon"
+    ],
+    "location": {
+      "city": "Windsor",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Northwest Park, Windsor CT (C3D) 5 miles",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-09-10",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001I52H2AS"
   }
 ]
