@@ -3214,7 +3214,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-12",
     "startTime": "8:00 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -3320,42 +3320,6 @@
     "timeZone": "US EST",
     "type": "Volunteer Opportunities",
     "url": "/s/oc-activity/a5UVX0000016NFt2AM"
-  },
-  {
-    "audience": "20’s & 30’s;Adults",
-    "chapterId": "0015000001Sg060AAB",
-    "coords": {
-      "lat": 43.8,
-      "lon": -70.12
-    },
-    "costs": [
-      60
-    ],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2926-08-23",
-    "id": "a5UVX0000016czh2AA",
-    "leaders": [
-      "Robin Diamond"
-    ],
-    "location": {
-      "city": "Freeport",
-      "country": "United States",
-      "state": "ME"
-    },
-    "name": "Car Camping and Sea Kayak Paddle - Freeport, Maine",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-08-18",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Camping;Paddling",
-    "startDate": "2026-08-21",
-    "startTime": "2:00 AM",
-    "status": "Published",
-    "subType": "Sea",
-    "timeZone": "US EST",
-    "type": "Paddling",
-    "url": "/s/oc-activity/a5UVX0000016czh2AA"
   },
   {
     "chapterId": "0015000001Sg06BAAR",
@@ -4135,7 +4099,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-26",
     "startTime": "9:15 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -7192,7 +7156,7 @@
     "name": "Mt Passaconaway with walk thru the Bowl Research area",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-08",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-08-10",
     "registrationType": "Application",
     "startDate": "2026-09-11",
@@ -8638,7 +8602,7 @@
     "registrationType": "Registration",
     "startDate": "2026-09-10",
     "startTime": "8:45 AM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -11063,13 +11027,13 @@
     "name": "Thursday Morning Hike at F. Gilbert Hills State Forest",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-08",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-08-16",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-10",
     "startTime": "9:45 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -11202,7 +11166,7 @@
     "name": "A Less Traveled Path to Lafayette on a Weekday",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-16",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-08",
     "registrationType": "Application",
     "startDate": "2026-09-18",
@@ -14300,7 +14264,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-09",
     "startTime": "9:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -19352,38 +19316,6 @@
     "url": "/s/oc-activity/a5UVX000001I2h72AC"
   },
   {
-    "chapterId": "0015000001Sg05xAAB",
-    "coords": {
-      "lat": 42.6,
-      "lon": -72.47
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-10-24",
-    "id": "a5UVX000001I2pB2AS",
-    "keywords": "Climbing, Anchors, Mountaineering",
-    "leaders": [
-      "Kayla Boisvert"
-    ],
-    "location": {
-      "city": "Erving",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "Top Rope Anchors Refresher/Hands-on Practice",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Application",
-    "startDate": "2026-10-24",
-    "startTime": "8:30 AM",
-    "status": "Published",
-    "subType": "Top Rope Rock",
-    "timeZone": "US EST",
-    "type": "Climbing & Mountaineering",
-    "url": "/s/oc-activity/a5UVX000001I2pB2AS"
-  },
-  {
     "audience": "Adults",
     "chapterId": "0015000001Sg066AAB",
     "costs": [],
@@ -19622,7 +19554,7 @@
     "name": "TRAIL TRACE THE BLUE HILLS - Olf Route 128 - 3 Hour Map Development",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-15",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-08",
     "registrationType": "Application",
     "startDate": "2026-09-16",
@@ -19723,5 +19655,107 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001I52H2AS"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.12,
+      "lon": -73.53
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-18",
+    "id": "a5UVX000001I53t2AC",
+    "leaders": [
+      "Mark Hawthorne"
+    ],
+    "location": {
+      "city": "Copake Falls",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Harlem Valley Rail Trail Harvest Venture!",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-16",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-09-19",
+    "registrationType": "Application",
+    "startDate": "2026-10-18",
+    "startTime": "11:00 AM",
+    "status": "Published",
+    "subType": "Road",
+    "timeZone": "US EST",
+    "type": "Biking",
+    "url": "/s/oc-activity/a5UVX000001I53t2AC"
+  },
+  {
+    "audience": "20’s & 30’s;Adults",
+    "chapterId": "0015000001Sg060AAB",
+    "coords": {
+      "lat": 43.73,
+      "lon": -71.56
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-04",
+    "id": "a5UVX000001I55V2AS",
+    "keywords": "PADDLE, SQUAM, KAYAK, DAY TRIP",
+    "leaders": [
+      "Robin Diamond"
+    ],
+    "location": {
+      "city": "Holderness",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Squam Lake Day Paddle",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-09-30",
+    "registration": "open",
+    "registrationOpenDate": "2026-09-08",
+    "registrationType": "Registration",
+    "secondaryType": "Paddling;Sailing",
+    "startDate": "2026-10-04",
+    "startTime": "10:30 AM",
+    "status": "Published",
+    "subType": "Sea",
+    "timeZone": "US EST",
+    "type": "Paddling",
+    "url": "/s/oc-activity/a5UVX000001I55V2AS"
+  },
+  {
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.27,
+      "lon": -73.18
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-19",
+    "id": "a5UVX000001I8BR2A0",
+    "keywords": "Appalachian Trail, AT, Volunteer",
+    "leaders": [
+      "Russell Skelton"
+    ],
+    "location": {
+      "city": "Tyringham",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Appalachian Trail Boundary Maintenance, Lee, MA",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-09-19",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Trail Work",
+    "timeZone": "US EST",
+    "type": "Trail Work",
+    "url": "/s/oc-activity/a5UVX000001I8BR2A0"
   }
 ]
