@@ -1663,7 +1663,7 @@
     "secondaryType": "Nature & Arts",
     "startDate": "2026-09-26",
     "startTime": "2:00 PM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -2647,7 +2647,7 @@
     "secondaryType": "Adventure Travel;Backpacking;Biking;Camping;Climbing & Mountaineering;Conservation;Fishing;Hiking, Local Walks, & Trail Running;Nature & Arts;Outdoor Leadership Training;Outdoor Learning Experience;Paddling;Sailing;Skiing;Snowshoeing;Social;Trail Work;Volunteer Opportunities;Wilderness First Aid;Windsurfing;Yoga",
     "startDate": "2026-09-16",
     "startTime": "6:00 PM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Meetings",
     "timeZone": "US EST",
     "type": "Social",
@@ -6136,7 +6136,7 @@
     "secondaryType": "Adventure Travel",
     "startDate": "2027-07-04",
     "startTime": "5:00 PM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Adventure Travel",
     "timeZone": "US EST",
     "type": "Adventure Travel",
@@ -7195,7 +7195,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-11",
     "startTime": "8:30 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -7555,7 +7555,7 @@
     "name": "Boston Chapter Hiking/Backpacking Committee Meeting",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-13",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-09",
     "registrationType": "Registration",
     "startDate": "2026-10-13",
@@ -8574,7 +8574,7 @@
     "registrationType": "Registration",
     "startDate": "2026-09-10",
     "startTime": "8:45 AM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -8736,7 +8736,7 @@
     "name": "Great Brook Farm State Park Hike and Farm Tour with Ice Cream 🐄🍦",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-09",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-08-31",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -12873,7 +12873,7 @@
     "registrationType": "Registration",
     "startDate": "2026-09-18",
     "startTime": "8:15 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -13002,7 +13002,7 @@
     "registrationType": "Registration",
     "startDate": "2026-09-09",
     "startTime": "6:00 PM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Local Socials",
     "timeZone": "US EST",
     "type": "Social",
@@ -13461,7 +13461,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-19",
     "startTime": "All Day",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -15441,6 +15441,38 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001HQn72AG"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.42,
+      "lon": -72.9
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-04",
+    "id": "a5UVX000001HQwn2AG",
+    "leaders": [
+      "Conrad Ward"
+    ],
+    "location": {
+      "city": "Hamden",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "New Haven Reads / AMC joint Sleeping Giant hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Volunteer Opportunities",
+    "startDate": "2026-10-04",
+    "startTime": "1:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001HQwn2AG"
   },
   {
     "chapterId": "0015000001Sg06DAAR",
@@ -18313,7 +18345,7 @@
     "name": "Family \"See the Dark\" Weekend at the Highland Center",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-06",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-09",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -19172,6 +19204,40 @@
     "url": "/s/oc-activity/a5UVX000001I4Nx2AK"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.19,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-13",
+    "id": "a5UVX000001I4fh2AC",
+    "leaders": [
+      "Lawrence Petrone"
+    ],
+    "location": {
+      "city": "Walpole",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "PROGRESSIVE HIKING SERIES FROM THE BLUE HILLS TO METRO WEST – HIKE #4",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-11",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-09-29",
+    "registrationType": "Registration",
+    "startDate": "2026-10-13",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001I4fh2AC"
+  },
+  {
     "chapterId": "0015000001Sg06EAAR",
     "coords": {
       "lat": 38.89,
@@ -19809,6 +19875,39 @@
     "url": "/s/oc-activity/a5UVX000001ICIH2A4"
   },
   {
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.1
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-26",
+    "id": "a5UVX000001ICQL2A4",
+    "leaders": [
+      "Kay Bowes"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Blue Hills hike - mixed back trails from Houghton's",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-09-25",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-09-11",
+    "registrationType": "Registration",
+    "startDate": "2026-09-26",
+    "startTime": "8:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001ICQL2A4"
+  },
+  {
     "chapterId": "0015000001Sg064AAB",
     "coords": {
       "lat": 40.75,
@@ -19940,5 +20039,36 @@
     "timeZone": "US EST",
     "type": "Social",
     "url": "/s/oc-activity/a5UVX000001ICgT2AW"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.09,
+      "lon": -75.45
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-19",
+    "id": "a5UVX000001IFkn2AG",
+    "leaders": [
+      "Pat Grannan"
+    ],
+    "location": {
+      "city": "King of Prussia",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Valley Forge Saturday Afternoon Hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-09-19",
+    "startTime": "1:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IFkn2AG"
   }
 ]
