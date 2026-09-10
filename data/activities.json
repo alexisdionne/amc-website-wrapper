@@ -1660,7 +1660,7 @@
     "name": "(20s/30s+) Wessels Series: Vernon Town Forest",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-07",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-10",
     "registrationType": "Application",
     "secondaryType": "Nature & Arts",
@@ -2403,7 +2403,7 @@
     "name": "Thursday hike at Norman Bird Sanctuary - Middletown, RI",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-30",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-10",
     "registrationType": "Application",
     "startDate": "2026-10-01",
@@ -3901,7 +3901,7 @@
     "secondaryType": "Conservation",
     "startDate": "2026-10-03",
     "startTime": "7:00 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -10620,39 +10620,6 @@
     "costs": [],
     "difficulty": 4,
     "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-09-14",
-    "id": "a5UVX000001GBq92AG",
-    "keywords": "Pennsylvania Highlands Trail Network Volunteer Trail Workday Quakertown Richland Township Corridor Clearing Brush Clearing",
-    "leaders": [
-      "Madison Nicole DeGerolamo"
-    ],
-    "location": {
-      "city": "Quakertown",
-      "country": "United States",
-      "state": "PA"
-    },
-    "name": "Trail Workday on the Pennsylvania Highlands Trail at Tollgate Landing",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Trail Work",
-    "startDate": "2026-09-14",
-    "startTime": "6:00 PM",
-    "status": "Published",
-    "subType": "Trail Work",
-    "timeZone": "US EST",
-    "type": "Trail Work",
-    "url": "/s/oc-activity/a5UVX000001GBq92AG"
-  },
-  {
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 40.42,
-      "lon": -75.36
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
     "endDate": "2026-09-30",
     "id": "a5UVX000001GBrl2AG",
     "keywords": "Pennsylvania Highlands Trail Network Volunteer Trail Workday Quakertown Richland Township Corridor Clearing Brush Clearing",
@@ -11075,7 +11042,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-18",
     "startTime": "All Day",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -15548,7 +15515,7 @@
     "endDate": "2026-10-06",
     "id": "a5UVX000001HSLt2AO",
     "leaders": [
-      "Gerard Campbell"
+      "Ann Rega"
     ],
     "location": {
       "city": "Milton",
@@ -15631,41 +15598,6 @@
     "timeZone": "US EST",
     "type": "Social",
     "url": "/s/oc-activity/a5UVX000001HSQj2AO"
-  },
-  {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg06DAAR",
-    "coords": {
-      "lat": 42.24,
-      "lon": -71.1
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-09-22",
-    "id": "a5UVX000001HSSL2A4",
-    "leaders": [
-      "Hiroko Hardebeck"
-    ],
-    "location": {
-      "city": "Milton",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "Fall Tuesday Morning Blue Hills Conditioning Series Hike #1",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-09-17",
-    "registration": "open",
-    "registrationOpenDate": "2026-08-30",
-    "registrationType": "Application",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-09-22",
-    "startTime": "9:45 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001HSSL2A4"
   },
   {
     "audience": "20’s & 30’s",
@@ -17053,7 +16985,7 @@
     "endDate": "2026-10-13",
     "id": "a5UVX000001HmVt2AK",
     "leaders": [
-      "Ann Rega"
+      "Gerard Campbell"
     ],
     "location": {
       "city": "Milton",
@@ -17397,7 +17329,7 @@
     "secondaryType": "Social",
     "startDate": "2026-09-15",
     "startTime": "6:30 PM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Local Socials",
     "timeZone": "US EST",
     "type": "Social",
@@ -17436,6 +17368,39 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001Ho6H2AS"
+  },
+  {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.41,
+      "lon": -71.15
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-10-29",
+    "id": "a5UVX000001Ho9V2AS",
+    "keywords": "girl winter, skiing, ski, film, tour, movie, social, snowboard, ride, AT, boston, arlington, tatte, girl, winter",
+    "leaders": [
+      "Emily Madsen"
+    ],
+    "location": {
+      "city": "Arlington",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Girl Winter Film Tour",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Skiing;Social",
+    "startDate": "2026-10-29",
+    "startTime": "5:30 PM",
+    "status": "Published",
+    "subType": "Backcountry",
+    "timeZone": "US EST",
+    "type": "Skiing",
+    "url": "/s/oc-activity/a5UVX000001Ho9V2AS"
   },
   {
     "chapterId": "0015000001Sg05xAAB",
@@ -18286,7 +18251,7 @@
     "registrationType": "Registration",
     "startDate": "2026-09-15",
     "startTime": "10:30 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Road",
     "timeZone": "US EST",
     "type": "Biking",
@@ -19848,6 +19813,65 @@
     "url": "/s/oc-activity/a5UVX000001IDcX2AW"
   },
   {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg05xAAB",
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-09-15",
+    "id": "a5UVX000001IDxV2AW",
+    "leaders": [
+      "Ethan Guertin"
+    ],
+    "location": {
+      "city": "Wendell",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "(20s/30s) Ruggles Pond Loop",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-09-15",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IDxV2AW"
+  },
+  {
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 42.45,
+      "lon": -71.88
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-18",
+    "id": "a5UVX000001IFRR2A4",
+    "leaders": [
+      "David Miller"
+    ],
+    "location": {
+      "city": "Princeton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Tarp Camping Workshop",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-10-17",
+    "startTime": "11:00 AM",
+    "status": "Published",
+    "subType": "Outdoor Learning Experience",
+    "timeZone": "US EST",
+    "type": "Outdoor Learning Experience",
+    "url": "/s/oc-activity/a5UVX000001IFRR2A4"
+  },
+  {
     "chapterId": "0015000001Sg06BAAR",
     "coords": {
       "lat": 40.09,
@@ -20202,6 +20226,42 @@
   },
   {
     "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.1
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-20",
+    "id": "a5UVX000001IIAn2AO",
+    "keywords": "Blue Hills; moderate",
+    "leaders": [
+      "Ken Cohen"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "PROGRESSIVE HIKING SERIES FROM THE BLUE HILLS TO METRO WEST – HIKE #5",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-18",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-10-06",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-20",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IIAn2AO"
+  },
+  {
+    "audience": "Adults",
     "chapterId": "0015000001Sg05zAAB",
     "coords": {
       "lat": 41.93,
@@ -20223,7 +20283,7 @@
     "name": "People’s State Forest, Barkhamsted, CT, Moderate",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-19",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-10",
     "registrationType": "Application",
     "startDate": "2026-10-22",
@@ -20233,6 +20293,38 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001IIIr2AO"
+  },
+  {
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 41.63,
+      "lon": -70.56
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-15",
+    "id": "a5UVX000001IINh2AO",
+    "keywords": "Cape Hikes",
+    "leaders": [
+      "John Gould"
+    ],
+    "location": {
+      "city": "East Falmouth",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Cape Hikes - Crane Wildlife Grasslands, East Falmouth",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-15",
+    "startTime": "12:45 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IINh2AO"
   },
   {
     "audience": "20’s & 30’s",
@@ -20299,5 +20391,202 @@
     "timeZone": "US EST",
     "type": "Biking",
     "url": "/s/oc-activity/a5UVX000001IJoP2AW"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 41.91,
+      "lon": -70.05
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-01",
+    "id": "a5UVX000001IJur2AG",
+    "keywords": "Cape Hikes",
+    "leaders": [
+      "Janet Kaiser"
+    ],
+    "location": {
+      "city": "Wellfleet",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Cape Hikes Griffin Island, Wellfleet",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-01",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IJur2AG"
+  },
+  {
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.9,
+      "lon": -72.07
+    },
+    "costs": [],
+    "difficulty": 6,
+    "difficultyLabel": "6 - Strenuous",
+    "endDate": "2026-10-06",
+    "id": "a5UVX000001IKxN2AW",
+    "leaders": [
+      "Margot Lacey"
+    ],
+    "location": {
+      "city": "Dublin",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Mount Monadnock via the Pumpelly Trail",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-05",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-09-21",
+    "registrationType": "Application",
+    "startDate": "2026-10-06",
+    "startTime": "8:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IKxN2AW"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.64,
+      "lon": -70.82
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-09-12",
+    "id": "a5UVX000001ILBt2AO",
+    "keywords": "Hamilton, Essex, North Shore, hike, Boston, AMC",
+    "leaders": [
+      "Marc Hurwitz"
+    ],
+    "location": {
+      "city": "South Hamilton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "John J. Donovan Reservation and Sagamore Hill Conservation Area, Hamilton and Essex",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-09-12",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001ILBt2AO"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.17,
+      "lon": -74.18
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-09-16",
+    "id": "a5UVX000001ILi92AG",
+    "leaders": [
+      "Hank Zupnick"
+    ],
+    "location": {
+      "city": "Sloatsburg",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Reeves Meadow to Pine Meadow Lake (Vigorous)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-09-16",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001ILi92AG"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 40.96,
+      "lon": -73.7
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-09-18",
+    "id": "a5UVX000001IMW92AO",
+    "leaders": [
+      "Steve Galla"
+    ],
+    "location": {
+      "city": "Rye",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Marshlands Conservancy Hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Nature Walks",
+    "startDate": "2026-09-18",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IMW92AO"
+  },
+  {
+    "audience": "Women+",
+    "chapterId": "0015000001Sg066AAB",
+    "coords": {
+      "lat": 41.9,
+      "lon": -71.79
+    },
+    "costs": [],
+    "difficulty": 6,
+    "difficultyLabel": "6 - Strenuous",
+    "endDate": "2026-09-27",
+    "id": "a5UVX000001IMZN2A4",
+    "leaders": [
+      "Nicole Perreault"
+    ],
+    "location": {
+      "city": "Glocester",
+      "country": "United States",
+      "state": "RI"
+    },
+    "name": "Fall 2026 Women's+ Crag Day - AMC Narragansett Chapter",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Climbing & Mountaineering",
+    "startDate": "2026-09-27",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Sport Rock",
+    "timeZone": "US EST",
+    "type": "Climbing & Mountaineering",
+    "url": "/s/oc-activity/a5UVX000001IMZN2A4"
   }
 ]
