@@ -3959,7 +3959,7 @@
     "name": "20s and 30s Madison via Madison Gulf Trail",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-12",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-08-29",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -5620,7 +5620,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-19",
     "startTime": "8:15 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -7989,7 +7989,7 @@
     },
     "name": "(20s/30s) Greenfield Gravel Grinder",
     "program": "Volunteer Led",
-    "registerByDate": "2026-09-11",
+    "registerByDate": "2026-09-13",
     "registration": "closed",
     "registrationOpenDate": "2026-08-02",
     "registrationType": "Application",
@@ -9294,7 +9294,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-12",
     "startTime": "11:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -12044,7 +12044,7 @@
     "name": "Belknaps Moderate Hike with a Scientific Learning Opportunity",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-02",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-12",
     "registrationType": "Application",
     "startDate": "2026-10-03",
@@ -13610,7 +13610,7 @@
     "name": "Mount Tom",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-16",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-12",
     "registrationType": "Application",
     "startDate": "2026-10-18",
@@ -15720,7 +15720,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-27",
     "startTime": "8:30 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -16906,38 +16906,6 @@
     "timeZone": "US EST",
     "type": "Skiing",
     "url": "/s/oc-activity/a5UVX000001Ho9V2AS"
-  },
-  {
-    "chapterId": "0015000001Sg05xAAB",
-    "coords": {
-      "lat": 43.75,
-      "lon": -74.06
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-10-10",
-    "id": "a5UVX000001Hpjt2AC",
-    "keywords": "paddling, whitewater, class 3",
-    "leaders": [
-      "Normand Labbe"
-    ],
-    "location": {
-      "city": "North River",
-      "country": "United States",
-      "state": "NY"
-    },
-    "name": "Hudson River Gorge Whitewater Paddling",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Application",
-    "startDate": "2026-10-10",
-    "startTime": "9:15 AM",
-    "status": "Published",
-    "subType": "Whitewater",
-    "timeZone": "US EST",
-    "type": "Paddling",
-    "url": "/s/oc-activity/a5UVX000001Hpjt2AC"
   },
   {
     "chapterId": "0015000001Sg06BAAR",
@@ -18935,39 +18903,6 @@
     "url": "/s/oc-activity/a5UVX000001ICIH2A4"
   },
   {
-    "chapterId": "0015000001Sg06DAAR",
-    "coords": {
-      "lat": 42.21,
-      "lon": -71.1
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-09-26",
-    "id": "a5UVX000001ICQL2A4",
-    "leaders": [
-      "Kay Bowes"
-    ],
-    "location": {
-      "city": "Milton",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "Blue Hills hike - mixed back trails from Houghton's",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-09-25",
-    "registration": "open",
-    "registrationOpenDate": "2026-09-11",
-    "registrationType": "Registration",
-    "startDate": "2026-09-26",
-    "startTime": "8:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001ICQL2A4"
-  },
-  {
     "chapterId": "0015000001Sg064AAB",
     "coords": {
       "lat": 40.75,
@@ -19868,7 +19803,7 @@
     "registrationType": "Show & Go",
     "startDate": "2026-09-12",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -20367,8 +20302,12 @@
     "url": "/s/oc-activity/a5UVX000001IQI12AO"
   },
   {
-    "audience": "Adults",
+    "audience": "20’s & 30’s;Adults",
     "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.54,
+      "lon": -72.61
+    },
     "costs": [],
     "difficulty": 3,
     "difficultyLabel": "3 - Easy",
@@ -20462,6 +20401,37 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001ISi12AG"
+  },
+  {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.23,
+      "lon": -71.06
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-23",
+    "id": "a5UVX000001ITW12AO",
+    "leaders": [
+      "William Doherty"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "TRAIL TRACE THE BLUE HILLS - BUCK HILL NORTH  - 3 Hour Map Development",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-09-23",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001ITW12AO"
   },
   {
     "audience": "Adults",
@@ -20628,6 +20598,39 @@
     "url": "/s/oc-activity/a5UVX000001IUOr2AO"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 38.79,
+      "lon": -106.53
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-09-24",
+    "id": "a5UVX000001IUWv2AO",
+    "keywords": "Cape Hikes",
+    "leaders": [
+      "Sandra Alisch"
+    ],
+    "location": {
+      "city": "Sagamore",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Cape Hikes--Sagamore Hills/Cape Cod Canal Sagamore MA",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-09-24",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IUWv2AO"
+  },
+  {
     "chapterId": "0015000001Sg064AAB",
     "coords": {
       "lat": 41.21,
@@ -20659,5 +20662,37 @@
     "timeZone": "US EST",
     "type": "Nature & Arts",
     "url": "/s/oc-activity/a5UVX000001IUbl2AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.48,
+      "lon": -72.08
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-13",
+    "id": "a5UVX000001IUdN2AW",
+    "leaders": [
+      "June Powell"
+    ],
+    "location": {
+      "city": "Montville",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Fort Shantock, Uncasville (Montville)  - C3 C/D easy",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-13",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IUdN2AW"
   }
 ]
