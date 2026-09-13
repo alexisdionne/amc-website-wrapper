@@ -6802,12 +6802,12 @@
     "name": "White Mountain 4,000 Footer Double Series #4 - Mount North Kinsman & Mount South Kinsman",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-09",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-13",
     "registrationType": "Application",
     "startDate": "2026-10-17",
     "startTime": "7:45 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -7901,7 +7901,7 @@
     "name": "(20s/30s) Greenfield Gravel Grinder",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-13",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-08-02",
     "registrationType": "Application",
     "secondaryType": "Biking",
@@ -9485,7 +9485,7 @@
     "name": "Fitness Hike – Rocky Woods",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-13",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-08-17",
     "registrationType": "Registration",
     "startDate": "2026-09-15",
@@ -10382,42 +10382,11 @@
     "registrationType": "Application",
     "startDate": "2026-10-10",
     "startTime": "7:30 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001GU4n2AG"
-  },
-  {
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 40.41,
-      "lon": -75.03
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-09-13",
-    "id": "a5UVX000001GUHh2AO",
-    "leaders": [
-      "Tammy Brown"
-    ],
-    "location": {
-      "city": "Stockton",
-      "country": "United States",
-      "state": "NJ"
-    },
-    "name": "Scenic Canal Path Loop Bicycle Ride",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "startDate": "2026-09-13",
-    "startTime": "9:00 AM",
-    "status": "Published",
-    "subType": "Gravel",
-    "timeZone": "US EST",
-    "type": "Biking",
-    "url": "/s/oc-activity/a5UVX000001GUHh2AO"
   },
   {
     "audience": "20’s & 30’s",
@@ -11781,6 +11750,7 @@
     },
     "name": "AMC150 Wrap Party",
     "program": "AMC 150",
+    "registerByDate": "2026-09-13",
     "registration": "open",
     "registrationType": "Registration",
     "secondaryType": "Social",
@@ -13182,6 +13152,39 @@
     "url": "/s/oc-activity/a5UVX000001HFtJ2AW"
   },
   {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.3,
+      "lon": -71.12
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-17",
+    "id": "a5UVX000001HIET2A4",
+    "leaders": [
+      "Jonathan Unger"
+    ],
+    "location": {
+      "city": "Boston",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Hike the Emerald Necklace in Autumn",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-15",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-10-01",
+    "registrationType": "Application",
+    "startDate": "2026-10-17",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001HIET2A4"
+  },
+  {
     "audience": "Adults",
     "chapterId": "0015000001Sg05zAAB",
     "coords": {
@@ -13829,7 +13832,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-19",
     "startTime": "1:00 PM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Whitewater",
     "timeZone": "US EST",
     "type": "Paddling",
@@ -14092,7 +14095,7 @@
     "secondaryType": "Biking",
     "startDate": "2026-10-01",
     "startTime": "5:30 PM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Road",
     "timeZone": "US EST",
     "type": "Biking",
@@ -17006,7 +17009,7 @@
     "endDate": "2026-09-15",
     "id": "a5UVX000001I0gv2AC",
     "leaders": [
-      "William Belben"
+      "Patricia Everett"
     ],
     "location": {
       "city": "Milton",
@@ -17024,42 +17027,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001I0gv2AC"
-  },
-  {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg061AAB",
-    "coords": {
-      "lat": 42.64,
-      "lon": -71.11
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-09-13",
-    "id": "a5UVX000001I11t2AC",
-    "keywords": "Ward Reservation, The Trustees, Bay Circuit Trail",
-    "leaders": [
-      "Richard Lombard"
-    ],
-    "location": {
-      "city": "Andover",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "LET'S HIKE THE SOUTHERN SECTION OF WARD RESERVATION",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-09-12",
-    "registration": "closed",
-    "registrationOpenDate": "2026-09-06",
-    "registrationType": "Registration",
-    "secondaryType": "Outdoor Leadership Training",
-    "startDate": "2026-09-13",
-    "startTime": "10:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001I11t2AC"
   },
   {
     "audience": "Adults",
@@ -19861,6 +19828,39 @@
     "url": "/s/oc-activity/a5UVX000001IVSz2AO"
   },
   {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.23,
+      "lon": -71.06
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-26",
+    "id": "a5UVX000001IVXp2AO",
+    "leaders": [
+      "Joanne Newton"
+    ],
+    "location": {
+      "city": "Canton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "TRAIL TRACE THE BLUE HILLS - Old Route 128 East to Buck Hill  - 3 Hour Map Development",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-09-25",
+    "registration": "open",
+    "registrationOpenDate": "2026-09-12",
+    "registrationType": "Application",
+    "startDate": "2026-09-26",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IVXp2AO"
+  },
+  {
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg064AAB",
     "coords": {
@@ -19893,6 +19893,73 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001IVZR2A4"
+  },
+  {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.09
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-07",
+    "id": "a5UVX000001IVb32AG",
+    "leaders": [
+      "Joanne Newton"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Winter Workshop at The Blue Hills Reservation",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-06",
+    "registration": "open",
+    "registrationOpenDate": "2026-09-12",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-07",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IVb32AG"
+  },
+  {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 44.04,
+      "lon": -71.79
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-11-07",
+    "id": "a5UVX000001IVeH2AW",
+    "keywords": "Moosilauke",
+    "leaders": [
+      "Peter Monnes"
+    ],
+    "location": {
+      "city": "Woodstock",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "The Moos in Fall (Mt Moosilauke)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-07",
+    "startTime": "8:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IVeH2AW"
   },
   {
     "chapterId": "0015000001Sg064AAB",
@@ -20026,5 +20093,70 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001IVsn2AG"
+  },
+  {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.23,
+      "lon": -71.06
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-30",
+    "id": "a5UVX000001IW5h2AG",
+    "leaders": [
+      "William Doherty"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "TRAIL TRACE THE BLUE HILLS - CARBERRY - 3 Hour Map Development",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-09-30",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IW5h2AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.61
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-10-02",
+    "id": "a5UVX000001IX9p2AG",
+    "leaders": [
+      "Patricia Lambert"
+    ],
+    "location": {
+      "city": "Upton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "October Early Morning Fitness Hike",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-09-30",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-09-14",
+    "registrationType": "Application",
+    "startDate": "2026-10-02",
+    "startTime": "6:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IX9p2AG"
   }
 ]
