@@ -611,7 +611,7 @@
     "secondaryType": "Outdoor Leadership Training",
     "startDate": "2026-10-03",
     "startTime": "8:00 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Wilderness First Aid",
     "timeZone": "US EST",
     "type": "Wilderness First Aid",
@@ -2241,6 +2241,7 @@
     },
     "name": "Bay Circuit Trail Women's Hike Series - Sudbury Reservoir",
     "program": "Volunteer Led",
+    "registerByDate": "2026-09-22",
     "registration": "open",
     "registrationType": "Registration",
     "startDate": "2026-09-24",
@@ -2509,13 +2510,13 @@
     "name": "Fall Backpacking at Ethan Pond: Willey, Field & Tom Traverse",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-12",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-14",
     "registrationType": "Application",
     "secondaryType": "Backpacking",
     "startDate": "2026-10-16",
     "startTime": "All Day",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -3172,6 +3173,38 @@
   },
   {
     "chapterId": "0015000001TGzFBAA1",
+    "coords": {
+      "lat": 36.74,
+      "lon": -119.79
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2027-09-19",
+    "id": "a5UVX00000175bt2AA",
+    "leaders": [
+      "Leslie Carson"
+    ],
+    "location": {
+      "city": "Fresno",
+      "country": "United States",
+      "state": "CA"
+    },
+    "name": "Day Hiking in Sequoia / Kings Canyon National Parks (#2731)",
+    "program": "Adventure Travel",
+    "registration": "open",
+    "registrationType": "Application",
+    "secondaryType": "Adventure Travel",
+    "startDate": "2027-09-11",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "Adventure Travel",
+    "timeZone": "US EST",
+    "type": "Adventure Travel",
+    "url": "/s/oc-activity/a5UVX00000175bt2AA"
+  },
+  {
+    "chapterId": "0015000001TGzFBAA1",
     "costs": [],
     "difficulty": 5,
     "difficultyLabel": "5 - Vigorous",
@@ -3573,37 +3606,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX0000017viX2AQ"
-  },
-  {
-    "chapterId": "0015000001TGzFBAA1",
-    "coords": {
-      "lat": 9.76,
-      "lon": -84.19
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2027-03-17",
-    "id": "a5UVX0000018CRd2AM",
-    "leaders": [
-      "Leslie Carson"
-    ],
-    "location": {
-      "city": "san jose",
-      "country": "Costa Rica"
-    },
-    "name": "Costa Rica Rainforest and Coastal Adventure (#2719)",
-    "program": "Adventure Travel",
-    "registration": "open",
-    "registrationType": "Application",
-    "secondaryType": "Adventure Travel",
-    "startDate": "2027-03-08",
-    "startTime": "All Day",
-    "status": "Published",
-    "subType": "Adventure Travel",
-    "timeZone": "US EST",
-    "type": "Adventure Travel",
-    "url": "/s/oc-activity/a5UVX0000018CRd2AM"
   },
   {
     "audience": "20’s & 30’s",
@@ -4749,13 +4751,13 @@
     "name": "Family hike on the Welch Dickey loop!",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-06",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-14",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-10-11",
     "startTime": "All Day",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5097,7 +5099,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-20",
     "startTime": "10:00 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -6632,7 +6634,7 @@
     "name": "Cycling the Berkshires:  Great Barrington to Southfield",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-04",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-14",
     "registrationType": "Application",
     "startDate": "2026-10-07",
@@ -7603,7 +7605,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-26",
     "startTime": "7:30 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -9284,7 +9286,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-22",
     "startTime": "9:45 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -9709,7 +9711,7 @@
     "name": "Harvey Mountain and Pinnacle Point Loop (Harvey Mountain State Forest)",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-14",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-08-21",
     "registrationType": "Registration",
     "startDate": "2026-09-15",
@@ -9778,7 +9780,7 @@
     "name": "Thursday hike at Rocky Woods",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-23",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-14",
     "registrationType": "Registration",
     "startDate": "2026-09-24",
@@ -10607,6 +10609,42 @@
     "url": "/s/oc-activity/a5UVX000001GfLB2A0"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 41.69,
+      "lon": -70.61
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-11-07",
+    "id": "a5UVX000001Gfpp2AC",
+    "keywords": "Winter Hiking",
+    "leaders": [
+      "William Belben"
+    ],
+    "location": {
+      "city": "Bourne",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "SEM Winter Hiking Workshop",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-05",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-09-15",
+    "registrationType": "Registration",
+    "secondaryType": "Snowshoeing",
+    "startDate": "2026-11-07",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Gfpp2AC"
+  },
+  {
     "chapterId": "001UN00000bpnMdYAI",
     "coords": {
       "lat": 44.26,
@@ -11181,7 +11219,7 @@
     "name": "AMC150 Wrap Party",
     "program": "AMC 150",
     "registerByDate": "2026-09-13",
-    "registration": "open",
+    "registration": "closed",
     "registrationType": "Registration",
     "secondaryType": "Social",
     "startDate": "2026-09-19",
@@ -12275,7 +12313,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-20",
     "startTime": "7:45 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -13197,7 +13235,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-19",
     "startTime": "1:00 PM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Whitewater",
     "timeZone": "US EST",
     "type": "Paddling",
@@ -16104,7 +16142,7 @@
       "lon": -71.88
     },
     "costs": [
-      463.56
+      596.3
     ],
     "difficulty": 2,
     "difficultyLabel": "2 - Relaxed",
@@ -16218,7 +16256,7 @@
     "name": "Maine Woods Lodge-to-Lodge Ski Adventure",
     "program": "Volunteer Led",
     "registerByDate": "2027-01-03",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-14",
     "registrationType": "Application",
     "secondaryType": "Snowshoeing",
@@ -16356,7 +16394,7 @@
     "registrationType": "Registration",
     "startDate": "2026-09-20",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -16516,7 +16554,7 @@
     "name": "Cycling from Bernardston MA to Guilford VT",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-08",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-14",
     "registrationType": "Application",
     "secondaryType": "Biking",
@@ -17479,7 +17517,7 @@
     "name": "Give Back to the Trails: Pleasant Mountain Fall Cleanup",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-02",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-14",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -17578,7 +17616,7 @@
     "name": "Fall Hike of Caribou Mountain (Evans Notch)",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-05",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-14",
     "registrationType": "Registration",
     "startDate": "2026-10-10",
@@ -18205,6 +18243,39 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001ILi92AG"
+  },
+  {
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.34,
+      "lon": -72.58
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-14",
+    "id": "a5UVX000001IM7x2AG",
+    "keywords": "Climbing",
+    "leaders": [
+      "Danielle Rich"
+    ],
+    "location": {
+      "city": "Hadley",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Gym Climbing at CRG Hadley",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Climbing & Mountaineering",
+    "startDate": "2026-10-14",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Gym",
+    "timeZone": "US EST",
+    "type": "Climbing & Mountaineering",
+    "url": "/s/oc-activity/a5UVX000001IM7x2AG"
   },
   {
     "chapterId": "0015000001Sg05xAAB",
@@ -19454,6 +19525,39 @@
   },
   {
     "audience": "Adults",
+    "chapterId": "0015000001Sg060AAB",
+    "coords": {
+      "lat": 43.65,
+      "lon": -71.91
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-30",
+    "id": "a5UVX000001IX4z2AG",
+    "keywords": "Firescrew over Cardigan",
+    "leaders": [
+      "Terri Wilson"
+    ],
+    "location": {
+      "city": "Orange",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Firescrew - Cardigan",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-09-30",
+    "startTime": "8:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IX4z2AG"
+  },
+  {
+    "audience": "Adults",
     "chapterId": "0015000001Sg069AAB",
     "coords": {
       "lat": 42.21,
@@ -19475,7 +19579,7 @@
     "name": "October Early Morning Fitness Hike",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-30",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-14",
     "registrationType": "Application",
     "startDate": "2026-10-02",
@@ -19779,6 +19883,38 @@
     "url": "/s/oc-activity/a5UVX000001IXsz2AG"
   },
   {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.37,
+      "lon": -74.95
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-28",
+    "id": "a5UVX000001IY132AG",
+    "keywords": "hike halloween moderate",
+    "leaders": [
+      "Marcia Telthorster"
+    ],
+    "location": {
+      "city": "Lambertville",
+      "country": "United States",
+      "state": "NJ"
+    },
+    "name": "Lambertville to Stockton with a detour for Halloween Houses on N. Union street",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-28",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IY132AG"
+  },
+  {
     "chapterId": "0015000001Sg064AAB",
     "coords": {
       "lat": 40.59,
@@ -19842,5 +19978,307 @@
     "timeZone": "US EST",
     "type": "Paddling",
     "url": "/s/oc-activity/a5UVX000001IY5t2AG"
+  },
+  {
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.09
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-03",
+    "id": "a5UVX000001IY972AG",
+    "leaders": [
+      "Janet Harris"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Fall Tuesday Morning Blue Hills Hike Series #7",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-01",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-10-13",
+    "registrationType": "Registration",
+    "startDate": "2026-11-03",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IY972AG"
+  },
+  {
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.24,
+      "lon": -71.1
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-01",
+    "id": "a5UVX000001IYAj2AO",
+    "leaders": [
+      "Janet Harris"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Fall Tuesday Morning Blue Hills Conditioning Hike Series #11",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-29",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-11-10",
+    "registrationType": "Application",
+    "startDate": "2026-12-01",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IYAj2AO"
+  },
+  {
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.33,
+      "lon": -71.17
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-14",
+    "id": "a5UVX000001IYFZ2A4",
+    "leaders": [
+      "Janet Harris"
+    ],
+    "location": {
+      "city": "Newton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Saturday Morning Boston City On The Hills Trail",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-12",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-10-24",
+    "registrationType": "Registration",
+    "startDate": "2026-11-14",
+    "startTime": "8:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IYFZ2A4"
+  },
+  {
+    "chapterId": "0015000001Sg060AAB",
+    "coords": {
+      "lat": 43.65,
+      "lon": -71.88
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-25",
+    "id": "a5UVX000001IYNd2AO",
+    "keywords": "Orienteering, compass, map",
+    "leaders": [
+      "MJo McCarthy"
+    ],
+    "location": {
+      "city": "Alexandria",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Orienteering Hike / Map & Compass Refresher",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "secondaryType": "Outdoor Learning Experience",
+    "startDate": "2026-10-25",
+    "startTime": "8:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IYNd2AO"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 41.72,
+      "lon": -74.2
+    },
+    "costs": [
+      30
+    ],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-12",
+    "id": "a5UVX000001IZLJ2A4",
+    "leaders": [
+      "Seda Salar"
+    ],
+    "location": {
+      "city": "Gardiner",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "[BCMC] AMC Boston Climbers' Annual Fall Frolic Weekend’26",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-04",
+    "registration": "open",
+    "registrationOpenDate": "2026-09-14",
+    "registrationType": "Application",
+    "secondaryType": "Camping",
+    "startDate": "2026-10-09",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "Top Rope Rock",
+    "timeZone": "US EST",
+    "type": "Climbing & Mountaineering",
+    "url": "/s/oc-activity/a5UVX000001IZLJ2A4"
+  },
+  {
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.67,
+      "lon": -73.17
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-12-31",
+    "id": "a5UVX000001IZRl2AO",
+    "keywords": "Appalachian Trail, Volunteer, AT, AT Shelter",
+    "leaders": [
+      "Cosmo Catalano"
+    ],
+    "location": {
+      "city": "Adams",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "AT Shelter Adopter--Wilbur Clearing",
+    "program": "Volunteer Opportunity",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Volunteer Opportunities",
+    "startDate": "2026-09-20",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "Trail Work",
+    "timeZone": "US EST",
+    "type": "Volunteer Opportunities",
+    "url": "/s/oc-activity/a5UVX000001IZRl2AO"
+  },
+  {
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.14,
+      "lon": -72.86
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-25",
+    "id": "a5UVX000001IZrZ2AW",
+    "keywords": "Volunteer, Wood, Splitting, Noble View, Firewood, Axe, Campground",
+    "leaders": [
+      "Connor Piechota"
+    ],
+    "location": {
+      "city": "Russell",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Noble View Wood Splitting Day",
+    "program": "Volunteer Opportunity",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Volunteer Opportunities",
+    "startDate": "2026-09-25",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "All Volunteer Opportunities",
+    "timeZone": "US EST",
+    "type": "Volunteer Opportunities",
+    "url": "/s/oc-activity/a5UVX000001IZrZ2AW"
+  },
+  {
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.14,
+      "lon": -72.86
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-10",
+    "id": "a5UVX000001IZun2AG",
+    "keywords": "Volunteer, Wood, Splitting, Noble View, Firewood, Axe, Campground",
+    "leaders": [
+      "Connor Piechota"
+    ],
+    "location": {
+      "city": "Russell",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Fall Wood Splitting Day at Noble View",
+    "program": "Volunteer Opportunity",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Volunteer Opportunities",
+    "startDate": "2026-10-10",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "All Volunteer Opportunities",
+    "timeZone": "US EST",
+    "type": "Volunteer Opportunities",
+    "url": "/s/oc-activity/a5UVX000001IZun2AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.12,
+      "lon": -70.78
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-16",
+    "id": "a5UVX000001Ic1R2AS",
+    "keywords": "hiking, conservation",
+    "leaders": [
+      "Zoe Rath"
+    ],
+    "location": {
+      "city": "Norwell",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Friday Hike in Norwell: Stetson Meadows",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Conservation",
+    "startDate": "2026-10-16",
+    "startTime": "4:30 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Ic1R2AS"
   }
 ]
