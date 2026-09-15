@@ -942,42 +942,6 @@
     "audience": "Adults",
     "chapterId": "0015000001Sg065AAB",
     "coords": {
-      "lat": 45.67,
-      "lon": -69.32
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-09-14",
-    "id": "a5UUN000001xjmv2AA",
-    "keywords": "Trail Work, Conservation, Hiking",
-    "leaders": [
-      "Rota Knott"
-    ],
-    "location": {
-      "city": "Greenville",
-      "country": "United States",
-      "state": "ME"
-    },
-    "name": "Maine Woods Trail and Boundary Work Weekend at Medawisla Lodge",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-09-08",
-    "registration": "closed",
-    "registrationOpenDate": "2026-01-02",
-    "registrationType": "Application",
-    "secondaryType": "Conservation;Hiking, Local Walks, & Trail Running;Outdoor Learning Experience",
-    "startDate": "2026-09-11",
-    "startTime": "4:00 PM",
-    "status": "Published",
-    "subType": "Trail Work",
-    "timeZone": "US EST",
-    "type": "Trail Work",
-    "url": "/s/oc-activity/a5UUN000001xjmv2AA"
-  },
-  {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg065AAB",
-    "coords": {
       "lat": 45.52,
       "lon": -69.36
     },
@@ -1235,38 +1199,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UUN0000027pSr2AI"
-  },
-  {
-    "audience": "20’s & 30’s",
-    "chapterId": "0015000001Sg061AAB",
-    "coords": {
-      "lat": 42.36,
-      "lon": -71.06
-    },
-    "costs": [],
-    "difficulty": 1,
-    "difficultyLabel": "1 - Accessible",
-    "endDate": "2026-09-14",
-    "id": "a5UUN0000028JHF2A2",
-    "leaders": [
-      "James Dempsey"
-    ],
-    "location": {
-      "city": "Boston",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "20s & 30s Steering Committee - September",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2026-09-14",
-    "startTime": "6:30 PM",
-    "status": "Published",
-    "subType": "Meetings",
-    "timeZone": "US EST",
-    "type": "Social",
-    "url": "/s/oc-activity/a5UUN0000028JHF2A2"
   },
   {
     "audience": "20’s & 30’s",
@@ -2516,7 +2448,7 @@
     "secondaryType": "Backpacking",
     "startDate": "2026-10-16",
     "startTime": "All Day",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -6872,7 +6804,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-24",
     "startTime": "5:30 PM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Backpacking",
     "timeZone": "US EST",
     "type": "Backpacking",
@@ -8665,7 +8597,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-19",
     "startTime": "8:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -9544,7 +9476,7 @@
     "name": "Adams and Madison in early Fall via Air Line",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-09",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-14",
     "registrationType": "Registration",
     "startDate": "2026-10-17",
@@ -10062,39 +9994,6 @@
     "costs": [],
     "difficulty": 3,
     "difficultyLabel": "3 - Easy",
-    "endDate": "2026-09-14",
-    "id": "a5UVX000001GbuH2AS",
-    "keywords": "Nature, walk, free, public, naturalist, programming, program, hike, short, guided, education, educational, wildlife, plants, Elephant Head, Highland Center, Highland, white mountains",
-    "leaders": [
-      "AMC Naturalist"
-    ],
-    "location": {
-      "city": "Carroll",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "Nature Walk: Elephant Head",
-    "program": "Naturalist Program",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-09-14",
-    "startTime": "9:00 AM",
-    "status": "Published",
-    "subType": "Nature Walks",
-    "timeZone": "US EST",
-    "type": "Nature Walks",
-    "url": "/s/oc-activity/a5UVX000001GbuH2AS"
-  },
-  {
-    "chapterId": "001UN00000bpnMdYAI",
-    "coords": {
-      "lat": 44.22,
-      "lon": -71.41
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
     "endDate": "2026-09-19",
     "id": "a5UVX000001Gc3x2AC",
     "keywords": "Nature, walk, free, public, naturalist, programming, program, hike, short, guided, education, educational, wildlife, plants, Around the Lake, Highland Center, Highland, white mountains",
@@ -10577,38 +10476,6 @@
     "url": "/s/oc-activity/a5UVX000001GfD72AK"
   },
   {
-    "chapterId": "0015000001Sg069AAB",
-    "coords": {
-      "lat": 42.38,
-      "lon": -71.85
-    },
-    "costs": [],
-    "difficulty": 2,
-    "difficultyLabel": "2 - Relaxed",
-    "endDate": "2026-09-14",
-    "id": "a5UVX000001GfLB2A0",
-    "keywords": "walk, local, hike, rutland, worcester, holden, bolyston, rail trail",
-    "leaders": [
-      "Laura Reynolds"
-    ],
-    "location": {
-      "city": "Holden",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "Early Morning Rail Trail Stroll",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Application",
-    "startDate": "2026-09-14",
-    "startTime": "6:45 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001GfLB2A0"
-  },
-  {
     "audience": "Adults",
     "chapterId": "0015000001Sg06DAAR",
     "coords": {
@@ -10643,39 +10510,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001Gfpp2AC"
-  },
-  {
-    "chapterId": "001UN00000bpnMdYAI",
-    "coords": {
-      "lat": 44.26,
-      "lon": -71.25
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-09-14",
-    "id": "a5UVX000001GfzV2AS",
-    "keywords": "mindfulness, Nature, walk, free, public, naturalist, programming, program, hike, short, guided, education, educational, wildlife, plants, Lost Pond, Pinkham, Pinkham Notch, white mountains",
-    "leaders": [
-      "AMC Naturalist"
-    ],
-    "location": {
-      "city": "Gorham",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "Mindfulness in Nature: Hike to Lost Pond",
-    "program": "Naturalist Program",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-09-14",
-    "startTime": "9:00 AM",
-    "status": "Published",
-    "subType": "Nature Walks",
-    "timeZone": "US EST",
-    "type": "Nature Walks",
-    "url": "/s/oc-activity/a5UVX000001GfzV2AS"
   },
   {
     "chapterId": "001UN00000bpnMdYAI",
@@ -11265,38 +11099,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001Gr7p2AC"
-  },
-  {
-    "chapterId": "0015000001Sg060AAB",
-    "coords": {
-      "lat": 43.06,
-      "lon": -71.29
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-09-14",
-    "id": "a5UVX000001Griv2AC",
-    "leaders": [
-      "Terri Stinn"
-    ],
-    "location": {
-      "city": "Candia",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "Tower Hill Pond and Beyond",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Application",
-    "secondaryType": "Outdoor Learning Experience",
-    "startDate": "2026-09-14",
-    "startTime": "8:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001Griv2AC"
   },
   {
     "chapterId": "001UN00000bpnMdYAI",
@@ -12307,7 +12109,7 @@
     "name": "Crawford-Ridgepole Traverse",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-14",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-08-29",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -13759,7 +13561,7 @@
     "registrationType": "Registration",
     "startDate": "2026-09-20",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -15080,38 +14882,6 @@
     "costs": [],
     "difficulty": 3,
     "difficultyLabel": "3 - Easy",
-    "endDate": "2026-09-14",
-    "id": "a5UVX000001HmkP2AS",
-    "keywords": "hiking, walks, dog walk, Phoenixville",
-    "leaders": [
-      "Jay Gross"
-    ],
-    "location": {
-      "city": "Phoenixville",
-      "country": "United States",
-      "state": "PA"
-    },
-    "name": "Monday Evening Hike in Phoenixville",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "startDate": "2026-09-14",
-    "startTime": "6:30 PM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001HmkP2AS"
-  },
-  {
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 40.13,
-      "lon": -75.48
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
     "endDate": "2026-09-21",
     "id": "a5UVX000001HmpF2AS",
     "keywords": "hiking, walks, dog walk, Phoenixville",
@@ -15436,37 +15206,6 @@
     "timeZone": "US EST",
     "type": "Paddling",
     "url": "/s/oc-activity/a5UVX000001Hpjt2AC"
-  },
-  {
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 39.96,
-      "lon": -74.64
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-09-14",
-    "id": "a5UVX000001HpqL2AS",
-    "leaders": [
-      "Michael Ahern"
-    ],
-    "location": {
-      "city": "Pemberton Township",
-      "country": "United States",
-      "state": "NJ"
-    },
-    "name": "Rancocas Creek Paddle 6 miles",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2026-09-14",
-    "startTime": "9:30 AM",
-    "status": "Published",
-    "subType": "Flatwater",
-    "timeZone": "US EST",
-    "type": "Paddling",
-    "url": "/s/oc-activity/a5UVX000001HpqL2AS"
   },
   {
     "audience": "Adults",
@@ -16295,7 +16034,7 @@
     "secondaryType": "Biking",
     "startDate": "2026-10-03",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Road",
     "timeZone": "US EST",
     "type": "Biking",
@@ -16369,6 +16108,39 @@
     "audience": "Adults",
     "chapterId": "0015000001Sg061AAB",
     "coords": {
+      "lat": 44.14,
+      "lon": -71.68
+    },
+    "costs": [],
+    "difficulty": 6,
+    "difficultyLabel": "6 - Strenuous",
+    "endDate": "2026-10-12",
+    "id": "a5UVX000001I0ll2AC",
+    "keywords": "Franconia",
+    "leaders": [
+      "Eileen Brennan"
+    ],
+    "location": {
+      "city": "Franconia",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Fall Hike of Franconia Ridge",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-10-12",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001I0ll2AC"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
       "lat": 43.12,
       "lon": -71.37
     },
@@ -16430,40 +16202,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001I2KX2A0"
-  },
-  {
-    "chapterId": "0015000001Sg061AAB",
-    "coords": {
-      "lat": 42.21,
-      "lon": -71.08
-    },
-    "costs": [],
-    "difficulty": 2,
-    "difficultyLabel": "2 - Relaxed",
-    "endDate": "2026-09-14",
-    "id": "a5UVX000001I2Nl2AK",
-    "keywords": "trailwork",
-    "leaders": [
-      "Joanne Newton"
-    ],
-    "location": {
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "Hiking with Trailwork in the Blue Hills",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-09-13",
-    "registration": "closed",
-    "registrationOpenDate": "2026-09-06",
-    "registrationType": "Registration",
-    "secondaryType": "Trail Work",
-    "startDate": "2026-09-14",
-    "startTime": "10:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001I2Nl2AK"
   },
   {
     "chapterId": "0015000001Sg061AAB",
@@ -17118,38 +16856,6 @@
     "url": "/s/oc-activity/a5UVX000001I8Un2AK"
   },
   {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg061AAB",
-    "coords": {
-      "lat": 42.44,
-      "lon": -71.1
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-09-14",
-    "id": "a5UVX000001I9Nd2AK",
-    "leaders": [
-      "Valentina Harrison"
-    ],
-    "location": {
-      "city": "Medford",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "Evening Trail Run in the Middlesex Fells",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Application",
-    "startDate": "2026-09-14",
-    "startTime": "6:00 PM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001I9Nd2AK"
-  },
-  {
     "chapterId": "0015000001Sg06EAAR",
     "coords": {
       "lat": 38.33,
@@ -17401,6 +17107,39 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001ICIH2A4"
+  },
+  {
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.1
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-26",
+    "id": "a5UVX000001ICQL2A4",
+    "leaders": [
+      "Kay Bowes"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Blue Hills hike - mixed back trails from Houghton's",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-09-25",
+    "registration": "open",
+    "registrationOpenDate": "2026-09-11",
+    "registrationType": "Application",
+    "startDate": "2026-09-26",
+    "startTime": "8:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001ICQL2A4"
   },
   {
     "chapterId": "0015000001Sg064AAB",
@@ -19225,7 +18964,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-19",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -19790,6 +19529,40 @@
     "url": "/s/oc-activity/a5UVX000001IXPx2AO"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.09
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-03",
+    "id": "a5UVX000001IXZd2AO",
+    "leaders": [
+      "Sandra Alisch"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "TRAIL TRACE THE BLUE HILLS - Unquity to Bartol - 3 Hour Map Development",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-02",
+    "registration": "open",
+    "registrationOpenDate": "2026-09-14",
+    "registrationType": "Application",
+    "startDate": "2026-10-03",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IXZd2AO"
+  },
+  {
     "chapterId": "0015000001Sg06BAAR",
     "coords": {
       "lat": 40.23,
@@ -19853,6 +19626,70 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001IXg52AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 44.05,
+      "lon": -71.13
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-10-25",
+    "id": "a5UVX000001IXkv2AG",
+    "leaders": [
+      "Kaitlyn Hung"
+    ],
+    "location": {
+      "city": "Albany",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Women’s+ Hiking Series: The Moats",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-10-25",
+    "startTime": "8:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IXkv2AG"
+  },
+  {
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.16,
+      "lon": -71.32
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-19",
+    "id": "a5UVX000001IXmX2AW",
+    "leaders": [
+      "Leonard Ulbricht"
+    ],
+    "location": {
+      "city": "Medfield",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Thursday Morning Hike - Noon Hill Conservation Properties, Medfield",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-19",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IXmX2AW"
   },
   {
     "audience": "Adults",
@@ -19948,6 +19785,40 @@
     "url": "/s/oc-activity/a5UVX000001IY2f2AG"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 44.27,
+      "lon": -71.3
+    },
+    "costs": [],
+    "difficulty": 6,
+    "difficultyLabel": "6 - Strenuous",
+    "endDate": "2027-01-09",
+    "id": "a5UVX000001IY4H2AW",
+    "leaders": [
+      "Ian Baker"
+    ],
+    "location": {
+      "city": "Jackson",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Washington and Monroe in January",
+    "program": "Volunteer Led",
+    "registerByDate": "2027-01-02",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-12-06",
+    "registrationType": "Application",
+    "startDate": "2027-01-09",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IY4H2AW"
+  },
+  {
     "chapterId": "0015000001Sg05zAAB",
     "coords": {
       "lat": 41.55,
@@ -19978,6 +19849,39 @@
     "timeZone": "US EST",
     "type": "Paddling",
     "url": "/s/oc-activity/a5UVX000001IY5t2AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.81,
+      "lon": -72.92
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-09-20",
+    "id": "a5UVX000001IY7V2AW",
+    "keywords": "Collinsville kayak",
+    "leaders": [
+      "Daniel Hart"
+    ],
+    "location": {
+      "city": "Canton",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Farmington River from Collinsville - kayak rentals available (Easy)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-09-20",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Flatwater",
+    "timeZone": "US EST",
+    "type": "Paddling",
+    "url": "/s/oc-activity/a5UVX000001IY7V2AW"
   },
   {
     "chapterId": "0015000001Sg06DAAR",
@@ -20046,6 +19950,38 @@
     "url": "/s/oc-activity/a5UVX000001IYAj2AO"
   },
   {
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 42.06,
+      "lon": -71.77
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-19",
+    "id": "a5UVX000001IYCL2A4",
+    "leaders": [
+      "Peter Eggleston"
+    ],
+    "location": {
+      "city": "Douglas",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "20s & 30s Hike at Douglas State Forest",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-09-19",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IYCL2A4"
+  },
+  {
     "chapterId": "0015000001Sg06DAAR",
     "coords": {
       "lat": 42.33,
@@ -20110,6 +20046,42 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001IYNd2AO"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 44.14,
+      "lon": -71.69
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-10-24",
+    "id": "a5UVX000001IYPF2A4",
+    "keywords": "White Mountain, NH, 4000 ft",
+    "leaders": [
+      "Zoe Rath"
+    ],
+    "location": {
+      "city": "Lincoln",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "SEM Mount Cannon",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-21",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-10-09",
+    "registrationType": "Application",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-24",
+    "startTime": "8:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IYPF2A4"
   },
   {
     "audience": "Adults",
@@ -20182,6 +20154,34 @@
     "url": "/s/oc-activity/a5UVX000001IZRl2AO"
   },
   {
+    "chapterId": "0015000001Sg064AAB",
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-09-19",
+    "id": "a5UVX000001IZYD2A4",
+    "leaders": [
+      "Joseph Nigro"
+    ],
+    "location": {
+      "city": "Cold Springs",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "8-10 Mile Fahnestock Hike (Vigorous)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-09-19",
+    "startTime": "9:15 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IZYD2A4"
+  },
+  {
     "chapterId": "0015000001Sg05xAAB",
     "coords": {
       "lat": 42.14,
@@ -20248,6 +20248,169 @@
     "url": "/s/oc-activity/a5UVX000001IZun2AG"
   },
   {
+    "chapterId": "0015000001Sg069AAB",
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-09-22",
+    "id": "a5UVX000001IaxJ2AS",
+    "leaders": [
+      "Luke Chapdelaine"
+    ],
+    "location": {
+      "city": "Ashland",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Ashland Town Forest Hike (20's and 30's)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-09-22",
+    "startTime": "5:30 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IaxJ2AS"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.61
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-10-09",
+    "id": "a5UVX000001Ibrl2AC",
+    "leaders": [
+      "Patricia Lambert"
+    ],
+    "location": {
+      "city": "Upton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "October Early Morning Fitness Hike",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-07",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-09-21",
+    "registrationType": "Application",
+    "startDate": "2026-10-09",
+    "startTime": "6:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Ibrl2AC"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.61
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-10-16",
+    "id": "a5UVX000001Ibuz2AC",
+    "leaders": [
+      "Patricia Lambert"
+    ],
+    "location": {
+      "city": "Upton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "October Early Morning Fitness Hike",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-14",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-09-28",
+    "registrationType": "Application",
+    "startDate": "2026-10-16",
+    "startTime": "6:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Ibuz2AC"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.61
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-10-23",
+    "id": "a5UVX000001Ibwb2AC",
+    "leaders": [
+      "Patricia Lambert"
+    ],
+    "location": {
+      "city": "Upton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "October Early Morning Fitness Hike",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-21",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-10-05",
+    "registrationType": "Application",
+    "startDate": "2026-10-23",
+    "startTime": "6:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Ibwb2AC"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.61
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-10-30",
+    "id": "a5UVX000001Ibzp2AC",
+    "leaders": [
+      "Patricia Lambert"
+    ],
+    "location": {
+      "city": "Upton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "October Early Morning Fitness Hike",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-28",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-10-12",
+    "registrationType": "Application",
+    "startDate": "2026-10-30",
+    "startTime": "6:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Ibzp2AC"
+  },
+  {
     "audience": "Adults",
     "chapterId": "0015000001Sg06DAAR",
     "coords": {
@@ -20280,5 +20443,660 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001Ic1R2AS"
+  },
+  {
+    "chapterId": "0015000001Sg060AAB",
+    "coords": {
+      "lat": 45.37,
+      "lon": -70.01
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-20",
+    "id": "a5UVX000001IcCj2AK",
+    "keywords": "Whitewater, paddling, kayak, canoe, Dead River",
+    "leaders": [
+      "Reilly Leith"
+    ],
+    "location": {
+      "city": "West Forks",
+      "country": "United States",
+      "state": "ME"
+    },
+    "name": "LIMITED SPACE: The Dead River @ 3500+cfs, Class III-IV, September 19, 2026",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "secondaryType": "Paddling",
+    "startDate": "2026-09-18",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "Whitewater",
+    "timeZone": "US EST",
+    "type": "Paddling",
+    "url": "/s/oc-activity/a5UVX000001IcCj2AK"
+  },
+  {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 44.22,
+      "lon": -71.41
+    },
+    "costs": [
+      856
+    ],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-07",
+    "id": "a5UVX000001IcRF2A0",
+    "leaders": [
+      "Luke Gerard Moss Bartol"
+    ],
+    "location": {
+      "city": "Carroll",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "AMC Board of Advisors Lodging",
+    "program": "Staff Activities",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-04",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "Meetings",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001IcRF2A0"
+  },
+  {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-02",
+    "id": "a5UVX000001IccX2AS",
+    "keywords": "Nature, walk, free, public, naturalist, programming, program, hike, short, guided, education, educational, wildlife, plants, Lost Pond, Pinkham, Pinkham Notch, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Nature Walk: Lost Pond",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-02",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Nature Walks",
+    "timeZone": "US EST",
+    "type": "Nature Walks",
+    "url": "/s/oc-activity/a5UVX000001IccX2AS"
+  },
+  {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-02",
+    "id": "a5UVX000001IcpR2AS",
+    "keywords": "Nature, walk, free, public, naturalist, programming, program, hike, short, guided, education, educational, wildlife, plants, Square Ledge, Pinkham, Pinkham Notch, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Nature Walk: Square Ledge",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-02",
+    "startTime": "1:00 PM",
+    "status": "Published",
+    "subType": "Nature Walks",
+    "timeZone": "US EST",
+    "type": "Nature Walks",
+    "url": "/s/oc-activity/a5UVX000001IcpR2AS"
+  },
+  {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-03",
+    "id": "a5UVX000001IcuH2AS",
+    "keywords": "Nature, walk, free, public, naturalist, programming, program, hike, short, guided, education, educational, wildlife, plants, Crystal Cascade, waterfall, Pinkham, Pinkham Notch, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Nature Walk: Crystal Cascade",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-03",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Nature Walks",
+    "timeZone": "US EST",
+    "type": "Nature Walks",
+    "url": "/s/oc-activity/a5UVX000001IcuH2AS"
+  },
+  {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-03",
+    "id": "a5UVX000001Icvt2AC",
+    "keywords": "Nature, walk, free, public, naturalist, programming, program, hike, short, guided, education, educational, wildlife, plants, Pinkham, Pinkham Notch, white mountains, lichen",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Nature Walk: Lichen Exploration",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-10-03",
+    "startTime": "1:00 PM",
+    "status": "Published",
+    "subType": "Nature Walks",
+    "timeZone": "US EST",
+    "type": "Nature Walks",
+    "url": "/s/oc-activity/a5UVX000001Icvt2AC"
+  },
+  {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-03",
+    "id": "a5UVX000001Icz72AC",
+    "keywords": "Facility tour, tour, facility, green technology, sustainability, net zero, free, walk, guided, education, Pinkham, Pinkham Notch, Pinkham Notch Visitor Center, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Pinkham Notch Sustainability Tour",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Conservation",
+    "startDate": "2026-10-03",
+    "startTime": "4:00 PM",
+    "status": "Published",
+    "subType": "Nature & Arts",
+    "timeZone": "US EST",
+    "type": "Nature & Arts",
+    "url": "/s/oc-activity/a5UVX000001Icz72AC"
+  },
+  {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-04",
+    "id": "a5UVX000001Id5Z2AS",
+    "keywords": "Nature, walk, free, public, naturalist, programming, program, short, guided, education, educational, wildlife, plants, native, garden, native plant garden Pinkham, Pinkham Notch, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Joe Dodge Lodge Native Plant Garden Tour",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-10-04",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Nature Walks",
+    "timeZone": "US EST",
+    "type": "Nature Walks",
+    "url": "/s/oc-activity/a5UVX000001Id5Z2AS"
+  },
+  {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-04",
+    "id": "a5UVX000001Id7B2AS",
+    "keywords": "Nature, walk, free, public, naturalist, programming, program, hike, short, guided, education, educational, wildlife, plants, Square Ledge, Pinkham, Pinkham Notch, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Nature Walk: Square Ledge",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-04",
+    "startTime": "1:00 PM",
+    "status": "Published",
+    "subType": "Nature Walks",
+    "timeZone": "US EST",
+    "type": "Nature Walks",
+    "url": "/s/oc-activity/a5UVX000001Id7B2AS"
+  },
+  {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-05",
+    "id": "a5UVX000001Id8n2AC",
+    "keywords": "Nature, walk, free, public, naturalist, programming, program, hike, short, guided, education, educational, wildlife, plants, Lost Pond, Pinkham, Pinkham Notch, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Nature Walk: Lost Pond",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-05",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Nature Walks",
+    "timeZone": "US EST",
+    "type": "Nature Walks",
+    "url": "/s/oc-activity/a5UVX000001Id8n2AC"
+  },
+  {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-10",
+    "id": "a5UVX000001Id8p2AC",
+    "keywords": "Nature, walk, free, public, naturalist, programming, program, hike, short, guided, education, educational, wildlife, plants, Pinkham, Pinkham Notch, white mountains, mindfulness",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Mindfulness in Nature: Hike to Lost Pond",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-10",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Nature Walks",
+    "timeZone": "US EST",
+    "type": "Nature Walks",
+    "url": "/s/oc-activity/a5UVX000001Id8p2AC"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.62,
+      "lon": -73.32
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-15",
+    "id": "a5UVX000001IdDd2AK",
+    "keywords": "50 Hikes in CT",
+    "leaders": [
+      "Mary Anne Hardy"
+    ],
+    "location": {
+      "city": "Washington",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Steep Rock Preserve",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-15",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IdDd2AK"
+  },
+  {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-09",
+    "id": "a5UVX000001IdFF2A0",
+    "keywords": "Nature, walk, free, public, naturalist, programming, program, hike, short, guided, education, educational, wildlife, plants, Square Ledge, Pinkham, Pinkham Notch, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Nature Walk: Square Ledge",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-09",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Nature Walks",
+    "timeZone": "US EST",
+    "type": "Nature Walks",
+    "url": "/s/oc-activity/a5UVX000001IdFF2A0"
+  },
+  {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-09",
+    "id": "a5UVX000001IdIT2A0",
+    "keywords": "Nature, walk, free, public, naturalist, programming, program, hike, short, guided, education, educational, wildlife, plants, Pinkham, Pinkham Notch, white mountains, lichen",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Nature Walk: Lichen Exploration",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-10-09",
+    "startTime": "1:00 PM",
+    "status": "Published",
+    "subType": "Nature Walks",
+    "timeZone": "US EST",
+    "type": "Nature Walks",
+    "url": "/s/oc-activity/a5UVX000001IdIT2A0"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.95,
+      "lon": -71.9
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-10",
+    "id": "a5UVX000001IdOv2AK",
+    "keywords": "50 Hikes in CT, The quiet corner, Ice cream",
+    "leaders": [
+      "Mary Anne Hardy"
+    ],
+    "location": {
+      "city": "Thompson",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "West Thompson Lake",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-10",
+    "startTime": "10:15 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IdOv2AK"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.42,
+      "lon": -72.9
+    },
+    "costs": [],
+    "difficulty": 6,
+    "difficultyLabel": "6 - Strenuous",
+    "endDate": "2026-10-31",
+    "id": "a5UVX000001IdTl2AK",
+    "leaders": [
+      "Joanna Miller"
+    ],
+    "location": {
+      "city": "Hamden",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Halloween Hike on Sleeping Giant, Hamden",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-31",
+    "startTime": "9:15 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IdTl2AK"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.76,
+      "lon": -73.49
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-17",
+    "id": "a5UVX000001IdaD2AS",
+    "keywords": "CT AT Day, CT AT Day 2026",
+    "leaders": [
+      "Kathy Miville"
+    ],
+    "location": {
+      "city": "Kent",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "AT Day: Historic Appalachian Trail in Kent, (Moderate, C3C)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-17",
+    "startTime": "11:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IdaD2AS"
+  },
+  {
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 43.13,
+      "lon": -72.78
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-09-19",
+    "id": "a5UVX000001IddR2AS",
+    "keywords": "paddling, whitewater, vermont",
+    "leaders": [
+      "Derek Ahl"
+    ],
+    "location": {
+      "city": "Jamaica",
+      "country": "United States",
+      "state": "VT"
+    },
+    "name": "Upper West Class 3",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-09-19",
+    "startTime": "9:15 AM",
+    "status": "Published",
+    "subType": "Whitewater",
+    "timeZone": "US EST",
+    "type": "Paddling",
+    "url": "/s/oc-activity/a5UVX000001IddR2AS"
+  },
+  {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-10",
+    "id": "a5UVX000001IdtZ2AS",
+    "keywords": "Nature, walk, free, public, naturalist, programming, program, hike, short, guided, education, educational, wildlife, plants, Crystal Cascade, waterfall, Pinkham, Pinkham Notch, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Nature Walk: Crystal Cascade",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-10",
+    "startTime": "1:00 PM",
+    "status": "Published",
+    "subType": "Nature Walks",
+    "timeZone": "US EST",
+    "type": "Nature Walks",
+    "url": "/s/oc-activity/a5UVX000001IdtZ2AS"
+  },
+  {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-10",
+    "id": "a5UVX000001IdvB2AS",
+    "keywords": "Facility tour, tour, facility, green technology, sustainability, net zero, free, walk, guided, education, Pinkham, Pinkham Notch, Pinkham Notch Visitor Center, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Pinkham Notch Sustainability Tour",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-10-10",
+    "startTime": "4:00 PM",
+    "status": "Published",
+    "subType": "Conservation",
+    "timeZone": "US EST",
+    "type": "Conservation",
+    "url": "/s/oc-activity/a5UVX000001IdvB2AS"
   }
 ]
