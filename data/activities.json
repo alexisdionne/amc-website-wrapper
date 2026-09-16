@@ -3669,7 +3669,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-26",
     "startTime": "9:15 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -3735,7 +3735,7 @@
     "name": "SEM 50-Year Anniversary Celebration at Camp Burgess on the Cape",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-15",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-15",
     "registrationType": "Registration",
     "secondaryType": "Biking;Hiking, Local Walks, & Trail Running;Paddling;Social;Yoga;Evening Programs;Nature Walks",
@@ -4601,7 +4601,7 @@
     "name": "SEM 50-Year Anniversary Celebration at Camp Burgess on the Cape",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-15",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-06-14",
     "registrationType": "Registration",
     "secondaryType": "Biking;Hiking, Local Walks, & Trail Running;Social;Yoga;Nature Walks",
@@ -6512,37 +6512,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001DcwX2AS"
-  },
-  {
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 40.64,
-      "lon": -75.38
-    },
-    "costs": [],
-    "difficulty": 1,
-    "difficultyLabel": "1 - Accessible",
-    "endDate": "2026-09-30",
-    "id": "a5UVX000001Di5t2AC",
-    "leaders": [
-      "Peni MacMeekin"
-    ],
-    "location": {
-      "city": "Bethlehem",
-      "country": "United States",
-      "state": "PA"
-    },
-    "name": "Communications and Technical Operations Volunteer Opportunities",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "startDate": "2026-07-15",
-    "startTime": "All Day",
-    "status": "Published",
-    "subType": "All Volunteer Opportunities",
-    "timeZone": "US EST",
-    "type": "Volunteer Opportunities",
-    "url": "/s/oc-activity/a5UVX000001Di5t2AC"
   },
   {
     "audience": "Adults",
@@ -13054,6 +13023,70 @@
     "timeZone": "US EST",
     "type": "Biking",
     "url": "/s/oc-activity/a5UVX000001HSAb2AO"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.1
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-20",
+    "id": "a5UVX000001HSCD2A4",
+    "leaders": [
+      "Janet Harris"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Fall Tuesday Morning Blue Hills Hike Series #5",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-10-20",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001HSCD2A4"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.1
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-27",
+    "id": "a5UVX000001HSDp2AO",
+    "leaders": [
+      "Susan Cummings"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Fall Tuesday Morning Blue Hills Hike Series #6",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-10-27",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001HSDp2AO"
   },
   {
     "audience": "Adults",
@@ -21425,5 +21458,167 @@
     "timeZone": "US EST",
     "type": "Social",
     "url": "/s/oc-activity/a5UVX000001IktR2AS"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.09
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-24",
+    "id": "a5UVX000001Ilvx2AC",
+    "leaders": [
+      "Jonah Sakwa-Novak"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "20s and 30s Blue Hills Moderate Hike #3",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-23",
+    "registration": "open",
+    "registrationOpenDate": "2026-09-16",
+    "registrationType": "Application",
+    "startDate": "2026-10-24",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Ilvx2AC"
+  },
+  {
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.22,
+      "lon": -72.65
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-04",
+    "id": "a5UVX000001Im7F2AS",
+    "keywords": "hiking, foliage",
+    "leaders": [
+      "Jim McNerney"
+    ],
+    "location": {
+      "city": "Holyoke",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Mount Tom and Whiting Peak",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-04",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Im7F2AS"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.64,
+      "lon": -75.38
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2027-10-01",
+    "id": "a5UVX000001ImVR2A0",
+    "leaders": [
+      "Peni MacMeekin"
+    ],
+    "location": {
+      "city": "Bethlehem",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "AMC DV Wordpress website help needed!",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Volunteer Opportunities",
+    "startDate": "2026-10-01",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "All Volunteer Opportunities",
+    "timeZone": "US EST",
+    "type": "Volunteer Opportunities",
+    "url": "/s/oc-activity/a5UVX000001ImVR2A0"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.77,
+      "lon": -73.5
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-17",
+    "id": "a5UVX000001Imbt2AC",
+    "keywords": "CT AT Day, CT AT Day 2026",
+    "leaders": [
+      "Janet Kipphut Ainsworth"
+    ],
+    "location": {
+      "city": "Kent",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "AT Day - Family Hike to Cobble Mt., Macedonia Brook State Park, Kent, Moderate",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-17",
+    "startTime": "12:30 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Imbt2AC"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.64,
+      "lon": -75.38
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2027-10-01",
+    "id": "a5UVX000001ImnB2AS",
+    "leaders": [
+      "Peni MacMeekin"
+    ],
+    "location": {
+      "city": "Bethlehem",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "AMC DV Social Media Administrator Needed!",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Volunteer Opportunities",
+    "startDate": "2026-10-01",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "All Volunteer Opportunities",
+    "timeZone": "US EST",
+    "type": "Volunteer Opportunities",
+    "url": "/s/oc-activity/a5UVX000001ImnB2AS"
   }
 ]
