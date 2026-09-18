@@ -869,8 +869,8 @@
       "status": "Published"
     },
     "a5UVX000001Ed5l2AC": {
-      "seenAt": "2026-09-16T03:33:19.482Z",
-      "status": "Published"
+      "seenAt": "2026-09-18T15:54:56.329Z",
+      "status": "Waitlist"
     },
     "a5UVX000001Eftx2AC": {
       "seenAt": "2026-08-30T23:17:59.057Z",
@@ -1565,8 +1565,8 @@
       "status": "Published"
     },
     "a5UVX000001HSP72AO": {
-      "seenAt": "2026-08-30T23:17:59.057Z",
-      "status": "Published"
+      "seenAt": "2026-09-18T15:54:56.329Z",
+      "status": "Waitlist"
     },
     "a5UVX000001HSSL2A4": {
       "seenAt": "2026-09-11T15:56:45.176Z",
@@ -1633,8 +1633,8 @@
       "status": "Published"
     },
     "a5UVX000001HZQb2AO": {
-      "seenAt": "2026-09-18T03:24:45.052Z",
-      "status": "Waitlist"
+      "seenAt": "2026-09-18T15:54:56.329Z",
+      "status": "Full"
     },
     "a5UVX000001HcWX2A0": {
       "seenAt": "2026-09-01T16:08:13.714Z",
@@ -1865,8 +1865,8 @@
       "status": "Waitlist"
     },
     "a5UVX000001I13V2AS": {
-      "seenAt": "2026-09-16T03:33:19.482Z",
-      "status": "Full"
+      "seenAt": "2026-09-18T15:54:56.329Z",
+      "status": "Waitlist"
     },
     "a5UVX000001I2KX2A0": {
       "seenAt": "2026-09-06T14:59:38.836Z",
@@ -2162,6 +2162,10 @@
     },
     "a5UVX000001IVSz2AO": {
       "seenAt": "2026-09-13T03:25:05.907Z",
+      "status": "Published"
+    },
+    "a5UVX000001IVXp2AO": {
+      "seenAt": "2026-09-18T15:54:56.329Z",
       "status": "Published"
     },
     "a5UVX000001IVZR2A4": {
@@ -2625,8 +2629,8 @@
       "status": "Published"
     },
     "a5UVX000001Itrt2AC": {
-      "seenAt": "2026-09-17T16:20:15.864Z",
-      "status": "Published"
+      "seenAt": "2026-09-18T15:54:56.329Z",
+      "status": "Waitlist"
     },
     "a5UVX000001IuG52AK": {
       "seenAt": "2026-09-17T16:20:15.864Z",
@@ -2662,6 +2666,10 @@
     },
     "a5UVX000001IyI52AK": {
       "seenAt": "2026-09-18T03:24:45.052Z",
+      "status": "Published"
+    },
+    "a5UVX000001IyJh2AK": {
+      "seenAt": "2026-09-18T15:54:56.329Z",
       "status": "Published"
     },
     "a5UVX000001IzhB2AS": {
@@ -2712,8 +2720,44 @@
       "seenAt": "2026-09-18T03:24:45.052Z",
       "status": "Published"
     },
+    "a5UVX000001J0LV2A0": {
+      "seenAt": "2026-09-18T15:54:56.329Z",
+      "status": "Published"
+    },
+    "a5UVX000001J0N72AK": {
+      "seenAt": "2026-09-18T15:54:56.329Z",
+      "status": "Published"
+    },
     "a5UVX000001J0Rx2AK": {
       "seenAt": "2026-09-18T03:24:45.052Z",
+      "status": "Published"
+    },
+    "a5UVX000001J0TZ2A0": {
+      "seenAt": "2026-09-18T15:54:56.329Z",
+      "status": "Published"
+    },
+    "a5UVX000001J0YP2A0": {
+      "seenAt": "2026-09-18T15:54:56.329Z",
+      "status": "Published"
+    },
+    "a5UVX000001J1332AC": {
+      "seenAt": "2026-09-18T15:54:56.329Z",
+      "status": "Published"
+    },
+    "a5UVX000001J1Xh2AK": {
+      "seenAt": "2026-09-18T15:54:56.329Z",
+      "status": "Published"
+    },
+    "a5UVX000001J20j2AC": {
+      "seenAt": "2026-09-18T15:54:56.329Z",
+      "status": "Published"
+    },
+    "a5UVX000001J23x2AC": {
+      "seenAt": "2026-09-18T15:54:56.329Z",
+      "status": "Published"
+    },
+    "a5UVX000001J3G92AK": {
+      "seenAt": "2026-09-18T15:54:56.329Z",
       "status": "Published"
     }
   },
@@ -2945,6 +2989,14 @@
       "a5UVX000001Iy8P2AS": {
         "kind": "new",
         "notifiedAt": "2026-09-18T03:24:45.052Z"
+      },
+      "a5UVX000001J1Xh2AK": {
+        "kind": "new",
+        "notifiedAt": "2026-09-18T15:54:56.329Z"
+      },
+      "a5UVX000001J20j2AC": {
+        "kind": "new",
+        "notifiedAt": "2026-09-18T15:54:56.329Z"
       }
     },
     "b65b2954": {
@@ -3143,6 +3195,14 @@
       "a5UVX000001Itof2AC": {
         "kind": "new",
         "notifiedAt": "2026-09-17T16:20:15.864Z"
+      },
+      "a5UVX000001J0YP2A0": {
+        "kind": "new",
+        "notifiedAt": "2026-09-18T15:54:56.329Z"
+      },
+      "a5UVX000001J3G92AK": {
+        "kind": "new",
+        "notifiedAt": "2026-09-18T15:54:56.329Z"
       }
     }
   }

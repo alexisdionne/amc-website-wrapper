@@ -3148,7 +3148,7 @@
     "name": "Womens+ Hiking Weekend at Cold River Camp 2026",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-17",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-08-04",
     "registrationType": "Application",
     "startDate": "2026-10-02",
@@ -7052,7 +7052,7 @@
     "secondaryType": "Climbing & Mountaineering",
     "startDate": "2026-09-19",
     "startTime": "8:30 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Top Rope Rock",
     "timeZone": "US EST",
     "type": "Climbing & Mountaineering",
@@ -7540,7 +7540,7 @@
     "name": "Fitness Hike - Moose Hill Audubon",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-27",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-18",
     "registrationType": "Registration",
     "startDate": "2026-09-29",
@@ -12781,7 +12781,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-29",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -13343,7 +13343,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-27",
     "startTime": "8:30 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -15236,7 +15236,7 @@
     "registrationType": "Registration",
     "startDate": "2026-09-20",
     "startTime": "10:00 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -17660,6 +17660,39 @@
     "timeZone": "US EST",
     "type": "Paddling",
     "url": "/s/oc-activity/a5UVX000001IVSz2AO"
+  },
+  {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.23,
+      "lon": -71.06
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-26",
+    "id": "a5UVX000001IVXp2AO",
+    "leaders": [
+      "Joanne Newton"
+    ],
+    "location": {
+      "city": "Canton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "TRAIL TRACE THE BLUE HILLS - Old Route 128 East to Buck Hill  - 3 Hour Map Development",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-09-25",
+    "registration": "open",
+    "registrationOpenDate": "2026-09-12",
+    "registrationType": "Application",
+    "startDate": "2026-09-26",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IVXp2AO"
   },
   {
     "audience": "20’s & 30’s",
@@ -21370,7 +21403,7 @@
     "name": "Hiking with Trailwork in the Blue Hills",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-27",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-18",
     "registrationType": "Registration",
     "secondaryType": "Trail Work",
@@ -21475,7 +21508,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-19",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -21533,7 +21566,9 @@
     },
     "name": "MLK Weekend Tug Hill Ski Touring - Go With The Snow!",
     "program": "Volunteer Led",
+    "registerByDate": "2027-01-08",
     "registration": "open",
+    "registrationOpenDate": "2026-09-18",
     "registrationType": "Application",
     "secondaryType": "Skiing",
     "startDate": "2027-01-15",
@@ -21759,6 +21794,40 @@
     "timeZone": "US EST",
     "type": "Social",
     "url": "/s/oc-activity/a5UVX000001IyI52AK"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.09
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-17",
+    "id": "a5UVX000001IyJh2AK",
+    "leaders": [
+      "Annemarie McKee"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Fall Tuesday Morning Blue Hills Hike Series #9",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-15",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-10-06",
+    "registrationType": "Application",
+    "startDate": "2026-11-17",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IyJh2AK"
   },
   {
     "chapterId": "001VX00000utYFKYA2",
@@ -22157,6 +22226,72 @@
     "url": "/s/oc-activity/a5UVX000001J0IH2A0"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.98,
+      "lon": -72.43
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-01",
+    "id": "a5UVX000001J0LV2A0",
+    "leaders": [
+      "Eugene Mark Grayson"
+    ],
+    "location": {
+      "city": "Somers",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "McCann Family Farm-Whitaker Preserve. Somers. (EASY)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-01",
+    "startTime": "9:15 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001J0LV2A0"
+  },
+  {
+    "chapterId": "0015000001Sg060AAB",
+    "coords": {
+      "lat": 43.58,
+      "lon": -71.08
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-17",
+    "id": "a5UVX000001J0N72AK",
+    "leaders": [
+      "MJo McCarthy"
+    ],
+    "location": {
+      "city": "Brookfield",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Haunted History Hike with Spooky Spider Spotting",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-13",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-09-22",
+    "registrationType": "Application",
+    "secondaryType": "Outdoor Learning Experience;Social;Evening Programs;Nature Walks",
+    "startDate": "2026-10-17",
+    "startTime": "5:30 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001J0N72AK"
+  },
+  {
     "chapterId": "0015000001Sg06BAAR",
     "coords": {
       "lat": 40.8,
@@ -22186,5 +22321,237 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001J0Rx2AK"
+  },
+  {
+    "chapterId": "0015000001Sg060AAB",
+    "coords": {
+      "lat": 43.47,
+      "lon": -71.09
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-18",
+    "id": "a5UVX000001J0TZ2A0",
+    "keywords": "SELT conservation",
+    "leaders": [
+      "MJo McCarthy"
+    ],
+    "location": {
+      "city": "Middleton",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Mt. Jesse and the Beautiful Blueberry Barrens",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-14",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-09-21",
+    "registrationType": "Registration",
+    "secondaryType": "Nature Walks",
+    "startDate": "2026-10-18",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001J0TZ2A0"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.84,
+      "lon": -72.79
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-16",
+    "id": "a5UVX000001J0YP2A0",
+    "keywords": "hike, hiking, 20s & 30s, 20s and 30s, Social",
+    "leaders": [
+      "Lee Thao"
+    ],
+    "location": {
+      "city": "Simsbury",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "20s & 30s After-Work Talcott Mountain State Park Tower Trail Hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Social",
+    "startDate": "2026-10-16",
+    "startTime": "5:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001J0YP2A0"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.34,
+      "lon": -75.17
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-09-29",
+    "id": "a5UVX000001J1332AC",
+    "keywords": "evening hiking with sunset",
+    "leaders": [
+      "Cindy Ott"
+    ],
+    "location": {
+      "city": "Doylestown",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Sunset Hike at Peace Valley Park",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-09-29",
+    "startTime": "5:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001J1332AC"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.08,
+      "lon": -74.19
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-23",
+    "id": "a5UVX000001J1Xh2AK",
+    "keywords": "Ramapo Valley Reservation",
+    "leaders": [
+      "Richard DeCicco"
+    ],
+    "location": {
+      "city": "Mahwah",
+      "country": "United States",
+      "state": "NJ"
+    },
+    "name": "Ramapo Valley Reservation (Moderate)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-09-23",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001J1Xh2AK"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 40.76,
+      "lon": -74
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-04",
+    "id": "a5UVX000001J20j2AC",
+    "keywords": "ferry Brooklyn Ikea lunch Fire Island sailing",
+    "leaders": [
+      "Richard Weinberg"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Discuss AMC Fire Island Sailing and Ferry Ride",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Sailing",
+    "startDate": "2026-10-04",
+    "startTime": "10:30 AM",
+    "status": "Published",
+    "subType": "Local Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001J20j2AC"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.28,
+      "lon": -72.6
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-09-24",
+    "id": "a5UVX000001J23x2AC",
+    "leaders": [
+      "Barbara Beckerman"
+    ],
+    "location": {
+      "city": "Madison",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Madison Green to Guilford Green Ride",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Biking",
+    "startDate": "2026-09-24",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Road",
+    "timeZone": "US EST",
+    "type": "Biking",
+    "url": "/s/oc-activity/a5UVX000001J23x2AC"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg065AAB",
+    "coords": {
+      "lat": 43.71,
+      "lon": -70.24
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-09-30",
+    "id": "a5UVX000001J3G92AK",
+    "leaders": [
+      "Andrew Metz"
+    ],
+    "location": {
+      "city": "Falmouth",
+      "country": "United States",
+      "state": "ME"
+    },
+    "name": "(20s/30s) Waxwingtastic Wednesday evening birdwatching",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-09-30",
+    "startTime": "5:30 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001J3G92AK"
   }
 ]
