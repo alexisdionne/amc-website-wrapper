@@ -8182,7 +8182,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-19",
     "startTime": "10:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -8801,7 +8801,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-22",
     "startTime": "9:45 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -9388,7 +9388,7 @@
     "name": "South and Middle Moats",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-02",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-19",
     "registrationType": "Application",
     "startDate": "2026-10-03",
@@ -10571,7 +10571,7 @@
     "name": "Ramble Around the Cascades",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-18",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-08-21",
     "registrationType": "Application",
     "startDate": "2026-09-20",
@@ -11499,7 +11499,7 @@
     "name": "Fall Saturday Morning Blue Hills Conditioning Hike",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-08",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-19",
     "registrationType": "Application",
     "startDate": "2026-10-10",
@@ -15391,7 +15391,7 @@
     "name": "Harlem Valley Rail Trail Harvest Venture!",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-16",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-19",
     "registrationType": "Application",
     "startDate": "2026-10-18",
@@ -17303,7 +17303,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-19",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -18161,6 +18161,39 @@
     "url": "/s/oc-activity/a5UVX000001IY5t2AG"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.81,
+      "lon": -72.92
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-09-26",
+    "id": "a5UVX000001IY7V2AW",
+    "keywords": "Collinsville kayak",
+    "leaders": [
+      "Daniel Hart"
+    ],
+    "location": {
+      "city": "Canton",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Farmington River from Collinsville - kayak rentals available (Easy)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-09-26",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Flatwater",
+    "timeZone": "US EST",
+    "type": "Paddling",
+    "url": "/s/oc-activity/a5UVX000001IY7V2AW"
+  },
+  {
     "chapterId": "0015000001Sg06DAAR",
     "coords": {
       "lat": 42.21,
@@ -18760,6 +18793,43 @@
     "timeZone": "US EST",
     "type": "Paddling",
     "url": "/s/oc-activity/a5UVX000001IcCj2AK"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg060AAB",
+    "coords": {
+      "lat": 44.22,
+      "lon": -71.41
+    },
+    "costs": [
+      200
+    ],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-15",
+    "id": "a5UVX000001IcJB2A0",
+    "leaders": [
+      "Laurie Schive"
+    ],
+    "location": {
+      "city": "Carroll",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "November Nature Weekend",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-11",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-09-21",
+    "registrationType": "Application",
+    "secondaryType": "Social",
+    "startDate": "2026-11-13",
+    "startTime": "4:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IcJB2A0"
   },
   {
     "chapterId": "001UN00000bpnMdYAI",
@@ -22006,40 +22076,6 @@
     "url": "/s/oc-activity/a5UVX000001J0YP2A0"
   },
   {
-    "audience": "20’s & 30’s",
-    "chapterId": "0015000001Sg05zAAB",
-    "coords": {
-      "lat": 41.66,
-      "lon": -73.32
-    },
-    "costs": [],
-    "difficulty": 2,
-    "difficultyLabel": "2 - Relaxed",
-    "endDate": "2026-10-18",
-    "id": "a5UVX000001J11R2AS",
-    "keywords": "hike, hiking, 20s & 30s, 20s and 30s, Social",
-    "leaders": [
-      "Lee Thao"
-    ],
-    "location": {
-      "city": "Washington Depot",
-      "country": "United States",
-      "state": "CT"
-    },
-    "name": "20s & 30s Van Sinderen Loop Hike At Hidden Valley Preserve",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Social",
-    "startDate": "2026-10-18",
-    "startTime": "3:30 PM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001J11R2AS"
-  },
-  {
     "chapterId": "0015000001Sg06BAAR",
     "coords": {
       "lat": 40.34,
@@ -22434,6 +22470,40 @@
     "url": "/s/oc-activity/a5UVX000001J65x2AC"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.1
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-08",
+    "id": "a5UVX000001J67Z2AS",
+    "leaders": [
+      "Gerard Campbell"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Fall Tuesday Morning Blue Hills Hike Series #12",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-06",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-11-24",
+    "registrationType": "Application",
+    "startDate": "2026-12-08",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001J67Z2AS"
+  },
+  {
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg05zAAB",
     "coords": {
@@ -22466,6 +22536,39 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001J6U92AK"
+  },
+  {
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.39,
+      "lon": -72.84
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-25",
+    "id": "a5UVX000001J6Yz2AK",
+    "keywords": "Camp out. Adirondack shelter, kiddo friendly.",
+    "leaders": [
+      "Jakob Palches"
+    ],
+    "location": {
+      "city": "Chesterfield",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "30’s/40’s Kiddo Friendly | Camp Chesterfield | Fall Wilderness Campout!",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Camping",
+    "startDate": "2026-10-23",
+    "startTime": "3:30 PM",
+    "status": "Published",
+    "subType": "Local Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001J6Yz2AK"
   },
   {
     "audience": "20’s & 30’s",
@@ -22592,5 +22695,38 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001J6if2AC"
+  },
+  {
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.39,
+      "lon": -72.84
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-11-22",
+    "id": "a5UVX000001J6kH2AS",
+    "keywords": "Campout, turkey",
+    "leaders": [
+      "Jakob Palches"
+    ],
+    "location": {
+      "city": "Chesterfield",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "30’s/40’s Camp Chesterfield | Pre Thanksgiving Wilderness Campout!",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Camping;Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-20",
+    "startTime": "3:30 PM",
+    "status": "Published",
+    "subType": "Local Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001J6kH2AS"
   }
 ]
