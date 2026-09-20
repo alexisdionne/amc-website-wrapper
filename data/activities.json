@@ -1816,7 +1816,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-26",
     "startTime": "6:00 PM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -3498,7 +3498,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-10-17",
     "startTime": "9:15 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5390,6 +5390,38 @@
     "timeZone": "US EST",
     "type": "Adventure Travel",
     "url": "/s/oc-activity/a5UVX000001CXAv2AO"
+  },
+  {
+    "chapterId": "0015000001TGzFBAA1",
+    "coords": {
+      "lat": 51.51,
+      "lon": -0.13
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2027-05-17",
+    "id": "a5UVX000001CXCX2A4",
+    "keywords": "2739",
+    "leaders": [
+      "Nancy Tutko"
+    ],
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "name": "Hiking England’s Salt Path from Penzance to St Ives",
+    "program": "Adventure Travel",
+    "registration": "open",
+    "registrationType": "Application",
+    "secondaryType": "Adventure Travel",
+    "startDate": "2027-05-07",
+    "startTime": "5:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001CXCX2A4"
   },
   {
     "audience": "Adults",
@@ -8107,7 +8139,7 @@
     "name": "Fitness Hike – Noon Hill & Shattuck Reservation",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-20",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-08-17",
     "registrationType": "Registration",
     "startDate": "2026-09-22",
@@ -8337,13 +8369,13 @@
     "name": "THE PROGRESSIVE HIKING SERIES RESUMES THIS AUTUMN – FROM THE BLUE HILLS TO METRO WEST – HIKE #1",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-20",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-08-13",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-22",
     "startTime": "9:45 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -10190,7 +10222,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-26",
     "startTime": "9:30 AM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -11514,39 +11546,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001HSSL2A4"
-  },
-  {
-    "audience": "20’s & 30’s",
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 39.89,
-      "lon": -75.26
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-09-20",
-    "id": "a5UVX000001HSXB2A4",
-    "keywords": "Hike",
-    "leaders": [
-      "Jeffrey Cocci"
-    ],
-    "location": {
-      "city": "Philadelphia",
-      "country": "United States",
-      "state": "PA"
-    },
-    "name": "20s/30s Event: 7-Mile Hike at John Heinz Wildlife Refuge",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2026-09-20",
-    "startTime": "10:00 AM",
-    "status": "Full",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001HSXB2A4"
   },
   {
     "audience": "Adults",
@@ -13741,41 +13740,6 @@
     "url": "/s/oc-activity/a5UVX000001I0ll2AC"
   },
   {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg061AAB",
-    "coords": {
-      "lat": 43.12,
-      "lon": -71.37
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-09-20",
-    "id": "a5UVX000001I13V2AS",
-    "keywords": "Bear Brook State Park, New Hampshire State Parks",
-    "leaders": [
-      "Richard Lombard"
-    ],
-    "location": {
-      "city": "Allenstown",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "LET'S HIKE CATAMOUNT HILL IN BEAR BROOK STATE PARK/ALLENSTOWN NH",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-09-19",
-    "registration": "closed",
-    "registrationOpenDate": "2026-09-10",
-    "registrationType": "Registration",
-    "startDate": "2026-09-20",
-    "startTime": "10:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001I13V2AS"
-  },
-  {
     "chapterId": "0015000001Sg06BAAR",
     "coords": {
       "lat": 40.97,
@@ -13834,7 +13798,7 @@
     "secondaryType": "Trail Work",
     "startDate": "2026-09-21",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -18550,39 +18514,6 @@
     "url": "/s/oc-activity/a5UVX000001IiWf2AK"
   },
   {
-    "audience": "Families",
-    "chapterId": "0015000001Sg061AAB",
-    "coords": {
-      "lat": 42.47,
-      "lon": -71.22
-    },
-    "costs": [],
-    "difficulty": 2,
-    "difficultyLabel": "2 - Relaxed",
-    "endDate": "2026-09-20",
-    "id": "a5UVX000001IiZt2AK",
-    "keywords": "family friendly, ages 4+",
-    "leaders": [
-      "Katerina Cai"
-    ],
-    "location": {
-      "city": "Lexington",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "Family - Little Explorers' Autumn Trail Series (1 of 3)",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2026-09-20",
-    "startTime": "3:30 PM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001IiZt2AK"
-  },
-  {
     "chapterId": "001UN00000bpnMdYAI",
     "coords": {
       "lat": 44.22,
@@ -21421,5 +21352,97 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001J7zh2AC"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.19,
+      "lon": -73.88
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-26",
+    "id": "a5UVX000001J8vl2AC",
+    "leaders": [
+      "Skip Doyle"
+    ],
+    "location": {
+      "city": "Croton-on-Hudson",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Gravel Bike Ride (Public Transit Accessible): Old Croton Aqueduct – Croton to Dobbs Ferry (15 miles)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-09-26",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Gravel",
+    "timeZone": "US EST",
+    "type": "Biking",
+    "url": "/s/oc-activity/a5UVX000001J8vl2AC"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.68,
+      "lon": -74.15
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-10",
+    "id": "a5UVX000001J8xN2AS",
+    "leaders": [
+      "Brian Lownds"
+    ],
+    "location": {
+      "city": "Gardiner",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Bike Path Ride: Wallkill Valley Rail Trail – Gardiner to Rosendale",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-10",
+    "startTime": "10:15 AM",
+    "status": "Published",
+    "subType": "Gravel",
+    "timeZone": "US EST",
+    "type": "Biking",
+    "url": "/s/oc-activity/a5UVX000001J8xN2AS"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-22",
+    "id": "a5UVX000001J9S12AK",
+    "keywords": "Cape Hikes",
+    "leaders": [
+      "Trish Crocker"
+    ],
+    "location": {
+      "city": "HArwich",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Cape Hikes: Island Pond Cemetery and adjoining Conservation Lands",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-22",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001J9S12AK"
   }
 ]
