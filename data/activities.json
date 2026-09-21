@@ -5058,38 +5058,6 @@
     "url": "/s/oc-activity/a5UVX000001CXAv2AO"
   },
   {
-    "chapterId": "0015000001TGzFBAA1",
-    "coords": {
-      "lat": 51.51,
-      "lon": -0.13
-    },
-    "costs": [],
-    "difficulty": 5,
-    "difficultyLabel": "5 - Vigorous",
-    "endDate": "2027-05-17",
-    "id": "a5UVX000001CXCX2A4",
-    "keywords": "2739",
-    "leaders": [
-      "Nancy Tutko"
-    ],
-    "location": {
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    "name": "Hiking England’s Salt Path from Penzance to St Ives",
-    "program": "Adventure Travel",
-    "registration": "open",
-    "registrationType": "Application",
-    "secondaryType": "Adventure Travel",
-    "startDate": "2027-05-07",
-    "startTime": "5:00 PM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001CXCX2A4"
-  },
-  {
     "audience": "Adults",
     "chapterId": "0015000001TGzFBAA1",
     "coords": {
@@ -5777,7 +5745,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-17",
     "startTime": "7:45 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -7247,8 +7215,8 @@
     },
     "name": "Mt. Pierce & Gibbs Falls via Crawford Path",
     "program": "Volunteer Led",
-    "registerByDate": "2026-09-19",
-    "registration": "closed",
+    "registerByDate": "2026-09-22",
+    "registration": "open",
     "registrationOpenDate": "2026-08-25",
     "registrationType": "Application",
     "startDate": "2026-09-24",
@@ -7810,6 +7778,39 @@
     "url": "/s/oc-activity/a5UVX000001G5ft2AC"
   },
   {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.13,
+      "lon": -75.48
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-15",
+    "id": "a5UVX000001G6gn2AC",
+    "keywords": "Coffee Cafe Guided Hike PA Highlands Trail Pennsylvania Phoenixville Philadelphia Walk Schuylkill River Trail",
+    "leaders": [
+      "Madison Nicole DeGerolamo"
+    ],
+    "location": {
+      "city": "Phoenixville",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Guided Hike & Coffee on the PA Highlands Section of the Schuylkill River Trail",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-15",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001G6gn2AC"
+  },
+  {
     "audience": "Adults",
     "chapterId": "0015000001Sg06DAAR",
     "coords": {
@@ -7941,6 +7942,72 @@
     "timeZone": "US EST",
     "type": "Social",
     "url": "/s/oc-activity/a5UVX000001GBYP2A4"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.42,
+      "lon": -75.36
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-28",
+    "id": "a5UVX000001GBq92AG",
+    "keywords": "Pennsylvania Highlands Trail Network Volunteer Trail Workday Quakertown Richland Township Corridor Clearing Brush Clearing",
+    "leaders": [
+      "Madison Nicole DeGerolamo"
+    ],
+    "location": {
+      "city": "Quakertown",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Trail Workday on the Pennsylvania Highlands Trail at Tollgate Landing",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Trail Work",
+    "startDate": "2026-10-28",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Trail Work",
+    "timeZone": "US EST",
+    "type": "Trail Work",
+    "url": "/s/oc-activity/a5UVX000001GBq92AG"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.42,
+      "lon": -75.36
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-10",
+    "id": "a5UVX000001GBrl2AG",
+    "keywords": "Pennsylvania Highlands Trail Network Volunteer Trail Workday Quakertown Richland Township Corridor Clearing Brush Clearing",
+    "leaders": [
+      "Madison Nicole DeGerolamo"
+    ],
+    "location": {
+      "city": "Quakertown",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Trail Workday on the Pennsylvania Highlands Trail at Tollgate Landing",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Trail Work",
+    "startDate": "2026-10-10",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Trail Work",
+    "timeZone": "US EST",
+    "type": "Trail Work",
+    "url": "/s/oc-activity/a5UVX000001GBrl2AG"
   },
   {
     "chapterId": "0015000001Sg06EAAR",
@@ -8333,7 +8400,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-03",
     "startTime": "7:45 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -8949,7 +9016,7 @@
     "name": "LET’S HIKE TO THE SUMMIT OF MOUNT TECUMSEH (4003’)",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-08",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-21",
     "registrationType": "Application",
     "startDate": "2026-10-12",
@@ -9553,7 +9620,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-26",
     "startTime": "9:30 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -9741,7 +9808,7 @@
     "name": "Mt. Tom Historical Hike via NET - Evening",
     "program": "Staff Activities",
     "registerByDate": "2026-09-21",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-15",
     "registrationType": "Registration",
     "secondaryType": "Nature Walks",
@@ -12809,7 +12876,7 @@
       "lon": -71.88
     },
     "costs": [
-      463.56
+      596.3
     ],
     "difficulty": 2,
     "difficultyLabel": "2 - Relaxed",
@@ -14361,7 +14428,7 @@
     "name": "Mount Monadnock via the Pumpelly Trail",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-05",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-21",
     "registrationType": "Application",
     "startDate": "2026-10-06",
@@ -14635,7 +14702,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-04",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -14728,7 +14795,7 @@
     "name": "Women’s Hiking Series: Mt. Pisgah",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-14",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-21",
     "registrationType": "Application",
     "startDate": "2026-10-17",
@@ -14798,7 +14865,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-10-04",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Flatwater",
     "timeZone": "US EST",
     "type": "Paddling",
@@ -16136,7 +16203,7 @@
       "country": "United States",
       "state": "NH"
     },
-    "name": "Orienteering Hike / Map & Compass Refresher",
+    "name": "Orienteering Hike / Map & Compass",
     "program": "Volunteer Led",
     "registration": "open",
     "registrationType": "Application",
@@ -16378,7 +16445,7 @@
     "name": "October Early Morning Fitness Hike",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-07",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-21",
     "registrationType": "Application",
     "startDate": "2026-10-09",
@@ -16550,7 +16617,7 @@
     "name": "November Nature Weekend",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-11",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-21",
     "registrationType": "Application",
     "secondaryType": "Social",
@@ -18567,7 +18634,7 @@
     "secondaryType": "Social",
     "startDate": "2026-09-21",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Local Walks",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -19537,7 +19604,7 @@
     "name": "Mt. Jesse and the Beautiful Blueberry Barrens",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-14",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-21",
     "registrationType": "Registration",
     "secondaryType": "Nature Walks",
@@ -19868,14 +19935,14 @@
     "url": "/s/oc-activity/a5UVX000001J4VZ2A0"
   },
   {
-    "chapterId": "0015000001Sg065AAB",
+    "chapterId": "001UN00000KhlIGYAZ",
     "coords": {
       "lat": 43.83,
       "lon": -70.07
     },
     "costs": [],
-    "difficulty": 2,
-    "difficultyLabel": "2 - Relaxed",
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
     "endDate": "2026-10-18",
     "id": "a5UVX000001J5D72AK",
     "keywords": "leadership, training",
@@ -19888,7 +19955,7 @@
       "state": "ME"
     },
     "name": "Future Leaders Hike",
-    "program": "Volunteer Led",
+    "program": "Professional Guides",
     "registration": "open",
     "registrationType": "Registration",
     "startDate": "2026-10-18",
@@ -20307,7 +20374,7 @@
       "lon": -71.13
     },
     "costs": [
-      280
+      265
     ],
     "difficulty": 4,
     "difficultyLabel": "4 - Moderate",
@@ -20827,6 +20894,39 @@
     "url": "/s/oc-activity/a5UVX000001J9ob2AC"
   },
   {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.23,
+      "lon": -71.06
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-07",
+    "id": "a5UVX000001J9qD2AS",
+    "leaders": [
+      "Joanne Newton"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "TRAIL TRACE THE BLUE HILLS - Tucker Hill  - 3 Hour Map Development",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-06",
+    "registration": "open",
+    "registrationOpenDate": "2026-09-20",
+    "registrationType": "Application",
+    "startDate": "2026-10-07",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001J9qD2AS"
+  },
+  {
     "chapterId": "0015000001Sg064AAB",
     "coords": {
       "lat": 41.12,
@@ -20916,5 +21016,173 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001J9zt2AC"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 40.81,
+      "lon": -73.94
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-26",
+    "id": "a5UVX000001JACn2AO",
+    "keywords": "Randall’s Island Adventure, Urban Hike, Waterfront Walk, Shoreline Views, East River, NYC Skyline Views, Queens Views, Under NYC Bridges",
+    "leaders": [
+      "Richard Perez"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Stroll Randalls Island (Moderate)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Social",
+    "startDate": "2026-09-26",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JACn2AO"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.3,
+      "lon": -73.99
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-25",
+    "id": "a5UVX000001JB8r2AG",
+    "keywords": "hiking, moderate",
+    "leaders": [
+      "Rolande Hodel"
+    ],
+    "location": {
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Cornell Mine Trail, Bear Mt. State Park 9 AM (Moderate)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-09-25",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JB8r2AG"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.57,
+      "lon": -75.11
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-24",
+    "id": "a5UVX000001JC3J2AW",
+    "keywords": "Trail workday twenties and thirties 20s 30s pennsylvania highlands trail volunteer volunteering bridgeton nature preserve bucks county",
+    "leaders": [
+      "Madison Nicole DeGerolamo"
+    ],
+    "location": {
+      "city": "Upper Black Eddy",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "20's & 30's Volunteer Trail Workday on the PA Highlands Trail",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Volunteer Opportunities",
+    "startDate": "2026-10-24",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Trail Work",
+    "timeZone": "US EST",
+    "type": "Trail Work",
+    "url": "/s/oc-activity/a5UVX000001JC3J2AW"
+  },
+  {
+    "audience": "55+;Adults",
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.58,
+      "lon": -75.94
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-10-25",
+    "id": "a5UVX000001JD4D2AW",
+    "leaders": [
+      "George Rockett"
+    ],
+    "location": {
+      "city": "Hamburg",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Pinnacle and Pulpit ... A 9ish Mile Hike.",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-25",
+    "startTime": "8:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JD4D2AW"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 40.85,
+      "lon": -73.94
+    },
+    "costs": [
+      20
+    ],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-17",
+    "id": "a5UVX000001JE9x2AG",
+    "keywords": "NYGrowth C2T Concrete to Trails Apple Pumpkin family families kid kids",
+    "leaders": [
+      "Richard Perez"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "CONCRETE TO TRAILS: Apple & Pumpkin Picking at Pennings Orchard for Family & Friends",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-17",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-09-30",
+    "registrationType": "Registration",
+    "startDate": "2026-10-17",
+    "startTime": "8:45 AM",
+    "status": "Published",
+    "subType": "Nature & Arts",
+    "timeZone": "US EST",
+    "type": "Nature & Arts",
+    "url": "/s/oc-activity/a5UVX000001JE9x2AG"
   }
 ]
