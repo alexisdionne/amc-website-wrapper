@@ -320,6 +320,33 @@
     "url": "/s/oc-activity/a5UUN000001MHfx2AG"
   },
   {
+    "audience": "20’s & 30’s;Adults",
+    "chapterId": "0015000001Sg05xAAB",
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-12-31",
+    "id": "a5UUN000001NHkL2AW",
+    "leaders": [
+      "Roseanna Lacas"
+    ],
+    "location": {
+      "country": "United States"
+    },
+    "name": "Western MA 20s/30s and 30s/40s WhatsApp Group",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Backpacking;Biking;Camping;Climbing & Mountaineering;Conservation;Hiking, Local Walks, & Trail Running;Outdoor Leadership Training;Paddling;Skiing;Snowshoeing;Social;Trail Work;Volunteer Opportunities",
+    "startDate": "2026-01-01",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "Local Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UUN000001NHkL2AW"
+  },
+  {
     "audience": "Adults",
     "chapterId": "0015000001TGzFBAA1",
     "coords": {
@@ -1616,7 +1643,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-26",
     "startTime": "6:00 PM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -1909,7 +1936,7 @@
     "registrationType": "Registration",
     "startDate": "2026-09-24",
     "startTime": "5:15 PM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Local Walks",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -3166,7 +3193,7 @@
     "secondaryType": "Conservation",
     "startDate": "2026-10-03",
     "startTime": "7:00 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5483,7 +5510,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-03",
     "startTime": "7:45 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5647,7 +5674,7 @@
     "name": "Mt Paugus - 52WAV with Ice Age geology",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-22",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-08-24",
     "registrationType": "Application",
     "startDate": "2026-09-25",
@@ -5855,7 +5882,7 @@
     "secondaryType": "Outdoor Learning Experience",
     "startDate": "2026-10-09",
     "startTime": "10:00 PM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -6570,7 +6597,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-01",
     "startTime": "All Day",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -8761,7 +8788,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-12",
     "startTime": "All Day",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -8888,7 +8915,7 @@
     "name": "PROGRESSIVE HIKING SERIES FROM THE BLUE HILLS TO METRO WEST – HIKE #3",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-04",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-22",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -12467,7 +12494,7 @@
     "name": "Wednesday Hike & Learn – Tidmarsh Wildlife Sanctuary with Mass Audubon",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-19",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-22",
     "registrationType": "Registration",
     "startDate": "2026-10-21",
@@ -12519,7 +12546,7 @@
       "lon": -71.88
     },
     "costs": [
-      463.56
+      596.3
     ],
     "difficulty": 2,
     "difficultyLabel": "2 - Relaxed",
@@ -13265,37 +13292,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001IBqr2AG"
-  },
-  {
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 40.09,
-      "lon": -75.45
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-09-22",
-    "id": "a5UVX000001ICAD2A4",
-    "leaders": [
-      "Pat Grannan"
-    ],
-    "location": {
-      "city": "King of Prussia",
-      "country": "United States",
-      "state": "PA"
-    },
-    "name": "Valley Forge Tuesday Morning Hike",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "startDate": "2026-09-22",
-    "startTime": "9:30 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001ICAD2A4"
   },
   {
     "chapterId": "0015000001Sg06BAAR",
@@ -18219,6 +18215,41 @@
     "url": "/s/oc-activity/a5UVX000001Iry92AC"
   },
   {
+    "chapterId": "0015000001Sg060AAB",
+    "coords": {
+      "lat": 43.22,
+      "lon": -71.54
+    },
+    "costs": [
+      40
+    ],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-10-24",
+    "id": "a5UVX000001Irzl2AC",
+    "keywords": "105th AMC NH Chapter Annual Meeting",
+    "leaders": [
+      "Robin Diamond"
+    ],
+    "location": {
+      "city": "Concord",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "105th AMC NH Chapter Annual Meeting",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Conservation",
+    "startDate": "2026-10-24",
+    "startTime": "6:15 PM",
+    "status": "Published",
+    "subType": "Annual Chapter Dinners",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001Irzl2AC"
+  },
+  {
     "chapterId": "0015000001Sg064AAB",
     "coords": {
       "lat": 43.78,
@@ -20857,6 +20888,38 @@
     "url": "/s/oc-activity/a5UVX000001JFqn2AG"
   },
   {
+    "audience": "20’s & 30’s;Adults",
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.46,
+      "lon": -72.58
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-10-02",
+    "id": "a5UVX000001JGGb2AO",
+    "leaders": [
+      "Chelsea Taylor"
+    ],
+    "location": {
+      "city": "Sunderland",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "(20s/30s/40s) Beer Tasting @ Mike's Maze",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-02",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Local Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001JGGb2AO"
+  },
+  {
     "chapterId": "0015000001Sg05zAAB",
     "coords": {
       "lat": 41.84,
@@ -20889,6 +20952,38 @@
     "url": "/s/oc-activity/a5UVX000001JGOf2AO"
   },
   {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.55,
+      "lon": -71.35
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-03",
+    "id": "a5UVX000001JGy92AG",
+    "keywords": "family",
+    "leaders": [
+      "Heather McCurdy"
+    ],
+    "location": {
+      "city": "Carlisle",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Family Hike in Great Brook Farm with Ice Cream",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-10-03",
+    "startTime": "12:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JGy92AG"
+  },
+  {
     "audience": "Adults",
     "chapterId": "0015000001Sg06DAAR",
     "costs": [],
@@ -20917,5 +21012,167 @@
     "timeZone": "US EST",
     "type": "Biking",
     "url": "/s/oc-activity/a5UVX000001JIWv2AO"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 39.92,
+      "lon": -74.95
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-26",
+    "id": "a5UVX000001JIbl2AG",
+    "leaders": [
+      "Stanton de Riel"
+    ],
+    "location": {
+      "city": "Princeton",
+      "country": "United States",
+      "state": "NJ"
+    },
+    "name": "Griggstown Grassland and Graeber Woods Late Summer Hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-09-26",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JIbl2AG"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.29,
+      "lon": -73.39
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-24",
+    "id": "a5UVX000001JJw12AG",
+    "leaders": [
+      "John Fitzpatrick"
+    ],
+    "location": {
+      "city": "Redding",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Saugatuck Trail North",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-09-24",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JJw12AG"
+  },
+  {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 40.85,
+      "lon": -73.94
+    },
+    "costs": [
+      40
+    ],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-04",
+    "id": "a5UVX000001JK7J2AW",
+    "keywords": "Concrete to Trails, NYGrowth, C2T, AMC NYC, hike, nature, walk, bus",
+    "leaders": [
+      "Eileen Yin"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "CONCRETE TO TRAILS: Lamb's Hill and Sloop Brewing Co. for 20s & 30s",
+    "program": "Staff Activities",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-04",
+    "startTime": "8:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JK7J2AW"
+  },
+  {
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.25,
+      "lon": -70.87
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-08",
+    "id": "a5UVX000001JKP32AO",
+    "leaders": [
+      "Eva Das"
+    ],
+    "location": {
+      "city": "Hingham",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Thursday at Worlds End:  Autumn Views",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-08",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JKP32AO"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.76,
+      "lon": -72.51
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-24",
+    "id": "a5UVX000001JKbx2AG",
+    "leaders": [
+      "Leo Pon"
+    ],
+    "location": {
+      "city": "Manchester",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Manchester Vernon Bolton Loop (SO, FL/RL, RG, 10-12) 16 miles.",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-09-24",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Road",
+    "timeZone": "US EST",
+    "type": "Biking",
+    "url": "/s/oc-activity/a5UVX000001JKbx2AG"
   }
 ]
