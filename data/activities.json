@@ -2391,37 +2391,6 @@
     "url": "/s/oc-activity/a5UVX0000014HWL2A2"
   },
   {
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 44.4,
-      "lon": -71.08
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-09-21",
-    "id": "a5UVX0000014KxF2AU",
-    "leaders": [
-      "Michele Valerio"
-    ],
-    "location": {
-      "city": "Shelburne",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "Fall 2026 White Mountains Trip",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2026-09-17",
-    "startTime": "All Day",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX0000014KxF2AU"
-  },
-  {
     "chapterId": "0015000001Sg065AAB",
     "coords": {
       "lat": 45.1,
@@ -3369,75 +3338,11 @@
     "secondaryType": "Biking;Hiking, Local Walks, & Trail Running;Paddling;Social;Yoga;Evening Programs;Nature Walks",
     "startDate": "2026-10-03",
     "startTime": "All Day",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX0000018wSr2AI"
-  },
-  {
-    "chapterId": "001VX00000utYFKYA2",
-    "coords": {
-      "lat": 40.64,
-      "lon": -73.17
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-09-27",
-    "id": "a5UVX0000019CHV2A2",
-    "keywords": "Fire Island, Nature",
-    "leaders": [
-      "AMC Naturalist"
-    ],
-    "location": {
-      "city": "Saltaire",
-      "country": "United States",
-      "state": "NY"
-    },
-    "name": "Birds of Fire Island",
-    "program": "Naturalist Program",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "startDate": "2026-09-27",
-    "startTime": "9:00 AM",
-    "status": "Published",
-    "subType": "Nature Walks",
-    "timeZone": "US EST",
-    "type": "Nature Walks",
-    "url": "/s/oc-activity/a5UVX0000019CHV2A2"
-  },
-  {
-    "chapterId": "001VX00000utYFKYA2",
-    "coords": {
-      "lat": 40.64,
-      "lon": -73.17
-    },
-    "costs": [],
-    "difficulty": 2,
-    "difficultyLabel": "2 - Relaxed",
-    "endDate": "2026-09-26",
-    "id": "a5UVX0000019HCL2A2",
-    "keywords": "Fire Island, nature",
-    "leaders": [
-      "AMC Naturalist"
-    ],
-    "location": {
-      "city": "Saltaire",
-      "country": "United States",
-      "state": "NY"
-    },
-    "name": "Afternoon Exploration",
-    "program": "Naturalist Program",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "startDate": "2026-09-26",
-    "startTime": "4:00 PM",
-    "status": "Published",
-    "subType": "Nature & Arts",
-    "timeZone": "US EST",
-    "type": "Nature & Arts",
-    "url": "/s/oc-activity/a5UVX0000019HCL2A2"
   },
   {
     "chapterId": "001VX00000utYFKYA2",
@@ -3534,38 +3439,6 @@
     "timeZone": "US EST",
     "type": "Nature & Arts",
     "url": "/s/oc-activity/a5UVX0000019HIn2AM"
-  },
-  {
-    "chapterId": "001VX00000utYFKYA2",
-    "coords": {
-      "lat": 40.64,
-      "lon": -73.17
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-09-27",
-    "id": "a5UVX0000019HST2A2",
-    "keywords": "Fire Island, Nature",
-    "leaders": [
-      "AMC Naturalist"
-    ],
-    "location": {
-      "city": "Saltaire",
-      "country": "United States",
-      "state": "NY"
-    },
-    "name": "Kayaking Basics on the Beach: Fire Island",
-    "program": "Naturalist Program",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "startDate": "2026-09-26",
-    "startTime": "9:00 AM",
-    "status": "Published",
-    "subType": "Nature Walks",
-    "timeZone": "US EST",
-    "type": "Nature Walks",
-    "url": "/s/oc-activity/a5UVX0000019HST2A2"
   },
   {
     "chapterId": "001VX00000utYFKYA2",
@@ -3784,71 +3657,6 @@
     "timeZone": "US EST",
     "type": "Nature Walks",
     "url": "/s/oc-activity/a5UVX0000019HvV2AU"
-  },
-  {
-    "chapterId": "001VX00000utYFKYA2",
-    "coords": {
-      "lat": 40.64,
-      "lon": -73.17
-    },
-    "costs": [],
-    "difficulty": 1,
-    "difficultyLabel": "1 - Accessible",
-    "endDate": "2026-09-25",
-    "id": "a5UVX0000019I3Z2AU",
-    "keywords": "Fire Island, Naturalist",
-    "leaders": [
-      "AMC Naturalist"
-    ],
-    "location": {
-      "city": "Saltaire",
-      "country": "United States",
-      "state": "NY"
-    },
-    "name": "Stargazing on the Beach: Fire Island",
-    "program": "Naturalist Program",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "startDate": "2026-09-25",
-    "startTime": "7:00 PM",
-    "status": "Published",
-    "subType": "Evening Programs",
-    "timeZone": "US EST",
-    "type": "Evening Programs",
-    "url": "/s/oc-activity/a5UVX0000019I3Z2AU"
-  },
-  {
-    "chapterId": "001VX00000utYFKYA2",
-    "coords": {
-      "lat": 40.64,
-      "lon": -73.17
-    },
-    "costs": [],
-    "difficulty": 1,
-    "difficultyLabel": "1 - Accessible",
-    "endDate": "2026-09-26",
-    "id": "a5UVX0000019I5B2AU",
-    "keywords": "Fire Island, Naturalist",
-    "leaders": [
-      "AMC Naturalist"
-    ],
-    "location": {
-      "city": "Saltaire",
-      "country": "United States",
-      "state": "NY"
-    },
-    "name": "Evening Program: Fire Island History",
-    "program": "Naturalist Program",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "secondaryType": "Biking",
-    "startDate": "2026-09-26",
-    "startTime": "7:00 PM",
-    "status": "Published",
-    "subType": "Evening Programs",
-    "timeZone": "US EST",
-    "type": "Evening Programs",
-    "url": "/s/oc-activity/a5UVX0000019I5B2AU"
   },
   {
     "chapterId": "001VX00000utYFKYA2",
@@ -4334,41 +4142,6 @@
     "timeZone": "US EST",
     "type": "Backpacking",
     "url": "/s/oc-activity/a5UVX0000019wyf2AA"
-  },
-  {
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 40.47,
-      "lon": -75.23
-    },
-    "costs": [
-      60
-    ],
-    "difficulty": 2,
-    "difficultyLabel": "2 - Relaxed",
-    "endDate": "2026-09-21",
-    "id": "a5UVX000001A4OL2A0",
-    "keywords": "wfa, wilderness first aid, health, safety, first aid",
-    "leaders": [
-      "Lisa Chou"
-    ],
-    "location": {
-      "city": "Quakertown",
-      "country": "United States",
-      "state": "PA"
-    },
-    "name": "Wilderness First Aid (WFA) Class - Hybrid Format - 4 Sessions Total",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Outdoor Learning Experience;Wilderness First Aid",
-    "startDate": "2026-09-21",
-    "startTime": "6:30 PM",
-    "status": "Full",
-    "subType": "Outdoor Learning Experience",
-    "timeZone": "US EST",
-    "type": "Outdoor Learning Experience",
-    "url": "/s/oc-activity/a5UVX000001A4OL2A0"
   },
   {
     "chapterId": "0015000001Sg060AAB",
@@ -5710,7 +5483,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-03",
     "startTime": "7:45 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5745,7 +5518,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-17",
     "startTime": "7:45 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5879,7 +5652,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-25",
     "startTime": "8:30 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -8447,39 +8220,6 @@
       "lon": -71.41
     },
     "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-09-21",
-    "id": "a5UVX000001GcYb2AK",
-    "keywords": "Nature, walk, free, public, naturalist, programming, program, hike, short, guided, education, educational, wildlife, plants, Elephant Head, Highland Center, Highland, white mountains",
-    "leaders": [
-      "AMC Naturalist"
-    ],
-    "location": {
-      "city": "Carroll",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "Nature Walk: Elephant Head",
-    "program": "Naturalist Program",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-09-21",
-    "startTime": "9:00 AM",
-    "status": "Published",
-    "subType": "Nature Walks",
-    "timeZone": "US EST",
-    "type": "Nature Walks",
-    "url": "/s/oc-activity/a5UVX000001GcYb2AK"
-  },
-  {
-    "chapterId": "001UN00000bpnMdYAI",
-    "coords": {
-      "lat": 44.22,
-      "lon": -71.41
-    },
-    "costs": [],
     "difficulty": 1,
     "difficultyLabel": "1 - Accessible",
     "endDate": "2026-09-24",
@@ -9192,39 +8932,6 @@
     "timeZone": "US EST",
     "type": "Nature Walks",
     "url": "/s/oc-activity/a5UVX000001GsBy2AK"
-  },
-  {
-    "chapterId": "001UN00000bpnMdYAI",
-    "coords": {
-      "lat": 44.26,
-      "lon": -71.25
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-09-21",
-    "id": "a5UVX000001GsOr2AK",
-    "keywords": "mindfulness, Nature, walk, free, public, naturalist, programming, program, hike, short, guided, education, educational, wildlife, plants, Lost Pond, Pinkham, Pinkham Notch, white mountains",
-    "leaders": [
-      "AMC Naturalist"
-    ],
-    "location": {
-      "city": "Gorham",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "Mindfulness in Nature: Hike to Lost Pond",
-    "program": "Naturalist Program",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "secondaryType": "Nature & Arts",
-    "startDate": "2026-09-21",
-    "startTime": "9:00 AM",
-    "status": "Published",
-    "subType": "Nature Walks",
-    "timeZone": "US EST",
-    "type": "Nature Walks",
-    "url": "/s/oc-activity/a5UVX000001GsOr2AK"
   },
   {
     "chapterId": "0015000001Sg05zAAB",
@@ -10904,7 +10611,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-09-29",
     "startTime": "10:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -11510,38 +11217,6 @@
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg065AAB",
     "coords": {
-      "lat": 43.61,
-      "lon": -70.29
-    },
-    "costs": [],
-    "difficulty": 2,
-    "difficultyLabel": "2 - Relaxed",
-    "endDate": "2026-09-21",
-    "id": "a5UVX000001HdpB2AS",
-    "leaders": [
-      "Andrew Metz"
-    ],
-    "location": {
-      "city": "South Portland",
-      "country": "United States",
-      "state": "ME"
-    },
-    "name": "(20s/30s) Eastern Trail Social Bike Ride to Ice Cream",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2026-09-21",
-    "startTime": "6:00 PM",
-    "status": "Published",
-    "subType": "Gravel",
-    "timeZone": "US EST",
-    "type": "Biking",
-    "url": "/s/oc-activity/a5UVX000001HdpB2AS"
-  },
-  {
-    "audience": "20’s & 30’s",
-    "chapterId": "0015000001Sg065AAB",
-    "coords": {
       "lat": 44.01,
       "lon": -71.27
     },
@@ -11564,7 +11239,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-27",
     "startTime": "9:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -12025,38 +11700,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001HmXV2A0"
-  },
-  {
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 40.13,
-      "lon": -75.48
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-09-21",
-    "id": "a5UVX000001HmpF2AS",
-    "keywords": "hiking, walks, dog walk, Phoenixville",
-    "leaders": [
-      "Jay Gross"
-    ],
-    "location": {
-      "city": "Phoenixville",
-      "country": "United States",
-      "state": "PA"
-    },
-    "name": "Monday Evening Hike in Phoenixville",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "startDate": "2026-09-21",
-    "startTime": "6:30 PM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001HmpF2AS"
   },
   {
     "chapterId": "0015000001Sg06BAAR",
@@ -12876,7 +12519,7 @@
       "lon": -71.88
     },
     "costs": [
-      596.3
+      463.56
     ],
     "difficulty": 2,
     "difficultyLabel": "2 - Relaxed",
@@ -13069,40 +12712,6 @@
     "url": "/s/oc-activity/a5UVX000001I2KX2A0"
   },
   {
-    "chapterId": "0015000001Sg061AAB",
-    "coords": {
-      "lat": 42.21,
-      "lon": -71.08
-    },
-    "costs": [],
-    "difficulty": 2,
-    "difficultyLabel": "2 - Relaxed",
-    "endDate": "2026-09-21",
-    "id": "a5UVX000001I2PN2A0",
-    "keywords": "trailwork",
-    "leaders": [
-      "Joanne Newton"
-    ],
-    "location": {
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "Hiking with Trailwork in the Blue Hills",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-09-20",
-    "registration": "closed",
-    "registrationOpenDate": "2026-09-06",
-    "registrationType": "Registration",
-    "secondaryType": "Trail Work",
-    "startDate": "2026-09-21",
-    "startTime": "10:00 AM",
-    "status": "Waitlist",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001I2PN2A0"
-  },
-  {
     "audience": "Adults",
     "chapterId": "0015000001Sg05xAAB",
     "coords": {
@@ -13255,7 +12864,7 @@
     "name": "Volunteer Leader Appreciation Social",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-20",
-    "registration": "open",
+    "registration": "closed",
     "registrationType": "Application",
     "startDate": "2026-09-24",
     "startTime": "6:00 PM",
@@ -15759,6 +15368,41 @@
     "url": "/s/oc-activity/a5UVX000001IXPx2AO"
   },
   {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 40.85,
+      "lon": -73.94
+    },
+    "costs": [
+      40
+    ],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-27",
+    "id": "a5UVX000001IXUn2AO",
+    "keywords": "Concrete to Trails, NYGrowth, C2T, AMC NYC, hike, nature, walk, bus",
+    "leaders": [
+      "Mari Ishihara"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "CONCRETE TO TRAILS: Hagencamp Mountain",
+    "program": "Staff Activities",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-09-27",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IXUn2AO"
+  },
+  {
     "audience": "Adults",
     "chapterId": "0015000001Sg061AAB",
     "coords": {
@@ -16411,7 +16055,7 @@
     "name": "Ashland Town Forest Hike (20's and 30's)",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-21",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-14",
     "registrationType": "Application",
     "startDate": "2026-09-22",
@@ -18608,39 +18252,6 @@
     "url": "/s/oc-activity/a5UVX000001IsCf2AK"
   },
   {
-    "chapterId": "0015000001Sg064AAB",
-    "coords": {
-      "lat": 40.89,
-      "lon": -73.9
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-09-21",
-    "id": "a5UVX000001Isqz2AC",
-    "keywords": "⁠Untermeyer Gardens, Hudson River,⁠ ⁠⁠Vegetable Garden, Indo Persian Garden, Japanese Cedars, Historical Site, Panoramic Views, Hike Trail",
-    "leaders": [
-      "Richard Perez"
-    ],
-    "location": {
-      "city": "Bronx",
-      "country": "United States",
-      "state": "NY"
-    },
-    "name": "Monday Escape: Explore Untermyer Gardens (Moderate)",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Social",
-    "startDate": "2026-09-21",
-    "startTime": "10:00 AM",
-    "status": "Waitlist",
-    "subType": "Local Walks",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001Isqz2AC"
-  },
-  {
     "chapterId": "0015000001Sg061AAB",
     "coords": {
       "lat": 43.75,
@@ -19836,7 +19447,7 @@
     "registrationType": "Application",
     "startDate": "2026-09-22",
     "startTime": "6:00 PM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -20738,6 +20349,39 @@
     "url": "/s/oc-activity/a5UVX000001J8xN2AS"
   },
   {
+    "audience": "Families",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.47,
+      "lon": -71.22
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-09-27",
+    "id": "a5UVX000001J92D2AS",
+    "keywords": "family friendly, ages 4+",
+    "leaders": [
+      "Katerina Cai"
+    ],
+    "location": {
+      "city": "Lexington",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Family - Little Explorers' Autumn Trail Series (1 of 3)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-09-27",
+    "startTime": "3:30 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001J92D2AS"
+  },
+  {
     "audience": "Adults",
     "chapterId": "0015000001Sg06DAAR",
     "costs": [],
@@ -21184,5 +20828,94 @@
     "timeZone": "US EST",
     "type": "Nature & Arts",
     "url": "/s/oc-activity/a5UVX000001JE9x2AG"
+  },
+  {
+    "chapterId": "0015000001Sg069AAB",
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-18",
+    "id": "a5UVX000001JFqn2AG",
+    "keywords": "Foliage, Nature, Hiking",
+    "leaders": [
+      "Marty Jo Henry"
+    ],
+    "location": {
+      "country": "United States"
+    },
+    "name": "Fall Hike at Nichewaug Tract in Petersham",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "secondaryType": "Nature Walks",
+    "startDate": "2026-10-18",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JFqn2AG"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.84,
+      "lon": -72.93
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-08",
+    "id": "a5UVX000001JGOf2AO",
+    "leaders": [
+      "Phillip Wilsey"
+    ],
+    "location": {
+      "city": "Canton",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "South Taconic Trail, Alander Mt. and Bash Bish Falls, Mt. Washington, MA., (Moderate, B3B)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Social",
+    "startDate": "2026-10-08",
+    "startTime": "8:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JGOf2AO"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-17",
+    "id": "a5UVX000001JIWv2AO",
+    "leaders": [
+      "Jeannine Audet"
+    ],
+    "location": {
+      "city": "Westport",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Tiverton Ice Cream Ride",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-15",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-09-27",
+    "registrationType": "Application",
+    "startDate": "2026-10-17",
+    "startTime": "11:00 AM",
+    "status": "Published",
+    "subType": "Road",
+    "timeZone": "US EST",
+    "type": "Biking",
+    "url": "/s/oc-activity/a5UVX000001JIWv2AO"
   }
 ]
