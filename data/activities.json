@@ -4582,7 +4582,7 @@
     "name": "Quincy Bog Natural Area",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-06",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-23",
     "registrationType": "Registration",
     "startDate": "2026-10-07",
@@ -6678,7 +6678,7 @@
     "name": "20s & 30s Renaissance Festival Camping Trip",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-23",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-08-30",
     "registrationType": "Application",
     "startDate": "2026-09-25",
@@ -7829,7 +7829,7 @@
     "name": "Thursday hike at Rocky Woods",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-23",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-14",
     "registrationType": "Registration",
     "startDate": "2026-09-24",
@@ -8064,7 +8064,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-03",
     "startTime": "7:45 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -8620,7 +8620,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-12",
     "startTime": "All Day",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -10009,7 +10009,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-16",
     "startTime": "6:00 PM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -14536,7 +14536,7 @@
     "name": "Great Brook Farm State Park Hike and Farm Tour with Ice Cream 🐄🍦",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-23",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-15",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -14969,41 +14969,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001IXPx2AO"
-  },
-  {
-    "chapterId": "001UN00000bpnMdYAI",
-    "coords": {
-      "lat": 40.85,
-      "lon": -73.94
-    },
-    "costs": [
-      40
-    ],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-09-27",
-    "id": "a5UVX000001IXUn2AO",
-    "keywords": "Concrete to Trails, NYGrowth, C2T, AMC NYC, hike, nature, walk, bus",
-    "leaders": [
-      "Mari Ishihara"
-    ],
-    "location": {
-      "city": "New York",
-      "country": "United States",
-      "state": "NY"
-    },
-    "name": "CONCRETE TO TRAILS: Hagencamp Mountain",
-    "program": "Staff Activities",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-09-27",
-    "startTime": "9:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001IXUn2AO"
   },
   {
     "audience": "Adults",
@@ -20173,6 +20138,39 @@
   {
     "chapterId": "0015000001Sg064AAB",
     "coords": {
+      "lat": 40.81,
+      "lon": -73.94
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-09-27",
+    "id": "a5UVX000001JACn2AO",
+    "keywords": "Randall’s Island Adventure, Urban Hike, Waterfront Walk, Shoreline Views, East River, NYC Skyline Views, Queens Views, Under NYC Bridges",
+    "leaders": [
+      "Richard Perez"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Stroll Randalls Island (Moderate)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Social",
+    "startDate": "2026-09-27",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JACn2AO"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
       "lat": 41.3,
       "lon": -73.99
     },
@@ -20939,5 +20937,109 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001JPLV2A4"
+  },
+  {
+    "chapterId": "0015000001Sg066AAB",
+    "coords": {
+      "lat": 41.57,
+      "lon": -71.79
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-10-03",
+    "id": "a5UVX000001JQiz2AG",
+    "keywords": "rock climbing",
+    "leaders": [
+      "Kenneth Hamel"
+    ],
+    "location": {
+      "city": "Exeter",
+      "country": "United States",
+      "state": "RI"
+    },
+    "name": "Celebrate a Crag Day - Beach Pond",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-03",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Sport Rock",
+    "timeZone": "US EST",
+    "type": "Climbing & Mountaineering",
+    "url": "/s/oc-activity/a5UVX000001JQiz2AG"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 40.85,
+      "lon": -73.94
+    },
+    "costs": [
+      10
+    ],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-17",
+    "id": "a5UVX000001JRYb2AO",
+    "keywords": "NYGrowth C2T Concrete to Trails Apple Pumpkin family families kid kids students CCNY faculty college university school",
+    "leaders": [
+      "Richard Perez"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "CONCRETE TO TRAILS: AMC x CCNY Outdoors Club - Let's Go Apple & Pumpkin Picking at Pennings Orchard",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-17",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-09-30",
+    "registrationType": "Registration",
+    "startDate": "2026-10-17",
+    "startTime": "8:45 AM",
+    "status": "Published",
+    "subType": "Nature & Arts",
+    "timeZone": "US EST",
+    "type": "Nature & Arts",
+    "url": "/s/oc-activity/a5UVX000001JRYb2AO"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.19,
+      "lon": -71.12
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-26",
+    "id": "a5UVX000001JSCv2AO",
+    "keywords": "THANKSGIVING; BLUE HILLS; hike; easy",
+    "leaders": [
+      "Ken Cohen"
+    ],
+    "location": {
+      "city": "Canton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "THANKSGIVING MORNING \"TURKEY TROT\" IN THE LOWLANDS REGION OF THE BLUE HILLS",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-24",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-11-08",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-26",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JSCv2AO"
   }
 ]
