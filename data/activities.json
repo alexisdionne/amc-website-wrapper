@@ -182,7 +182,7 @@
     "name": "Utah Confidential - Day Hikes to Remote Canyons in Southern Utah (#2631)",
     "program": "Adventure Travel",
     "registerByDate": "2026-09-24",
-    "registration": "open",
+    "registration": "closed",
     "registrationType": "Application",
     "secondaryType": "Adventure Travel",
     "startDate": "2026-09-24",
@@ -346,6 +346,37 @@
     "timeZone": "US EST",
     "type": "Adventure Travel",
     "url": "/s/oc-activity/a5UUN000001OOwf2AG"
+  },
+  {
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.41,
+      "lon": -71.38
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-05",
+    "id": "a5UUN000001dtaL2AQ",
+    "keywords": "Cape Hikes",
+    "leaders": [
+      "Carla Fogaren"
+    ],
+    "location": {
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Cape Hikes--Marconi Wireless Station , Wellfleet",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-05",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UUN000001dtaL2AQ"
   },
   {
     "audience": "Adults",
@@ -1194,7 +1225,7 @@
     "secondaryType": "Nature & Arts",
     "startDate": "2026-09-26",
     "startTime": "2:00 PM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -1520,7 +1551,7 @@
     "secondaryType": "Adventure Travel",
     "startDate": "2027-05-15",
     "startTime": "All Day",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Adventure Travel",
     "timeZone": "US EST",
     "type": "Adventure Travel",
@@ -2042,7 +2073,7 @@
     "name": "Mt Greylock.  2 Day Backpack",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-24",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-08-01",
     "registrationType": "Application",
     "secondaryType": "Trail Work",
@@ -6225,40 +6256,6 @@
     "audience": "Adults",
     "chapterId": "0015000001Sg061AAB",
     "coords": {
-      "lat": 44.16,
-      "lon": -71.61
-    },
-    "costs": [],
-    "difficulty": 6,
-    "difficultyLabel": "6 - Strenuous",
-    "endDate": "2026-09-26",
-    "id": "a5UVX000001FCTJ2A4",
-    "leaders": [
-      "Terry Rice"
-    ],
-    "location": {
-      "city": "Franconia",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "Franconia Ridge Loop",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-09-25",
-    "registration": "open",
-    "registrationOpenDate": "2026-08-24",
-    "registrationType": "Application",
-    "startDate": "2026-09-26",
-    "startTime": "All Day",
-    "status": "Waitlist",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001FCTJ2A4"
-  },
-  {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg061AAB",
-    "coords": {
       "lat": 44.3,
       "lon": -71.32
     },
@@ -6352,7 +6349,7 @@
     "secondaryType": "Paddling",
     "startDate": "2026-09-25",
     "startTime": "5:00 PM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Local Socials",
     "timeZone": "US EST",
     "type": "Social",
@@ -6530,9 +6527,9 @@
     "costs": [],
     "difficulty": 1,
     "difficultyLabel": "1 - Accessible",
-    "endDate": "2026-09-27",
+    "endDate": "2026-10-10",
     "id": "a5UVX000001FiWP2A0",
-    "keywords": "camping camp out ren renaissance festival faire fantasy adventure hang out social fun jackalope society secret mystery there will be no trail cult cards at this event",
+    "keywords": "ren renaissance festival faire fantasy adventure hang out social fun jackalope society secret mystery there will be no trail cult cards at this event",
     "leaders": [
       "Robert Gonzalez"
     ],
@@ -6541,14 +6538,14 @@
       "country": "United States",
       "state": "MA"
     },
-    "name": "20s & 30s Renaissance Festival Camping Trip",
+    "name": "20s & 30s Renaissance Festival Social",
     "program": "Volunteer Led",
-    "registerByDate": "2026-09-23",
+    "registerByDate": "2026-10-09",
     "registration": "closed",
-    "registrationOpenDate": "2026-08-30",
-    "registrationType": "Application",
-    "startDate": "2026-09-25",
-    "startTime": "5:00 PM",
+    "registrationOpenDate": "2026-09-24",
+    "registrationType": "Registration",
+    "startDate": "2026-10-10",
+    "startTime": "11:00 AM",
     "status": "Published",
     "subType": "Local Socials",
     "timeZone": "US EST",
@@ -7509,6 +7506,40 @@
     "url": "/s/oc-activity/a5UVX000001GBrl2AG"
   },
   {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 44.37,
+      "lon": -71.29
+    },
+    "costs": [],
+    "difficulty": 6,
+    "difficultyLabel": "6 - Strenuous",
+    "endDate": "2026-10-17",
+    "id": "a5UVX000001GH4L2AW",
+    "keywords": "adult",
+    "leaders": [
+      "Keith Watling"
+    ],
+    "location": {
+      "city": "Randolph",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Adams and Madison in early Fall via Air Line",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-09",
+    "registration": "open",
+    "registrationOpenDate": "2026-09-14",
+    "registrationType": "Application",
+    "startDate": "2026-10-17",
+    "startTime": "8:00 AM",
+    "status": "Waitlist",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001GH4L2AW"
+  },
+  {
     "chapterId": "0015000001Sg06EAAR",
     "coords": {
       "lat": 40.16,
@@ -7703,7 +7734,7 @@
     "registrationType": "Registration",
     "startDate": "2026-09-27",
     "startTime": "1:30 PM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -8686,7 +8717,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-04",
     "startTime": "11:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Gravel",
     "timeZone": "US EST",
     "type": "Biking",
@@ -12079,6 +12110,40 @@
     "url": "/s/oc-activity/a5UVX000001I0ll2AC"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.1
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-03",
+    "id": "a5UVX000001I0qo2AC",
+    "leaders": [
+      "Kay Bowes"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Blue Hills hike - mixed back trails from Houghton's (re-scheduled)",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-02",
+    "registration": "open",
+    "registrationOpenDate": "2026-09-24",
+    "registrationType": "Application",
+    "startDate": "2026-10-03",
+    "startTime": "8:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001I0qo2AC"
+  },
+  {
     "chapterId": "0015000001Sg06BAAR",
     "coords": {
       "lat": 40.97,
@@ -12753,39 +12818,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001ICIH2A4"
-  },
-  {
-    "chapterId": "0015000001Sg06DAAR",
-    "coords": {
-      "lat": 42.21,
-      "lon": -71.1
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-09-26",
-    "id": "a5UVX000001ICQL2A4",
-    "leaders": [
-      "Kay Bowes"
-    ],
-    "location": {
-      "city": "Milton",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "Blue Hills hike - mixed back trails from Houghton's",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-09-25",
-    "registration": "open",
-    "registrationOpenDate": "2026-09-11",
-    "registrationType": "Application",
-    "startDate": "2026-09-26",
-    "startTime": "8:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001ICQL2A4"
   },
   {
     "audience": "Adults",
@@ -13514,6 +13546,7 @@
     },
     "name": "Fall 2026 Women's+ Crag Day - AMC Narragansett Chapter",
     "program": "Volunteer Led",
+    "registerByDate": "2026-09-23",
     "registration": "open",
     "registrationType": "Registration",
     "secondaryType": "Climbing & Mountaineering",
@@ -13942,7 +13975,7 @@
     "name": "Thursday Massasoit State Park Hike",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-13",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-24",
     "registrationType": "Registration",
     "secondaryType": "Biking;Camping",
@@ -14468,7 +14501,7 @@
     "name": "LET'S HIKE BINNEY HILL WILDERNESS PRESERVE AND PRATT MOUNTAIN/NEW IPSWICH NH",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-02",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-24",
     "registrationType": "Registration",
     "startDate": "2026-10-03",
@@ -15062,7 +15095,7 @@
     "secondaryType": "Outdoor Learning Experience",
     "startDate": "2026-10-25",
     "startTime": "8:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -16959,38 +16992,6 @@
     "url": "/s/oc-activity/a5UVX000001Imbt2AC"
   },
   {
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 40.64,
-      "lon": -75.38
-    },
-    "costs": [],
-    "difficulty": 1,
-    "difficultyLabel": "1 - Accessible",
-    "endDate": "2027-10-01",
-    "id": "a5UVX000001ImnB2AS",
-    "leaders": [
-      "Peni MacMeekin"
-    ],
-    "location": {
-      "city": "Bethlehem",
-      "country": "United States",
-      "state": "PA"
-    },
-    "name": "AMC DV Social Media Administrator Needed!",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Volunteer Opportunities",
-    "startDate": "2026-10-01",
-    "startTime": "All Day",
-    "status": "Published",
-    "subType": "All Volunteer Opportunities",
-    "timeZone": "US EST",
-    "type": "Volunteer Opportunities",
-    "url": "/s/oc-activity/a5UVX000001ImnB2AS"
-  },
-  {
     "chapterId": "0015000001Sg06DAAR",
     "coords": {
       "lat": 42.21,
@@ -17612,7 +17613,7 @@
     "name": "Hiking Wachusett Mountain in the Fall",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-13",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-24",
     "registrationType": "Registration",
     "startDate": "2026-10-15",
@@ -20786,5 +20787,109 @@
     "timeZone": "US EST",
     "type": "Trail Work",
     "url": "/s/oc-activity/a5UVX000001JVCP2A4"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.22,
+      "lon": -71.04
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-01",
+    "id": "a5UVX000001JVdp2AG",
+    "keywords": "hike; Tuesday; Blue Hills",
+    "leaders": [
+      "Ken Cohen"
+    ],
+    "location": {
+      "city": "Braintree",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "A 13-Week Progressive Hiking Series in the Fall - Hike #11",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-29",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-11-17",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-01",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JVdp2AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.22,
+      "lon": -71.12
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-15",
+    "id": "a5UVX000001JVp72AG",
+    "keywords": "hike; tuesday; blue hills, moderate",
+    "leaders": [
+      "Ken Cohen"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "A 13-Week Progressive Hiking Series in the Fall FINALE! - Hike #13",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-13",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-12-01",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-15",
+    "startTime": "10:15 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JVp72AG"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.32,
+      "lon": -72.88
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-02",
+    "id": "a5UVX000001JWoP2AW",
+    "leaders": [
+      "Conrad Ward"
+    ],
+    "location": {
+      "city": "New Haven",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "20s/30s Quinnipiac Meadows walk (New Haven)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-02",
+    "startTime": "5:30 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JWoP2AW"
   }
 ]
