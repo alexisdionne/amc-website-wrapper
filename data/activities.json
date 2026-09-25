@@ -105,7 +105,7 @@
     "id": "a5UUN00000127Kz2AI",
     "keywords": "paddle, hike, nature, hike, swim, outdoors, nature",
     "leaders": [
-      "Carrie Ho"
+      "Eileen Yin"
     ],
     "location": {
       "city": "Pomona",
@@ -3152,14 +3152,14 @@
     },
     "name": "20s and 30s Jackson and Pierce",
     "program": "Volunteer Led",
-    "registerByDate": "2026-10-11",
-    "registration": "open",
+    "registerByDate": "2026-09-25",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-19",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-10-17",
     "startTime": "9:15 AM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -4285,7 +4285,7 @@
       "country": "United States",
       "state": "NY"
     },
-    "name": "Shirley Chisholm State Park Shore Clean Up & Hike with NYS Parks & AMC",
+    "name": "Shirley Chisholm State Park Shore Clean Up & Hike with NYS Parks & AMC - CANCELED",
     "program": "Volunteer Led",
     "registration": "open",
     "registrationType": "Registration",
@@ -6048,38 +6048,6 @@
     "url": "/s/oc-activity/a5UVX000001Ei3p2AC"
   },
   {
-    "chapterId": "0015000001Sg064AAB",
-    "coords": {
-      "lat": 41.07,
-      "lon": -74.28
-    },
-    "costs": [],
-    "difficulty": 5,
-    "difficultyLabel": "5 - Vigorous",
-    "endDate": "2026-09-26",
-    "id": "a5UVX000001ErqH2AS",
-    "leaders": [
-      "David Hartree"
-    ],
-    "location": {
-      "city": "Ringwood",
-      "country": "United States",
-      "state": "NJ"
-    },
-    "name": "Norvin Green State Forest (Vigorous)",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "secondaryType": "Conservation",
-    "startDate": "2026-09-26",
-    "startTime": "9:45 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001ErqH2AS"
-  },
-  {
     "audience": "Adults",
     "chapterId": "0015000001Sg061AAB",
     "coords": {
@@ -6146,6 +6114,40 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001EvU52AK"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 44.3,
+      "lon": -71.32
+    },
+    "costs": [],
+    "difficulty": 6,
+    "difficultyLabel": "6 - Strenuous",
+    "endDate": "2026-10-31",
+    "id": "a5UVX000001FCgD2AW",
+    "leaders": [
+      "Robert Mackin"
+    ],
+    "location": {
+      "city": "Thompson and Meserve's Purchase",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Castellated Loop : Adams and Jefferson via Castle Ravine Trail (T25)",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-29",
+    "registration": "open",
+    "registrationOpenDate": "2026-08-27",
+    "registrationType": "Application",
+    "startDate": "2026-10-31",
+    "startTime": "7:30 AM",
+    "status": "Waitlist",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001FCgD2AW"
   },
   {
     "chapterId": "001UN00000bpnMdYAI",
@@ -6420,7 +6422,7 @@
       "lon": -71.16
     },
     "costs": [
-      99
+      69
     ],
     "difficulty": 4,
     "difficultyLabel": "4 - Moderate",
@@ -6498,14 +6500,14 @@
     "id": "a5UVX000001Fk1x2AC",
     "keywords": "NY Growth Urban Walk Partner Partnership Social Work Ladies Collective Wellness Health",
     "leaders": [
-      "Mari Ishihara"
+      "Eileen Yin"
     ],
     "location": {
       "city": "New York",
       "country": "United States",
       "state": "NY"
     },
-    "name": "Community Wellness Walk in Central Park (Relaxed)",
+    "name": "Community Wellness Walk in Central Park (Relaxed) - CANCELED",
     "program": "Staff Activities",
     "registration": "open",
     "registrationType": "Registration",
@@ -7466,40 +7468,6 @@
     "url": "/s/oc-activity/a5UVX000001GNOH2A4"
   },
   {
-    "chapterId": "0015000001Sg061AAB",
-    "coords": {
-      "lat": 42.64,
-      "lon": -71.15
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-09-27",
-    "id": "a5UVX000001GOsD2AW",
-    "keywords": "Andover, Ales & Trails",
-    "leaders": [
-      "Mark Kaluzny"
-    ],
-    "location": {
-      "city": "Andover",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "ANDOVER AUTUMN ALES & TRAILS (AAA&T) –  HIKE ALONG THE SHAWSHEEN RIVER THORUGH THE SHAWSHEEN AND VALE RESERVATIONS",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-09-24",
-    "registration": "open",
-    "registrationOpenDate": "2026-09-17",
-    "registrationType": "Registration",
-    "startDate": "2026-09-27",
-    "startTime": "1:30 PM",
-    "status": "Waitlist",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001GOsD2AW"
-  },
-  {
     "audience": "Adults",
     "chapterId": "0015000001Sg069AAB",
     "coords": {
@@ -7546,7 +7514,7 @@
     "id": "a5UVX000001GTS52AO",
     "keywords": "NY Growth Major Event Hike Walk Nature Naturalist Walk Fall Foliage Autumn Family friendly",
     "leaders": [
-      "Tiffany Emma Spiegel"
+      "Eileen Yin"
     ],
     "location": {
       "city": "Sloatsburg",
@@ -7578,7 +7546,7 @@
     "id": "a5UVX000001GTbl2AG",
     "keywords": "Concrete to Trails, NYGrowth, C2T, AMC NYC, hike, nature, walk, bus, fall foliage, autumn",
     "leaders": [
-      "Tiffany Emma Spiegel"
+      "Eileen Yin"
     ],
     "location": {
       "city": "New York",
@@ -8443,7 +8411,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-04",
     "startTime": "11:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Gravel",
     "timeZone": "US EST",
     "type": "Biking",
@@ -8477,7 +8445,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-04",
     "startTime": "1:30 PM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -13654,42 +13622,6 @@
     "url": "/s/oc-activity/a5UVX000001IVeH2AW"
   },
   {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg061AAB",
-    "coords": {
-      "lat": 42.55,
-      "lon": -71.35
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-09-27",
-    "id": "a5UVX000001IVpZ2AW",
-    "keywords": "nature, outdoors, hiking, hike",
-    "leaders": [
-      "Michelle Devivo"
-    ],
-    "location": {
-      "city": "Carlisle",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "Great Brook Farm State Park Hike and Farm Tour with Ice Cream 🐄🍦",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-09-23",
-    "registration": "closed",
-    "registrationOpenDate": "2026-09-15",
-    "registrationType": "Application",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-09-27",
-    "startTime": "9:30 AM",
-    "status": "Waitlist",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001IVpZ2AW"
-  },
-  {
     "chapterId": "0015000001Sg05xAAB",
     "coords": {
       "lat": 42.3,
@@ -17053,7 +16985,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-15",
     "startTime": "9:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -17213,6 +17145,38 @@
     "timeZone": "US EST",
     "type": "Skiing",
     "url": "/s/oc-activity/a5UVX000001IwzR2AS"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 40.85,
+      "lon": -73.88
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-10-24",
+    "id": "a5UVX000001Iy8P2AS",
+    "keywords": "NYGrowth NewMember Family Families Kid Kids Child children",
+    "leaders": [
+      "Eileen Yin"
+    ],
+    "location": {
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "AMC Family Day at the Bronx Zoo",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Adventure Travel;Backpacking;Biking;Camping;Climbing & Mountaineering;Conservation;Fishing;Hiking, Local Walks, & Trail Running;Nature & Arts;Outdoor Leadership Training;Outdoor Learning Experience;Paddling;Sailing;Skiing;Snowshoeing;Social;Trail Work;Volunteer Opportunities;Wilderness First Aid;Windsurfing;Yoga",
+    "startDate": "2026-10-24",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Nature & Arts",
+    "timeZone": "US EST",
+    "type": "Nature & Arts",
+    "url": "/s/oc-activity/a5UVX000001Iy8P2AS"
   },
   {
     "chapterId": "0015000001Sg06BAAR",
@@ -18970,6 +18934,39 @@
     "url": "/s/oc-activity/a5UVX000001J9qD2AS"
   },
   {
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.47,
+      "lon": -72.58
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-23",
+    "id": "a5UVX000001J9tR2AS",
+    "keywords": "Kayak, Connecticut River, Sunderland",
+    "leaders": [
+      "Michael April"
+    ],
+    "location": {
+      "city": "Sunderland",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Kayak CT River Sunderland Bridge",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Paddling",
+    "startDate": "2026-10-23",
+    "startTime": "4:00 PM",
+    "status": "Published",
+    "subType": "Flatwater",
+    "timeZone": "US EST",
+    "type": "Paddling",
+    "url": "/s/oc-activity/a5UVX000001J9tR2AS"
+  },
+  {
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg05xAAB",
     "costs": [],
@@ -19128,6 +19125,41 @@
     "url": "/s/oc-activity/a5UVX000001JC3J2AW"
   },
   {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.06,
+      "lon": -71.29
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-10-25",
+    "id": "a5UVX000001JCrJ2AW",
+    "keywords": "Warner Trail, F Gilbert SF",
+    "leaders": [
+      "Roy Wolfe"
+    ],
+    "location": {
+      "city": "Foxborough",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Foxboro's Park inside the Forest",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-23",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-10-10",
+    "registrationType": "Application",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-25",
+    "startTime": "8:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JCrJ2AW"
+  },
+  {
     "audience": "55+;Adults",
     "chapterId": "0015000001Sg06BAAR",
     "coords": {
@@ -19175,7 +19207,7 @@
     "id": "a5UVX000001JE9x2AG",
     "keywords": "NYGrowth C2T Concrete to Trails Apple Pumpkin family families kid kids",
     "leaders": [
-      "Richard Perez"
+      "Eileen Yin"
     ],
     "location": {
       "city": "New York",
@@ -19520,6 +19552,38 @@
     "url": "/s/oc-activity/a5UVX000001JMyj2AG"
   },
   {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 40.86,
+      "lon": -73.93
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-08",
+    "id": "a5UVX000001JNWb2AO",
+    "leaders": [
+      "Amaya Danielle Michael"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Leader Launch Day",
+    "program": "Staff Activities",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Volunteer Opportunities",
+    "startDate": "2026-11-08",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Outdoor Learning Experience",
+    "timeZone": "US EST",
+    "type": "Outdoor Learning Experience",
+    "url": "/s/oc-activity/a5UVX000001JNWb2AO"
+  },
+  {
     "chapterId": "0015000001Sg05zAAB",
     "coords": {
       "lat": 41.28,
@@ -19660,7 +19724,7 @@
     "name": "Purrrfect time for Catskills backpacking",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-01",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-25",
     "registrationType": "Application",
     "secondaryType": "Backpacking",
@@ -19736,42 +19800,6 @@
     "timeZone": "US EST",
     "type": "Biking",
     "url": "/s/oc-activity/a5UVX000001JOu52AG"
-  },
-  {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg06DAAR",
-    "coords": {
-      "lat": 42.23,
-      "lon": -71.06
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-11-03",
-    "id": "a5UVX000001JP0X2AW",
-    "keywords": "hiking; blue hills, tuesday morning, moderate",
-    "leaders": [
-      "Ken Cohen"
-    ],
-    "location": {
-      "city": "Canton",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "A 13-Week Progressive Hiking Series in the Fall - Hike #7",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-11-01",
-    "registration": "not-yet",
-    "registrationOpenDate": "2026-10-20",
-    "registrationType": "Registration",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-11-03",
-    "startTime": "9:45 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001JP0X2AW"
   },
   {
     "chapterId": "0015000001Sg05zAAB",
@@ -19919,7 +19947,7 @@
     "id": "a5UVX000001JRYb2AO",
     "keywords": "NYGrowth C2T Concrete to Trails Apple Pumpkin family families kid kids students CCNY faculty college university school",
     "leaders": [
-      "Richard Perez"
+      "Eileen Yin"
     ],
     "location": {
       "city": "New York",
@@ -19977,42 +20005,6 @@
     "url": "/s/oc-activity/a5UVX000001JSCv2AO"
   },
   {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg06DAAR",
-    "coords": {
-      "lat": 42.21,
-      "lon": -71.1
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-11-17",
-    "id": "a5UVX000001JUZh2AO",
-    "keywords": "hike; blue hills; moderate; Tuesday",
-    "leaders": [
-      "Ken Cohen"
-    ],
-    "location": {
-      "city": "Milton",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "A 13-Week Progressive Hiking Series in the Fall - Hike #9",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-11-15",
-    "registration": "not-yet",
-    "registrationOpenDate": "2026-11-03",
-    "registrationType": "Registration",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-11-17",
-    "startTime": "9:45 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001JUZh2AO"
-  },
-  {
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg066AAB",
     "coords": {
@@ -20065,7 +20057,7 @@
       "country": "United States",
       "state": "CT"
     },
-    "name": "Sessions Woods, Burlington, (C3C, Easy)",
+    "name": "CANCELLED - Sessions Woods, Burlington, (C3C, Easy)",
     "program": "Volunteer Led",
     "registration": "open",
     "registrationType": "Show & Go",
@@ -20109,6 +20101,39 @@
     "timeZone": "US EST",
     "type": "Nature & Arts",
     "url": "/s/oc-activity/a5UVX000001JUpp2AG"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.17,
+      "lon": -74.17
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-17",
+    "id": "a5UVX000001JUt32AG",
+    "keywords": "NYGrowth",
+    "leaders": [
+      "Tiffany Emma Spiegel"
+    ],
+    "location": {
+      "city": "Sloatsburg",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Naturalist Nature Walk at Reeves Meadow Visitor Center",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Nature Walks",
+    "startDate": "2026-10-17",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Nature & Arts",
+    "timeZone": "US EST",
+    "type": "Nature & Arts",
+    "url": "/s/oc-activity/a5UVX000001JUt32AG"
   },
   {
     "audience": "Adults",
@@ -20174,78 +20199,6 @@
     "timeZone": "US EST",
     "type": "Trail Work",
     "url": "/s/oc-activity/a5UVX000001JVCP2A4"
-  },
-  {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg06DAAR",
-    "coords": {
-      "lat": 42.22,
-      "lon": -71.04
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-12-01",
-    "id": "a5UVX000001JVdp2AG",
-    "keywords": "hike; Tuesday; Blue Hills",
-    "leaders": [
-      "Ken Cohen"
-    ],
-    "location": {
-      "city": "Braintree",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "A 13-Week Progressive Hiking Series in the Fall - Hike #11",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-11-29",
-    "registration": "not-yet",
-    "registrationOpenDate": "2026-11-17",
-    "registrationType": "Registration",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-12-01",
-    "startTime": "9:45 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001JVdp2AG"
-  },
-  {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg06DAAR",
-    "coords": {
-      "lat": 42.22,
-      "lon": -71.12
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-12-15",
-    "id": "a5UVX000001JVp72AG",
-    "keywords": "hike; tuesday; blue hills, moderate",
-    "leaders": [
-      "Ken Cohen"
-    ],
-    "location": {
-      "city": "Milton",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "A 13-Week Progressive Hiking Series in the Fall FINALE! - Hike #13",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-12-13",
-    "registration": "not-yet",
-    "registrationOpenDate": "2026-12-01",
-    "registrationType": "Registration",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-12-15",
-    "startTime": "10:15 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001JVp72AG"
   },
   {
     "audience": "20’s & 30’s",
@@ -20343,6 +20296,39 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001JX7l2AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.3,
+      "lon": -71.21
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-01",
+    "id": "a5UVX000001JbT72AK",
+    "leaders": [
+      "Lisa Fleischman"
+    ],
+    "location": {
+      "city": "Needham",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Cutler State Park Reservation",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Adventure Travel",
+    "startDate": "2026-10-01",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JbT72AK"
   },
   {
     "chapterId": "0015000001Sg069AAB",
@@ -20449,6 +20435,71 @@
     "url": "/s/oc-activity/a5UVX000001JcvR2AS"
   },
   {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 40.71,
+      "lon": -74.01
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-17",
+    "id": "a5UVX000001JdMr2AK",
+    "keywords": "CT AT Day",
+    "leaders": [
+      "Leo Pon"
+    ],
+    "location": {
+      "city": "Millerton",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "AT DAY - HARLEM VALLEY RAIL TRAIL, NY - MILLERTON TO COPAKE FALLS (SO, FL, RG, 10-12 MPH) 30 MILES",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Biking",
+    "startDate": "2026-10-17",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Road",
+    "timeZone": "US EST",
+    "type": "Biking",
+    "url": "/s/oc-activity/a5UVX000001JdMr2AK"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.88,
+      "lon": -72.98
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-10",
+    "id": "a5UVX000001JdOT2A0",
+    "leaders": [
+      "Leo Pon"
+    ],
+    "location": {
+      "city": "New Hartford",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "'Wild and Scenic' Farmington River Valley Ride and the Riverton Fair! (SO, RL, RG, 10-12) 20 miles.",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Biking",
+    "startDate": "2026-10-10",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Road",
+    "timeZone": "US EST",
+    "type": "Biking",
+    "url": "/s/oc-activity/a5UVX000001JdOT2A0"
+  },
+  {
     "chapterId": "0015000001Sg05xAAB",
     "coords": {
       "lat": 42.39,
@@ -20479,5 +20530,96 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001JdUv2AK"
+  },
+  {
+    "chapterId": "0015000001Sg05xAAB",
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-10",
+    "id": "a5UVX000001JefV2AS",
+    "leaders": [
+      "James Pelletier"
+    ],
+    "location": {
+      "country": "United States"
+    },
+    "name": "Wildlife Transect, County Rd to Finerty Pond Area",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Conservation",
+    "startDate": "2026-10-10",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Conservation",
+    "timeZone": "US EST",
+    "type": "Conservation",
+    "url": "/s/oc-activity/a5UVX000001JefV2AS"
+  },
+  {
+    "chapterId": "0015000001Sg060AAB",
+    "coords": {
+      "lat": 42.65,
+      "lon": -72.95
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-04",
+    "id": "a5UVX000001JfDN2A0",
+    "keywords": "fife brook class II deerfield river paddle",
+    "leaders": [
+      "PIerpaolo Polverari"
+    ],
+    "location": {
+      "city": "Charlemont",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Fife Brook class II whitewater paddling",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "secondaryType": "Paddling",
+    "startDate": "2026-10-04",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Whitewater",
+    "timeZone": "US EST",
+    "type": "Paddling",
+    "url": "/s/oc-activity/a5UVX000001JfDN2A0"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 40.77,
+      "lon": -73.97
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-03",
+    "id": "a5UVX000001Jfen2AC",
+    "keywords": "NY Growth Urban Walk Partner Partnership Social Work Ladies Collective Wellness Health SWLC",
+    "leaders": [
+      "Mari Ishihara"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Community Wellness Walk in Central Park (Relaxed)",
+    "program": "Staff Activities",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-03",
+    "startTime": "11:00 AM",
+    "status": "Published",
+    "subType": "Local Walks",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Jfen2AC"
   }
 ]
