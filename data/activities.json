@@ -2439,7 +2439,7 @@
     "secondaryType": "Snowshoeing",
     "startDate": "2027-02-08",
     "startTime": "3:00 PM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Cross Country",
     "timeZone": "US EST",
     "type": "Skiing",
@@ -6717,34 +6717,6 @@
     "timeZone": "US EST",
     "type": "Backpacking",
     "url": "/s/oc-activity/a5UVX000001FwG12AK"
-  },
-  {
-    "chapterId": "0015000001Sg069AAB",
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-09-26",
-    "id": "a5UVX000001FzH72AK",
-    "keywords": "Nice Harvard MA bike loop, start at Broomfield School, about 11 miles, expect some large hills, will wait for all riders",
-    "leaders": [
-      "George Campbell"
-    ],
-    "location": {
-      "city": "Bromfield School, Harvard MA",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "Harvard Loop",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2026-09-26",
-    "startTime": "9:15 AM",
-    "status": "Published",
-    "subType": "Road",
-    "timeZone": "US EST",
-    "type": "Biking",
-    "url": "/s/oc-activity/a5UVX000001FzH72AK"
   },
   {
     "chapterId": "001UN00000bpnMdYAI",
@@ -16228,7 +16200,7 @@
     "name": "Winter Hiking Workshop - Worcester Chapter",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-12",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-26",
     "registrationType": "Application",
     "secondaryType": "Outdoor Learning Experience",
@@ -16281,7 +16253,7 @@
       "lon": -71.54
     },
     "costs": [
-      40
+      1
     ],
     "difficulty": 1,
     "difficultyLabel": "1 - Accessible",
@@ -18132,37 +18104,6 @@
     "url": "/s/oc-activity/a5UVX000001J7tF2AS"
   },
   {
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 40.09,
-      "lon": -75.45
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-09-26",
-    "id": "a5UVX000001J7ur2AC",
-    "leaders": [
-      "Pat Grannan"
-    ],
-    "location": {
-      "city": "King of Prussia",
-      "country": "United States",
-      "state": "PA"
-    },
-    "name": "Valley Forge Saturday Afternoon Hike",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "startDate": "2026-09-26",
-    "startTime": "1:00 PM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001J7ur2AC"
-  },
-  {
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg06DAAR",
     "coords": {
@@ -18868,39 +18809,6 @@
     "url": "/s/oc-activity/a5UVX000001JIWv2AO"
   },
   {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 39.92,
-      "lon": -74.95
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-09-26",
-    "id": "a5UVX000001JIbl2AG",
-    "leaders": [
-      "Stanton de Riel"
-    ],
-    "location": {
-      "city": "Princeton",
-      "country": "United States",
-      "state": "NJ"
-    },
-    "name": "Griggstown Grassland and Graeber Woods Late Summer Hike",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-09-26",
-    "startTime": "10:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001JIbl2AG"
-  },
-  {
     "chapterId": "001UN00000bpnMdYAI",
     "coords": {
       "lat": 40.85,
@@ -19477,7 +19385,7 @@
       "country": "United States",
       "state": "MA"
     },
-    "name": "THANKSGIVING MORNING \"TURKEY TROT\" IN THE LOWLANDS REGION OF THE BLUE HILLS",
+    "name": "THANKSGIVING MORNING \"TURKEY TROT\" (HIKE) IN THE LOWLANDS REGION OF THE BLUE HILLS",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-24",
     "registration": "not-yet",
@@ -19658,6 +19566,39 @@
     "timeZone": "US EST",
     "type": "Nature & Arts",
     "url": "/s/oc-activity/a5UVX000001JUt32AG"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 42.1,
+      "lon": -71.62
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-17",
+    "id": "a5UVX000001JUuf2AG",
+    "keywords": "20s & 30s Interchapter Fall Fest, RI, Worcester, Hiking, 20s/30s, 20s and 30s",
+    "leaders": [
+      "Christopher Vieira"
+    ],
+    "location": {
+      "city": "Uxbridge",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "20's & 30's Interchapter Fall Fest: Blackstone River and Canal Heritage Sate Park Hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-17",
+    "startTime": "12:30 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JUuf2AG"
   },
   {
     "audience": "Adults",
@@ -20237,7 +20178,7 @@
     "name": "Fitness Hike – Noanet Woodlands",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-04",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-26",
     "registrationType": "Registration",
     "startDate": "2026-10-06",
@@ -20247,6 +20188,38 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001JfoT2AS"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.07,
+      "lon": -74.28
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-10-03",
+    "id": "a5UVX000001Jg1N2AS",
+    "leaders": [
+      "David Hartree"
+    ],
+    "location": {
+      "city": "Ringwood",
+      "country": "United States",
+      "state": "NJ"
+    },
+    "name": "Norvin Green State Forest (Vigorous)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Conservation",
+    "startDate": "2026-10-03",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Jg1N2AS"
   },
   {
     "audience": "Adults",
@@ -20545,5 +20518,40 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001JiZR2A0"
+  },
+  {
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.14
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-01",
+    "id": "a5UVX000001Jjk12AC",
+    "keywords": "trail trace tracing",
+    "leaders": [
+      "Jackie Ferguson"
+    ],
+    "location": {
+      "city": "Canton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Trail Trace the Blue Hills - Fowl Meadow",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-29",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-09-26",
+    "registrationType": "Application",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-01",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Jjk12AC"
   }
 ]
