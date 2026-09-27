@@ -2272,7 +2272,7 @@
     "secondaryType": "Trail Work",
     "startDate": "2026-10-18",
     "startTime": "8:30 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Trail Work",
     "timeZone": "US EST",
     "type": "Trail Work",
@@ -5950,7 +5950,7 @@
     "name": "Fitness Hike - Moose Hill Audubon",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-27",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-18",
     "registrationType": "Registration",
     "startDate": "2026-09-29",
@@ -7301,7 +7301,7 @@
     "name": "PROGRESSIVE HIKING SERIES FROM THE BLUE HILLS TO METRO WEST – HIKE #2",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-27",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-08-28",
     "registrationType": "Registration",
     "startDate": "2026-09-29",
@@ -10533,7 +10533,7 @@
     "secondaryType": "Snowshoeing",
     "startDate": "2027-02-02",
     "startTime": "All Day",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Cross Country",
     "timeZone": "US EST",
     "type": "Skiing",
@@ -12576,7 +12576,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-11-07",
     "startTime": "8:00 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -12692,7 +12692,8 @@
     },
     "name": "ADIRONDACK HIGH PEAKS  ADVENTURE! (Strenuous)",
     "program": "Volunteer Led",
-    "registration": "open",
+    "registerByDate": "2026-09-27",
+    "registration": "closed",
     "registrationType": "Application",
     "startDate": "2026-10-05",
     "startTime": "All Day",
@@ -15655,40 +15656,6 @@
     "url": "/s/oc-activity/a5UVX000001ItFB2A0"
   },
   {
-    "chapterId": "0015000001Sg061AAB",
-    "coords": {
-      "lat": 42.21,
-      "lon": -71.08
-    },
-    "costs": [],
-    "difficulty": 2,
-    "difficultyLabel": "2 - Relaxed",
-    "endDate": "2026-09-28",
-    "id": "a5UVX000001ItLd2AK",
-    "keywords": "trailwork",
-    "leaders": [
-      "Joanne Newton"
-    ],
-    "location": {
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "Hiking with Trailwork in the Blue Hills",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-09-27",
-    "registration": "open",
-    "registrationOpenDate": "2026-09-18",
-    "registrationType": "Registration",
-    "secondaryType": "Trail Work",
-    "startDate": "2026-09-28",
-    "startTime": "10:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001ItLd2AK"
-  },
-  {
     "audience": "20’s & 30’s;Adults",
     "chapterId": "0015000001Sg05xAAB",
     "coords": {
@@ -17448,39 +17415,6 @@
     "timeZone": "US EST",
     "type": "Biking",
     "url": "/s/oc-activity/a5UVX000001J8xN2AS"
-  },
-  {
-    "audience": "Families",
-    "chapterId": "0015000001Sg061AAB",
-    "coords": {
-      "lat": 42.47,
-      "lon": -71.22
-    },
-    "costs": [],
-    "difficulty": 2,
-    "difficultyLabel": "2 - Relaxed",
-    "endDate": "2026-09-27",
-    "id": "a5UVX000001J92D2AS",
-    "keywords": "family friendly, ages 4+",
-    "leaders": [
-      "Katerina Cai"
-    ],
-    "location": {
-      "city": "Lexington",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "Family - Little Explorers' Autumn Trail Series (1 of 3)",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2026-09-27",
-    "startTime": "3:30 PM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001J92D2AS"
   },
   {
     "audience": "Adults",
@@ -19842,6 +19776,37 @@
   {
     "chapterId": "0015000001Sg064AAB",
     "coords": {
+      "lat": 41.43,
+      "lon": -73.97
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-10-07",
+    "id": "a5UVX000001JjqT2AS",
+    "leaders": [
+      "Francoise LeGoues"
+    ],
+    "location": {
+      "city": "Cold Spring",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Bull Hill to Breakneck Ridge loop",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-07",
+    "startTime": "8:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JjqT2AS"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
       "lat": 41.45,
       "lon": -73.84
     },
@@ -19934,5 +19899,288 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001Jk9p2AC"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.2,
+      "lon": -75.79
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-10-04",
+    "id": "a5UVX000001JkBR2A0",
+    "keywords": "hiking, French Creek",
+    "leaders": [
+      "Jay Gross"
+    ],
+    "location": {
+      "city": "Elverson",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "French Creek Sunday Morning 10 at 9 Hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-04",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JkBR2A0"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.2,
+      "lon": -75.79
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-10-11",
+    "id": "a5UVX000001JkD32AK",
+    "keywords": "hiking, French Creek",
+    "leaders": [
+      "Jay Gross"
+    ],
+    "location": {
+      "city": "Elverson",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "French Creek Sunday Morning 10 at 9 Hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-11",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JkD32AK"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.2,
+      "lon": -75.79
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-10-18",
+    "id": "a5UVX000001JkEf2AK",
+    "keywords": "hiking, French Creek",
+    "leaders": [
+      "Jay Gross"
+    ],
+    "location": {
+      "city": "Elverson",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "French Creek Sunday Morning 10 at 9 Hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-18",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JkEf2AK"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.2,
+      "lon": -75.79
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-10-25",
+    "id": "a5UVX000001JkGH2A0",
+    "keywords": "hiking, French Creek",
+    "leaders": [
+      "Jay Gross"
+    ],
+    "location": {
+      "city": "Elverson",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "French Creek Sunday Morning 10 at 9 Hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-25",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JkGH2A0"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.13,
+      "lon": -75.48
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-05",
+    "id": "a5UVX000001JkHt2AK",
+    "keywords": "hiking, walks, dog walk, Phoenixville",
+    "leaders": [
+      "Jay Gross"
+    ],
+    "location": {
+      "city": "Phoenixville",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Monday Evening Hike in Phoenixville",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-05",
+    "startTime": "6:30 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JkHt2AK"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.13,
+      "lon": -75.48
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-12",
+    "id": "a5UVX000001JkJV2A0",
+    "keywords": "hiking, walks, dog walk, Phoenixville",
+    "leaders": [
+      "Jay Gross"
+    ],
+    "location": {
+      "city": "Phoenixville",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Monday Evening Hike in Phoenixville",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-12",
+    "startTime": "6:30 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JkJV2A0"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-11-18",
+    "id": "a5UVX000001JkL72AK",
+    "keywords": "Ski, Skiing, Alpine, Backcountry",
+    "leaders": [
+      "Richard Bryan"
+    ],
+    "location": {
+      "country": "United States"
+    },
+    "name": "Calling all Skiers!  Open Meeting to Discuss Plans for this Ski Season",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Skiing",
+    "startDate": "2026-11-18",
+    "startTime": "8:00 PM",
+    "status": "Published",
+    "subType": "Meetings",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001JkL72AK"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.13,
+      "lon": -75.48
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-19",
+    "id": "a5UVX000001JkMj2AK",
+    "keywords": "hiking, walks, dog walk, Phoenixville",
+    "leaders": [
+      "Jay Gross"
+    ],
+    "location": {
+      "city": "Phoenixville",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Monday Evening Hike in Phoenixville",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-19",
+    "startTime": "6:30 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JkMj2AK"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.13,
+      "lon": -75.48
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-26",
+    "id": "a5UVX000001JkOL2A0",
+    "keywords": "hiking, walks, dog walk, Phoenixville",
+    "leaders": [
+      "Jay Gross"
+    ],
+    "location": {
+      "city": "Phoenixville",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Monday Evening Hike in Phoenixville",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-26",
+    "startTime": "6:30 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001JkOL2A0"
   }
 ]
