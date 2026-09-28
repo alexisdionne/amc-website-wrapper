@@ -213,8 +213,8 @@
       "status": "Waitlist"
     },
     "a5UVX0000012Da52AE": {
-      "seenAt": "2026-09-26T03:45:43.713Z",
-      "status": "Waitlist"
+      "seenAt": "2026-09-28T19:18:12.457Z",
+      "status": "Full"
     },
     "a5UVX0000012K6v2AE": {
       "seenAt": "2026-08-30T23:17:59.057Z",
@@ -281,8 +281,8 @@
       "status": "Published"
     },
     "a5UVX0000016iyf2AA": {
-      "seenAt": "2026-09-26T15:52:49.096Z",
-      "status": "Waitlist"
+      "seenAt": "2026-09-28T19:18:12.457Z",
+      "status": "Full"
     },
     "a5UVX0000016sy12AA": {
       "seenAt": "2026-08-30T23:17:59.057Z",
@@ -489,8 +489,8 @@
       "status": "Waitlist"
     },
     "a5UVX000001A8Rx2AK": {
-      "seenAt": "2026-08-30T23:17:59.057Z",
-      "status": "Published"
+      "seenAt": "2026-09-28T19:18:12.457Z",
+      "status": "Waitlist"
     },
     "a5UVX000001AlZl2AK": {
       "seenAt": "2026-08-30T23:17:59.057Z",
@@ -929,12 +929,12 @@
       "status": "Waitlist"
     },
     "a5UVX000001H8AH2A0": {
-      "seenAt": "2026-09-20T03:38:22.307Z",
-      "status": "Waitlist"
+      "seenAt": "2026-09-28T19:18:12.457Z",
+      "status": "Full"
     },
     "a5UVX000001HBcn2AG": {
-      "seenAt": "2026-09-18T03:24:45.052Z",
-      "status": "Waitlist"
+      "seenAt": "2026-09-28T19:18:12.457Z",
+      "status": "Full"
     },
     "a5UVX000001HCU12AO": {
       "seenAt": "2026-09-04T03:09:10.189Z",
@@ -945,8 +945,8 @@
       "status": "Published"
     },
     "a5UVX000001HENl2AO": {
-      "seenAt": "2026-09-23T03:32:00.247Z",
-      "status": "Waitlist"
+      "seenAt": "2026-09-28T19:18:12.457Z",
+      "status": "Full"
     },
     "a5UVX000001HFtJ2AW": {
       "seenAt": "2026-08-30T23:17:59.057Z",
@@ -1018,6 +1018,10 @@
     },
     "a5UVX000001HQwn2AG": {
       "seenAt": "2026-09-09T15:59:49.464Z",
+      "status": "Published"
+    },
+    "a5UVX000001HRzJ2AW": {
+      "seenAt": "2026-09-28T19:18:12.457Z",
       "status": "Published"
     },
     "a5UVX000001HSAb2AO": {
@@ -1117,8 +1121,8 @@
       "status": "Published"
     },
     "a5UVX000001HfSn2AK": {
-      "seenAt": "2026-09-02T03:06:38.008Z",
-      "status": "Published"
+      "seenAt": "2026-09-28T19:18:12.457Z",
+      "status": "Full"
     },
     "a5UVX000001HgIP2A0": {
       "seenAt": "2026-09-02T03:06:38.008Z",
@@ -1461,8 +1465,8 @@
       "status": "Published"
     },
     "a5UVX000001IUa92AG": {
-      "seenAt": "2026-09-28T03:54:54.053Z",
-      "status": "Waitlist"
+      "seenAt": "2026-09-28T19:18:12.457Z",
+      "status": "Published"
     },
     "a5UVX000001IUdN2AW": {
       "seenAt": "2026-09-12T15:04:37.023Z",
@@ -1509,8 +1513,8 @@
       "status": "Published"
     },
     "a5UVX000001IXHt2AO": {
-      "seenAt": "2026-09-14T03:36:04.716Z",
-      "status": "Published"
+      "seenAt": "2026-09-28T19:18:12.457Z",
+      "status": "Waitlist"
     },
     "a5UVX000001IXL72AO": {
       "seenAt": "2026-09-14T03:36:04.716Z",
@@ -1641,10 +1645,6 @@
       "status": "Published"
     },
     "a5UVX000001Id7B2AS": {
-      "seenAt": "2026-09-15T03:36:55.076Z",
-      "status": "Published"
-    },
-    "a5UVX000001Id8n2AC": {
       "seenAt": "2026-09-15T03:36:55.076Z",
       "status": "Published"
     },
@@ -1857,8 +1857,8 @@
       "status": "Published"
     },
     "a5UVX000001IuG52AK": {
-      "seenAt": "2026-09-25T16:39:40.440Z",
-      "status": "Waitlist"
+      "seenAt": "2026-09-28T19:18:12.457Z",
+      "status": "Full"
     },
     "a5UVX000001Iucf2AC": {
       "seenAt": "2026-09-18T03:24:45.052Z",
@@ -2145,8 +2145,8 @@
       "status": "Published"
     },
     "a5UVX000001JNWb2AO": {
-      "seenAt": "2026-09-25T16:39:40.440Z",
-      "status": "Published"
+      "seenAt": "2026-09-28T19:18:12.457Z",
+      "status": "Waitlist"
     },
     "a5UVX000001JNd32AG": {
       "seenAt": "2026-09-23T03:32:00.247Z",
@@ -2216,6 +2216,10 @@
       "seenAt": "2026-09-25T16:39:40.440Z",
       "status": "Published"
     },
+    "a5UVX000001JUuf2AG": {
+      "seenAt": "2026-09-28T19:18:12.457Z",
+      "status": "Published"
+    },
     "a5UVX000001JUzV2AW": {
       "seenAt": "2026-09-24T03:22:30.620Z",
       "status": "Published"
@@ -2254,6 +2258,10 @@
     },
     "a5UVX000001JYGj2AO": {
       "seenAt": "2026-09-28T03:54:54.053Z",
+      "status": "Published"
+    },
+    "a5UVX000001JYev2AG": {
+      "seenAt": "2026-09-28T19:18:12.457Z",
       "status": "Published"
     },
     "a5UVX000001JbT72AK": {
@@ -2428,6 +2436,10 @@
       "seenAt": "2026-09-28T03:54:54.053Z",
       "status": "Published"
     },
+    "a5UVX000001JlM12AK": {
+      "seenAt": "2026-09-28T19:18:12.457Z",
+      "status": "Published"
+    },
     "a5UVX000001JlPF2A0": {
       "seenAt": "2026-09-28T03:54:54.053Z",
       "status": "Published"
@@ -2438,6 +2450,10 @@
     },
     "a5UVX000001JlXJ2A0": {
       "seenAt": "2026-09-28T03:54:54.053Z",
+      "status": "Published"
+    },
+    "a5UVX000001Jldl2AC": {
+      "seenAt": "2026-09-28T19:18:12.457Z",
       "status": "Published"
     },
     "a5UVX000001Jlgz2AC": {
@@ -2466,6 +2482,22 @@
     },
     "a5UVX000001Jm0L2AS": {
       "seenAt": "2026-09-28T03:54:54.053Z",
+      "status": "Published"
+    },
+    "a5UVX000001Jn4T2AS": {
+      "seenAt": "2026-09-28T19:18:12.457Z",
+      "status": "Published"
+    },
+    "a5UVX000001JnE92AK": {
+      "seenAt": "2026-09-28T19:18:12.457Z",
+      "status": "Published"
+    },
+    "a5UVX000001JphN2AS": {
+      "seenAt": "2026-09-28T19:18:12.457Z",
+      "status": "Published"
+    },
+    "a5UVX000001JqLh2AK": {
+      "seenAt": "2026-09-28T19:18:12.457Z",
       "status": "Published"
     }
   },
@@ -2505,8 +2537,8 @@
         "notifiedAt": "2026-09-14T03:36:04.716Z"
       },
       "a5UVX000001IUa92AG": {
-        "kind": "new",
-        "notifiedAt": "2026-09-14T03:36:04.716Z"
+        "kind": "reopened",
+        "notifiedAt": "2026-09-28T19:18:12.457Z"
       },
       "a5UVX000001JOSf2AO": {
         "kind": "new",
@@ -2575,8 +2607,8 @@
         "notifiedAt": "2026-09-04T03:09:10.189Z"
       },
       "a5UVX000001IUa92AG": {
-        "kind": "new",
-        "notifiedAt": "2026-09-14T03:36:04.716Z"
+        "kind": "reopened",
+        "notifiedAt": "2026-09-28T19:18:12.457Z"
       },
       "a5UVX000001IW7J2AW": {
         "kind": "new",
@@ -2653,6 +2685,10 @@
       "a5UVX000001Jlib2AC": {
         "kind": "new",
         "notifiedAt": "2026-09-28T03:54:54.053Z"
+      },
+      "a5UVX000001JphN2AS": {
+        "kind": "new",
+        "notifiedAt": "2026-09-28T19:18:12.457Z"
       }
     },
     "b65b2954": {
@@ -2851,6 +2887,10 @@
       "a5UVX000001JUcv2AG": {
         "kind": "new",
         "notifiedAt": "2026-09-24T03:22:30.620Z"
+      },
+      "a5UVX000001JUuf2AG": {
+        "kind": "new",
+        "notifiedAt": "2026-09-28T19:18:12.457Z"
       },
       "a5UVX000001JVlt2AG": {
         "kind": "new",
