@@ -848,7 +848,7 @@
     "name": "Maine Woods Trail Work Weekend at Little Lyford Lodge (staying at Lyford)",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-29",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-06-01",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running;Trail Work;Volunteer Opportunities",
@@ -3849,7 +3849,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-07",
     "startTime": "10:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5431,7 +5431,7 @@
       "lon": -71.13
     },
     "costs": [
-      35
+      75
     ],
     "difficulty": 1,
     "difficultyLabel": "1 - Accessible",
@@ -9065,7 +9065,7 @@
     "name": "New England Trail (NET) - Richardson Cabin",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-29",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-15",
     "registrationType": "Registration",
     "startDate": "2026-09-29",
@@ -10275,7 +10275,7 @@
     "name": "PROGRESSIVE HIKING SERIES FROM THE BLUE HILLS TO METRO WEST – HIKE #4",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-11",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-29",
     "registrationType": "Registration",
     "startDate": "2026-10-13",
@@ -19319,7 +19319,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-03",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -20059,7 +20059,7 @@
     "name": "Hike MDC Reservoir #6, Talcott Mountain and Heublein Tower  (B2C) Moderate 8.5 miles",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-29",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-27",
     "registrationType": "Registration",
     "startDate": "2026-09-29",
@@ -20069,6 +20069,38 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001Jlqf2AC"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.77,
+      "lon": -72.72
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-01",
+    "id": "a5UVX000001JlsH2AS",
+    "leaders": [
+      "Leo Pon"
+    ],
+    "location": {
+      "city": "West Hartford",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "A Bike Tour of West Hartford (SO, FL/RL, RG, 10-12) 22 miles",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Biking",
+    "startDate": "2026-10-01",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Road",
+    "timeZone": "US EST",
+    "type": "Biking",
+    "url": "/s/oc-activity/a5UVX000001JlsH2AS"
   },
   {
     "chapterId": "0015000001Sg05zAAB",
@@ -20696,6 +20728,39 @@
     "url": "/s/oc-activity/a5UVX000001JtOP2A0"
   },
   {
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 42.39,
+      "lon": -71.62
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-10",
+    "id": "a5UVX000001Jtkz2AC",
+    "keywords": "social, apple picking",
+    "leaders": [
+      "Ingrid Molnar"
+    ],
+    "location": {
+      "city": "Berlin",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Apple Picking at Berlin Orchards",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "secondaryType": "Social",
+    "startDate": "2026-10-10",
+    "startTime": "11:00 AM",
+    "status": "Published",
+    "subType": "Local Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001Jtkz2AC"
+  },
+  {
     "chapterId": "0015000001Sg05zAAB",
     "coords": {
       "lat": 41.87,
@@ -20726,5 +20791,66 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001Jtmb2AC"
+  },
+  {
+    "audience": "Women+",
+    "chapterId": "0015000001Sg066AAB",
+    "coords": {
+      "lat": 42.46,
+      "lon": -72.55
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-31",
+    "id": "a5UVX000001JvTR2A0",
+    "leaders": [
+      "Evaline MacFarlane"
+    ],
+    "location": {
+      "city": "Sunderland",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Ladies Halloween Top Rope Climbing at Sunbowl",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "secondaryType": "Climbing & Mountaineering",
+    "startDate": "2026-10-31",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Traditional Rock",
+    "timeZone": "US EST",
+    "type": "Climbing & Mountaineering",
+    "url": "/s/oc-activity/a5UVX000001JvTR2A0"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-09-30",
+    "id": "a5UVX000001Jvmn2AC",
+    "keywords": "Hiking, Nature walk, Social, Phone Photography",
+    "leaders": [
+      "Rebeca Galbinski"
+    ],
+    "location": {
+      "city": "BRONX",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "NYBG Phone Photo Walk: Flower Power at New York Botanical Garden",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-09-30",
+    "startTime": "10:30 AM",
+    "status": "Published",
+    "subType": "Local Walks",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Jvmn2AC"
   }
 ]
