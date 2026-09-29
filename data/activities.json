@@ -473,7 +473,7 @@
       "lon": -71.41
     },
     "costs": [
-      160
+      400
     ],
     "difficulty": 3,
     "difficultyLabel": "3 - Easy",
@@ -2036,39 +2036,6 @@
     "timeZone": "US EST",
     "type": "Social",
     "url": "/s/oc-activity/a5UVX0000014DsX2AU"
-  },
-  {
-    "chapterId": "001UN00000bpnMdYAI",
-    "coords": {
-      "lat": 43.91,
-      "lon": -71.29
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-09-28",
-    "id": "a5UVX0000014HRV2A2",
-    "keywords": "Chocorua Liberty Relocation Trail work Heinselman Passios Larme",
-    "leaders": [
-      "Craig Aaron Heinselman"
-    ],
-    "location": {
-      "city": "Tamworth",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "Liberty Trail Relocation(s) Trail Work party on Mt. Chocorua - Day 2 of 3",
-    "program": "Staff Activities",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Trail Work;Volunteer Opportunities",
-    "startDate": "2026-09-28",
-    "startTime": "8:30 AM",
-    "status": "Published",
-    "subType": "Trail Work",
-    "timeZone": "US EST",
-    "type": "Volunteer Opportunities",
-    "url": "/s/oc-activity/a5UVX0000014HRV2A2"
   },
   {
     "chapterId": "001UN00000bpnMdYAI",
@@ -4938,16 +4905,20 @@
   },
   {
     "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.5,
+      "lon": -73.97
+    },
     "costs": [],
     "difficulty": 5,
     "difficultyLabel": "5 - Vigorous",
-    "endDate": "2026-10-17",
+    "endDate": "2026-12-12",
     "id": "a5UVX000001DFrt2AG",
     "leaders": [
       "Timothy Watters"
     ],
     "location": {
-      "city": "beacon",
+      "city": "Beacon",
       "country": "United States",
       "state": "NY"
     },
@@ -4956,7 +4927,7 @@
     "registration": "open",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-10-17",
+    "startDate": "2026-12-12",
     "startTime": "9:00 AM",
     "status": "Published",
     "subType": "Hiking",
@@ -5052,8 +5023,8 @@
     },
     "name": "White Mountain 4,000 Footer Double Series #3 - Mount South Hancock & Mount Hancock",
     "program": "Volunteer Led",
-    "registerByDate": "2026-09-25",
-    "registration": "closed",
+    "registerByDate": "2026-09-29",
+    "registration": "open",
     "registrationOpenDate": "2026-08-30",
     "registrationType": "Application",
     "startDate": "2026-10-03",
@@ -5460,7 +5431,7 @@
       "lon": -71.13
     },
     "costs": [
-      75
+      35
     ],
     "difficulty": 1,
     "difficultyLabel": "1 - Accessible",
@@ -6666,39 +6637,6 @@
     "url": "/s/oc-activity/a5UVX000001GYRl2AO"
   },
   {
-    "chapterId": "001UN00000bpnMdYAI",
-    "coords": {
-      "lat": 44.22,
-      "lon": -71.41
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-09-28",
-    "id": "a5UVX000001Gd4r2AC",
-    "keywords": "Nature, walk, free, public, naturalist, programming, program, hike, short, guided, education, educational, wildlife, plants, Elephant Head, Highland Center, Highland, white mountains",
-    "leaders": [
-      "AMC Naturalist"
-    ],
-    "location": {
-      "city": "Carroll",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "Nature Walk: Elephant Head",
-    "program": "Naturalist Program",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-09-28",
-    "startTime": "9:00 AM",
-    "status": "Published",
-    "subType": "Nature Walks",
-    "timeZone": "US EST",
-    "type": "Nature Walks",
-    "url": "/s/oc-activity/a5UVX000001Gd4r2AC"
-  },
-  {
     "chapterId": "0015000001Sg05zAAB",
     "coords": {
       "lat": 41.43,
@@ -7321,39 +7259,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001GxYD2A0"
-  },
-  {
-    "chapterId": "001UN00000bpnMdYAI",
-    "coords": {
-      "lat": 44.26,
-      "lon": -71.25
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-09-28",
-    "id": "a5UVX000001GzGf2AK",
-    "keywords": "Nature, walk, free, public, naturalist, programming, program, hike, short, guided, education, educational, wildlife, plants, Lost Pond, Pinkham, Pinkham Notch, white mountains",
-    "leaders": [
-      "AMC Naturalist"
-    ],
-    "location": {
-      "city": "Gorham",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "Nature Walk: Lost Pond",
-    "program": "Naturalist Program",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-09-28",
-    "startTime": "9:00 AM",
-    "status": "Published",
-    "subType": "Nature Walks",
-    "timeZone": "US EST",
-    "type": "Nature Walks",
-    "url": "/s/oc-activity/a5UVX000001GzGf2AK"
   },
   {
     "audience": "20’s & 30’s",
@@ -9237,38 +9142,6 @@
     "url": "/s/oc-activity/a5UVX000001HmVt2AK"
   },
   {
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 40.13,
-      "lon": -75.48
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-09-28",
-    "id": "a5UVX000001Hn0X2AS",
-    "keywords": "hiking, walks, dog walk, Phoenixville",
-    "leaders": [
-      "Jay Gross"
-    ],
-    "location": {
-      "city": "Phoenixville",
-      "country": "United States",
-      "state": "PA"
-    },
-    "name": "Monday Evening Hike in Phoenixville",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "startDate": "2026-09-28",
-    "startTime": "6:30 PM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001Hn0X2AS"
-  },
-  {
     "audience": "Adults",
     "chapterId": "0015000001Sg060AAB",
     "coords": {
@@ -9524,7 +9397,7 @@
       "country": "United States",
       "state": "CT"
     },
-    "name": "Chapal Farm Preserve, East Haddam - Easy",
+    "name": "CANCELLED - Chapal Farm Preserve, East Haddam - Easy",
     "program": "Volunteer Led",
     "registration": "open",
     "registrationType": "Show & Go",
@@ -10050,7 +9923,7 @@
     "secondaryType": "Snowshoeing",
     "startDate": "2027-02-02",
     "startTime": "All Day",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Cross Country",
     "timeZone": "US EST",
     "type": "Skiing",
@@ -10668,7 +10541,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-06",
     "startTime": "9:45 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -13159,7 +13032,7 @@
     "url": "/s/oc-activity/a5UVX000001IcJB2A0"
   },
   {
-    "chapterId": "001UN00000bpnMdYAI",
+    "chapterId": "001UN00000KhlIGYAZ",
     "coords": {
       "lat": 44.22,
       "lon": -71.41
@@ -17530,7 +17403,7 @@
       "country": "United States",
       "state": "CT"
     },
-    "name": "Stony Creek Preserves, Hoadley, and Branford Quarry",
+    "name": "CANCELLED - Stony Creek Preserves, Hoadley, and Branford Quarry",
     "program": "Volunteer Led",
     "registration": "open",
     "registrationType": "Registration",
@@ -18004,6 +17877,39 @@
     "timeZone": "US EST",
     "type": "Camping",
     "url": "/s/oc-activity/a5UVX000001JUcv2AG"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg066AAB",
+    "coords": {
+      "lat": 41.34,
+      "lon": -72.59
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-11-15",
+    "id": "a5UVX000001JUkz2AG",
+    "keywords": "20s/30s, 20s and 30s, 20s&30s, Providence, Camping, CT",
+    "leaders": [
+      "Christopher Vieira"
+    ],
+    "location": {
+      "city": "Killingworth",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "20s/30s Deer Lake Camping Weekend Fall 2026",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-11-13",
+    "startTime": "11:00 AM",
+    "status": "Published",
+    "subType": "Lodges, Huts, Camps, Cabins, & Campsites",
+    "timeZone": "US EST",
+    "type": "Camping",
+    "url": "/s/oc-activity/a5UVX000001JUkz2AG"
   },
   {
     "chapterId": "0015000001Sg064AAB",
@@ -20322,6 +20228,75 @@
     "url": "/s/oc-activity/a5UVX000001JnE92AK"
   },
   {
+    "chapterId": "0015000001Sg060AAB",
+    "coords": {
+      "lat": 44.19,
+      "lon": -71.61
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-10-21",
+    "id": "a5UVX000001Jpav2AC",
+    "keywords": "NH 4K",
+    "leaders": [
+      "Diane Hartley"
+    ],
+    "location": {
+      "city": "Franconia",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Hike Mt. Garfield (4501 ft)",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-18",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-09-30",
+    "registrationType": "Registration",
+    "startDate": "2026-10-21",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Jpav2AC"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg060AAB",
+    "coords": {
+      "lat": 44.25,
+      "lon": -71.5
+    },
+    "costs": [
+      85
+    ],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2027-01-31",
+    "id": "a5UVX000001Jpe92AC",
+    "leaders": [
+      "Catherine LiVolsi"
+    ],
+    "location": {
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "20s/30s Zealand Winter Hut Stay",
+    "program": "Volunteer Led",
+    "registerByDate": "2027-01-29",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-11-01",
+    "registrationType": "Application",
+    "startDate": "2027-01-30",
+    "startTime": "7:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Jpe92AC"
+  },
+  {
     "chapterId": "0015000001Sg064AAB",
     "coords": {
       "lat": 40.81,
@@ -20389,5 +20364,367 @@
     "timeZone": "US EST",
     "type": "Outdoor Learning Experience",
     "url": "/s/oc-activity/a5UVX000001JqLh2AK"
+  },
+  {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.53,
+      "lon": -71.09
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-11",
+    "id": "a5UVX000001Jr852AC",
+    "keywords": "Biking, Bicycle Touring, Recreational Cycling",
+    "leaders": [
+      "Oguzhan Ilhan"
+    ],
+    "location": {
+      "city": "Reading",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Morning Road Spin: North of Boston (20 Miles)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Biking",
+    "startDate": "2026-10-11",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Jr852AC"
+  },
+  {
+    "audience": "20’s & 30’s;Adults",
+    "chapterId": "0015000001Sg060AAB",
+    "coords": {
+      "lat": 43.65,
+      "lon": -71.88
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2027-02-28",
+    "id": "a5UVX000001JrKz2AK",
+    "keywords": "ouitdoor learning experiance , leadership training, snowshoeeing, skiing bc",
+    "leaders": [
+      "Richard Silverberg"
+    ],
+    "location": {
+      "city": "Alexandria",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "AMC NH Winter Mountain safety and Leadership School 2027  Feb 26-28",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "secondaryType": "Hiking, Local Walks, & Trail Running;Outdoor Leadership Training;Skiing;Snowshoeing",
+    "startDate": "2027-02-26",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Outdoor Learning Experience",
+    "timeZone": "US EST",
+    "type": "Outdoor Learning Experience",
+    "url": "/s/oc-activity/a5UVX000001JrKz2AK"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-06",
+    "id": "a5UVX000001JsCD2A0",
+    "keywords": "Guest, speaker, talk, nature, free, public, presentation, lecture, education, educational, naturalist, nature talk, evening program, programming, evening, science, volunteer naturalist, Pinkham, Pinkham Notch, white mountains, geology",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Evening Program: Felsenmeer?",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-11-06",
+    "startTime": "7:30 PM",
+    "status": "Published",
+    "subType": "Evening Programs",
+    "timeZone": "US EST",
+    "type": "Evening Programs",
+    "url": "/s/oc-activity/a5UVX000001JsCD2A0"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-07",
+    "id": "a5UVX000001JsDp2AK",
+    "keywords": "Guest, speaker, talk, nature, free, public, presentation, lecture, education, educational, naturalist, nature talk, evening program, programming, evening, science, volunteer naturalist, Pinkham, Pinkham Notch, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Evening Program: Squirrels!",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-11-07",
+    "startTime": "7:30 PM",
+    "status": "Published",
+    "subType": "Evening Programs",
+    "timeZone": "US EST",
+    "type": "Evening Programs",
+    "url": "/s/oc-activity/a5UVX000001JsDp2AK"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-14",
+    "id": "a5UVX000001JsKH2A0",
+    "keywords": "Guest, speaker, talk, nature, free, public, presentation, lecture, education, educational, naturalist, nature talk, evening program, programming, evening, science, volunteer naturalist, Pinkham, Pinkham Notch, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Evening Program: Hiking the Whites in Winter",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-11-14",
+    "startTime": "7:30 PM",
+    "status": "Published",
+    "subType": "Evening Programs",
+    "timeZone": "US EST",
+    "type": "Evening Programs",
+    "url": "/s/oc-activity/a5UVX000001JsKH2A0"
+  },
+  {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 44.22,
+      "lon": -71.41
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-11",
+    "id": "a5UVX000001JsYn2AK",
+    "keywords": "Nature, walk, hike, Willard, Mount Willard, free, public, naturalist, programming, program, guided, education, educational, wildlife, plants, Highland Center, Highland, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Carroll",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Mount Willard with an AMC Naturalist",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-11",
+    "startTime": "12:30 PM",
+    "status": "Published",
+    "subType": "Nature Walks",
+    "timeZone": "US EST",
+    "type": "Nature Walks",
+    "url": "/s/oc-activity/a5UVX000001JsYn2AK"
+  },
+  {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 44.22,
+      "lon": -71.41
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-10-11",
+    "id": "a5UVX000001Jss92AC",
+    "keywords": "Guest, speaker, talk, nature, free, public, presentation, lecture, education, educational, naturalist, nature talk, evening program, programming, evening, science, naturalist, Highland, Highland Center, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Carroll",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Evening Program White Mountain Trivia",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-10-11",
+    "startTime": "7:30 PM",
+    "status": "Published",
+    "subType": "Evening Programs",
+    "timeZone": "US EST",
+    "type": "Evening Programs",
+    "url": "/s/oc-activity/a5UVX000001Jss92AC"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.22,
+      "lon": -71.41
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-10-30",
+    "id": "a5UVX000001JsvN2AS",
+    "keywords": "geology, Guest, speaker, talk, nature, free, public, presentation, lecture, education, educational, naturalist, nature talk, evening program, programming, evening, science, volunteer naturalist, Highland, Highland Center, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Carroll",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Evening Program: White Mountain Rocks",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-10-30",
+    "startTime": "7:30 PM",
+    "status": "Published",
+    "subType": "Evening Programs",
+    "timeZone": "US EST",
+    "type": "Evening Programs",
+    "url": "/s/oc-activity/a5UVX000001JsvN2AS"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.22,
+      "lon": -71.41
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-10-31",
+    "id": "a5UVX000001Jt0D2AS",
+    "keywords": "Guest, speaker, talk, nature, free, public, presentation, lecture, education, educational, naturalist, nature talk, evening program, programming, evening, science, volunteer naturalist, Highland, Highland Center, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Carroll",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Evening Program: The Color of the Sky",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-10-31",
+    "startTime": "7:30 PM",
+    "status": "Published",
+    "subType": "Evening Programs",
+    "timeZone": "US EST",
+    "type": "Evening Programs",
+    "url": "/s/oc-activity/a5UVX000001Jt0D2AS"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.42,
+      "lon": -72.43
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-10-04",
+    "id": "a5UVX000001JtOP2A0",
+    "keywords": "Paddle, Connecticut River, Selden Island to Hamburg Cove",
+    "leaders": [
+      "Thomas Ebersold"
+    ],
+    "location": {
+      "city": "Lyme",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Paddle, Connecticut River, Selden Island to Hamburg Cove",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-04",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Flatwater",
+    "timeZone": "US EST",
+    "type": "Paddling",
+    "url": "/s/oc-activity/a5UVX000001JtOP2A0"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.87,
+      "lon": -73.39
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-17",
+    "id": "a5UVX000001Jtmb2AC",
+    "keywords": "CT AT Day",
+    "leaders": [
+      "Rosemarie Brancato"
+    ],
+    "location": {
+      "city": "Sharon",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "AT Day Hike - Rte. 4 to West Cornwall Rd., Sharon, (Moderate)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-17",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Jtmb2AC"
   }
 ]
