@@ -366,8 +366,8 @@
     "name": "Cold Weather Backpack Near Harpers Ferry",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-08",
-    "registration": "not-yet",
-    "registrationOpenDate": "2026-10-11",
+    "registration": "open",
+    "registrationOpenDate": "2026-09-30",
     "registrationType": "Registration",
     "startDate": "2026-11-13",
     "startTime": "9:00 AM",
@@ -1688,7 +1688,7 @@
     "name": "Thursday hike at Norman Bird Sanctuary - Middletown, RI",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-30",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-10",
     "registrationType": "Application",
     "startDate": "2026-10-01",
@@ -3849,7 +3849,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-07",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5431,7 +5431,7 @@
       "lon": -71.13
     },
     "costs": [
-      75
+      35
     ],
     "difficulty": 1,
     "difficultyLabel": "1 - Accessible",
@@ -6071,7 +6071,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-24",
     "startTime": "7:45 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -6561,7 +6561,7 @@
     "name": "20s & 30s Trail Work Weekend - Camp Dodge",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-30",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-01",
     "registrationType": "Application",
     "startDate": "2026-10-02",
@@ -8517,7 +8517,7 @@
     "secondaryType": "Social",
     "startDate": "2026-11-20",
     "startTime": "2:00 PM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Local Socials",
     "timeZone": "US EST",
     "type": "Social",
@@ -9794,7 +9794,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-12",
     "startTime": "All Day",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -11824,7 +11824,7 @@
     "name": "October Early Morning Fitness Hike",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-30",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-14",
     "registrationType": "Application",
     "startDate": "2026-10-02",
@@ -11864,7 +11864,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-03",
     "startTime": "10:00 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -14721,39 +14721,6 @@
     "url": "/s/oc-activity/a5UVX000001ItFB2A0"
   },
   {
-    "audience": "20’s & 30’s;Adults",
-    "chapterId": "0015000001Sg05xAAB",
-    "coords": {
-      "lat": 42.39,
-      "lon": -72.88
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-10-05",
-    "id": "a5UVX000001Itof2AC",
-    "leaders": [
-      "Hew Hart"
-    ],
-    "location": {
-      "city": "Chesterfield",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "(30s/40s) Chesterfield Gorge Reservation",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Application",
-    "secondaryType": "Social",
-    "startDate": "2026-10-05",
-    "startTime": "5:30 PM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001Itof2AC"
-  },
-  {
     "audience": "Adults",
     "chapterId": "0015000001Sg06DAAR",
     "costs": [],
@@ -16760,7 +16727,7 @@
     "name": "CONCRETE TO TRAILS: Apple & Pumpkin Picking at Pennings Orchard for Family & Friends",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-17",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-30",
     "registrationType": "Registration",
     "startDate": "2026-10-17",
@@ -17472,7 +17439,7 @@
     "name": "CONCRETE TO TRAILS: AMC x CCNY Outdoors Club - Let's Go Apple & Pumpkin Picking at Pennings Orchard",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-17",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-30",
     "registrationType": "Registration",
     "startDate": "2026-10-17",
@@ -18106,7 +18073,7 @@
     "name": "Hike Moose Hill along the Bay Circuit Trail",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-22",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-30",
     "registrationType": "Application",
     "startDate": "2026-10-23",
@@ -19960,7 +19927,7 @@
     "name": "Hike Mt. Garfield (4501 ft)",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-18",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-30",
     "registrationType": "Registration",
     "startDate": "2026-10-21",
@@ -20572,6 +20539,38 @@
     "url": "/s/oc-activity/a5UVX000001Jtmb2AC"
   },
   {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.71,
+      "lon": -72.65
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-31",
+    "id": "a5UVX000001Jtt32AC",
+    "leaders": [
+      "Leo Pon"
+    ],
+    "location": {
+      "city": "Wethersfield",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Ole Wethersfield Halloween Night Ride! (SO, FL/RL, RG, 8-10) 10 miles.",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Social",
+    "startDate": "2026-10-31",
+    "startTime": "5:30 PM",
+    "status": "Published",
+    "subType": "Road",
+    "timeZone": "US EST",
+    "type": "Biking",
+    "url": "/s/oc-activity/a5UVX000001Jtt32AC"
+  },
+  {
     "audience": "Adults",
     "chapterId": "0015000001Sg05xAAB",
     "coords": {
@@ -20768,6 +20767,10 @@
   },
   {
     "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.29,
+      "lon": -74.06
+    },
     "costs": [],
     "difficulty": 4,
     "difficultyLabel": "4 - Moderate",
@@ -20777,7 +20780,9 @@
       "Jay Beilis"
     ],
     "location": {
-      "country": "United States"
+      "city": "Woodbury",
+      "country": "United States",
+      "state": "NY"
     },
     "name": "Silvermine 9:30 start 8 miles (Moderate)",
     "program": "Volunteer Led",
@@ -20888,6 +20893,39 @@
     "url": "/s/oc-activity/a5UVX000001JxWr2AK"
   },
   {
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.18,
+      "lon": -72.65
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-10-09",
+    "id": "a5UVX000001Jy7x2AC",
+    "keywords": "Adaptive Hike and Bike Volunteering",
+    "leaders": [
+      "Jeannette Pierce"
+    ],
+    "location": {
+      "city": "Holyoke",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Volunteer Opportunity: Guided Accessible Hike and Bike at Ashley Reservoir",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Volunteer Opportunities",
+    "startDate": "2026-10-09",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "All Volunteer Opportunities",
+    "timeZone": "US EST",
+    "type": "Volunteer Opportunities",
+    "url": "/s/oc-activity/a5UVX000001Jy7x2AC"
+  },
+  {
     "chapterId": "0015000001Sg061AAB",
     "coords": {
       "lat": 42.21,
@@ -20909,7 +20947,7 @@
     "name": "Hiking with Trailwork in the Blue Hills",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-11",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-09-30",
     "registrationType": "Registration",
     "secondaryType": "Trail Work",
@@ -20976,5 +21014,65 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001JzNN2A0"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06EAAR",
+    "coords": {
+      "lat": 40.48,
+      "lon": -76.54
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-15",
+    "id": "a5UVX000001K0cn2AC",
+    "keywords": "Cold Weather backpacking and backpacking experience",
+    "leaders": [
+      "Carmen Shippy"
+    ],
+    "location": {
+      "city": "Purcellville",
+      "country": "United States",
+      "state": "WV"
+    },
+    "name": "Cold Weather Backpack Near Harpers Ferry",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-13",
+    "startTime": "8:30 AM",
+    "status": "Published",
+    "subType": "Backpacking",
+    "timeZone": "US EST",
+    "type": "Backpacking",
+    "url": "/s/oc-activity/a5UVX000001K0cn2AC"
+  },
+  {
+    "chapterId": "0015000001Sg06DAAR",
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-09",
+    "id": "a5UVX000001K29x2AC",
+    "leaders": [
+      "Ann Rega"
+    ],
+    "location": {
+      "city": "Buzzards Bay",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Fast and Light - Cape Cod Canal",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-09",
+    "startTime": "8:15 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001K29x2AC"
   }
 ]
