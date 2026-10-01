@@ -1892,7 +1892,7 @@
     "secondaryType": "Backpacking",
     "startDate": "2026-10-16",
     "startTime": "All Day",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -2569,7 +2569,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-02",
     "startTime": "5:00 PM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -2878,7 +2878,7 @@
     "secondaryType": "Conservation",
     "startDate": "2026-10-25",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -4994,13 +4994,13 @@
     },
     "name": "White Mountain 4,000 Footer Double Series #4 - Mount North Kinsman & Mount South Kinsman",
     "program": "Volunteer Led",
-    "registerByDate": "2026-10-09",
-    "registration": "open",
+    "registerByDate": "2026-10-01",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-13",
     "registrationType": "Application",
     "startDate": "2026-10-17",
     "startTime": "7:45 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5163,7 +5163,7 @@
     "name": "Full Moon Hike at Borderland State Park",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-23",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-01",
     "registrationType": "Registration",
     "startDate": "2026-10-27",
@@ -7450,7 +7450,7 @@
     "name": "Hike the Emerald Necklace in Autumn",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-15",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-01",
     "registrationType": "Application",
     "startDate": "2026-10-17",
@@ -7781,7 +7781,7 @@
     "name": "Fall Saturday Morning Blue Hills Conditioning Hike",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-29",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-01",
     "registrationType": "Application",
     "startDate": "2026-10-31",
@@ -9664,7 +9664,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-12",
     "startTime": "All Day",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -12619,7 +12619,7 @@
       "lon": -71.41
     },
     "costs": [
-      235
+      586
     ],
     "difficulty": 1,
     "difficultyLabel": "1 - Accessible",
@@ -18547,6 +18547,42 @@
     "url": "/s/oc-activity/a5UVX000001JjdZ2AS"
   },
   {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 42.03,
+      "lon": -71.77
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-17",
+    "id": "a5UVX000001Jjgn2AC",
+    "keywords": "20's & 30's Interchapter Fall Fest",
+    "leaders": [
+      "Luke Chapdelaine"
+    ],
+    "location": {
+      "city": "Douglas",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "20's & 30's Interchapter Fall Fest: Almuerzo con los 20's & 30's - Cooking Brunch at Douglas State Forest",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-13",
+    "registration": "open",
+    "registrationOpenDate": "2026-09-26",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-17",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Local Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001Jjgn2AC"
+  },
+  {
     "audience": "Adults",
     "chapterId": "0015000001Sg061AAB",
     "coords": {
@@ -20702,6 +20738,77 @@
     "url": "/s/oc-activity/a5UVX000001K0cn2AC"
   },
   {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg06EAAR",
+    "coords": {
+      "lat": 38.9,
+      "lon": -77.27
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-17",
+    "id": "a5UVX000001K1H72AK",
+    "keywords": "Hiking, kayaking, farm visit",
+    "leaders": [
+      "Mina Yousefi"
+    ],
+    "location": {
+      "city": "Vienna",
+      "country": "United States",
+      "state": "VA"
+    },
+    "name": "🍁 AMC Potomac 20s & 40s: Fall Foliage Hike + Farm Visit 🎃🍎",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-17",
+    "startTime": "8:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001K1H72AK"
+  },
+  {
+    "audience": "20’s & 30’s;Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.58,
+      "lon": -71.44
+    },
+    "costs": [
+      265.73
+    ],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-12-12",
+    "id": "a5UVX000001K1Qn2AK",
+    "leaders": [
+      "Carly Hodes"
+    ],
+    "location": {
+      "city": "Westford",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "20s-40s Hybrid Wilderness First Aid (WFA) + CPR Course",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-07",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-10-06",
+    "registrationType": "Application",
+    "secondaryType": "Outdoor Leadership Training;Wilderness First Aid",
+    "startDate": "2026-12-12",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Meetings",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001K1Qn2AK"
+  },
+  {
     "chapterId": "0015000001Sg05zAAB",
     "coords": {
       "lat": 41.56,
@@ -20825,6 +20932,38 @@
     "url": "/s/oc-activity/a5UVX000001K4wX2AS"
   },
   {
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 42.66,
+      "lon": -71.9
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-17",
+    "id": "a5UVX000001K4y92AC",
+    "keywords": "Hiking",
+    "leaders": [
+      "Donald C Davies"
+    ],
+    "location": {
+      "city": "Ashburnham",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Mount Watatic Fall Foliage Hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-10-17",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001K4y92AC"
+  },
+  {
     "chapterId": "0015000001Sg06BAAR",
     "coords": {
       "lat": 40.07,
@@ -20944,5 +21083,102 @@
     "timeZone": "US EST",
     "type": "Trail Work",
     "url": "/s/oc-activity/a5UVX000001K5Xd2AK"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.73,
+      "lon": -72.96
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-03",
+    "id": "a5UVX000001K71Z2AS",
+    "keywords": "Kennedy, Sessions Woods, Burlington",
+    "leaders": [
+      "Patrick Kennedy"
+    ],
+    "location": {
+      "city": "Burlington",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Sessions Woods, Burlington (C3C)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-03",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001K71Z2AS"
+  },
+  {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.64,
+      "lon": -70.99
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-03",
+    "id": "a5UVX000001K7812AC",
+    "leaders": [
+      "Robin Doyle"
+    ],
+    "location": {
+      "city": "Boxford",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Explore Boxford State Forest & Bald Hill Reservation",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-03",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001K7812AC"
+  },
+  {
+    "chapterId": "0015000001Sg060AAB",
+    "coords": {
+      "lat": 43.72,
+      "lon": -71.24
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-10-17",
+    "id": "a5UVX000001K9OL2A0",
+    "keywords": "Hiking, Ossipee, Mount Shaw, Mount Flag, Mount Sentinel,",
+    "leaders": [
+      "William McClure"
+    ],
+    "location": {
+      "city": "Tuftonboro",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Hike the Other Ossipees",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-17",
+    "startTime": "8:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001K9OL2A0"
   }
 ]
