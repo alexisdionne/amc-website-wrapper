@@ -2912,7 +2912,7 @@
     "name": "SEM 50-Year Anniversary Day Pass for the Celebration at Camp Burgess on the Cape",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-03",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-18",
     "registrationType": "Registration",
     "secondaryType": "Biking;Hiking, Local Walks, & Trail Running;Paddling;Social;Yoga;Evening Programs;Nature Walks",
@@ -4143,7 +4143,7 @@
     "secondaryType": "Adventure Travel",
     "startDate": "2027-08-13",
     "startTime": "5:00 PM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Adventure Travel",
     "timeZone": "US EST",
     "type": "Adventure Travel",
@@ -6790,7 +6790,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-04",
     "startTime": "11:00 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Gravel",
     "timeZone": "US EST",
     "type": "Biking",
@@ -15717,41 +15717,6 @@
     "url": "/s/oc-activity/a5UVX000001JIWv2AO"
   },
   {
-    "chapterId": "001UN00000bpnMdYAI",
-    "coords": {
-      "lat": 40.85,
-      "lon": -73.94
-    },
-    "costs": [
-      40
-    ],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-10-04",
-    "id": "a5UVX000001JK7J2AW",
-    "keywords": "Concrete to Trails, NYGrowth, C2T, AMC NYC, hike, nature, walk, bus",
-    "leaders": [
-      "Eileen Yin"
-    ],
-    "location": {
-      "city": "New York",
-      "country": "United States",
-      "state": "NY"
-    },
-    "name": "CONCRETE TO TRAILS: Lamb's Hill and Sloop Brewing Co. for 20s & 30s",
-    "program": "Staff Activities",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-10-04",
-    "startTime": "8:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001JK7J2AW"
-  },
-  {
     "chapterId": "0015000001Sg06DAAR",
     "coords": {
       "lat": 42.25,
@@ -17588,7 +17553,7 @@
     "secondaryType": "Trail Work",
     "startDate": "2026-10-05",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -18267,7 +18232,7 @@
     "name": "Pisgah State Park NH Old Forest Hike",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-24",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-03",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -18473,7 +18438,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-10-03",
     "startTime": "10:15 AM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -21012,5 +20977,104 @@
     "timeZone": "US EST",
     "type": "Biking",
     "url": "/s/oc-activity/a5UVX000001KIjN2AW"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.52,
+      "lon": -75.06
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-07",
+    "id": "a5UVX000001KImb2AG",
+    "leaders": [
+      "Rich Pace"
+    ],
+    "location": {
+      "city": "Frenchtown",
+      "country": "United States",
+      "state": "NJ"
+    },
+    "name": "Delaware River Kayaking/Canoeing, Frenchtown to Bulls Island, Class 1",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Paddling",
+    "startDate": "2026-10-07",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Flatwater",
+    "timeZone": "US EST",
+    "type": "Paddling",
+    "url": "/s/oc-activity/a5UVX000001KImb2AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.62,
+      "lon": -72.96
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-10",
+    "id": "a5UVX000001KJif2AG",
+    "leaders": [
+      "Joanna Miller"
+    ],
+    "location": {
+      "city": "Wolcott",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Moderate hike of southern terminus of Tunxis Trail, Wolcott",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Biking",
+    "startDate": "2026-11-10",
+    "startTime": "8:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001KJif2AG"
+  },
+  {
+    "audience": "Families",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.47,
+      "lon": -71.22
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-11",
+    "id": "a5UVX000001KJqj2AG",
+    "keywords": "family friendly, ages 4+",
+    "leaders": [
+      "Katerina Cai"
+    ],
+    "location": {
+      "city": "Lexington",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Family - Little Explorers' Autumn Trail Series (2 of 3)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Nature Walks",
+    "startDate": "2026-10-11",
+    "startTime": "3:30 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001KJqj2AG"
   }
 ]
