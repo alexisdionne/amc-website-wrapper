@@ -1830,7 +1830,7 @@
     "secondaryType": "Backpacking",
     "startDate": "2026-10-16",
     "startTime": "All Day",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5208,7 +5208,7 @@
     "registrationType": "Application",
     "startDate": "2027-01-29",
     "startTime": "All Day",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Backcountry",
     "timeZone": "US EST",
     "type": "Skiing",
@@ -6422,7 +6422,7 @@
     "name": "PROGRESSIVE HIKING SERIES FROM THE BLUE HILLS TO METRO WEST – HIKE #3",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-04",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-22",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -9422,12 +9422,12 @@
     "name": "Fall Tuesday Morning Blue Hills Conditioning Series Hike #3",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-04",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-15",
     "registrationType": "Application",
     "startDate": "2026-10-06",
     "startTime": "9:45 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -10941,7 +10941,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-31",
     "startTime": "9:30 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -19611,6 +19611,72 @@
     "url": "/s/oc-activity/a5UVX000001KH2X2AW"
   },
   {
+    "audience": "55+",
+    "chapterId": "0015000001Sg06EAAR",
+    "coords": {
+      "lat": 38.88,
+      "lon": -77.11
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-21",
+    "id": "a5UVX000001KHDp2AO",
+    "leaders": [
+      "Carmen Shippy"
+    ],
+    "location": {
+      "city": "Arlington",
+      "country": "United States",
+      "state": "VA"
+    },
+    "name": "October Evening Walk",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-17",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-10-05",
+    "registrationType": "Registration",
+    "secondaryType": "Backpacking",
+    "startDate": "2026-10-21",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Backpacking",
+    "timeZone": "US EST",
+    "type": "Backpacking",
+    "url": "/s/oc-activity/a5UVX000001KHDp2AO"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.09,
+      "lon": -75.45
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-10",
+    "id": "a5UVX000001KHk52AG",
+    "leaders": [
+      "Sue Auyeung"
+    ],
+    "location": {
+      "city": "King of Prussia",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Valley Forge Saturday Afternoon Hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-10",
+    "startTime": "1:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001KHk52AG"
+  },
+  {
     "chapterId": "0015000001Sg060AAB",
     "coords": {
       "lat": 42.86,
@@ -19733,7 +19799,7 @@
     "secondaryType": "Biking",
     "startDate": "2026-10-12",
     "startTime": "11:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Road",
     "timeZone": "US EST",
     "type": "Biking",
@@ -20099,5 +20165,73 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001KKA52AO"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 40.76,
+      "lon": -73.83
+    },
+    "costs": [
+      10
+    ],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-12",
+    "id": "a5UVX000001KLHR2A4",
+    "keywords": "Abandoned Castle, Battery, River Views, Photo Opportunities, Historical, Relaxed, Nature",
+    "leaders": [
+      "Richard Perez"
+    ],
+    "location": {
+      "city": "Flushing",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Lets March Together @ Fort Totten (Moderate)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Social",
+    "startDate": "2026-10-12",
+    "startTime": "10:15 AM",
+    "status": "Published",
+    "subType": "Local Walks",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001KLHR2A4"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 41.64,
+      "lon": -70.43
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-12-06",
+    "id": "a5UVX000001KLUL2A4",
+    "keywords": "Cape Hikes",
+    "leaders": [
+      "Jane McLaughlin"
+    ],
+    "location": {
+      "city": "Barnstable",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Cape Hikes - Holiday Hike & Caroling  Eagle Pond Cotuit MA",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-12-06",
+    "startTime": "1:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001KLUL2A4"
   }
 ]
