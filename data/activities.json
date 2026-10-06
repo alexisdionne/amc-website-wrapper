@@ -618,7 +618,7 @@
     "name": "Maine Woods Trail Work Weekend at Little Lyford Lodge (staying at Gorman)",
     "program": "Volunteer Led",
     "registerByDate": "2026-09-29",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-06-01",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running;Trail Work;Volunteer Opportunities",
@@ -1664,7 +1664,7 @@
     "secondaryType": "Backpacking",
     "startDate": "2026-10-16",
     "startTime": "All Day",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -3104,7 +3104,7 @@
     "name": "Family hike on the Welch Dickey loop!",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-06",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-14",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -5003,42 +5003,6 @@
     "url": "/s/oc-activity/a5UVX000001FiWP2A0"
   },
   {
-    "chapterId": "0015000001Sg061AAB",
-    "coords": {
-      "lat": 42.41,
-      "lon": -71.16
-    },
-    "costs": [
-      99
-    ],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-12-02",
-    "id": "a5UVX000001Fipl2AC",
-    "keywords": "WHP26",
-    "leaders": [
-      "Robert J Mountain"
-    ],
-    "location": {
-      "city": "Arlington",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "AMC Boston Chapter's 2026-2027 Winter Hiking Program",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-10-21",
-    "registration": "not-yet",
-    "registrationOpenDate": "2026-10-07",
-    "registrationType": "Registration",
-    "startDate": "2026-11-04",
-    "startTime": "7:00 PM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001Fipl2AC"
-  },
-  {
     "chapterId": "0015000001Sg066AAB",
     "coords": {
       "lat": 43.24,
@@ -6338,7 +6302,7 @@
     "name": "THURSDAY MORNING HIKE – A COLORFUL AUTUMN EXPLORATION AT THE ARNOLD ARBORETUM!",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-20",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-06",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -6446,7 +6410,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-17",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -6808,7 +6772,7 @@
     "name": "Fall Tuesday Morning Blue Hills Conditioning Series Hike #6",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-25",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-06",
     "registrationType": "Application",
     "startDate": "2026-10-27",
@@ -8529,7 +8493,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-24",
     "startTime": "8:30 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Top Rope Rock",
     "timeZone": "US EST",
     "type": "Climbing & Mountaineering",
@@ -8847,7 +8811,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-06",
     "startTime": "9:45 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -9269,7 +9233,7 @@
     "name": "PROGRESSIVE HIKING SERIES FROM THE BLUE HILLS TO METRO WEST – HIKE #5",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-18",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-06",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -10657,7 +10621,7 @@
     "name": "[BCMC] AMC Boston Climbers' Annual Fall Frolic Weekend’26",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-06",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-14",
     "registrationType": "Application",
     "secondaryType": "Camping",
@@ -13778,7 +13742,7 @@
     "name": "TRAIL TRACE THE BLUE HILLS - Tucker Hill  - 3 Hour Map Development",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-06",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-20",
     "registrationType": "Application",
     "startDate": "2026-10-07",
@@ -17146,7 +17110,7 @@
     "secondaryType": "Climbing & Mountaineering",
     "startDate": "2026-10-31",
     "startTime": "9:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Traditional Rock",
     "timeZone": "US EST",
     "type": "Climbing & Mountaineering",
@@ -18650,6 +18614,41 @@
     "url": "/s/oc-activity/a5UVX000001KH2X2AW"
   },
   {
+    "audience": "55+",
+    "chapterId": "0015000001Sg06EAAR",
+    "coords": {
+      "lat": 38.88,
+      "lon": -77.11
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-21",
+    "id": "a5UVX000001KHDp2AO",
+    "leaders": [
+      "Carmen Shippy"
+    ],
+    "location": {
+      "city": "Arlington",
+      "country": "United States",
+      "state": "VA"
+    },
+    "name": "October Evening Walk",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-17",
+    "registration": "open",
+    "registrationOpenDate": "2026-10-05",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-21",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Local Walks",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001KHDp2AO"
+  },
+  {
     "chapterId": "0015000001Sg06BAAR",
     "coords": {
       "lat": 40.09,
@@ -18802,7 +18801,7 @@
     "secondaryType": "Paddling",
     "startDate": "2026-10-10",
     "startTime": "10:30 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Flatwater",
     "timeZone": "US EST",
     "type": "Paddling",
@@ -19783,6 +19782,38 @@
     "url": "/s/oc-activity/a5UVX000001KOyT2AW"
   },
   {
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 42.26,
+      "lon": -71.8
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-10-29",
+    "id": "a5UVX000001KPcn2AG",
+    "keywords": "book, worcester, october, reading",
+    "leaders": [
+      "Laura Reynolds"
+    ],
+    "location": {
+      "city": "Worcester",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Worcester Spooky October Book Club: The Wendigo by Algernon Blackwood",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-29",
+    "startTime": "6:30 PM",
+    "status": "Published",
+    "subType": "Local Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001KPcn2AG"
+  },
+  {
     "chapterId": "0015000001Sg064AAB",
     "coords": {
       "lat": 41.23,
@@ -19814,6 +19845,38 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001KSPN2A4"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.44,
+      "lon": -75.09
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-13",
+    "id": "a5UVX000001KSXR2A4",
+    "leaders": [
+      "Kathleen Czupich"
+    ],
+    "location": {
+      "city": "Pipersville",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Tohickon Valley Park Hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-13",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001KSXR2A4"
   },
   {
     "chapterId": "0015000001Sg05zAAB",
@@ -19910,5 +19973,69 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001KSdt2AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-29",
+    "id": "a5UVX000001KTgP2AW",
+    "keywords": "Sakonnet Greenway Ten Mile Hike in Portsmouth  Middletown Rhode Island",
+    "leaders": [
+      "Brian Gollub"
+    ],
+    "location": {
+      "city": "Portsmouth",
+      "country": "United States",
+      "state": "RI"
+    },
+    "name": "Sakonnet Greenway 10-Mile Hike in Portsmouth & Middletown, Rhode Island",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-25",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-10-07",
+    "registrationType": "Application",
+    "startDate": "2026-10-29",
+    "startTime": "9:15 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001KTgP2AW"
+  },
+  {
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.42,
+      "lon": -72.52
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-17",
+    "id": "a5UVX000001KTi12AG",
+    "keywords": "Robert Frost, Hiking, North Amherst, Waterfalls",
+    "leaders": [
+      "Michael April"
+    ],
+    "location": {
+      "city": "Amherst",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Atkins Reservoir / Deans Brook / Robert Frost Trail",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-17",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001KTi12AG"
   }
 ]
