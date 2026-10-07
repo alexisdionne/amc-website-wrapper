@@ -10097,7 +10097,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-25",
     "startTime": "8:30 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -10495,7 +10495,7 @@
     "name": "October Early Morning Fitness Hike",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-07",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-21",
     "registrationType": "Application",
     "startDate": "2026-10-09",
@@ -12078,7 +12078,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-08",
     "startTime": "10:30 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Road",
     "timeZone": "US EST",
     "type": "Biking",
@@ -14814,7 +14814,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-07",
     "startTime": "All Day",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -17539,7 +17539,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-17",
     "startTime": "9:00 AM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -18218,7 +18218,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-24",
     "startTime": "8:30 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -19115,6 +19115,39 @@
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg066AAB",
     "coords": {
+      "lat": 41.82,
+      "lon": -71.39
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-18",
+    "id": "a5UVX000001KLVx2AO",
+    "leaders": [
+      "Carlos Moriella"
+    ],
+    "location": {
+      "city": "Providence",
+      "country": "United States",
+      "state": "RI"
+    },
+    "name": "Sunday Morning at Indian Point: Coffee & Walk 20s nd 30s",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-18",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Local Walks",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001KLVx2AO"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg066AAB",
+    "coords": {
       "lat": 41.79,
       "lon": -71.41
     },
@@ -19726,6 +19759,10 @@
   {
     "audience": "Adults",
     "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 41.56,
+      "lon": -71.25
+    },
     "costs": [],
     "difficulty": 4,
     "difficultyLabel": "4 - Moderate",
@@ -19743,7 +19780,7 @@
     "name": "Sakonnet Greenway 10-Mile Hike in Portsmouth & Middletown, Rhode Island",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-25",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-07",
     "registrationType": "Application",
     "startDate": "2026-10-29",
@@ -19911,5 +19948,127 @@
     "timeZone": "US EST",
     "type": "Climbing & Mountaineering",
     "url": "/s/oc-activity/a5UVX000001KZQr2AO"
+  },
+  {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.4,
+      "lon": -71.12
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-04",
+    "id": "a5UVX000001KabR2AS",
+    "leaders": [
+      "Gregory Maslowe"
+    ],
+    "location": {
+      "city": "Somerville",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Warren Miller's Days Off meetup",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Social",
+    "startDate": "2026-11-04",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Backcountry",
+    "timeZone": "US EST",
+    "type": "Skiing",
+    "url": "/s/oc-activity/a5UVX000001KabR2AS"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.2,
+      "lon": -74.92
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-15",
+    "id": "a5UVX000001KatB2AS",
+    "leaders": [
+      "Dave Hoke"
+    ],
+    "location": {
+      "city": "Langhorne",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Hike Core Creek Park, 5 miles",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-15",
+    "startTime": "8:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001KatB2AS"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.64,
+      "lon": -73.52
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-07",
+    "id": "a5UVX000001KbR32AK",
+    "leaders": [
+      "David Boone"
+    ],
+    "location": {
+      "city": "Wingdale",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Ten Mile River Shelter Upper Field Mowing",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-07",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Trail Work",
+    "timeZone": "US EST",
+    "type": "Trail Work",
+    "url": "/s/oc-activity/a5UVX000001KbR32AK"
+  },
+  {
+    "audience": "Families",
+    "chapterId": "0015000001Sg061AAB",
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-16",
+    "id": "a5UVX000001Kdvt2AC",
+    "leaders": [
+      "Heather McCurdy"
+    ],
+    "location": {
+      "country": "United States"
+    },
+    "name": "Boston Family Outings Committee Leader Meeting",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-11-16",
+    "startTime": "8:00 PM",
+    "status": "Published",
+    "subType": "Meetings",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001Kdvt2AC"
   }
 ]
