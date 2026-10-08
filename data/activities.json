@@ -215,6 +215,42 @@
     "url": "/s/oc-activity/a5UUN000001OOwf2AG"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg065AAB",
+    "coords": {
+      "lat": 43.82,
+      "lon": -70.08
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-15",
+    "id": "a5UUN000001ZFDJ2A4",
+    "keywords": "Woods walk",
+    "leaders": [
+      "Michelle Moody"
+    ],
+    "location": {
+      "city": "Freeport",
+      "country": "United States",
+      "state": "ME"
+    },
+    "name": "Annual Gathering - Wolfe's Neck Woods State Park morning walk",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-14",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-10-09",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-15",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UUN000001ZFDJ2A4"
+  },
+  {
     "chapterId": "0015000001Sg06DAAR",
     "coords": {
       "lat": 42.41,
@@ -4366,14 +4402,14 @@
     },
     "name": "Map and Compass Instructional Weekend",
     "program": "Volunteer Led",
-    "registerByDate": "2026-10-05",
-    "registration": "closed",
+    "registerByDate": "2026-10-09",
+    "registration": "open",
     "registrationOpenDate": "2026-08-17",
     "registrationType": "Application",
     "secondaryType": "Outdoor Learning Experience",
     "startDate": "2026-10-09",
     "startTime": "10:00 PM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5246,39 +5282,6 @@
     "url": "/s/oc-activity/a5UVX000001GBq92AG"
   },
   {
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 40.42,
-      "lon": -75.36
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-10-10",
-    "id": "a5UVX000001GBrl2AG",
-    "keywords": "Pennsylvania Highlands Trail Network Volunteer Trail Workday Quakertown Richland Township Corridor Clearing Brush Clearing",
-    "leaders": [
-      "Madison Nicole DeGerolamo"
-    ],
-    "location": {
-      "city": "Quakertown",
-      "country": "United States",
-      "state": "PA"
-    },
-    "name": "Trail Workday on the Pennsylvania Highlands Trail at Tollgate Landing",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Trail Work",
-    "startDate": "2026-10-10",
-    "startTime": "9:30 AM",
-    "status": "Published",
-    "subType": "Trail Work",
-    "timeZone": "US EST",
-    "type": "Trail Work",
-    "url": "/s/oc-activity/a5UVX000001GBrl2AG"
-  },
-  {
     "chapterId": "0015000001Sg061AAB",
     "coords": {
       "lat": 44.37,
@@ -6045,7 +6048,7 @@
     "name": "Mt. Eisenhower",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-08",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-15",
     "registrationType": "Application",
     "startDate": "2026-10-09",
@@ -8200,7 +8203,7 @@
     "name": "Cycling from Bernardston MA to Guilford VT",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-08",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-14",
     "registrationType": "Application",
     "secondaryType": "Biking",
@@ -15773,7 +15776,7 @@
     "secondaryType": "Paddling",
     "startDate": "2026-10-12",
     "startTime": "8:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Sea",
     "timeZone": "US EST",
     "type": "Paddling",
@@ -15839,7 +15842,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-20",
     "startTime": "9:30 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -18287,7 +18290,7 @@
     "name": "Moore State Park, Paxton MA",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-08",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-02",
     "registrationType": "Application",
     "startDate": "2026-10-09",
@@ -18855,7 +18858,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-18",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -18907,7 +18910,7 @@
     "endDate": "2026-10-20",
     "id": "a5UVX000001KLsX2AW",
     "leaders": [
-      "Madelyn Atwood"
+      "Kenneth Machado"
     ],
     "location": {
       "city": "Milton",
@@ -19575,6 +19578,39 @@
   },
   {
     "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.38,
+      "lon": -71.11
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-11-11",
+    "id": "a5UVX000001KZKP2A4",
+    "keywords": "BIPOC, black, indigenous, people of color, diversity, gym night, rock climbing, climbing",
+    "leaders": [
+      "Maya Duffy"
+    ],
+    "location": {
+      "city": "Somerville",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "[Affinity] BCMC BIPOC Climbing Gym Night at Boston Bouldering Project, Somerville",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Climbing & Mountaineering",
+    "startDate": "2026-11-11",
+    "startTime": "6:30 PM",
+    "status": "Published",
+    "subType": "Gym",
+    "timeZone": "US EST",
+    "type": "Climbing & Mountaineering",
+    "url": "/s/oc-activity/a5UVX000001KZKP2A4"
+  },
+  {
+    "chapterId": "0015000001Sg061AAB",
     "costs": [],
     "difficulty": 2,
     "difficultyLabel": "2 - Relaxed",
@@ -19817,6 +19853,40 @@
     "url": "/s/oc-activity/a5UVX000001KeIT2A0"
   },
   {
+    "audience": "Women+",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 44.06,
+      "lon": -71.11
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-12",
+    "id": "a5UVX000001KgIf2AK",
+    "keywords": "women, women's, women+, women's+, womens, womens+, uphill, ski, skiing, riding, splitboard, telemark, backcountry, meetup, skier, ladies, lady, cranmore, mt, resort",
+    "leaders": [
+      "Emily Madsen"
+    ],
+    "location": {
+      "city": "Conway",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Boston Ski: Women’s+ Uphill Meetup",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Skiing",
+    "startDate": "2026-12-12",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Backcountry",
+    "timeZone": "US EST",
+    "type": "Skiing",
+    "url": "/s/oc-activity/a5UVX000001KgIf2AK"
+  },
+  {
     "audience": "Adults",
     "chapterId": "0015000001Sg061AAB",
     "costs": [],
@@ -19878,5 +19948,32 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001KgVZ2A0"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-09",
+    "id": "a5UVX000001KheX2AS",
+    "leaders": [
+      "Rebeca Galbinski"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Central Park Hidden Gems Phone Photo Walk & Lennon Birthday @ Strawberry Fields",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-09",
+    "startTime": "10:30 AM",
+    "status": "Published",
+    "subType": "Local Walks",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001KheX2AS"
   }
 ]
