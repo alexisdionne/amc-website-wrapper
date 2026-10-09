@@ -238,7 +238,7 @@
     "name": "Annual Gathering - Wolfe's Neck Woods State Park morning walk",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-14",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-09",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -1641,7 +1641,7 @@
     "secondaryType": "Backpacking",
     "startDate": "2026-10-16",
     "startTime": "All Day",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -1716,6 +1716,44 @@
     "timeZone": "US EST",
     "type": "Skiing",
     "url": "/s/oc-activity/a5UVX0000013w5J2AQ"
+  },
+  {
+    "audience": "Families",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 45.07,
+      "lon": -70.26
+    },
+    "costs": [
+      470
+    ],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2027-01-01",
+    "id": "a5UVX0000014CRp2AM",
+    "keywords": "family, kid, kids, entry, easy, ski, Maine, skiing, families, snowboard, snowboarding, retreat, new year, children, child, toddler, novice, social, snowshoe, skate",
+    "leaders": [
+      "Leah Salloway"
+    ],
+    "location": {
+      "city": "Carrabassett Valley",
+      "country": "United States",
+      "state": "ME"
+    },
+    "name": "Young Family New Years in Carrabassett Valley / Sugarloaf",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-13",
+    "registration": "open",
+    "registrationOpenDate": "2026-10-09",
+    "registrationType": "Application",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-30",
+    "startTime": "3:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX0000014CRp2AM"
   },
   {
     "audience": "20’s & 30’s",
@@ -1940,7 +1978,7 @@
     "secondaryType": "Snowshoeing",
     "startDate": "2027-02-08",
     "startTime": "3:00 PM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Cross Country",
     "timeZone": "US EST",
     "type": "Skiing",
@@ -4806,7 +4844,7 @@
     "name": "20s & 30s Renaissance Festival Social",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-09",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-25",
     "registrationType": "Registration",
     "startDate": "2026-10-10",
@@ -6097,7 +6135,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-17",
     "startTime": "10:00 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -8015,8 +8053,8 @@
     },
     "name": "Cycling from Bernardston MA to Guilford VT",
     "program": "Volunteer Led",
-    "registerByDate": "2026-10-08",
-    "registration": "closed",
+    "registerByDate": "2026-10-09",
+    "registration": "open",
     "registrationOpenDate": "2026-09-14",
     "registrationType": "Application",
     "secondaryType": "Biking",
@@ -8339,7 +8377,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-17",
     "startTime": "2:00 PM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Backpacking",
     "timeZone": "US EST",
     "type": "Backpacking",
@@ -9168,7 +9206,7 @@
     "name": "Explore the Ipswich River Wildlife Sanctuary in Autumn on the North Shore",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-23",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-09",
     "registrationType": "Registration",
     "startDate": "2026-10-25",
@@ -10048,7 +10086,7 @@
     "name": "SEM Mount Cannon",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-21",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-04",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -13347,7 +13385,7 @@
     "name": "20s & 30s Full Moon Haunted Hike",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-24",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-09",
     "registrationType": "Application",
     "startDate": "2026-10-26",
@@ -18155,6 +18193,40 @@
     "url": "/s/oc-activity/a5UVX000001KJyn2AG"
   },
   {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg066AAB",
+    "coords": {
+      "lat": 41.4,
+      "lon": -71.55
+    },
+    "costs": [
+      20.88
+    ],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-10-31",
+    "id": "a5UVX000001KK3d2AG",
+    "leaders": [
+      "Catherine LiVolsi"
+    ],
+    "location": {
+      "city": "South Kingstown",
+      "country": "United States",
+      "state": "RI"
+    },
+    "name": "Narragansett 20s/30s Halloween Party!",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-31",
+    "startTime": "5:00 PM",
+    "status": "Published",
+    "subType": "Local Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001KK3d2AG"
+  },
+  {
     "chapterId": "0015000001Sg05xAAB",
     "coords": {
       "lat": 42.2,
@@ -18343,7 +18415,9 @@
     },
     "name": "Hiking with Trailwork in the Blue Hills",
     "program": "Volunteer Led",
+    "registerByDate": "2026-10-18",
     "registration": "open",
+    "registrationOpenDate": "2026-10-09",
     "registrationType": "Registration",
     "secondaryType": "Trail Work",
     "startDate": "2026-10-19",
@@ -19165,6 +19239,66 @@
     "url": "/s/oc-activity/a5UVX000001KUML2A4"
   },
   {
+    "chapterId": "0015000001Sg061AAB",
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-10-13",
+    "id": "a5UVX000001KURB2A4",
+    "keywords": "paddling, committee, meeting, leaders, planning",
+    "leaders": [
+      "Leah Desrochers"
+    ],
+    "location": {
+      "country": "United States"
+    },
+    "name": "Boston Chapter Paddling Committee Meeting",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Paddling",
+    "startDate": "2026-10-13",
+    "startTime": "7:00 PM",
+    "status": "Published",
+    "subType": "Meetings",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001KURB2A4"
+  },
+  {
+    "audience": "20’s & 30’s;Adults",
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.3,
+      "lon": -72.99
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-24",
+    "id": "a5UVX000001KUz32AG",
+    "keywords": "Hiking, Bridges",
+    "leaders": [
+      "Robert Williams"
+    ],
+    "location": {
+      "city": "Chester",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "(20s/30s/40s) Hiking the Keystone Arches Bridge Trail",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-10-24",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001KUz32AG"
+  },
+  {
     "chapterId": "0015000001Sg065AAB",
     "coords": {
       "lat": 43.83,
@@ -19631,6 +19765,39 @@
     "url": "/s/oc-activity/a5UVX000001KheX2AS"
   },
   {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg066AAB",
+    "coords": {
+      "lat": 41.82,
+      "lon": -71.51
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-17",
+    "id": "a5UVX000001KiYz2AK",
+    "keywords": "Interchapter Fall Fest",
+    "leaders": [
+      "James Meredith"
+    ],
+    "location": {
+      "city": "Johnston",
+      "country": "United States",
+      "state": "RI"
+    },
+    "name": "Interchapter Fall Fest 20s/30s Snake Den hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-10-17",
+    "startTime": "11:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001KiYz2AK"
+  },
+  {
     "audience": "20’s & 30’s;Adults",
     "chapterId": "0015000001Sg05xAAB",
     "coords": {
@@ -19643,7 +19810,7 @@
     "endDate": "2026-11-29",
     "id": "a5UVX000001KjMz2AK",
     "leaders": [
-      "Hew Hart"
+      "Roseanna Lacas"
     ],
     "location": {
       "city": "Holyoke",
@@ -19662,6 +19829,37 @@
     "timeZone": "US EST",
     "type": "Outdoor Leadership Training",
     "url": "/s/oc-activity/a5UVX000001KjMz2AK"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.42,
+      "lon": -74
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-10-14",
+    "id": "a5UVX000001Kkvl2AC",
+    "leaders": [
+      "Francoise LeGoues"
+    ],
+    "location": {
+      "city": "Cornwall-on-Hudson",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Storm King double loop (Vigorous)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-14",
+    "startTime": "8:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Kkvl2AC"
   },
   {
     "chapterId": "0015000001Sg064AAB",
@@ -19831,5 +20029,133 @@
     "timeZone": "US EST",
     "type": "Climbing & Mountaineering",
     "url": "/s/oc-activity/a5UVX000001KmEP2A0"
+  },
+  {
+    "chapterId": "0015000001Sg06EAAR",
+    "coords": {
+      "lat": 39.01,
+      "lon": -79.33
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-01",
+    "id": "a5UVX000001KmG12AK",
+    "leaders": [
+      "David Mong"
+    ],
+    "location": {
+      "city": "Davis",
+      "country": "United States",
+      "state": "WV"
+    },
+    "name": "Overlook Lovers Backpack at Dolly Sods Wilderness in the Monongahela National Forest WV",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-10-31",
+    "startTime": "12:00 PM",
+    "status": "Published",
+    "subType": "Backpacking",
+    "timeZone": "US EST",
+    "type": "Backpacking",
+    "url": "/s/oc-activity/a5UVX000001KmG12AK"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 39.89,
+      "lon": -75.26
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-07",
+    "id": "a5UVX000001KmJF2A0",
+    "keywords": "Hike, 20s/30s",
+    "leaders": [
+      "Jeffrey Cocci"
+    ],
+    "location": {
+      "city": "Philadelphia",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "20s/30s Hike: 6-Mile Out & Back Hike at John Heinz Wildlife Refuge",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-07",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001KmJF2A0"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.3,
+      "lon": -74.05
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-14",
+    "id": "a5UVX000001KnnB2AS",
+    "leaders": [
+      "Jay Beilis"
+    ],
+    "location": {
+      "city": "Woodbury",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Silvermine 9:30 8.5 miles (Moderate)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-14",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001KnnB2AS"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 40.86,
+      "lon": -73.92
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-14",
+    "id": "a5UVX000001KoRV2A0",
+    "keywords": "NYGrowth NewMember URBAN CITY WALK",
+    "leaders": [
+      "Eileen Yin"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "URBAN WALK: Inwood Park Stroll - New Members Welcome!",
+    "program": "Staff Activities",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-14",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Local Walks",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001KoRV2A0"
   }
 ]
