@@ -161,7 +161,7 @@
     "costs": [],
     "difficulty": 1,
     "difficultyLabel": "1 - Accessible",
-    "endDate": "2026-12-31",
+    "endDate": "2027-12-31",
     "id": "a5UUN000001NHkL2AW",
     "leaders": [
       "Roseanna Lacas"
@@ -174,7 +174,7 @@
     "registration": "open",
     "registrationType": "Show & Go",
     "secondaryType": "Backpacking;Biking;Camping;Climbing & Mountaineering;Conservation;Hiking, Local Walks, & Trail Running;Outdoor Leadership Training;Paddling;Skiing;Snowshoeing;Social;Trail Work;Volunteer Opportunities",
-    "startDate": "2026-01-01",
+    "startDate": "2027-01-01",
     "startTime": "All Day",
     "status": "Published",
     "subType": "Local Socials",
@@ -961,8 +961,8 @@
     },
     "name": "(20s/30s+) Wessels Series: Vernon Town Forest",
     "program": "Volunteer Led",
-    "registerByDate": "2026-10-07",
-    "registration": "closed",
+    "registerByDate": "2026-10-31",
+    "registration": "open",
     "registrationOpenDate": "2026-09-10",
     "registrationType": "Application",
     "secondaryType": "Nature & Arts",
@@ -998,7 +998,7 @@
     "name": "(20s/30s+) Wessels Series: Pisgah State Forest",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-18",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-10",
     "registrationType": "Application",
     "secondaryType": "Nature & Arts",
@@ -5021,7 +5021,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-24",
     "startTime": "7:45 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5837,7 +5837,7 @@
     "secondaryType": "Conservation;Nature Walks",
     "startDate": "2026-10-18",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -7998,41 +7998,6 @@
     "url": "/s/oc-activity/a5UVX000001I2KX2A0"
   },
   {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg05xAAB",
-    "coords": {
-      "lat": 42.67,
-      "lon": -72.55
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-10-11",
-    "id": "a5UVX000001I2XR2A0",
-    "leaders": [
-      "Brant Cheikes"
-    ],
-    "location": {
-      "city": "Bernardston",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "Cycling from Bernardston MA to Guilford VT",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-10-09",
-    "registration": "closed",
-    "registrationOpenDate": "2026-09-14",
-    "registrationType": "Application",
-    "secondaryType": "Biking",
-    "startDate": "2026-10-11",
-    "startTime": "10:00 AM",
-    "status": "Published",
-    "subType": "Road",
-    "timeZone": "US EST",
-    "type": "Biking",
-    "url": "/s/oc-activity/a5UVX000001I2XR2A0"
-  },
-  {
     "chapterId": "0015000001Sg05xAAB",
     "coords": {
       "lat": 42.6,
@@ -9611,6 +9576,41 @@
     "url": "/s/oc-activity/a5UVX000001IXPx2AO"
   },
   {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 40.85,
+      "lon": -73.94
+    },
+    "costs": [
+      40
+    ],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-31",
+    "id": "a5UVX000001IXUn2AO",
+    "keywords": "Concrete to Trails, NYGrowth, C2T, AMC NYC, hike, nature, walk, bus",
+    "leaders": [
+      "Mari Ishihara"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "CONCRETE TO TRAILS: Hogencamp Mountain",
+    "program": "Staff Activities",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-31",
+    "startTime": "8:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IXUn2AO"
+  },
+  {
     "audience": "Adults",
     "chapterId": "0015000001Sg061AAB",
     "coords": {
@@ -9999,7 +9999,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-10-24",
     "startTime": "8:30 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -16596,6 +16596,7 @@
     },
     "name": "Mount Watatic Fall Foliage Hike",
     "program": "Volunteer Led",
+    "registerByDate": "2026-10-14",
     "registration": "open",
     "registrationType": "Application",
     "startDate": "2026-10-17",
@@ -17278,7 +17279,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-11",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -17327,7 +17328,7 @@
       "lon": -71.7
     },
     "costs": [
-      65
+      50
     ],
     "difficulty": 4,
     "difficultyLabel": "4 - Moderate",
@@ -19123,11 +19124,43 @@
     "registrationType": "Show & Go",
     "startDate": "2026-10-10",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001KeIT2A0"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.08,
+      "lon": -75.46
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-14",
+    "id": "a5UVX000001KfHl2AK",
+    "leaders": [
+      "Doug Wilson"
+    ],
+    "location": {
+      "city": "Malvern",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Valley Forge Park Trail Maintenance",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Trail Work",
+    "startDate": "2026-10-14",
+    "startTime": "8:00 AM",
+    "status": "Published",
+    "subType": "Trail Work",
+    "timeZone": "US EST",
+    "type": "Trail Work",
+    "url": "/s/oc-activity/a5UVX000001KfHl2AK"
   },
   {
     "audience": "Women+",
@@ -19716,5 +19749,99 @@
     "timeZone": "US EST",
     "type": "Biking",
     "url": "/s/oc-activity/a5UVX000001Kqmf2AC"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 41.92,
+      "lon": -70.57
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-08",
+    "id": "a5UVX000001Kt9R2AS",
+    "leaders": [
+      "Jonah Sakwa-Novak"
+    ],
+    "location": {
+      "city": "Plymouth",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "20s and 30s Tidmarsh Wildlife Sanctuary",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-05",
+    "registration": "open",
+    "registrationOpenDate": "2026-10-10",
+    "registrationType": "Application",
+    "startDate": "2026-11-08",
+    "startTime": "11:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Kt9R2AS"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg05xAAB",
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-11-06",
+    "id": "a5UVX000001KtHV2A0",
+    "leaders": [
+      "Roseanna Lacas"
+    ],
+    "location": {
+      "city": "Northampton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "(20s/30s/40s) Pedal to the Pomological Exhibition",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-11-06",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Road",
+    "timeZone": "US EST",
+    "type": "Biking",
+    "url": "/s/oc-activity/a5UVX000001KtHV2A0"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.25,
+      "lon": -73.6
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-14",
+    "id": "a5UVX000001KtML2A0",
+    "leaders": [
+      "Hank Zupnick"
+    ],
+    "location": {
+      "city": "pound ridge",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Ward Pound Ridge Reservation (Moderate)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-14",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001KtML2A0"
   }
 ]
