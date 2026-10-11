@@ -5512,7 +5512,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-11",
     "startTime": "1:30 PM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5705,7 +5705,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-18",
     "startTime": "9:00 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -7855,7 +7855,7 @@
     "name": "PROGRESSIVE HIKING SERIES FROM THE BLUE HILLS TO METRO WEST – HIKE #4",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-11",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-29",
     "registrationType": "Registration",
     "startDate": "2026-10-13",
@@ -12573,7 +12573,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-25",
     "startTime": "8:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -13516,7 +13516,7 @@
     "name": "Fitness Hike -  Walpole Town Forest",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-11",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-02",
     "registrationType": "Registration",
     "startDate": "2026-10-13",
@@ -14245,7 +14245,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-10-31",
     "startTime": "8:30 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -15428,7 +15428,7 @@
     "name": "Hiking with Trailwork in the Blue Hills",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-11",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-30",
     "registrationType": "Registration",
     "secondaryType": "Trail Work",
@@ -16759,7 +16759,7 @@
     "costs": [],
     "difficulty": 4,
     "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-11-10",
+    "endDate": "2026-11-12",
     "id": "a5UVX000001KJif2AG",
     "leaders": [
       "Joanna Miller"
@@ -16774,7 +16774,7 @@
     "registration": "open",
     "registrationType": "Registration",
     "secondaryType": "Biking",
-    "startDate": "2026-11-10",
+    "startDate": "2026-11-12",
     "startTime": "8:45 AM",
     "status": "Published",
     "subType": "Hiking",
@@ -18376,7 +18376,7 @@
     "difficultyLabel": "4 - Moderate",
     "endDate": "2026-10-17",
     "id": "a5UVX000001KiYz2AK",
-    "keywords": "Interchapter Fall Fest",
+    "keywords": "20's & 30's Interchapter Fall Fest",
     "leaders": [
       "James Meredith"
     ],
@@ -19050,6 +19050,41 @@
     "url": "/s/oc-activity/a5UVX000001KtRB2A0"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.64,
+      "lon": -70.99
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-25",
+    "id": "a5UVX000001KtW12AK",
+    "keywords": "Bald Hill Conservation Area, Boxford State Forest, Bay Circuit Trail",
+    "leaders": [
+      "Richard Lombard"
+    ],
+    "location": {
+      "city": "Boxford",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "LET'S HIKE BALD HILL CONSERVATION AREA -BOXFORD STATE FOREST / BOXFORD MA",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-24",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-10-16",
+    "registrationType": "Registration",
+    "startDate": "2026-10-25",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001KtW12AK"
+  },
+  {
     "chapterId": "0015000001Sg064AAB",
     "coords": {
       "lat": 41.2,
@@ -19180,5 +19215,158 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001KthJ2AS"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.3,
+      "lon": -74.06
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-28",
+    "id": "a5UVX000001KudN2AS",
+    "keywords": "Silvermine",
+    "leaders": [
+      "Richard DeCicco"
+    ],
+    "location": {
+      "city": "Stony Point",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Silvermine Halloween Hike (Moderate)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-28",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001KudN2AS"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-12",
+    "id": "a5UVX000001Kugb2AC",
+    "keywords": "Nature walk, parks, photography, Social Event",
+    "leaders": [
+      "Rebeca Galbinski"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Central Park: Phone Photo Walk Hidden Gems & Columbus Day Parade",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-12",
+    "startTime": "10:30 AM",
+    "status": "Published",
+    "subType": "Local Walks",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Kugb2AC"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.09,
+      "lon": -75.45
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-17",
+    "id": "a5UVX000001KuqH2AS",
+    "leaders": [
+      "Sue Auyeung"
+    ],
+    "location": {
+      "city": "King of Prussia",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Valley Forge Saturday Afternoon Hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-17",
+    "startTime": "1:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001KuqH2AS"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.23,
+      "lon": -74.97
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-09",
+    "id": "a5UVX000001Kuv72AC",
+    "leaders": [
+      "Lisa Kleiman"
+    ],
+    "location": {
+      "city": "Newtown",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Tyler State Park - Hiking Book Club - Outdoor Adventure theme - 6 - 7miles moderate pace",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-11-09",
+    "startTime": "1:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Kuv72AC"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.11,
+      "lon": -75.22
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-16",
+    "id": "a5UVX000001Kuwj2AC",
+    "leaders": [
+      "Lisa Kleiman"
+    ],
+    "location": {
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Creeks, Crossings, and Coffee - Green Ribbon hike, 8-10 miles",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-11-16",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Kuwj2AC"
   }
 ]
