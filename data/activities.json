@@ -3888,41 +3888,6 @@
     "url": "/s/oc-activity/a5UVX000001DTzh2AG"
   },
   {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg06DAAR",
-    "coords": {
-      "lat": 44.18,
-      "lon": -71.75
-    },
-    "costs": [],
-    "difficulty": 5,
-    "difficultyLabel": "5 - Vigorous",
-    "endDate": "2026-10-17",
-    "id": "a5UVX000001DcwX2AS",
-    "keywords": "mount kinsman north south white mountain double",
-    "leaders": [
-      "Brian Gollub"
-    ],
-    "location": {
-      "city": "Franconia",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "White Mountain 4,000 Footer Double Series #4 - Mount North Kinsman & Mount South Kinsman",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-10-01",
-    "registration": "closed",
-    "registrationOpenDate": "2026-09-13",
-    "registrationType": "Application",
-    "startDate": "2026-10-17",
-    "startTime": "7:45 AM",
-    "status": "Full",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001DcwX2AS"
-  },
-  {
     "chapterId": "0015000001Sg06BAAR",
     "coords": {
       "lat": 40.42,
@@ -5430,7 +5395,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-18",
     "startTime": "9:00 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5499,7 +5464,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-10-22",
     "startTime": "10:30 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -6157,11 +6122,11 @@
       "country": "United States",
       "state": "MA"
     },
-    "name": "Fall Tuesday Morning Blue Hills Conditioning Series Finale -  Hike #13",
+    "name": "Fall Tuesday Morning Blue Hills Conditioning Finale -  Skyline End to End",
     "program": "Volunteer Led",
     "registerByDate": "2026-12-12",
     "registration": "not-yet",
-    "registrationOpenDate": "2026-11-10",
+    "registrationOpenDate": "2026-11-01",
     "registrationType": "Application",
     "startDate": "2026-12-15",
     "startTime": "8:30 AM",
@@ -6763,7 +6728,7 @@
     "registerByDate": "2026-10-26",
     "registration": "open",
     "registrationOpenDate": "2026-10-09",
-    "registrationType": "Registration",
+    "registrationType": "Application",
     "secondaryType": "Adventure Travel",
     "startDate": "2026-10-27",
     "startTime": "8:30 AM",
@@ -9469,7 +9434,7 @@
     "name": "October Early Morning Fitness Hike",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-28",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-12",
     "registrationType": "Application",
     "startDate": "2026-10-30",
@@ -11053,7 +11018,8 @@
     },
     "name": "Future Leaders Hike",
     "program": "Professional Guides",
-    "registration": "open",
+    "registerByDate": "2026-10-12",
+    "registration": "closed",
     "registrationType": "Registration",
     "startDate": "2026-10-18",
     "startTime": "9:00 AM",
@@ -11824,7 +11790,7 @@
     "registrationType": "Application",
     "startDate": "2027-03-05",
     "startTime": "All Day",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Backcountry",
     "timeZone": "US EST",
     "type": "Skiing",
@@ -12713,7 +12679,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-23",
     "startTime": "9:30 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -14737,7 +14703,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-28",
     "startTime": "All Day",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -15102,39 +15068,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001K1vR2AS"
-  },
-  {
-    "chapterId": "0015000001Sg061AAB",
-    "coords": {
-      "lat": 43.65,
-      "lon": -71.92
-    },
-    "costs": [],
-    "difficulty": 5,
-    "difficultyLabel": "5 - Vigorous",
-    "endDate": "2026-10-13",
-    "id": "a5UVX000001K4DN2A0",
-    "leaders": [
-      "Amy Kelliher"
-    ],
-    "location": {
-      "city": "Orange",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "A Big Loop Over Cardigan on a Tuesday",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-10-10",
-    "registration": "closed",
-    "registrationOpenDate": "2026-09-30",
-    "registrationType": "Application",
-    "startDate": "2026-10-13",
-    "startTime": "All Day",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001K4DN2A0"
   },
   {
     "audience": "20’s & 30’s;55+;Adults;BIPOC;Educators;LGBTQ+;Women+",
@@ -18123,37 +18056,6 @@
     "url": "/s/oc-activity/a5UVX000001Kru12AC"
   },
   {
-    "chapterId": "0015000001Sg05xAAB",
-    "coords": {
-      "lat": 42.93,
-      "lon": -72.28
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-11-15",
-    "id": "a5UVX000001Krvd2AC",
-    "leaders": [
-      "Christopher Neil"
-    ],
-    "location": {
-      "city": "Keene",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "Drytooling Crag Day at the Keene Rail Cut",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2026-11-15",
-    "startTime": "All Day",
-    "status": "Published",
-    "subType": "Ice",
-    "timeZone": "US EST",
-    "type": "Climbing & Mountaineering",
-    "url": "/s/oc-activity/a5UVX000001Krvd2AC"
-  },
-  {
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg06DAAR",
     "coords": {
@@ -18574,6 +18476,41 @@
     "url": "/s/oc-activity/a5UVX000001KuqH2AS"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 42.63,
+      "lon": -73.14
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-11-11",
+    "id": "a5UVX000001Kurt2AC",
+    "keywords": "Mt Greylock",
+    "leaders": [
+      "Patricia Lambert"
+    ],
+    "location": {
+      "city": "Adams",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Explore Mt Greylock and Ragged Mountain",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-06",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-10-14",
+    "registrationType": "Application",
+    "startDate": "2026-11-11",
+    "startTime": "7:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Kurt2AC"
+  },
+  {
     "chapterId": "0015000001Sg06BAAR",
     "coords": {
       "lat": 40.23,
@@ -18786,5 +18723,224 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001KvG52AK"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.28,
+      "lon": -73.96
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-10-16",
+    "id": "a5UVX000001Kws52AC",
+    "keywords": "hiking, vigerous",
+    "leaders": [
+      "Rolande Hodel"
+    ],
+    "location": {
+      "city": "Stony Point",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Jones Point parking  @ 9 AM  (Vigorous)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-16",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Kws52AC"
+  },
+  {
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 42.35,
+      "lon": -71.55
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-16",
+    "id": "a5UVX000001KxY12AK",
+    "keywords": "ski, board, snow, worcester",
+    "leaders": [
+      "Laura Reynolds"
+    ],
+    "location": {
+      "city": "Marlborough",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Worcester Ski and Board Social @ Lost Shoe Brewing, Marlborough MA",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-16",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Local Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001KxY12AK"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "costs": [],
+    "difficulty": 6,
+    "difficultyLabel": "6 - Strenuous",
+    "endDate": "2026-10-13",
+    "id": "a5UVX000001KyCL2A0",
+    "leaders": [
+      "Anastasia Tavarez"
+    ],
+    "location": {
+      "country": "United States"
+    },
+    "name": "AT NY Hike: NY 22 to CT 55 (Gaylordsville, CT) 7.5 mi (Strenuous)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-13",
+    "startTime": "8:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001KyCL2A0"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.18,
+      "lon": -73.68
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-15",
+    "id": "a5UVX000001KyM12AK",
+    "keywords": "Westmoreland Preserve, Mt. Kisco, McCarthy",
+    "leaders": [
+      "Bill McCarthy"
+    ],
+    "location": {
+      "city": "Mount Kisco",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Westmoreland Sanctuary, Mount Kisco, NY EASY-MODERATE",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-15",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001KyM12AK"
+  },
+  {
+    "audience": "BIPOC",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 41.78,
+      "lon": -71.86
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-24",
+    "id": "a5UVX000001KyST2A0",
+    "keywords": "top rope, crag day, fall climbing",
+    "leaders": [
+      "Grace Ecko Jojo"
+    ],
+    "location": {
+      "city": "Killingly",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "[BCMC], [Affinity, BIPOC] Top Rope Crag Day",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Climbing & Mountaineering",
+    "startDate": "2026-10-24",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Top Rope Rock",
+    "timeZone": "US EST",
+    "type": "Climbing & Mountaineering",
+    "url": "/s/oc-activity/a5UVX000001KyST2A0"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.29,
+      "lon": -74.06
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-18",
+    "id": "a5UVX000001L0Np2AK",
+    "leaders": [
+      "Jay Beilis"
+    ],
+    "location": {
+      "city": "Woodbury",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Silvermine 9:30 8.5 miles (Moderate)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-18",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001L0Np2AK"
+  },
+  {
+    "audience": "20’s & 30’s;Adults",
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.47,
+      "lon": -72.6
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-23",
+    "id": "a5UVX000001L1292AC",
+    "leaders": [
+      "Hew Hart"
+    ],
+    "location": {
+      "city": "Deerfield",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "(20s/30s/40s) Sunrise from Mount Sugarloaf",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-23",
+    "startTime": "6:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001L1292AC"
   }
 ]
