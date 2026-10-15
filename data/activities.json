@@ -5276,7 +5276,7 @@
     "name": "Hike the Emerald Necklace in Autumn",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-15",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-01",
     "registrationType": "Application",
     "startDate": "2026-10-17",
@@ -11981,6 +11981,38 @@
     "url": "/s/oc-activity/a5UVX000001Jedt2AC"
   },
   {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 40.65,
+      "lon": -73.86
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-21",
+    "id": "a5UVX000001Jf3h2AC",
+    "keywords": "NYGrowth Trails Trail Maintenance Trail Steward Trail Stewardship Partner NYS Park",
+    "leaders": [
+      "Eileen Yin"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Shirley Chisholm State Park Shore Clean Up & Hike with NYS Parks & AMC",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-21",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Conservation",
+    "timeZone": "US EST",
+    "type": "Conservation",
+    "url": "/s/oc-activity/a5UVX000001Jf3h2AC"
+  },
+  {
     "audience": "Adults",
     "chapterId": "0015000001Sg06DAAR",
     "coords": {
@@ -12170,7 +12202,7 @@
     "secondaryType": "Social",
     "startDate": "2026-10-15",
     "startTime": "6:00 PM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Local Socials",
     "timeZone": "US EST",
     "type": "Social",
@@ -14733,7 +14765,8 @@
     },
     "name": "Crevice and Rock Rift (Strenuous)",
     "program": "Volunteer Led",
-    "registration": "open",
+    "registerByDate": "2026-10-15",
+    "registration": "closed",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-10-17",
@@ -15635,38 +15668,6 @@
     "url": "/s/oc-activity/a5UVX000001KUz32AG"
   },
   {
-    "chapterId": "0015000001Sg065AAB",
-    "coords": {
-      "lat": 43.83,
-      "lon": -70.07
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-10-18",
-    "id": "a5UVX000001KXSH2A4",
-    "keywords": "leadership, training",
-    "leaders": [
-      "Scott Guay"
-    ],
-    "location": {
-      "city": "Freeport",
-      "country": "United States",
-      "state": "ME"
-    },
-    "name": "Future Leaders Hike",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2026-10-18",
-    "startTime": "9:00 AM",
-    "status": "Published",
-    "subType": "Outdoor Leadership Training",
-    "timeZone": "US EST",
-    "type": "Outdoor Leadership Training",
-    "url": "/s/oc-activity/a5UVX000001KXSH2A4"
-  },
-  {
     "audience": "Families",
     "chapterId": "0015000001Sg064AAB",
     "coords": {
@@ -15921,6 +15922,38 @@
     "timeZone": "US EST",
     "type": "Trail Work",
     "url": "/s/oc-activity/a5UVX000001KbR32AK"
+  },
+  {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 40.76,
+      "lon": -74
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-10-26",
+    "id": "a5UVX000001KcAD2A0",
+    "keywords": "NYGrowth OJF Meeting Family Kid Kids Youth young",
+    "leaders": [
+      "Eileen Yin"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Outdoor Journey Fund Open House - Connect Youth with the Outdoors!",
+    "program": "Staff Activities",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-26",
+    "startTime": "5:30 PM",
+    "status": "Published",
+    "subType": "Meetings",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001KcAD2A0"
   },
   {
     "chapterId": "0015000001Sg064AAB",
@@ -18641,7 +18674,7 @@
       "lon": -71.19
     },
     "costs": [
-      40
+      10
     ],
     "difficulty": 2,
     "difficultyLabel": "2 - Relaxed",
@@ -18668,5 +18701,70 @@
     "timeZone": "US EST",
     "type": "Camping",
     "url": "/s/oc-activity/a5UVX000001LDsv2AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.49,
+      "lon": -71.32
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-18",
+    "id": "a5UVX000001LGUD2A4",
+    "keywords": "Concord, LWHBoston, Local Walks/Hikes, AMC, hikes",
+    "leaders": [
+      "Marc Hurwitz"
+    ],
+    "location": {
+      "city": "Concord",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "October Farm Riverfront and Brewster's Woods, Concord",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-18",
+    "startTime": "9:15 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001LGUD2A4"
+  },
+  {
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 41.66,
+      "lon": -70.82
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-23",
+    "id": "a5UVX000001LGnZ2AW",
+    "keywords": "Gollub, Rega, Fast Light Mattapoisett",
+    "leaders": [
+      "Brian Gollub"
+    ],
+    "location": {
+      "city": "Mattapoisett",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "** Pop-Up **  -  Fast and Light - Mattapoisett Rail Trail",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-23",
+    "startTime": "8:15 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001LGnZ2AW"
   }
 ]
