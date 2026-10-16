@@ -1516,40 +1516,6 @@
     "url": "/s/oc-activity/a5UVX0000013SOz2AM"
   },
   {
-    "chapterId": "0015000001Sg061AAB",
-    "coords": {
-      "lat": 44.18,
-      "lon": -71.43
-    },
-    "costs": [],
-    "difficulty": 5,
-    "difficultyLabel": "5 - Vigorous",
-    "endDate": "2026-10-18",
-    "id": "a5UVX0000013WVp2AM",
-    "leaders": [
-      "Patricia Sanchez"
-    ],
-    "location": {
-      "city": "Bethlehem",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "Fall Backpacking at Ethan Pond: Willey, Field & Tom Traverse",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-10-12",
-    "registration": "closed",
-    "registrationOpenDate": "2026-09-14",
-    "registrationType": "Application",
-    "secondaryType": "Backpacking",
-    "startDate": "2026-10-16",
-    "startTime": "All Day",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX0000013WVp2AM"
-  },
-  {
     "chapterId": "0015000001Sg06BAAR",
     "coords": {
       "lat": 38.79,
@@ -1678,7 +1644,7 @@
     "secondaryType": "Trail Work",
     "startDate": "2026-10-18",
     "startTime": "8:30 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Trail Work",
     "timeZone": "US EST",
     "type": "Trail Work",
@@ -1744,7 +1710,7 @@
     "secondaryType": "Fishing",
     "startDate": "2026-10-18",
     "startTime": "2:00 PM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Backpacking",
     "timeZone": "US EST",
     "type": "Backpacking",
@@ -4908,12 +4874,12 @@
     "name": "ANDOVER AUTUMN ALES & TRAILS (AAA&T) – MARY FRENCH, HAMMOND AND SKUG RESERVATION LOOP",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-15",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-08",
     "registrationType": "Registration",
     "startDate": "2026-10-18",
     "startTime": "1:30 PM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -9854,7 +9820,7 @@
     "name": "20's & 30's Interchapter Fall Fest: Borderland State Park",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-16",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-18",
     "registrationType": "Application",
     "startDate": "2026-10-17",
@@ -10163,7 +10129,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-31",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -11280,7 +11246,7 @@
     "name": "Fall Ramble Around Perkins Farm",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-16",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-24",
     "registrationType": "Application",
     "secondaryType": "Nature Walks",
@@ -12246,7 +12212,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-10-31",
     "startTime": "8:30 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -14188,7 +14154,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-10-17",
     "startTime": "9:00 AM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -15051,39 +15017,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001KUz32AG"
-  },
-  {
-    "audience": "Families",
-    "chapterId": "0015000001Sg064AAB",
-    "coords": {
-      "lat": 40.85,
-      "lon": -73.87
-    },
-    "costs": [],
-    "difficulty": 2,
-    "difficultyLabel": "2 - Relaxed",
-    "endDate": "2026-12-06",
-    "id": "a5UVX000001KYGH2A4",
-    "keywords": "NYGrowth Family Families Climate Kid Kids Wildlife animal",
-    "leaders": [
-      "Eileen Yin"
-    ],
-    "location": {
-      "city": "Bronx",
-      "country": "United States",
-      "state": "NY"
-    },
-    "name": "Climate Week for Families with AMC & WCS at the Bronx Zoo - NEW DATE!",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2026-12-06",
-    "startTime": "10:30 AM",
-    "status": "Published",
-    "subType": "Conservation",
-    "timeZone": "US EST",
-    "type": "Conservation",
-    "url": "/s/oc-activity/a5UVX000001KYGH2A4"
   },
   {
     "audience": "Women+",
@@ -16238,7 +16171,7 @@
     "name": "LET'S HIKE BALD HILL CONSERVATION AREA -BOXFORD STATE FOREST / BOXFORD MA",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-24",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-16",
     "registrationType": "Registration",
     "startDate": "2026-10-25",
@@ -17261,6 +17194,10 @@
   },
   {
     "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.07,
+      "lon": -73.06
+    },
     "costs": [],
     "difficulty": 4,
     "difficultyLabel": "4 - Moderate",
@@ -17279,7 +17216,7 @@
     "registerByDate": "2026-11-07",
     "registration": "open",
     "registrationOpenDate": "2026-10-13",
-    "registrationType": "Registration",
+    "registrationType": "Application",
     "startDate": "2026-11-14",
     "startTime": "10:00 AM",
     "status": "Published",
@@ -18317,6 +18254,73 @@
     "url": "/s/oc-activity/a5UVX000001LKcf2AG"
   },
   {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.7,
+      "lon": -71.11
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-17",
+    "id": "a5UVX000001LKnx2AG",
+    "keywords": "Weir Hill",
+    "leaders": [
+      "Robin Doyle"
+    ],
+    "location": {
+      "city": "North Andover",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Weir Hill",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Evening Programs",
+    "startDate": "2026-10-17",
+    "startTime": "10:15 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001LKnx2AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.06,
+      "lon": -71.16
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-01",
+    "id": "a5UVX000001LL0r2AG",
+    "leaders": [
+      "Jonah Sakwa-Novak"
+    ],
+    "location": {
+      "city": "North Easton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Fall Sunday Morning Hike at Borderland",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-30",
+    "registration": "open",
+    "registrationOpenDate": "2026-10-15",
+    "registrationType": "Application",
+    "startDate": "2026-11-01",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001LL0r2AG"
+  },
+  {
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg06BAAR",
     "coords": {
@@ -18379,5 +18383,70 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001LL7J2AW"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 42.49,
+      "lon": -71.88
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-19",
+    "id": "a5UVX000001LM6b2AG",
+    "keywords": "winter hiking intro",
+    "leaders": [
+      "Connie Sanchez Morillo"
+    ],
+    "location": {
+      "city": "Princeton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Explore Your Inner Winter Hiker: Wachusett Mountain Gear Shakedown - Group C",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-12-19",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001LM6b2AG"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.47,
+      "lon": -74.01
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-14",
+    "id": "a5UVX000001LNYv2AO",
+    "leaders": [
+      "John Rowen"
+    ],
+    "location": {
+      "city": "Highlands",
+      "country": "United States",
+      "state": "NJ"
+    },
+    "name": "Explore Sandy Hook in the Offseason",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-14",
+    "startTime": "11:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001LNYv2AO"
   }
 ]
