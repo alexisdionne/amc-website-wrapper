@@ -1644,7 +1644,7 @@
     "secondaryType": "Trail Work",
     "startDate": "2026-10-18",
     "startTime": "8:30 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Trail Work",
     "timeZone": "US EST",
     "type": "Trail Work",
@@ -4813,7 +4813,7 @@
     "secondaryType": "Outdoor Leadership Training",
     "startDate": "2026-10-24",
     "startTime": "8:30 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Outdoor Leadership Training",
     "timeZone": "US EST",
     "type": "Outdoor Leadership Training",
@@ -5488,7 +5488,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-20",
     "startTime": "9:45 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -10127,7 +10127,7 @@
     "name": "CONCRETE TO TRAILS: Apple & Pumpkin Picking at Pennings Orchard for Family & Friends",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-17",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-30",
     "registrationType": "Registration",
     "startDate": "2026-10-17",
@@ -10195,36 +10195,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001JFqn2AG"
-  },
-  {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg06DAAR",
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-10-17",
-    "id": "a5UVX000001JIWv2AO",
-    "leaders": [
-      "Jeannine Audet"
-    ],
-    "location": {
-      "city": "Westport",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "Tiverton Ice Cream Ride",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-10-15",
-    "registration": "closed",
-    "registrationOpenDate": "2026-09-27",
-    "registrationType": "Application",
-    "startDate": "2026-10-17",
-    "startTime": "11:00 AM",
-    "status": "Published",
-    "subType": "Road",
-    "timeZone": "US EST",
-    "type": "Biking",
-    "url": "/s/oc-activity/a5UVX000001JIWv2AO"
   },
   {
     "audience": "20’s & 30’s",
@@ -10575,7 +10545,7 @@
     "name": "CONCRETE TO TRAILS: AMC x CCNY Outdoors Club - Let's Go Apple & Pumpkin Picking at Pennings Orchard",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-17",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-30",
     "registrationType": "Registration",
     "startDate": "2026-10-17",
@@ -13920,7 +13890,7 @@
     "name": "Crevice and Rock Rift (Strenuous)",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-17",
-    "registration": "open",
+    "registration": "closed",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-10-17",
@@ -17729,7 +17699,7 @@
     "registrationType": "Show & Go",
     "startDate": "2026-10-18",
     "startTime": "9:15 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -18415,5 +18385,71 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001LPkP2AW"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.04,
+      "lon": -74.29
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-21",
+    "id": "a5UVX000001LQ0X2AW",
+    "leaders": [
+      "Richard Seibel"
+    ],
+    "location": {
+      "city": "Wanaque",
+      "country": "United States",
+      "state": "NJ"
+    },
+    "name": "The Bionic Man Returns! Early Fall Foliage Hike in the Leader’s Backyard (Moderate)",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-21",
+    "registration": "open",
+    "registrationOpenDate": "2026-10-16",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-21",
+    "startTime": "10:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001LQ0X2AW"
+  },
+  {
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.85,
+      "lon": -72.55
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-27",
+    "id": "a5UVX000001LQrl2AG",
+    "leaders": [
+      "Margot Lacey"
+    ],
+    "location": {
+      "city": "Hinsdale",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Mount Wantastiquet and beyond",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-27",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001LQrl2AG"
   }
 ]

@@ -205,8 +205,8 @@
       "status": "Full"
     },
     "a5UVX0000014QbF2AU": {
-      "seenAt": "2026-10-16T16:09:41.547Z",
-      "status": "Waitlist"
+      "seenAt": "2026-10-17T15:02:08.706Z",
+      "status": "Published"
     },
     "a5UVX0000014nb32AA": {
       "seenAt": "2026-08-30T23:17:59.057Z",
@@ -601,8 +601,8 @@
       "status": "Published"
     },
     "a5UVX000001GtzF2AS": {
-      "seenAt": "2026-08-30T23:17:59.057Z",
-      "status": "Published"
+      "seenAt": "2026-10-17T15:02:08.706Z",
+      "status": "Full"
     },
     "a5UVX000001GxYD2A0": {
       "seenAt": "2026-10-16T16:09:41.547Z",
@@ -681,8 +681,8 @@
       "status": "Published"
     },
     "a5UVX000001HSCD2A4": {
-      "seenAt": "2026-09-17T16:20:15.864Z",
-      "status": "Published"
+      "seenAt": "2026-10-17T15:02:08.706Z",
+      "status": "Waitlist"
     },
     "a5UVX000001HSDp2AO": {
       "seenAt": "2026-09-16T16:13:56.481Z",
@@ -1249,10 +1249,6 @@
       "status": "Waitlist"
     },
     "a5UVX000001JFqn2AG": {
-      "seenAt": "2026-09-22T03:32:03.632Z",
-      "status": "Published"
-    },
-    "a5UVX000001JIWv2AO": {
       "seenAt": "2026-09-22T03:32:03.632Z",
       "status": "Published"
     },
@@ -2173,8 +2169,8 @@
       "status": "Published"
     },
     "a5UVX000001LGUD2A4": {
-      "seenAt": "2026-10-16T03:20:09.243Z",
-      "status": "Waitlist"
+      "seenAt": "2026-10-17T15:02:08.706Z",
+      "status": "Full"
     },
     "a5UVX000001LGnZ2AW": {
       "seenAt": "2026-10-15T16:23:34.614Z",
@@ -2258,6 +2254,14 @@
     },
     "a5UVX000001LPkP2AW": {
       "seenAt": "2026-10-17T03:11:11.770Z",
+      "status": "Published"
+    },
+    "a5UVX000001LQ0X2AW": {
+      "seenAt": "2026-10-17T15:02:08.706Z",
+      "status": "Published"
+    },
+    "a5UVX000001LQrl2AG": {
+      "seenAt": "2026-10-17T15:02:08.706Z",
       "status": "Published"
     }
   },
@@ -2461,6 +2465,10 @@
       "a5UVX000001LKcf2AG": {
         "kind": "new",
         "notifiedAt": "2026-10-16T03:20:09.243Z"
+      },
+      "a5UVX000001LQ0X2AW": {
+        "kind": "new",
+        "notifiedAt": "2026-10-17T15:02:08.706Z"
       }
     },
     "b65b2954": {
