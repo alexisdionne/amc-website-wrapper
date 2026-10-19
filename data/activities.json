@@ -2152,8 +2152,8 @@
     },
     "name": "New Hampshire Chapter Winter Hiking Series",
     "program": "Volunteer Led",
-    "registerByDate": "2026-10-03",
-    "registration": "closed",
+    "registerByDate": "2026-11-09",
+    "registration": "open",
     "registrationOpenDate": "2026-08-01",
     "registrationType": "Application",
     "secondaryType": "Snowshoeing",
@@ -2191,7 +2191,7 @@
     "secondaryType": "Conservation",
     "startDate": "2026-10-25",
     "startTime": "10:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -4652,7 +4652,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-03",
     "startTime": "9:45 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5257,7 +5257,7 @@
     "secondaryType": "Adventure Travel",
     "startDate": "2026-10-27",
     "startTime": "8:30 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5287,7 +5287,7 @@
     "name": "Thursday Morning Hike - F. Gilbert Hills - Stone Sites",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-02",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-19",
     "registrationType": "Application",
     "startDate": "2026-11-05",
@@ -5322,7 +5322,7 @@
     "name": "Thursday Hike - Walpole Town Forest",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-19",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-05",
     "registrationType": "Registration",
     "startDate": "2026-10-22",
@@ -5742,7 +5742,7 @@
     "name": "Wednesday Hike & Learn – Tidmarsh Wildlife Sanctuary with Mass Audubon",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-19",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-22",
     "registrationType": "Registration",
     "startDate": "2026-10-21",
@@ -10000,7 +10000,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-21",
     "startTime": "All Day",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -11847,13 +11847,13 @@
     "name": "Fall Tuesday Morning Blue Hills Conditioning Series Hike #5",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-19",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-13",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-10-20",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -11981,7 +11981,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-25",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -13665,7 +13665,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-24",
     "startTime": "9:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -13702,6 +13702,39 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001KveH2AS"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.23,
+      "lon": -74.19
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-11-07",
+    "id": "a5UVX000001Kx3N2AS",
+    "leaders": [
+      "Gwen Hartstein"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "NYNoJ Chapter Hike Leaders Day Hike - Central Park NY (Easy)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-07",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Kx3N2AS"
   },
   {
     "chapterId": "0015000001Sg069AAB",
@@ -14300,6 +14333,28 @@
     "timeZone": "US EST",
     "type": "Skiing",
     "url": "/s/oc-activity/a5UVX000001L7SX2A0"
+  },
+  {
+    "chapterId": "001UN00000bpnMdYAI",
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-12-31",
+    "id": "a5UVX000001L7cD2AS",
+    "leaders": [
+      "Amaya Danielle Michael"
+    ],
+    "name": "Volunteer Leadership Support Session",
+    "program": "Staff Activities",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-03-01",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "All Volunteer Opportunities",
+    "timeZone": "US EST",
+    "type": "Volunteer Opportunities",
+    "url": "/s/oc-activity/a5UVX000001L7cD2AS"
   },
   {
     "chapterId": "0015000001Sg061AAB",
@@ -15342,6 +15397,72 @@
     "url": "/s/oc-activity/a5UVX000001LNYv2AO"
   },
   {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.46,
+      "lon": -75.24
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-12",
+    "id": "a5UVX000001LO1x2AG",
+    "keywords": "guided hike nockamixon state park outdoor adventure beginner friendly hiking pennsylvania highlands trail bucks county",
+    "leaders": [
+      "Madison Nicole DeGerolamo"
+    ],
+    "location": {
+      "city": "Quakertown",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Guided Hike on the Pennsylvania Highlands Trail at Nockamixon State Park",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Nature Walks",
+    "startDate": "2026-11-12",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001LO1x2AG"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.57,
+      "lon": -75.11
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-30",
+    "id": "a5UVX000001LOA12AO",
+    "keywords": "Pennsylvania Highlands Trail Network Hike Bridgeton Township Nature Preserve Beginner Friendly",
+    "leaders": [
+      "Madison Nicole DeGerolamo"
+    ],
+    "location": {
+      "city": "Upper Black Eddy",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Pennsylvania Highlands Trail Beginner Hiking Series: Guided Hike at the Bridgeton Nature Preserve",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-30",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001LOA12AO"
+  },
+  {
     "chapterId": "0015000001Sg05zAAB",
     "coords": {
       "lat": 41.66,
@@ -16117,5 +16238,124 @@
     "timeZone": "US EST",
     "type": "Social",
     "url": "/s/oc-activity/a5UVX000001LVpp2AG"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.36,
+      "lon": -71.06
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-28",
+    "id": "a5UVX000001LVrR2AW",
+    "leaders": [
+      "Jason Bui"
+    ],
+    "location": {
+      "city": "Boston",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "20s and 30s Beacon Hill Halloween Walk",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-28",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001LVrR2AW"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-22",
+    "id": "a5UVX000001LXZt2AO",
+    "leaders": [
+      "Kathy Miville"
+    ],
+    "location": {
+      "city": "Southbury",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Bent of the River",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-22",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001LXZt2AO"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.26,
+      "lon": -74.15
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-23",
+    "id": "a5UVX000001LXmn2AG",
+    "leaders": [
+      "Jay Beilis"
+    ],
+    "location": {
+      "city": "Tuxedo",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Elk Pen 8 miles 9:30 am (Moderate)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-23",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001LXmn2AG"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-10-24",
+    "id": "a5UVX000001LYNt2AO",
+    "leaders": [
+      "Joseph Nigro"
+    ],
+    "location": {
+      "city": "Cold Springs",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "8-10 Mile Fahnestock Hike (Vigorous)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-24",
+    "startTime": "9:15 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001LYNt2AO"
   }
 ]
