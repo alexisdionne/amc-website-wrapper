@@ -3251,7 +3251,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-12-12",
     "startTime": "9:00 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -3316,7 +3316,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-24",
     "startTime": "All Day",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -4315,7 +4315,7 @@
     "name": "THURSDAY MORNING HIKE – A COLORFUL AUTUMN EXPLORATION AT THE ARNOLD ARBORETUM!",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-20",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-06",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -4783,7 +4783,7 @@
     "name": "Fall Tuesday Morning Blue Hills Conditioning Series Hike #10",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-21",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-20",
     "registrationType": "Application",
     "startDate": "2026-11-24",
@@ -5129,7 +5129,7 @@
     "secondaryType": "Snowshoeing",
     "startDate": "2027-01-29",
     "startTime": "3:30 PM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Cross Country",
     "timeZone": "US EST",
     "type": "Skiing",
@@ -5857,7 +5857,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-24",
     "startTime": "8:30 AM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Top Rope Rock",
     "timeZone": "US EST",
     "type": "Climbing & Mountaineering",
@@ -8503,7 +8503,7 @@
     "name": "PROGRESSIVE HIKING SERIES FROM THE BLUE HILLS TO METRO WEST - HIKE #7",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-01",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-20",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -11623,13 +11623,13 @@
     "name": "Fall Tuesday Morning Blue Hills Conditioning Series Hike #5",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-20",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-13",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-10-20",
     "startTime": "10:00 AM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -11888,7 +11888,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-29",
     "startTime": "9:15 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -15264,7 +15264,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-22",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Gravel",
     "timeZone": "US EST",
     "type": "Biking",
@@ -16078,6 +16078,38 @@
     "url": "/s/oc-activity/a5UVX000001LVrR2AW"
   },
   {
+    "chapterId": "0015000001Sg06EAAR",
+    "coords": {
+      "lat": 38.9,
+      "lon": -77.26
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-11-11",
+    "id": "a5UVX000001LX212AG",
+    "leaders": [
+      "Jeffrey Clyman"
+    ],
+    "location": {
+      "city": "Vienna",
+      "country": "United States",
+      "state": "VA"
+    },
+    "name": "Veteran’s Day Fun Morning Ride and Brunch on the W and OD Trail",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Biking",
+    "startDate": "2026-11-11",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Road",
+    "timeZone": "US EST",
+    "type": "Biking",
+    "url": "/s/oc-activity/a5UVX000001LX212AG"
+  },
+  {
     "audience": "Families",
     "chapterId": "0015000001Sg061AAB",
     "coords": {
@@ -16198,6 +16230,40 @@
     "url": "/s/oc-activity/a5UVX000001LYNt2AO"
   },
   {
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 44.22,
+      "lon": -71.41
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2027-02-27",
+    "id": "a5UVX000001LaBB2A0",
+    "leaders": [
+      "Walter Lazarz, Sr."
+    ],
+    "location": {
+      "city": "Carroll",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Explore Your Inner Winter Hiker (Track II): Mt Tom, Crawford Notch NH",
+    "program": "Volunteer Led",
+    "registerByDate": "2027-02-25",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-11-15",
+    "registrationType": "Application",
+    "secondaryType": "Snowshoeing",
+    "startDate": "2027-02-27",
+    "startTime": "8:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001LaBB2A0"
+  },
+  {
     "audience": "Families",
     "chapterId": "0015000001Sg061AAB",
     "coords": {
@@ -16254,7 +16320,7 @@
     "name": "Trail Trace the Quarries section of the Blue Hills",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-18",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-19",
     "registrationType": "Application",
     "startDate": "2026-11-21",
@@ -16264,6 +16330,39 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001LbDh2AK"
+  },
+  {
+    "audience": "Families",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.44,
+      "lon": -71.36
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-22",
+    "id": "a5UVX000001LbX32AK",
+    "leaders": [
+      "Katerina Cai"
+    ],
+    "location": {
+      "city": "Concord",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Family - November Crunch & Trek (4 of 4) - Wright Woods Concord",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-22",
+    "startTime": "1:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001LbX32AK"
   },
   {
     "audience": "Adults",
@@ -16297,5 +16396,38 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001Lbf72AC"
+  },
+  {
+    "chapterId": "0015000001Sg06EAAR",
+    "coords": {
+      "lat": 38.99,
+      "lon": -77.96
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-20",
+    "id": "a5UVX000001Lcg12AC",
+    "keywords": "Cold weather, Backpacking, AT segment",
+    "leaders": [
+      "Peg Barratt"
+    ],
+    "location": {
+      "city": "Delaplane",
+      "country": "United States",
+      "state": "VA"
+    },
+    "name": "Winter Solstice Cold Weather Backpacking: One night out",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Backpacking",
+    "startDate": "2026-12-19",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Backpacking",
+    "timeZone": "US EST",
+    "type": "Backpacking",
+    "url": "/s/oc-activity/a5UVX000001Lcg12AC"
   }
 ]
