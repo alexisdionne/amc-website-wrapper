@@ -1388,38 +1388,6 @@
     "url": "/s/oc-activity/a5UVX0000012K6v2AE"
   },
   {
-    "audience": "Adults",
-    "chapterId": "0015000001TGzFBAA1",
-    "coords": {
-      "lat": -26.21,
-      "lon": 28.06
-    },
-    "costs": [],
-    "difficulty": 5,
-    "difficultyLabel": "5 - Vigorous",
-    "endDate": "2027-03-14",
-    "id": "a5UVX0000012U6H2AU",
-    "keywords": "South Africa",
-    "leaders": [
-      "Andrea Deaton Christensen"
-    ],
-    "location": {
-      "city": "Johannesburg",
-      "country": "South Africa"
-    },
-    "name": "Explore Majestic South Africa",
-    "program": "Adventure Travel",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2027-03-01",
-    "startTime": "5:00 PM",
-    "status": "Published",
-    "subType": "Adventure Travel",
-    "timeZone": "US EST",
-    "type": "Adventure Travel",
-    "url": "/s/oc-activity/a5UVX0000012U6H2AU"
-  },
-  {
     "chapterId": "0015000001Sg064AAB",
     "coords": {
       "lat": 40.74,
@@ -3382,7 +3350,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-27",
     "startTime": "6:00 PM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5463,7 +5431,7 @@
     "secondaryType": "Trail Work",
     "startDate": "2026-10-25",
     "startTime": "9:00 AM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Trail Work",
     "timeZone": "US EST",
     "type": "Trail Work",
@@ -6857,7 +6825,7 @@
     "name": "SEM Mount Cannon",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-21",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-04",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -6892,7 +6860,7 @@
     "name": "October Early Morning Fitness Hike",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-21",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-05",
     "registrationType": "Application",
     "startDate": "2026-10-23",
@@ -8763,7 +8731,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-07",
     "startTime": "All Day",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -9554,7 +9522,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-21",
     "startTime": "All Day",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -12036,7 +12004,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-07",
     "startTime": "9:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -14799,7 +14767,7 @@
     "name": "The Bionic Man Returns! Early Fall Foliage Hike in the Leader’s Backyard (Moderate)",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-21",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-16",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -14899,7 +14867,7 @@
     "name": "Hiking with Trailwork in the Blue Hills",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-01",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-21",
     "registrationType": "Registration",
     "secondaryType": "Trail Work",
@@ -16478,7 +16446,7 @@
     "name": "Fitness Hike – Massasoit State Park",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-01",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-21",
     "registrationType": "Registration",
     "startDate": "2026-11-03",
@@ -16555,5 +16523,135 @@
     "timeZone": "US EST",
     "type": "Biking",
     "url": "/s/oc-activity/a5UVX000001LkAX2A0"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 40.69,
+      "lon": -74.02
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-11-07",
+    "id": "a5UVX000001LlUn2AK",
+    "leaders": [
+      "Rebeca Galbinski"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Governors Island: Phone Photo Walk for the Jazz Age Lawn Party",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Nature Walks",
+    "startDate": "2026-11-07",
+    "startTime": "11:00 AM",
+    "status": "Published",
+    "subType": "Local Walks",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001LlUn2AK"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.73,
+      "lon": -72.96
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-24",
+    "id": "a5UVX000001Llpl2AC",
+    "leaders": [
+      "Colleen Doshna"
+    ],
+    "location": {
+      "city": "Burlington",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Barnes Nat. Cntr to Sessions Woods Ed Cntr w/stop at Freeman Hill Brk Falls",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-24",
+    "startTime": "9:15 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Llpl2AC"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.22,
+      "lon": -71.41
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-20",
+    "id": "a5UVX000001LlzR2AS",
+    "keywords": "Guest, speaker, talk, nature, free, public, presentation, lecture, education, educational, naturalist, nature talk, evening program, programming, evening, science, volunteer naturalist, Highland, Highland Center, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Carroll",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Evening Program: Plants in Winter",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-11-20",
+    "startTime": "7:30 PM",
+    "status": "Published",
+    "subType": "Evening Programs",
+    "timeZone": "US EST",
+    "type": "Evening Programs",
+    "url": "/s/oc-activity/a5UVX000001LlzR2AS"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.22,
+      "lon": -71.41
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-21",
+    "id": "a5UVX000001Lm2f2AC",
+    "keywords": "clouds, Guest, speaker, talk, nature, free, public, presentation, lecture, education, educational, naturalist, nature talk, evening program, programming, evening, science, volunteer naturalist, Highland, Highland Center, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Carroll",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Evening Program: Clouds!",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-11-21",
+    "startTime": "7:30 PM",
+    "status": "Published",
+    "subType": "Evening Programs",
+    "timeZone": "US EST",
+    "type": "Evening Programs",
+    "url": "/s/oc-activity/a5UVX000001Lm2f2AC"
   }
 ]
