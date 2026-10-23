@@ -3690,8 +3690,8 @@
     },
     "name": "AMC Boston Chapter's 2026-2027 Winter Hiking Program",
     "program": "Volunteer Led",
-    "registerByDate": "2026-10-21",
-    "registration": "closed",
+    "registerByDate": "2026-11-03",
+    "registration": "open",
     "registrationOpenDate": "2026-10-07",
     "registrationType": "Registration",
     "startDate": "2026-11-04",
@@ -5878,7 +5878,7 @@
     "name": "Winter Workshop and Hike at Bradley Palmer State Park (Topsfield)",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-06",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-23",
     "registrationType": "Registration",
     "startDate": "2026-11-08",
@@ -6050,7 +6050,7 @@
     "name": "Explore the Ipswich River Wildlife Sanctuary in Autumn on the North Shore",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-23",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-09",
     "registrationType": "Registration",
     "startDate": "2026-10-25",
@@ -6417,7 +6417,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-25",
     "startTime": "8:30 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -8556,7 +8556,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-27",
     "startTime": "10:00 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -10924,7 +10924,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-29",
     "startTime": "9:15 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -12059,6 +12059,39 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001KudN2AS"
+  },
+  {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.35,
+      "lon": -71.09
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-12-10",
+    "id": "a5UVX000001KulR2AS",
+    "keywords": "avalanche awareness backcountry skiing mountaineering",
+    "leaders": [
+      "Gregory Maslowe"
+    ],
+    "location": {
+      "city": "Boston",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Avalanche Awareness",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Climbing & Mountaineering",
+    "startDate": "2026-12-10",
+    "startTime": "7:00 PM",
+    "status": "Published",
+    "subType": "Backcountry",
+    "timeZone": "US EST",
+    "type": "Skiing",
+    "url": "/s/oc-activity/a5UVX000001KulR2AS"
   },
   {
     "chapterId": "0015000001Sg061AAB",
@@ -15014,6 +15047,41 @@
     "url": "/s/oc-activity/a5UVX000001Lbf72AC"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.46,
+      "lon": -71.09
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-12-12",
+    "id": "a5UVX000001Lc9l2AC",
+    "keywords": "WHP",
+    "leaders": [
+      "Robert Mackin"
+    ],
+    "location": {
+      "city": "Stoneham",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "WHP: Middlesex Fells Saturday",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-10",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-11-08",
+    "registrationType": "Application",
+    "startDate": "2026-12-12",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Lc9l2AC"
+  },
+  {
     "chapterId": "0015000001Sg061AAB",
     "coords": {
       "lat": 43.46,
@@ -15043,6 +15111,41 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001LcBN2A0"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 43.72,
+      "lon": -71.32
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-27",
+    "id": "a5UVX000001LcEb2AK",
+    "keywords": "WHP",
+    "leaders": [
+      "Robert Mackin"
+    ],
+    "location": {
+      "city": "Moultonborough",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "WHP: Mt Roberts",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-23",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-11-22",
+    "registrationType": "Application",
+    "startDate": "2026-12-27",
+    "startTime": "8:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001LcEb2AK"
   },
   {
     "chapterId": "0015000001Sg06EAAR",
@@ -15614,7 +15717,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-10-24",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -16742,6 +16845,7 @@
     "url": "/s/oc-activity/a5UVX000001LrK52AK"
   },
   {
+    "audience": "Families",
     "chapterId": "0015000001Sg061AAB",
     "coords": {
       "lat": 42.21,
@@ -16763,7 +16867,9 @@
     },
     "name": "Family - Trek & Crunch (3 of 4) - Blue Hills Elliot Tower Hike",
     "program": "Volunteer Led",
+    "registerByDate": "2026-11-13",
     "registration": "open",
+    "registrationOpenDate": "2026-10-23",
     "registrationType": "Application",
     "startDate": "2026-11-14",
     "startTime": "9:00 AM",
@@ -17222,5 +17328,37 @@
     "timeZone": "US EST",
     "type": "Backpacking",
     "url": "/s/oc-activity/a5UVX000001LzSv2AK"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 42,
+      "lon": -72.13
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-25",
+    "id": "a5UVX000001M0K92AK",
+    "leaders": [
+      "Patrick Kennedy"
+    ],
+    "location": {
+      "city": "Union",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Breakneck Pond, Union, (B3C, Easy)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-25",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001M0K92AK"
   }
 ]

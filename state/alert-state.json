@@ -793,8 +793,8 @@
       "status": "Published"
     },
     "a5UVX000001IXkv2AG": {
-      "seenAt": "2026-10-07T18:29:39.182Z",
-      "status": "Waitlist"
+      "seenAt": "2026-10-23T16:32:49.381Z",
+      "status": "Published"
     },
     "a5UVX000001IXmX2AW": {
       "seenAt": "2026-09-15T03:36:55.076Z",
@@ -1049,8 +1049,8 @@
       "status": "Published"
     },
     "a5UVX000001Jg2z2AC": {
-      "seenAt": "2026-10-21T03:29:37.194Z",
-      "status": "Waitlist"
+      "seenAt": "2026-10-23T16:32:49.381Z",
+      "status": "Full"
     },
     "a5UVX000001JgCf2AK": {
       "seenAt": "2026-09-26T03:45:43.713Z",
@@ -1337,8 +1337,8 @@
       "status": "Published"
     },
     "a5UVX000001KTgP2AW": {
-      "seenAt": "2026-10-20T16:25:00.757Z",
-      "status": "Waitlist"
+      "seenAt": "2026-10-23T16:32:49.381Z",
+      "status": "Full"
     },
     "a5UVX000001KUz32AG": {
       "seenAt": "2026-10-21T03:29:37.194Z",
@@ -1478,6 +1478,10 @@
     },
     "a5UVX000001KudN2AS": {
       "seenAt": "2026-10-11T17:23:49.214Z",
+      "status": "Published"
+    },
+    "a5UVX000001KulR2AS": {
+      "seenAt": "2026-10-23T16:32:49.381Z",
       "status": "Published"
     },
     "a5UVX000001Kun32AC": {
@@ -1848,8 +1852,16 @@
       "seenAt": "2026-10-20T03:36:51.296Z",
       "status": "Published"
     },
+    "a5UVX000001Lc9l2AC": {
+      "seenAt": "2026-10-23T16:32:49.381Z",
+      "status": "Published"
+    },
     "a5UVX000001LcBN2A0": {
       "seenAt": "2026-10-21T03:29:37.194Z",
+      "status": "Published"
+    },
+    "a5UVX000001LcEb2AK": {
+      "seenAt": "2026-10-23T16:32:49.381Z",
       "status": "Published"
     },
     "a5UVX000001Lcg12AC": {
@@ -1921,8 +1933,8 @@
       "status": "Published"
     },
     "a5UVX000001LjET2A0": {
-      "seenAt": "2026-10-22T03:29:09.850Z",
-      "status": "Published"
+      "seenAt": "2026-10-23T16:32:49.381Z",
+      "status": "Full"
     },
     "a5UVX000001LjKv2AK": {
       "seenAt": "2026-10-21T03:29:37.194Z",
@@ -2118,6 +2130,10 @@
     },
     "a5UVX000001LzSv2AK": {
       "seenAt": "2026-10-23T03:34:05.246Z",
+      "status": "Published"
+    },
+    "a5UVX000001M0K92AK": {
+      "seenAt": "2026-10-23T16:32:49.381Z",
       "status": "Published"
     }
   },
