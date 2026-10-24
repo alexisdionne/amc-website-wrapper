@@ -3415,38 +3415,6 @@
     "url": "/s/oc-activity/a5UVX000001EIMH2A4"
   },
   {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 40.41,
-      "lon": -75
-    },
-    "costs": [],
-    "difficulty": 1,
-    "difficultyLabel": "1 - Accessible",
-    "endDate": "2026-10-31",
-    "id": "a5UVX000001Eftx2AC",
-    "leaders": [
-      "Welles Lobb"
-    ],
-    "location": {
-      "city": "Cuttalossa",
-      "country": "United States",
-      "state": "PA"
-    },
-    "name": "VOLUNTEER OPPORTUNITY: COMMUNITY ENGAGEMENT CHAIR",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2026-07-26",
-    "startTime": "All Day",
-    "status": "Published",
-    "subType": "All Volunteer Opportunities",
-    "timeZone": "US EST",
-    "type": "Volunteer Opportunities",
-    "url": "/s/oc-activity/a5UVX000001Eftx2AC"
-  },
-  {
     "chapterId": "0015000001Sg05xAAB",
     "costs": [],
     "difficulty": 4,
@@ -4527,7 +4495,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-10-25",
     "startTime": "8:30 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -4595,6 +4563,41 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001HSc12AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.13
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-12-15",
+    "id": "a5UVX000001HSdd2AG",
+    "keywords": "Tuesday Blue Hills Conditioning Series",
+    "leaders": [
+      "Brian Gollub"
+    ],
+    "location": {
+      "city": "Canton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Fall Tuesday Morning Blue Hills Conditioning Finale -  Skyline End to End",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-12",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-11-01",
+    "registrationType": "Application",
+    "startDate": "2026-12-15",
+    "startTime": "8:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001HSdd2AG"
   },
   {
     "audience": "Adults",
@@ -4862,7 +4865,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-29",
     "startTime": "10:30 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -6514,7 +6517,7 @@
     "name": "Saturday Morning Boston City On The Hills Trail",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-12",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-24",
     "registrationType": "Registration",
     "startDate": "2026-11-14",
@@ -8781,7 +8784,7 @@
     "name": "Pisgah State Park NH Old Forest Hike",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-24",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-03",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -10592,7 +10595,8 @@
     },
     "name": "New Member Hike at High Ledges Wildlife Sanctuary",
     "program": "Volunteer Led",
-    "registration": "open",
+    "registerByDate": "2026-10-24",
+    "registration": "closed",
     "registrationType": "Registration",
     "startDate": "2026-10-25",
     "startTime": "10:00 AM",
@@ -12506,7 +12510,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-14",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Top Rope Rock",
     "timeZone": "US EST",
     "type": "Climbing & Mountaineering",
@@ -14500,7 +14504,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-28",
     "startTime": "6:00 PM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -15001,10 +15005,13 @@
     "leaders": [
       "Ann Hargleroad"
     ],
+    "location": {
+      "country": "United States"
+    },
     "name": "Wachusetts Mountain",
     "program": "Volunteer Led",
     "registration": "open",
-    "registrationType": "Registration",
+    "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-11-14",
     "startTime": "9:00 AM",
@@ -17237,6 +17244,38 @@
     "url": "/s/oc-activity/a5UVX000001M2c62AC"
   },
   {
+    "chapterId": "0015000001Sg065AAB",
+    "coords": {
+      "lat": 44.61,
+      "lon": -68.87
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-11",
+    "id": "a5UVX000001M3rV2AS",
+    "leaders": [
+      "Cassandra Haskell"
+    ],
+    "location": {
+      "city": "Frankfort",
+      "country": "United States",
+      "state": "ME"
+    },
+    "name": "Mt Waldo - A Little Mountain, A Lot of Maine",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-11",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001M3rV2AS"
+  },
+  {
     "chapterId": "0015000001Sg060AAB",
     "costs": [],
     "difficulty": 4,
@@ -17458,5 +17497,40 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001M50T2AS"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.22,
+      "lon": -71.07
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-08",
+    "id": "a5UVX000001M5q52AC",
+    "leaders": [
+      "Madelyn Atwood"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Fall Tuesday Morning Blue Hills Conditioning Hike #12",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-06",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-11-24",
+    "registrationType": "Application",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-08",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001M5q52AC"
   }
 ]
