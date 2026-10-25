@@ -1389,7 +1389,7 @@
     "secondaryType": "Adventure Travel;Backpacking;Biking;Camping;Climbing & Mountaineering;Conservation;Fishing;Hiking, Local Walks, & Trail Running;Nature & Arts;Outdoor Leadership Training;Outdoor Learning Experience;Paddling;Sailing;Skiing;Snowshoeing;Social;Trail Work;Volunteer Opportunities;Wilderness First Aid;Windsurfing;Yoga",
     "startDate": "2026-11-05",
     "startTime": "6:00 PM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Meetings",
     "timeZone": "US EST",
     "type": "Social",
@@ -4187,7 +4187,7 @@
     "name": "Fall Tuesday Morning Blue Hills Conditioning Series Hike #6",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-25",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-06",
     "registrationType": "Application",
     "startDate": "2026-10-27",
@@ -4326,7 +4326,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-27",
     "startTime": "9:45 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -4664,7 +4664,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-29",
     "startTime": "10:30 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -7859,7 +7859,7 @@
     "name": "PROGRESSIVE HIKING SERIES FROM THE BLUE HILLS TO METRO WEST – HIKE #6",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-25",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-13",
     "registrationType": "Registration",
     "startDate": "2026-10-27",
@@ -10775,7 +10775,7 @@
     "secondaryType": "Climbing & Mountaineering",
     "startDate": "2026-12-18",
     "startTime": "5:45 PM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Ice",
     "timeZone": "US EST",
     "type": "Climbing & Mountaineering",
@@ -10970,7 +10970,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-25",
     "startTime": "10:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -11884,7 +11884,7 @@
     "name": "Maine Woods West Branch and Little Lyford XC Ski Tour",
     "program": "Volunteer Led",
     "registerByDate": "2027-01-12",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-25",
     "registrationType": "Application",
     "secondaryType": "Skiing",
@@ -14042,6 +14042,40 @@
     "url": "/s/oc-activity/a5UVX000001Lg252AC"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 44.23,
+      "lon": -71.37
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2027-02-13",
+    "id": "a5UVX000001Lg6v2AC",
+    "keywords": "WHP",
+    "leaders": [
+      "Celine de Esch"
+    ],
+    "location": {
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "WHP: Mt Pierce and Eisenhower",
+    "program": "Volunteer Led",
+    "registerByDate": "2027-02-11",
+    "registration": "not-yet",
+    "registrationOpenDate": "2027-01-10",
+    "registrationType": "Application",
+    "startDate": "2027-02-13",
+    "startTime": "4:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Lg6v2AC"
+  },
+  {
     "chapterId": "0015000001Sg06BAAR",
     "coords": {
       "lat": 40.09,
@@ -16075,6 +16109,39 @@
     "url": "/s/oc-activity/a5UVX000001M1ZZ2A0"
   },
   {
+    "chapterId": "0015000001Sg060AAB",
+    "coords": {
+      "lat": 42.7,
+      "lon": -71.44
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-10-29",
+    "id": "a5UVX000001M1mT2AS",
+    "keywords": "Climbing & Mountaineering",
+    "leaders": [
+      "Ann Lee"
+    ],
+    "location": {
+      "city": "Tyngsborough",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Halloween Indoor Rock Climbing Nashua/Tyngsboro",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Climbing & Mountaineering",
+    "startDate": "2026-10-29",
+    "startTime": "6:30 PM",
+    "status": "Published",
+    "subType": "Gym",
+    "timeZone": "US EST",
+    "type": "Climbing & Mountaineering",
+    "url": "/s/oc-activity/a5UVX000001M1mT2AS"
+  },
+  {
     "audience": "Adults",
     "chapterId": "0015000001Sg06DAAR",
     "coords": {
@@ -16691,5 +16758,190 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001M6iv2AC"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.44,
+      "lon": -72.67
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-12",
+    "id": "a5UVX000001M6kX2AS",
+    "leaders": [
+      "Dennis Jakiela"
+    ],
+    "location": {
+      "city": "Durham",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Mattabesett Trail – Rockland Preserve, Mt. Pisgah, Pyramid Rock",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-12",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001M6kX2AS"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.11,
+      "lon": -75.45
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-01",
+    "id": "a5UVX000001M6m92AC",
+    "leaders": [
+      "Lisa Lombardo"
+    ],
+    "location": {
+      "city": "Phoenixville",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Easy 4.8-Mile Valley Forge Hike at Pawling Farm",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-01",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001M6m92AC"
+  },
+  {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 43.95,
+      "lon": -71.5
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2027-01-30",
+    "id": "a5UVX000001M6nl2AC",
+    "keywords": "nordic skiing, cross-country skiing, workshop, lessons",
+    "leaders": [
+      "Michael Barry"
+    ],
+    "location": {
+      "city": "Waterville Valley",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "2027 First Day on XC Skis Workshop at Waterville Valley, NH",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2027-01-30",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Cross Country",
+    "timeZone": "US EST",
+    "type": "Skiing",
+    "url": "/s/oc-activity/a5UVX000001M6nl2AC"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.62,
+      "lon": -72.42
+    },
+    "costs": [],
+    "difficulty": 6,
+    "difficultyLabel": "6 - Strenuous",
+    "endDate": "2026-11-17",
+    "id": "a5UVX000001M6qz2AC",
+    "leaders": [
+      "Amy Kelliher"
+    ],
+    "location": {
+      "city": "Erving",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Another Tuesday Adventure on the New England Trail",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-11-17",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001M6qz2AC"
+  },
+  {
+    "chapterId": "0015000001Sg060AAB",
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2027-02-04",
+    "id": "a5UVX000001M73t2AC",
+    "keywords": "Climbing & Mountaineering",
+    "leaders": [
+      "Ann Lee"
+    ],
+    "location": {
+      "city": "Tyngsborough",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Indoor Rock Climbing Nashua/Tyngsboro",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Climbing & Mountaineering",
+    "startDate": "2027-02-04",
+    "startTime": "8:30 PM",
+    "status": "Published",
+    "subType": "Gym",
+    "timeZone": "US EST",
+    "type": "Climbing & Mountaineering",
+    "url": "/s/oc-activity/a5UVX000001M73t2AC"
+  },
+  {
+    "chapterId": "0015000001Sg060AAB",
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2027-03-04",
+    "id": "a5UVX000001M75V2AS",
+    "keywords": "Climbing & Mountaineering",
+    "leaders": [
+      "Ann Lee"
+    ],
+    "location": {
+      "city": "Tyngsborough",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Indoor Rock Climbing Nashua/Tyngsboro",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Climbing & Mountaineering",
+    "startDate": "2027-03-04",
+    "startTime": "6:30 PM",
+    "status": "Published",
+    "subType": "Gym",
+    "timeZone": "US EST",
+    "type": "Climbing & Mountaineering",
+    "url": "/s/oc-activity/a5UVX000001M75V2AS"
   }
 ]
