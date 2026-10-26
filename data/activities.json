@@ -306,7 +306,7 @@
     "name": "Join Us for Our Annual Meeting & Social",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-26",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-02",
     "registrationType": "Registration",
     "startDate": "2026-11-07",
@@ -1755,7 +1755,7 @@
     "secondaryType": "Adventure Travel",
     "startDate": "2027-07-26",
     "startTime": "All Day",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Adventure Travel",
     "timeZone": "US EST",
     "type": "Adventure Travel",
@@ -3920,7 +3920,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-11-03",
     "startTime": "9:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -4330,7 +4330,7 @@
     "secondaryType": "Social",
     "startDate": "2026-11-20",
     "startTime": "2:00 PM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Local Socials",
     "timeZone": "US EST",
     "type": "Social",
@@ -4624,7 +4624,7 @@
     "name": "Over 55 Stonehouse Forest Hike (Barrington, NH)",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-26",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-09",
     "registrationType": "Application",
     "secondaryType": "Adventure Travel",
@@ -4665,7 +4665,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-05",
     "startTime": "9:45 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -4732,7 +4732,7 @@
     "secondaryType": "Skiing;Social",
     "startDate": "2026-10-29",
     "startTime": "5:30 PM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Backcountry",
     "timeZone": "US EST",
     "type": "Skiing",
@@ -5824,7 +5824,7 @@
     "registrationType": "Registration",
     "startDate": "2026-11-14",
     "startTime": "8:45 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5858,7 +5858,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-30",
     "startTime": "6:00 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -6128,7 +6128,7 @@
     "registrationType": "Registration",
     "startDate": "2027-02-06",
     "startTime": "9:00 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Backcountry",
     "timeZone": "US EST",
     "type": "Skiing",
@@ -6431,7 +6431,7 @@
     "secondaryType": "Social",
     "startDate": "2026-10-26",
     "startTime": "5:00 PM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -6463,7 +6463,7 @@
     "name": "🍂 New Hampshire Late Fall Foliage & Hiking Weekend SEM 50th Anniversary",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-26",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-18",
     "registrationType": "Application",
     "startDate": "2026-10-30",
@@ -6535,7 +6535,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-31",
     "startTime": "10:00 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -6633,7 +6633,7 @@
     "secondaryType": "Volunteer Opportunities",
     "startDate": "2026-11-08",
     "startTime": "9:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Outdoor Learning Experience",
     "timeZone": "US EST",
     "type": "Outdoor Learning Experience",
@@ -8464,7 +8464,7 @@
       "lon": -71.44
     },
     "costs": [
-      296.82
+      265.73
     ],
     "difficulty": 1,
     "difficultyLabel": "1 - Accessible",
@@ -9302,7 +9302,7 @@
     "name": "Sakonnet Greenway 10-Mile Hike in Portsmouth & Middletown, Rhode Island",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-25",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-07",
     "registrationType": "Application",
     "startDate": "2026-10-29",
@@ -13458,7 +13458,7 @@
     "name": "Beginner Cross Country Ski Trip at Medawisla Lodge with Maine Master Naturalist",
     "program": "Volunteer Led",
     "registerByDate": "2027-01-06",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-26",
     "registrationType": "Application",
     "secondaryType": "Skiing",
@@ -13604,6 +13604,39 @@
     "url": "/s/oc-activity/a5UVX000001LiiD2AS"
   },
   {
+    "audience": "Families",
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 40.76,
+      "lon": -73.95
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-10-31",
+    "id": "a5UVX000001LiqH2AS",
+    "keywords": "NYGrowth New Member URBAN CITY WALK Family families kid kids",
+    "leaders": [
+      "Eileen Yin"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "URBAN WALK: Roosevelt Island Spooky Stroll for Families - New Members Welcome!",
+    "program": "Staff Activities",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-31",
+    "startTime": "1:30 PM",
+    "status": "Published",
+    "subType": "Local Walks",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001LiqH2AS"
+  },
+  {
     "chapterId": "0015000001Sg06DAAR",
     "coords": {
       "lat": 42.06,
@@ -13696,7 +13729,7 @@
     "name": "South Taconic Trail (SW MA and Adjacent NY)",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-09",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-26",
     "registrationType": "Registration",
     "startDate": "2026-11-10",
@@ -15892,7 +15925,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-17",
     "startTime": "All Day",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -16251,6 +16284,10 @@
   },
   {
     "chapterId": "0015000001TGzFBAA1",
+    "coords": {
+      "lat": 50.82,
+      "lon": -1.09
+    },
     "costs": [],
     "difficulty": 3,
     "difficultyLabel": "3 - Easy",
@@ -16261,7 +16298,7 @@
     ],
     "location": {
       "city": "Portsmouth",
-      "country": "Dominica"
+      "country": "United Kingdom"
     },
     "name": "Wild Dominica: Hiking into Nature and Culture",
     "program": "Adventure Travel",
@@ -16330,7 +16367,7 @@
     "name": "Hiking with Trailwork in the Blue Hills",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-08",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-26",
     "registrationType": "Registration",
     "secondaryType": "Trail Work",
@@ -16376,6 +16413,70 @@
     "url": "/s/oc-activity/a5UVX000001M7gb2AC"
   },
   {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.36,
+      "lon": -72.98
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-11-01",
+    "id": "a5UVX000001M7iD2AS",
+    "keywords": "Hike, Woodbridge Trails and West Rock Ridge State Park",
+    "leaders": [
+      "Thomas Ebersold"
+    ],
+    "location": {
+      "city": "Woodbridge",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Sunday, November 1, Hike, Woodbridge Trails and West Rock Ridge State Park",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-11-01",
+    "startTime": "11:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001M7iD2AS"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.4,
+      "lon": -72.94
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-07",
+    "id": "a5UVX000001M7jp2AC",
+    "keywords": "Trail Maintenance, West Rock Ridge State Park, Hamden",
+    "leaders": [
+      "Thomas Ebersold"
+    ],
+    "location": {
+      "city": "Hamden",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Trail Maintenance, West Rock Ridge State Park, Hamden",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-11-07",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001M7jp2AC"
+  },
+  {
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg05xAAB",
     "coords": {
@@ -16407,5 +16508,357 @@
     "timeZone": "US EST",
     "type": "Social",
     "url": "/s/oc-activity/a5UVX000001M7qH2AS"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 39.97,
+      "lon": -74.31
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-17",
+    "id": "a5UVX000001M7rt2AC",
+    "keywords": "Cape Hikes",
+    "leaders": [
+      "Janet Kaiser"
+    ],
+    "location": {
+      "city": "Wellfleet",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Cape Hikes: cross cape hike, Truro/Wellfleet",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-17",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001M7rt2AC"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 42.36,
+      "lon": -71.67
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-11-10",
+    "id": "a5UVX000001M8ET2A0",
+    "keywords": "weekday sunrise fitness",
+    "leaders": [
+      "Scott Turner"
+    ],
+    "location": {
+      "city": "Northborough",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "November Early Morning Fitness Hike",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-08",
+    "registration": "open",
+    "registrationOpenDate": "2026-10-26",
+    "registrationType": "Application",
+    "startDate": "2026-11-10",
+    "startTime": "6:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001M8ET2A0"
+  },
+  {
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.47,
+      "lon": -72.6
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-05",
+    "id": "a5UVX000001M8hV2AS",
+    "keywords": "sugarloaf, annual meeting, South Deerfield",
+    "leaders": [
+      "Michael April"
+    ],
+    "location": {
+      "city": "Deerfield",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "North & South Sugarloaf",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-05",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001M8hV2AS"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.43,
+      "lon": -74.1
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-10-30",
+    "id": "a5UVX000001M9FO2A0",
+    "keywords": "great views, some scrambling,",
+    "leaders": [
+      "Kathryn Weld"
+    ],
+    "location": {
+      "city": "New Windsor",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Schunemunk Western Ridge Loop (Vigorous)",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-29",
+    "registration": "open",
+    "registrationOpenDate": "2026-10-26",
+    "registrationType": "Registration",
+    "startDate": "2026-10-30",
+    "startTime": "8:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001M9FO2A0"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-29",
+    "id": "a5UVX000001M9Tt2AK",
+    "leaders": [
+      "Leo Pon"
+    ],
+    "location": {
+      "country": "United States"
+    },
+    "name": "Penwood State Park From the North #1, Bloomfield, CT (C2B)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-29",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001M9Tt2AK"
+  },
+  {
+    "chapterId": "0015000001TGzFBAA1",
+    "coords": {
+      "lat": 16.88,
+      "lon": -24.99
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2028-01-30",
+    "id": "a5UVX000001M9X72AK",
+    "leaders": [
+      "Jeanne Blauner"
+    ],
+    "location": {
+      "city": "Mindelo",
+      "country": "Cape Verde"
+    },
+    "name": "Hiking and Culture in Cape Verde",
+    "program": "Adventure Travel",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Adventure Travel",
+    "startDate": "2028-01-20",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "Adventure Travel",
+    "timeZone": "US EST",
+    "type": "Adventure Travel",
+    "url": "/s/oc-activity/a5UVX000001M9X72AK"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.3,
+      "lon": -74.06
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-01",
+    "id": "a5UVX000001M9dZ2AS",
+    "leaders": [
+      "Jay Beilis"
+    ],
+    "location": {
+      "city": "Woodbury",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Silvermine  8.5 miles (Moderate)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-01",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001M9dZ2AS"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.37,
+      "lon": -72.6
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-01",
+    "id": "a5UVX000001M9wv2AC",
+    "leaders": [
+      "Steve Maislin"
+    ],
+    "location": {
+      "city": "Hatfield",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "SUNDAY--Easy 19-Mile Bike Ride through Hatfield, Deerfield, and Whately",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-31",
+    "registration": "open",
+    "registrationOpenDate": "2026-10-26",
+    "registrationType": "Application",
+    "startDate": "2026-11-01",
+    "startTime": "1:00 PM",
+    "status": "Published",
+    "subType": "Road",
+    "timeZone": "US EST",
+    "type": "Biking",
+    "url": "/s/oc-activity/a5UVX000001M9wv2AC"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.64,
+      "lon": -75.38
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-11-10",
+    "id": "a5UVX000001MAJV2A4",
+    "leaders": [
+      "Adrian Noble"
+    ],
+    "location": {
+      "city": "Bethlehem",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Monocacy Trail hike and Bach At Noon Concert.",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-11-10",
+    "startTime": "10:30 AM",
+    "status": "Published",
+    "subType": "Local Walks",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MAJV2A4"
+  },
+  {
+    "chapterId": "0015000001TGzFBAA1",
+    "coords": {
+      "lat": 47.72,
+      "lon": 13.48
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2027-09-26",
+    "id": "a5UVX000001MAPx2AO",
+    "leaders": [
+      "Karen Barsanti"
+    ],
+    "location": {
+      "city": "Strobl",
+      "country": "Austria"
+    },
+    "name": "Hiking in Austria’s Salzkammergut",
+    "program": "Adventure Travel",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Adventure Travel",
+    "startDate": "2027-09-19",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "Adventure Travel",
+    "timeZone": "US EST",
+    "type": "Adventure Travel",
+    "url": "/s/oc-activity/a5UVX000001MAPx2AO"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.44,
+      "lon": -75.08
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-08",
+    "id": "a5UVX000001MARZ2A4",
+    "leaders": [
+      "Adrian Noble"
+    ],
+    "location": {
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Tohickon Creek Whitewater Release Hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-08",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MARZ2A4"
   }
 ]
