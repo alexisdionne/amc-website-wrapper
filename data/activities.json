@@ -4155,7 +4155,7 @@
     "name": "Fall Tuesday Morning Blue Hills Conditioning Series Hike #9",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-15",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-27",
     "registrationType": "Application",
     "startDate": "2026-11-17",
@@ -4288,7 +4288,7 @@
     "name": "SEM's 50th Anniversary! - A Thursday Morning Hike At The Arnold Arboretum",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-27",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-14",
     "registrationType": "Registration",
     "secondaryType": "Outdoor Learning Experience",
@@ -4330,7 +4330,7 @@
     "secondaryType": "Social",
     "startDate": "2026-11-20",
     "startTime": "2:00 PM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Local Socials",
     "timeZone": "US EST",
     "type": "Social",
@@ -4494,7 +4494,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-29",
     "startTime": "10:30 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -4772,25 +4772,29 @@
   },
   {
     "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.44,
+      "lon": -74.03
+    },
     "costs": [],
     "difficulty": 5,
     "difficultyLabel": "5 - Vigorous",
-    "endDate": "2026-10-31",
+    "endDate": "2026-11-01",
     "id": "a5UVX000001HrFR2A0",
     "leaders": [
-      "Timothy Watters"
+      "Richard Dabal"
     ],
     "location": {
       "city": "cornwall",
       "country": "United States",
       "state": "NY"
     },
-    "name": "Hike Schunemunk Mountain (Vigorous)",
+    "name": "RESCHEDULED:  Hike Schunemunk Mountain (Vigorous)",
     "program": "Volunteer Led",
     "registration": "open",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-10-31",
+    "startDate": "2026-11-01",
     "startTime": "8:30 AM",
     "status": "Published",
     "subType": "Hiking",
@@ -5593,7 +5597,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-31",
     "startTime": "9:30 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5696,40 +5700,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001IY132AG"
-  },
-  {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg061AAB",
-    "coords": {
-      "lat": 44.27,
-      "lon": -71.3
-    },
-    "costs": [],
-    "difficulty": 6,
-    "difficultyLabel": "6 - Strenuous",
-    "endDate": "2027-01-09",
-    "id": "a5UVX000001IY4H2AW",
-    "leaders": [
-      "Ian Baker"
-    ],
-    "location": {
-      "city": "Jackson",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "Washington and Monroe in January",
-    "program": "Volunteer Led",
-    "registerByDate": "2027-01-02",
-    "registration": "not-yet",
-    "registrationOpenDate": "2026-12-06",
-    "registrationType": "Application",
-    "startDate": "2027-01-09",
-    "startTime": "All Day",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001IY4H2AW"
   },
   {
     "chapterId": "0015000001Sg06DAAR",
@@ -5858,7 +5828,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-30",
     "startTime": "6:00 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -6324,7 +6294,7 @@
     "name": "Fall Tuesday Morning Blue Hills Hike Series #8",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-08",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-27",
     "registrationType": "Application",
     "startDate": "2026-11-10",
@@ -6652,7 +6622,7 @@
     "secondaryType": "Backpacking",
     "startDate": "2026-11-13",
     "startTime": "9:30 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Backpacking",
     "timeZone": "US EST",
     "type": "Backpacking",
@@ -6750,7 +6720,7 @@
     "name": "Trails of Southampton, Massachusetts",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-09",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-27",
     "registrationType": "Registration",
     "startDate": "2026-11-10",
@@ -7226,7 +7196,7 @@
     "name": "PROGRESSIVE HIKING SERIES FROM THE BLUE HILLS TO METRO WEST – HIKE #8",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-08",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-27",
     "registrationType": "Registration",
     "startDate": "2026-11-10",
@@ -8059,7 +8029,7 @@
     "secondaryType": "Climbing & Mountaineering",
     "startDate": "2026-10-31",
     "startTime": "9:00 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Traditional Rock",
     "timeZone": "US EST",
     "type": "Climbing & Mountaineering",
@@ -10589,7 +10559,7 @@
     },
     "name": "Stick Season Crag Day at Hanging Mountain",
     "program": "Volunteer Led",
-    "registerByDate": "2026-11-07",
+    "registerByDate": "2026-10-30",
     "registration": "open",
     "registrationOpenDate": "2026-10-13",
     "registrationType": "Application",
@@ -11082,39 +11052,6 @@
     "url": "/s/oc-activity/a5UVX000001LAbh2AG"
   },
   {
-    "audience": "20’s & 30’s",
-    "chapterId": "0015000001Sg05xAAB",
-    "coords": {
-      "lat": 42.27,
-      "lon": -72.4
-    },
-    "costs": [],
-    "difficulty": 2,
-    "difficultyLabel": "2 - Relaxed",
-    "endDate": "2026-11-01",
-    "id": "a5UVX000001LAgX2AW",
-    "leaders": [
-      "Hew Hart"
-    ],
-    "location": {
-      "city": "Belchertown",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "(20s/30s/40s) Mass Central Rail Trail with Forest Bathing",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Application",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-11-01",
-    "startTime": "11:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001LAgX2AW"
-  },
-  {
     "chapterId": "0015000001Sg06BAAR",
     "coords": {
       "lat": 41.29,
@@ -11503,7 +11440,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-01",
     "startTime": "9:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -12487,7 +12424,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-11-01",
     "startTime": "9:30 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -14235,7 +14172,7 @@
     "costs": [],
     "difficulty": 1,
     "difficultyLabel": "1 - Accessible",
-    "endDate": "2026-12-18",
+    "endDate": "2026-12-11",
     "id": "a5UVX000001LpdF2AS",
     "keywords": "hut, Guest, speaker, talk, nature, free, public, presentation, lecture, education, educational, naturalist, nature talk, evening program, programming, evening, science, volunteer naturalist, Pinkham, Pinkham Notch, white mountains",
     "leaders": [
@@ -14251,7 +14188,7 @@
     "registration": "open",
     "registrationType": "Show & Go",
     "secondaryType": "Nature & Arts",
-    "startDate": "2026-12-18",
+    "startDate": "2026-12-11",
     "startTime": "7:30 PM",
     "status": "Published",
     "subType": "Evening Programs",
@@ -14268,7 +14205,7 @@
     "costs": [],
     "difficulty": 1,
     "difficultyLabel": "1 - Accessible",
-    "endDate": "2026-12-19",
+    "endDate": "2026-12-12",
     "id": "a5UVX000001LplJ2AS",
     "keywords": "Guest, speaker, talk, nature, free, public, presentation, lecture, education, educational, naturalist, nature talk, evening program, programming, evening, science, volunteer naturalist, Pinkham, Pinkham Notch, white mountains",
     "leaders": [
@@ -14284,7 +14221,7 @@
     "registration": "open",
     "registrationType": "Show & Go",
     "secondaryType": "Nature & Arts",
-    "startDate": "2026-12-19",
+    "startDate": "2026-12-12",
     "startTime": "7:30 PM",
     "status": "Published",
     "subType": "Evening Programs",
@@ -16808,6 +16745,144 @@
   },
   {
     "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.09
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-19",
+    "id": "a5UVX000001MCun2AG",
+    "leaders": [
+      "Diane Simms"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "SEM Winter Hike & Learn #2",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-16",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-11-29",
+    "registrationType": "Application",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-19",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MCun2AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.09
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-22",
+    "id": "a5UVX000001MCwP2AW",
+    "leaders": [
+      "Diane Simms"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "SEM Winter Hike & Learn #3",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-19",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-11-30",
+    "registrationType": "Application",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-22",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MCwP2AW"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg066AAB",
+    "coords": {
+      "lat": 42.15,
+      "lon": -71.17
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-07",
+    "id": "a5UVX000001MCzd2AG",
+    "leaders": [
+      "Carlos Moriella"
+    ],
+    "location": {
+      "city": "Sharon",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Autumn Adventures: A Journey Through the Golden Forest 🍂🌲 20s and 30s",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-07",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MCzd2AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.07
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-30",
+    "id": "a5UVX000001MDIz2AO",
+    "leaders": [
+      "Jaime Itani"
+    ],
+    "location": {
+      "city": "Randolph",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Trail Trace the Blue Hills (Old 128 East to Buck Hill section) - 3 hour map",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-10-29",
+    "registration": "open",
+    "registrationOpenDate": "2026-10-26",
+    "registrationType": "Application",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-10-30",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MDIz2AO"
+  },
+  {
+    "audience": "Adults",
     "chapterId": "0015000001Sg061AAB",
     "coords": {
       "lat": 44.37,
@@ -16942,5 +17017,130 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001MDin2AG"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-10-31",
+    "id": "a5UVX000001MEzp2AG",
+    "keywords": "Three Stars on Halloween",
+    "leaders": [
+      "Marianne Ansari"
+    ],
+    "location": {
+      "city": "Tuxedo",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Three Stars on Halloween (Vigorous)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-31",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MEzp2AG"
+  },
+  {
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.34,
+      "lon": -72.59
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-04",
+    "id": "a5UVX000001MF1R2AW",
+    "keywords": "Accessible, birding",
+    "leaders": [
+      "Jakob Palches"
+    ],
+    "location": {
+      "city": "Hadley",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Accessible Hike | Silvio O. Conte Fort River Birding and Nature National Recreation Trail",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-04",
+    "startTime": "2:30 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MF1R2AW"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.33,
+      "lon": -73.36
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-10-29",
+    "id": "a5UVX000001MFsf2AG",
+    "leaders": [
+      "John Fitzpatrick"
+    ],
+    "location": {
+      "city": "Redding",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Redding's Little River",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-10-29",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MFsf2AG"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 42.26,
+      "lon": -71.8
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-19",
+    "id": "a5UVX000001MGgf2AG",
+    "keywords": "Social, brewery, 20s & 30s",
+    "leaders": [
+      "Christopher Vieira"
+    ],
+    "location": {
+      "city": "Worcester",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Worcester 20s & 30s Social at Bay State Brewery",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Social",
+    "startDate": "2026-11-19",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Local Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001MGgf2AG"
   }
 ]
