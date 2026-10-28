@@ -3931,7 +3931,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-31",
     "startTime": "9:30 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -3966,7 +3966,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-03",
     "startTime": "9:45 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -4303,7 +4303,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-29",
     "startTime": "10:30 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5175,7 +5175,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-11-07",
     "startTime": "10:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5567,7 +5567,7 @@
     "name": "October Early Morning Fitness Hike",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-28",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-12",
     "registrationType": "Application",
     "startDate": "2026-10-30",
@@ -6331,7 +6331,7 @@
     "registrationType": "Registration",
     "startDate": "2026-10-29",
     "startTime": "9:00 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -7978,7 +7978,7 @@
       "lon": -71.44
     },
     "costs": [
-      296.82
+      265.73
     ],
     "difficulty": 1,
     "difficultyLabel": "1 - Accessible",
@@ -10557,7 +10557,7 @@
     "secondaryType": "Conservation",
     "startDate": "2026-11-21",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -10778,7 +10778,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-14",
     "startTime": "All Day",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -11590,40 +11590,6 @@
   },
   {
     "audience": "Adults",
-    "chapterId": "0015000001Sg06DAAR",
-    "coords": {
-      "lat": 39.97,
-      "lon": -74.31
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-11-06",
-    "id": "a5UVX000001LTxh2AG",
-    "keywords": "Cape Hikes",
-    "leaders": [
-      "Janet Kaiser"
-    ],
-    "location": {
-      "city": "Wellfleet",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "Cape Hikes: cross cape hike, Truro/Wellfleet",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-11-06",
-    "startTime": "9:30 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001LTxh2AG"
-  },
-  {
-    "audience": "Adults",
     "chapterId": "0015000001Sg060AAB",
     "coords": {
       "lat": 43.21,
@@ -11965,11 +11931,12 @@
     },
     "name": "20s and 30s Beacon Hill Halloween Walk",
     "program": "Volunteer Led",
+    "registerByDate": "2026-10-28",
     "registration": "open",
     "registrationType": "Registration",
     "startDate": "2026-10-28",
     "startTime": "6:00 PM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -12910,7 +12877,7 @@
     "name": "Full Moon Hike at Borderland State Park",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-20",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-28",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -12985,7 +12952,7 @@
     "registrationType": "Registration",
     "startDate": "2026-11-10",
     "startTime": "9:15 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -13572,7 +13539,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-01",
     "startTime": "11:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Flatwater",
     "timeZone": "US EST",
     "type": "Paddling",
@@ -14394,7 +14361,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-10",
     "startTime": "9:45 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -15077,7 +15044,7 @@
     "registrationType": "Registration",
     "startDate": "2026-11-09",
     "startTime": "8:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -15598,6 +15565,38 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001M7iD2AS"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.4,
+      "lon": -72.94
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-07",
+    "id": "a5UVX000001M7jp2AC",
+    "keywords": "Trail Maintenance, West Rock Ridge State Park, Hamden",
+    "leaders": [
+      "Thomas Ebersold"
+    ],
+    "location": {
+      "city": "Hamden",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Trail Maintenance, West Rock Ridge State Park, Hamden",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-11-07",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Trail Work",
+    "timeZone": "US EST",
+    "type": "Trail Work",
+    "url": "/s/oc-activity/a5UVX000001M7jp2AC"
   },
   {
     "audience": "Adults",
@@ -16537,6 +16536,106 @@
     "url": "/s/oc-activity/a5UVX000001MDkP2AW"
   },
   {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg066AAB",
+    "coords": {
+      "lat": 41.83,
+      "lon": -71.41
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-02",
+    "id": "a5UVX000001MEa12AG",
+    "keywords": "20s/30s, 20s and 30s, 20s&30s, Providence",
+    "leaders": [
+      "Christopher Vieira"
+    ],
+    "location": {
+      "city": "Providence",
+      "country": "United States",
+      "state": "RI"
+    },
+    "name": "20s/30s Providence River After Work Walk",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Social",
+    "startDate": "2026-11-02",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MEa12AG"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg066AAB",
+    "coords": {
+      "lat": 41.85,
+      "lon": -71.39
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-04",
+    "id": "a5UVX000001MEer2AG",
+    "keywords": "20s/30s, 20s and 30s, 20s&30s, Providence",
+    "leaders": [
+      "Christopher Vieira"
+    ],
+    "location": {
+      "city": "Providence",
+      "country": "United States",
+      "state": "RI"
+    },
+    "name": "20s/30s Blackstone Boulevard Park Walk",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-11-04",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Local Walks",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MEer2AG"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg066AAB",
+    "coords": {
+      "lat": 41.57,
+      "lon": -71.52
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-06",
+    "id": "a5UVX000001MEi52AG",
+    "keywords": "20s/30s, 20s and 30s, 20s&30s, Providence",
+    "leaders": [
+      "Christopher Vieira"
+    ],
+    "location": {
+      "city": "Exeter",
+      "country": "United States",
+      "state": "RI"
+    },
+    "name": "20s and 30s Social at Tilted Barn",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-11-06",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Local Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001MEi52AG"
+  },
+  {
     "chapterId": "0015000001Sg064AAB",
     "costs": [],
     "difficulty": 5,
@@ -16730,6 +16829,39 @@
     "url": "/s/oc-activity/a5UVX000001MIQj2AO"
   },
   {
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 41.61,
+      "lon": -70.55
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-12-13",
+    "id": "a5UVX000001MIYn2AO",
+    "keywords": "Cape Hikes",
+    "leaders": [
+      "Kenric Anderberg"
+    ],
+    "location": {
+      "city": "East Falmouth",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Cape Hikes - Hayway Woods / Crane South, East Falmouth",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-13",
+    "startTime": "12:45 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MIYn2AO"
+  },
+  {
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg06BAAR",
     "coords": {
@@ -16894,5 +17026,69 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001MKCP2A4"
+  },
+  {
+    "audience": "Women+",
+    "chapterId": "0015000001TGzFBAA1",
+    "coords": {
+      "lat": 35.08,
+      "lon": -106.65
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2027-09-30",
+    "id": "a5UVX000001MLTR2A4",
+    "leaders": [
+      "Stacia Biel"
+    ],
+    "location": {
+      "city": "Albuquerque",
+      "country": "United States",
+      "state": "NM"
+    },
+    "name": "New Mexico: Canyons, Peaks &amp; Ancient Worlds — A Women’s + Hiking and Wellness",
+    "program": "Adventure Travel",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Adventure Travel",
+    "startDate": "2027-09-21",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "Adventure Travel",
+    "timeZone": "US EST",
+    "type": "Adventure Travel",
+    "url": "/s/oc-activity/a5UVX000001MLTR2A4"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.46,
+      "lon": -72.32
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-10-31",
+    "id": "a5UVX000001MN2D2AW",
+    "leaders": [
+      "Patrick Kennedy"
+    ],
+    "location": {
+      "city": "East Haddam",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Burnham Brook, East Haddam, (C3C, Easy)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-10-31",
+    "startTime": "10:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MN2D2AW"
   }
 ]
