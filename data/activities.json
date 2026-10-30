@@ -1409,7 +1409,7 @@
     "secondaryType": "Skiing;Snowshoeing",
     "startDate": "2027-01-25",
     "startTime": "2:00 PM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Cross Country",
     "timeZone": "US EST",
     "type": "Skiing",
@@ -3094,7 +3094,7 @@
     "costs": [],
     "difficulty": 5,
     "difficultyLabel": "5 - Vigorous",
-    "endDate": "2026-11-14",
+    "endDate": "2026-11-15",
     "id": "a5UVX000001DGuP2AW",
     "leaders": [
       "Timothy Watters"
@@ -3104,11 +3104,11 @@
       "country": "United States",
       "state": "NY"
     },
-    "name": "Hike Black Rock Forest (Vigorous)",
+    "name": "RESCHEDULED:  Hike Black Rock Forest (Vigorous)",
     "program": "Volunteer Led",
     "registration": "open",
     "registrationType": "Registration",
-    "startDate": "2026-11-14",
+    "startDate": "2026-11-15",
     "startTime": "8:30 AM",
     "status": "Published",
     "subType": "Hiking",
@@ -3793,7 +3793,7 @@
     "secondaryType": "Snowshoeing",
     "startDate": "2027-01-17",
     "startTime": "5:00 PM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Cross Country",
     "timeZone": "US EST",
     "type": "Skiing",
@@ -3999,7 +3999,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-17",
     "startTime": "9:45 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -4338,41 +4338,6 @@
     "timeZone": "US EST",
     "type": "Outdoor Leadership Training",
     "url": "/s/oc-activity/a5UVX000001Hj4z2AC"
-  },
-  {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg06DAAR",
-    "coords": {
-      "lat": 42.05,
-      "lon": -71.27
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-11-05",
-    "id": "a5UVX000001HnoX2AS",
-    "keywords": "Thursday Hike",
-    "leaders": [
-      "Kathleen O’Keefe"
-    ],
-    "location": {
-      "city": "Foxborough",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "Thursday Morning Hike - F. Gilbert Hills - Stone Sites",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-11-02",
-    "registration": "open",
-    "registrationOpenDate": "2026-10-19",
-    "registrationType": "Application",
-    "startDate": "2026-11-05",
-    "startTime": "9:45 AM",
-    "status": "Full",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001HnoX2AS"
   },
   {
     "audience": "Adults",
@@ -6074,7 +6039,7 @@
     "name": "20s and 30s Blue Hills Moderate Hike #2.5",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-30",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-19",
     "registrationType": "Application",
     "startDate": "2026-10-31",
@@ -8198,7 +8163,7 @@
     "secondaryType": "Biking",
     "startDate": "2026-11-12",
     "startTime": "8:45 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -8328,7 +8293,7 @@
     "name": "Stony Ledge via Haley Farm Trail, Mount Greylock State Reservation",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-13",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-30",
     "registrationType": "Registration",
     "startDate": "2026-11-14",
@@ -9132,7 +9097,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-08",
     "startTime": "11:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -10009,7 +9974,7 @@
     "name": "Mount Garfield",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-10",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-30",
     "registrationType": "Application",
     "startDate": "2026-11-14",
@@ -10651,7 +10616,7 @@
     "name": "Fall Sunday Morning Hike at Borderland",
     "program": "Volunteer Led",
     "registerByDate": "2026-10-30",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-15",
     "registrationType": "Application",
     "startDate": "2026-11-01",
@@ -10688,7 +10653,7 @@
     "registrationType": "Show & Go",
     "startDate": "2026-10-31",
     "startTime": "10:15 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -10890,7 +10855,7 @@
     "secondaryType": "Nature Walks",
     "startDate": "2026-11-12",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -16481,7 +16446,7 @@
       "country": "United States",
       "state": "NY"
     },
-    "name": "Storm King Art Center (Moderate)",
+    "name": "CONCRETE TO TRAILS: Storm King Art Center (Moderate)",
     "program": "Volunteer Led",
     "registration": "open",
     "registrationType": "Registration",
@@ -17404,6 +17369,38 @@
     "url": "/s/oc-activity/a5UVX000001MPs12AG"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 41.57,
+      "lon": -71.02
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-06",
+    "id": "a5UVX000001MQ052AG",
+    "leaders": [
+      "Ann Rega"
+    ],
+    "location": {
+      "city": "Dartmouth",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Fast and Light at Destruction Brook Woods in Dartmouth, MA",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-06",
+    "startTime": "8:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MQ052AG"
+  },
+  {
     "chapterId": "0015000001Sg061AAB",
     "coords": {
       "lat": 42.23,
@@ -17425,7 +17422,7 @@
     "name": "Go Take A Hike - It's National Take A Hike Day!",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-16",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-10-30",
     "registrationType": "Application",
     "startDate": "2026-11-17",
@@ -17999,5 +17996,103 @@
     "timeZone": "US EST",
     "type": "Wilderness First Aid",
     "url": "/s/oc-activity/a5UVX000001MUtJ2AW"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.26,
+      "lon": -74.85
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-04",
+    "id": "a5UVX000001MVz32AG",
+    "leaders": [
+      "Jerry Taylor"
+    ],
+    "location": {
+      "city": "Yardley",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Scudders Falls to Washington Crossing  Loop Trail - 7 miles",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-11-04",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MVz32AG"
+  },
+  {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 40.07,
+      "lon": -75.2
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-22",
+    "id": "a5UVX000001MWIP2A4",
+    "keywords": "phillytrailstraining, philadelphia, trail maintenance, trails, cresheim trail, wissahickon, trail building",
+    "leaders": [
+      "Patricia McGuire"
+    ],
+    "location": {
+      "city": "Philadelphia",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Rock Work Training with AMC Trails",
+    "program": "Staff Activities",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-21",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Trail Work",
+    "timeZone": "US EST",
+    "type": "Trail Work",
+    "url": "/s/oc-activity/a5UVX000001MWIP2A4"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.47,
+      "lon": -71.11
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-12-13",
+    "id": "a5UVX000001MWVJ2A4",
+    "keywords": "WHP Middlesex Fells Education hiking adults",
+    "leaders": [
+      "Eric Robbie"
+    ],
+    "location": {
+      "city": "Stoneham",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "WHP - Middlesex Fells",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "secondaryType": "Snowshoeing",
+    "startDate": "2026-12-13",
+    "startTime": "8:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MWVJ2A4"
   }
 ]
