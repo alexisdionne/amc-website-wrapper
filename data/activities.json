@@ -3824,7 +3824,7 @@
     "name": "Fall Tuesday Morning Blue Hills Conditioning Series Hike #7",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-01",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-13",
     "registrationType": "Application",
     "startDate": "2026-11-03",
@@ -3864,7 +3864,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-17",
     "startTime": "9:45 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -3925,7 +3925,7 @@
     "name": "Fall Tuesday Morning Blue Hills Conditioning Finale -  Skyline End to End",
     "program": "Volunteer Led",
     "registerByDate": "2026-12-12",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-01",
     "registrationType": "Application",
     "startDate": "2026-12-15",
@@ -4703,7 +4703,7 @@
     "registrationType": "Registration",
     "startDate": "2026-11-08",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5069,7 +5069,7 @@
     "name": "Fall Tuesday Morning Blue Hills Hike Series #7",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-01",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-13",
     "registrationType": "Registration",
     "startDate": "2026-11-03",
@@ -5453,6 +5453,40 @@
     "url": "/s/oc-activity/a5UVX000001IwzR2AS"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.09
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-17",
+    "id": "a5UVX000001IyJh2AK",
+    "leaders": [
+      "Annemarie McKee"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Fall Tuesday Morning Blue Hills Hike Series #9",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-15",
+    "registration": "open",
+    "registrationOpenDate": "2026-10-06",
+    "registrationType": "Application",
+    "startDate": "2026-11-17",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001IyJh2AK"
+  },
+  {
     "chapterId": "0015000001Sg061AAB",
     "coords": {
       "lat": 42.48,
@@ -5804,7 +5838,7 @@
     "name": "PROGRESSIVE HIKING SERIES FROM THE BLUE HILLS TO METRO WEST - HIKE #7",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-01",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-20",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -8351,7 +8385,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-11-17",
     "startTime": "9:45 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -9512,7 +9546,7 @@
     "secondaryType": "Social",
     "startDate": "2026-11-01",
     "startTime": "9:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -10043,7 +10077,7 @@
     "name": "Hiking with Trailwork in the Blue Hills",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-01",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-21",
     "registrationType": "Registration",
     "secondaryType": "Trail Work",
@@ -11350,7 +11384,7 @@
     "name": "Fitness Hike – Massasoit State Park",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-01",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-21",
     "registrationType": "Registration",
     "startDate": "2026-11-03",
@@ -14500,6 +14534,38 @@
     "url": "/s/oc-activity/a5UVX000001MDkP2AW"
   },
   {
+    "audience": "20’s & 30’s;Adults",
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.47,
+      "lon": -72.6
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-11-06",
+    "id": "a5UVX000001MDpF2AW",
+    "leaders": [
+      "Mark Hawthorne"
+    ],
+    "location": {
+      "city": "Deerfield",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "(20s/30s/40s) Friday Sunrise from Mt. Sugarloaf",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-06",
+    "startTime": "5:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MDpF2AW"
+  },
+  {
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg066AAB",
     "coords": {
@@ -16875,5 +16941,165 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001MbBd2AK"
+  },
+  {
+    "chapterId": "0015000001Sg066AAB",
+    "coords": {
+      "lat": 41.66,
+      "lon": -71.45
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-04",
+    "id": "a5UVX000001MbEr2AK",
+    "keywords": "Hike,walk,sicial",
+    "leaders": [
+      "Sid Wax"
+    ],
+    "location": {
+      "city": "East Greenwich",
+      "country": "United States",
+      "state": "RI"
+    },
+    "name": "Hike/Social East Greenwich",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "secondaryType": "Social",
+    "startDate": "2026-11-04",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Local Walks",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MbEr2AK"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.09,
+      "lon": -75.45
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-07",
+    "id": "a5UVX000001MbQ92AK",
+    "leaders": [
+      "Pat Grannan"
+    ],
+    "location": {
+      "city": "King of Prussia",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Valley Forge Saturday Afternoon Hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-11-07",
+    "startTime": "1:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MbQ92AK"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.09,
+      "lon": -75.45
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-14",
+    "id": "a5UVX000001MbRl2AK",
+    "leaders": [
+      "Pat Grannan"
+    ],
+    "location": {
+      "city": "King of Prussia",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Valley Forge Saturday Afternoon Hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-11-14",
+    "startTime": "1:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MbRl2AK"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 41.17,
+      "lon": -74.91
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-13",
+    "id": "a5UVX000001MbYD2A0",
+    "leaders": [
+      "Theresa Berntsen"
+    ],
+    "location": {
+      "city": "Dingmans Ferry",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Hiking - Pocono Environmental Education Center",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-13",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MbYD2A0"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.38,
+      "lon": -74.64
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-04",
+    "id": "a5UVX000001MbbR2AS",
+    "leaders": [
+      "Stanton de Riel"
+    ],
+    "location": {
+      "city": "Princeton",
+      "country": "United States",
+      "state": "NJ"
+    },
+    "name": "Herrontown Woods, Autumn Hill, and All Saints Trailgrid Hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-04",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MbbR2AS"
   }
 ]
