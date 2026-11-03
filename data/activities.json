@@ -410,7 +410,7 @@
     "secondaryType": "Wilderness First Aid",
     "startDate": "2026-11-07",
     "startTime": "8:00 AM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Wilderness First Aid",
     "timeZone": "US EST",
     "type": "Wilderness First Aid",
@@ -4533,7 +4533,7 @@
     "registrationType": "Registration",
     "startDate": "2026-11-08",
     "startTime": "10:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -4970,7 +4970,7 @@
     "registrationType": "Registration",
     "startDate": "2026-11-14",
     "startTime": "8:45 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5802,7 +5802,7 @@
     "name": "PROGRESSIVE HIKING SERIES FROM THE BLUE HILLS TO METRO WEST  - HIKE #9",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-15",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-03",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -6881,7 +6881,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-11-12",
     "startTime": "9:45 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -7437,7 +7437,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-11-14",
     "startTime": "8:30 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -10287,7 +10287,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-11-22",
     "startTime": "1:00 PM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -15220,6 +15220,40 @@
     ],
     "difficulty": 6,
     "difficultyLabel": "6 - Strenuous",
+    "endDate": "2026-11-22",
+    "id": "a5UVX000001MRx32AG",
+    "keywords": "Harvard Cabin & WildCat",
+    "leaders": [
+      "Fatemeh Haghighatjoo"
+    ],
+    "location": {
+      "city": "Jackson",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Wildcat Mt. Traverse and staying over night at Harvard Cabin",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-11-21",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MRx32AG"
+  },
+  {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 44.18,
+      "lon": -71.23
+    },
+    "costs": [
+      40
+    ],
+    "difficulty": 6,
+    "difficultyLabel": "6 - Strenuous",
     "endDate": "2026-11-21",
     "id": "a5UVX000001MSBZ2A4",
     "keywords": "Carter Dome and Harvard Cabin",
@@ -17070,38 +17104,6 @@
     "url": "/s/oc-activity/a5UVX000001MhQj2AK"
   },
   {
-    "chapterId": "0015000001Sg069AAB",
-    "coords": {
-      "lat": 43.2,
-      "lon": -72.77
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2027-01-18",
-    "id": "a5UVX000001Mhtl2AC",
-    "leaders": [
-      "Alexandra Molnar"
-    ],
-    "location": {
-      "city": "Londonderry",
-      "country": "United States",
-      "state": "VT"
-    },
-    "name": "19th Annual VT MLK Ski, Snowshoe & Hike Weekend",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Application",
-    "secondaryType": "Hiking, Local Walks, & Trail Running;Skiing;Snowshoeing;Social;Nature Walks",
-    "startDate": "2027-01-15",
-    "startTime": "All Day",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001Mhtl2AC"
-  },
-  {
     "chapterId": "0015000001Sg06BAAR",
     "coords": {
       "lat": 40.41,
@@ -17234,5 +17236,71 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001MjIr2AK"
+  },
+  {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 43.61,
+      "lon": -71.79
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-11-18",
+    "id": "a5UVX000001MkOb2AK",
+    "leaders": [
+      "Christopher Dallmus"
+    ],
+    "location": {
+      "city": "Alexandria",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "A Big Loop over Cardigan on a Wednesday",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-11-18",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MkOb2AK"
+  },
+  {
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 43.73,
+      "lon": -71.32
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2027-02-20",
+    "id": "a5UVX000001MmQP2A0",
+    "keywords": "52 with a view 52 WAV winter",
+    "leaders": [
+      "Kerry Leonard"
+    ],
+    "location": {
+      "city": "Moultonborough",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "52WAV WINTER SERIES (TRACK II): Mt Roberts",
+    "program": "Volunteer Led",
+    "registerByDate": "2027-02-19",
+    "registration": "not-yet",
+    "registrationOpenDate": "2027-01-15",
+    "registrationType": "Application",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2027-02-20",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MmQP2A0"
   }
 ]
