@@ -614,7 +614,7 @@
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg05xAAB",
     "costs": [
-      25
+      80
     ],
     "difficulty": 1,
     "difficultyLabel": "1 - Accessible",
@@ -1281,7 +1281,7 @@
     "secondaryType": "Adventure Travel;Backpacking;Biking;Camping;Climbing & Mountaineering;Conservation;Fishing;Hiking, Local Walks, & Trail Running;Nature & Arts;Outdoor Leadership Training;Outdoor Learning Experience;Paddling;Sailing;Skiing;Snowshoeing;Social;Trail Work;Volunteer Opportunities;Wilderness First Aid;Windsurfing;Yoga",
     "startDate": "2026-11-05",
     "startTime": "6:00 PM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Meetings",
     "timeZone": "US EST",
     "type": "Social",
@@ -2139,7 +2139,7 @@
       "lon": -74.64
     },
     "costs": [
-      40
+      5
     ],
     "difficulty": 4,
     "difficultyLabel": "4 - Moderate",
@@ -2263,13 +2263,47 @@
     "url": "/s/oc-activity/a5UVX000001Avdx2AC"
   },
   {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg066AAB",
+    "coords": {
+      "lat": 41.73,
+      "lon": -71.47
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-12",
+    "id": "a5UVX000001CAKn2AO",
+    "keywords": "20s/30s, 20s and 30s, 20s&30s, Providence",
+    "leaders": [
+      "Christopher Vieira"
+    ],
+    "location": {
+      "city": "Warwick",
+      "country": "United States",
+      "state": "RI"
+    },
+    "name": "20s and 30s Social at Apponaug Brewing Company",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Social",
+    "startDate": "2026-11-12",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Local Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001CAKn2AO"
+  },
+  {
     "chapterId": "001UN00000bpnMdYAI",
     "coords": {
       "lat": 44.15,
       "lon": -71.18
     },
     "costs": [
-      5
+      86
     ],
     "difficulty": 2,
     "difficultyLabel": "2 - Relaxed",
@@ -3758,7 +3792,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-24",
     "startTime": "9:45 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -4638,7 +4672,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-11-07",
     "startTime": "10:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -4671,7 +4705,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-11-07",
     "startTime": "8:00 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -7707,7 +7741,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-07",
     "startTime": "9:00 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -10784,7 +10818,7 @@
     "registrationType": "Registration",
     "startDate": "2026-11-10",
     "startTime": "9:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -11192,7 +11226,7 @@
     "costs": [],
     "difficulty": 1,
     "difficultyLabel": "1 - Accessible",
-    "endDate": "2026-11-27",
+    "endDate": "2026-11-28",
     "id": "a5UVX000001LoPR2A0",
     "keywords": "trivia, Guest, speaker, talk, nature, free, public, presentation, lecture, education, educational, naturalist, nature talk, evening program, programming, evening, science, volunteer naturalist, Highland, Highland Center, white mountain",
     "leaders": [
@@ -11203,12 +11237,12 @@
       "country": "United States",
       "state": "NH"
     },
-    "name": "Evening Program: White Mountain Trivia",
+    "name": "Evening Program: Why Does Hiking Make My Brain Happy?",
     "program": "Naturalist Program",
     "registration": "open",
     "registrationType": "Show & Go",
     "secondaryType": "Nature & Arts",
-    "startDate": "2026-11-27",
+    "startDate": "2026-11-28",
     "startTime": "7:30 PM",
     "status": "Published",
     "subType": "Evening Programs",
@@ -11225,7 +11259,7 @@
     "costs": [],
     "difficulty": 1,
     "difficultyLabel": "1 - Accessible",
-    "endDate": "2026-11-28",
+    "endDate": "2026-11-27",
     "id": "a5UVX000001LoUH2A0",
     "keywords": "bats, Guest, speaker, talk, nature, free, public, presentation, lecture, education, educational, naturalist, nature talk, evening program, programming, evening, science, volunteer naturalist, Highland, Highland Center, white mountains",
     "leaders": [
@@ -11241,7 +11275,7 @@
     "registration": "open",
     "registrationType": "Show & Go",
     "secondaryType": "Nature & Arts",
-    "startDate": "2026-11-28",
+    "startDate": "2026-11-27",
     "startTime": "7:30 PM",
     "status": "Published",
     "subType": "Evening Programs",
@@ -11322,7 +11356,7 @@
       "lon": -69.59
     },
     "costs": [
-      892.68
+      833.27
     ],
     "difficulty": 4,
     "difficultyLabel": "4 - Moderate",
@@ -11753,7 +11787,7 @@
       "lon": -69.32
     },
     "costs": [
-      788.28
+      487.1
     ],
     "difficulty": 2,
     "difficultyLabel": "2 - Relaxed",
@@ -13196,7 +13230,7 @@
       "lon": -77.13
     },
     "costs": [
-      165
+      450
     ],
     "difficulty": 3,
     "difficultyLabel": "3 - Easy",
@@ -13844,7 +13878,7 @@
       "lon": -71.35
     },
     "costs": [
-      100
+      80
     ],
     "difficulty": 6,
     "difficultyLabel": "6 - Strenuous",
@@ -16638,7 +16672,7 @@
       "country": "United States",
       "state": "MA"
     },
-    "name": "Cape Hikes Lowell Holly",
+    "name": "Cape Hikes Ryder Conservation Area to Lowell Holly, Sandwich / Mashpee",
     "program": "Volunteer Led",
     "registration": "open",
     "registrationType": "Show & Go",
@@ -17007,7 +17041,7 @@
     "name": "Fall Foliage Paddle on the Delaware & Raritan Canal: Stockton to Bulls Island--No Shuttle!",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-04",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-11-02",
     "registrationType": "Registration",
     "secondaryType": "Paddling",
@@ -17053,6 +17087,39 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001Mj5x2AC"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 42.29,
+      "lon": -74.15
+    },
+    "costs": [],
+    "difficulty": 6,
+    "difficultyLabel": "6 - Strenuous",
+    "endDate": "2026-11-23",
+    "id": "a5UVX000001Mj9B2AS",
+    "leaders": [
+      "Russell Faller"
+    ],
+    "location": {
+      "city": "Maplecrest",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Backpack/Basecamp on the Blackhead Range in the Northern Catskills",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "secondaryType": "Camping",
+    "startDate": "2026-11-20",
+    "startTime": "1:45 PM",
+    "status": "Published",
+    "subType": "Backpacking",
+    "timeZone": "US EST",
+    "type": "Backpacking",
+    "url": "/s/oc-activity/a5UVX000001Mj9B2AS"
   },
   {
     "audience": "Adults",
@@ -17312,5 +17379,303 @@
     "timeZone": "US EST",
     "type": "Biking",
     "url": "/s/oc-activity/a5UVX000001Motd2AC"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.36,
+      "lon": -74.95
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-11",
+    "id": "a5UVX000001MpPt2AK",
+    "keywords": "Hiking Goat Herd Hill",
+    "leaders": [
+      "Marcia Telthorster"
+    ],
+    "location": {
+      "city": "Lambertville",
+      "country": "United States",
+      "state": "NJ"
+    },
+    "name": "Lambertville to Goat Herd Hill Overlook",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-11",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MpPt2AK"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.22,
+      "lon": -71.41
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-25",
+    "id": "a5UVX000001Mpsv2AC",
+    "keywords": "Guest, speaker, talk, nature, free, public, presentation, lecture, education, educational, naturalist, nature talk, evening program, programming, evening, science, volunteer naturalist, Highland, Highland Center, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Carroll",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Evening Program: Campfire",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-11-25",
+    "startTime": "7:30 PM",
+    "status": "Published",
+    "subType": "Evening Programs",
+    "timeZone": "US EST",
+    "type": "Evening Programs",
+    "url": "/s/oc-activity/a5UVX000001Mpsv2AC"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.22,
+      "lon": -71.41
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-26",
+    "id": "a5UVX000001MpuX2AS",
+    "keywords": "trivia, game, Guest, speaker, talk, nature, free, public, presentation, lecture, education, educational, naturalist, nature talk, evening program, programming, evening, science, volunteer naturalist, Highland, Highland Center, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Carroll",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Evening Program: White Mountain Trivia",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-11-26",
+    "startTime": "7:30 PM",
+    "status": "Published",
+    "subType": "Evening Programs",
+    "timeZone": "US EST",
+    "type": "Evening Programs",
+    "url": "/s/oc-activity/a5UVX000001MpuX2AS"
+  },
+  {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 44.22,
+      "lon": -71.41
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-27",
+    "id": "a5UVX000001Mpw92AC",
+    "keywords": "Nature, walk, free, public, naturalist, programming, program, hike, short, guided, education, educational, wildlife, plants, Around the Lake, Highland Center, Highland, white mountain",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Carroll",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Nature Walk: Around the Lake",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-27",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Nature Walks",
+    "timeZone": "US EST",
+    "type": "Nature Walks",
+    "url": "/s/oc-activity/a5UVX000001Mpw92AC"
+  },
+  {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 44.22,
+      "lon": -71.41
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-27",
+    "id": "a5UVX000001Mpxl2AC",
+    "keywords": "Nature, walk, free, public, naturalist, programming, program, hike, short, guided, education, educational, wildlife, plants, Elephant Head, Saco Lake, Highland Center, Highland, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Carroll",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Nature Walk: Saco Lake and Elephant's Head",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-27",
+    "startTime": "1:00 PM",
+    "status": "Published",
+    "subType": "Nature Walks",
+    "timeZone": "US EST",
+    "type": "Nature Walks",
+    "url": "/s/oc-activity/a5UVX000001Mpxl2AC"
+  },
+  {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 44.22,
+      "lon": -71.41
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-28",
+    "id": "a5UVX000001Mq0z2AC",
+    "keywords": "Nature, walk, hike, Willard, Mount Willard, free, public, naturalist, programming, program, guided, education, educational, wildlife, plants, Highland Center, Highland, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Carroll",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Guided Mount Willard Hike",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-28",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Nature Walks",
+    "timeZone": "US EST",
+    "type": "Nature Walks",
+    "url": "/s/oc-activity/a5UVX000001Mq0z2AC"
+  },
+  {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 44.22,
+      "lon": -71.41
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-29",
+    "id": "a5UVX000001Mq7R2AS",
+    "keywords": "gibbs falls, Nature, walk, free, public, naturalist, programming, program, hike, short, guided, education, educational, wildlife, plants, Highland Center, Highland, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Carroll",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Nature Walk: Gibb's Falls",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-29",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Nature Walks",
+    "timeZone": "US EST",
+    "type": "Nature Walks",
+    "url": "/s/oc-activity/a5UVX000001Mq7R2AS"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg066AAB",
+    "coords": {
+      "lat": 41.83,
+      "lon": -71.41
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-09",
+    "id": "a5UVX000001Mrl32AC",
+    "keywords": "20s/30s, 20s and 30s, 20s&30s, Providence",
+    "leaders": [
+      "Christopher Vieira"
+    ],
+    "location": {
+      "city": "Providence",
+      "country": "United States",
+      "state": "RI"
+    },
+    "name": "20s/30s Providence River After Work Walk",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Social",
+    "startDate": "2026-11-09",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Mrl32AC"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg066AAB",
+    "coords": {
+      "lat": 41.58,
+      "lon": -71.7
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-11",
+    "id": "a5UVX000001Ms7d2AC",
+    "keywords": "20s&30s, 20s and 30s, 20s/30s, hiking",
+    "leaders": [
+      "Catherine LiVolsi"
+    ],
+    "location": {
+      "city": "Exeter",
+      "country": "United States",
+      "state": "RI"
+    },
+    "name": "20s/30s Veterans Day Arcadia hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-11",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Ms7d2AC"
   }
 ]
