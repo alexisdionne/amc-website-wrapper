@@ -381,7 +381,7 @@
     "secondaryType": "Wilderness First Aid",
     "startDate": "2026-11-07",
     "startTime": "8:00 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Wilderness First Aid",
     "timeZone": "US EST",
     "type": "Wilderness First Aid",
@@ -618,7 +618,7 @@
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg05xAAB",
     "costs": [
-      25
+      80
     ],
     "difficulty": 1,
     "difficultyLabel": "1 - Accessible",
@@ -990,7 +990,7 @@
     "costs": [],
     "difficulty": 5,
     "difficultyLabel": "5 - Vigorous",
-    "endDate": "2027-07-11",
+    "endDate": "2027-07-10",
     "id": "a5UVX000000zVtJ2AU",
     "leaders": [
       "Rami Haddad"
@@ -1004,9 +1004,9 @@
     "registration": "open",
     "registrationType": "Show & Go",
     "secondaryType": "Adventure Travel",
-    "startDate": "2027-07-03",
+    "startDate": "2027-07-02",
     "startTime": "All Day",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Adventure Travel",
     "timeZone": "US EST",
     "type": "Adventure Travel",
@@ -2143,7 +2143,7 @@
       "lon": -74.64
     },
     "costs": [
-      40
+      5
     ],
     "difficulty": 4,
     "difficultyLabel": "4 - Moderate",
@@ -2307,7 +2307,7 @@
       "lon": -71.18
     },
     "costs": [
-      5
+      86
     ],
     "difficulty": 2,
     "difficultyLabel": "2 - Relaxed",
@@ -3476,7 +3476,7 @@
     "secondaryType": "Snowshoeing",
     "startDate": "2026-11-07",
     "startTime": "9:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -3725,7 +3725,7 @@
     "name": "AMC Narragansett Annual Meeting",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-05",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-01",
     "registrationType": "Registration",
     "startDate": "2026-11-05",
@@ -3825,7 +3825,7 @@
     },
     "name": "Fall Tuesday Morning Blue Hills Conditioning Finale -  Skyline End to End",
     "program": "Volunteer Led",
-    "registerByDate": "2026-12-12",
+    "registerByDate": "2026-12-08",
     "registration": "open",
     "registrationOpenDate": "2026-11-01",
     "registrationType": "Application",
@@ -4106,40 +4106,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001HnoX2AS"
-  },
-  {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg061AAB",
-    "coords": {
-      "lat": 43.97,
-      "lon": -71.44
-    },
-    "costs": [],
-    "difficulty": 6,
-    "difficultyLabel": "6 - Strenuous",
-    "endDate": "2026-12-12",
-    "id": "a5UVX000001Ho6H2AS",
-    "leaders": [
-      "Ian Baker"
-    ],
-    "location": {
-      "city": "Waterville Valley",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "December on the Tripyramids",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-12-05",
-    "registration": "not-yet",
-    "registrationOpenDate": "2026-11-09",
-    "registrationType": "Application",
-    "startDate": "2026-12-12",
-    "startTime": "7:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001Ho6H2AS"
   },
   {
     "chapterId": "0015000001Sg061AAB",
@@ -4503,7 +4469,7 @@
     "registrationType": "Registration",
     "startDate": "2026-11-08",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -6272,7 +6238,7 @@
     "secondaryType": "Skiing",
     "startDate": "2026-11-18",
     "startTime": "8:00 PM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Meetings",
     "timeZone": "US EST",
     "type": "Social",
@@ -7170,7 +7136,7 @@
     "secondaryType": "Biking",
     "startDate": "2026-11-12",
     "startTime": "8:45 AM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -7496,7 +7462,7 @@
     "secondaryType": "Trail Work",
     "startDate": "2026-11-14",
     "startTime": "2:30 PM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Annual Chapter Dinners",
     "timeZone": "US EST",
     "type": "Social",
@@ -7938,7 +7904,7 @@
     "name": "20s and 30s Tidmarsh Wildlife Sanctuary",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-05",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-10",
     "registrationType": "Application",
     "startDate": "2026-11-08",
@@ -11231,7 +11197,7 @@
       "lon": -69.59
     },
     "costs": [
-      892.68
+      833.27
     ],
     "difficulty": 4,
     "difficultyLabel": "4 - Moderate",
@@ -11662,7 +11628,7 @@
       "lon": -69.32
     },
     "costs": [
-      788.28
+      487.1
     ],
     "difficulty": 2,
     "difficultyLabel": "2 - Relaxed",
@@ -13123,7 +13089,7 @@
     "name": "NOLS Wilderness First Aid - Potomac",
     "program": "Professional Guides",
     "registerByDate": "2027-03-19",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-05",
     "registrationType": "Registration",
     "secondaryType": "Outdoor Leadership Training",
@@ -13657,7 +13623,7 @@
       "lon": -71.35
     },
     "costs": [
-      100
+      80
     ],
     "difficulty": 6,
     "difficultyLabel": "6 - Strenuous",
@@ -13917,7 +13883,7 @@
     "secondaryType": "Nature & Arts",
     "startDate": "2026-11-06",
     "startTime": "8:15 AM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -14303,7 +14269,7 @@
     "name": "NOLS Wilderness First Aid - Boston",
     "program": "Professional Guides",
     "registerByDate": "2027-04-02",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-05",
     "registrationType": "Registration",
     "secondaryType": "Outdoor Leadership Training",
@@ -14340,7 +14306,7 @@
     "name": "NOLS Wilderness First Aid - Western MA",
     "program": "Professional Guides",
     "registerByDate": "2027-04-09",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-05",
     "registrationType": "Registration",
     "secondaryType": "Outdoor Leadership Training",
@@ -14377,7 +14343,7 @@
     "name": "NOLS Wilderness First Aid - Maine",
     "program": "Professional Guides",
     "registerByDate": "2027-04-16",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-05",
     "registrationType": "Registration",
     "secondaryType": "Outdoor Leadership Training",
@@ -14414,7 +14380,7 @@
     "name": "NOLS Wilderness First Aid - Boston",
     "program": "Professional Guides",
     "registerByDate": "2027-05-07",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-05",
     "registrationType": "Registration",
     "secondaryType": "Outdoor Leadership Training",
@@ -14451,7 +14417,7 @@
     "name": "NOLS Wilderness First Aid - Boston",
     "program": "Professional Guides",
     "registerByDate": "2027-09-24",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-05",
     "registrationType": "Registration",
     "secondaryType": "Outdoor Leadership Training",
@@ -14488,7 +14454,7 @@
     "name": "NOLS Wilderness First Aid - Western MA",
     "program": "Professional Guides",
     "registerByDate": "2027-10-01",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-05",
     "registrationType": "Registration",
     "secondaryType": "Outdoor Leadership Training",
@@ -14525,7 +14491,7 @@
     "name": "NOLS Wilderness First Aid - Boston",
     "program": "Professional Guides",
     "registerByDate": "2027-11-12",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-05",
     "registrationType": "Registration",
     "secondaryType": "Outdoor Leadership Training",
@@ -14562,7 +14528,7 @@
     "name": "NOLS Wilderness First Aid - NY/NJ",
     "program": "Professional Guides",
     "registerByDate": "2027-05-21",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-05",
     "registrationType": "Registration",
     "secondaryType": "Outdoor Leadership Training",
@@ -15121,7 +15087,7 @@
     "name": "NOLS Wilderness First Aid - Southeastern MA",
     "program": "Professional Guides",
     "registerByDate": "2027-04-23",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-05",
     "registrationType": "Registration",
     "secondaryType": "Outdoor Leadership Training",
@@ -15158,7 +15124,7 @@
     "name": "NOLS Wilderness First Aid - Rhode Island",
     "program": "Professional Guides",
     "registerByDate": "2027-05-14",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-05",
     "registrationType": "Registration",
     "secondaryType": "Outdoor Leadership Training",
@@ -15195,7 +15161,7 @@
     "name": "NOLS Wilderness First Aid - Connecticut",
     "program": "Professional Guides",
     "registerByDate": "2027-05-28",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-05",
     "registrationType": "Registration",
     "secondaryType": "Outdoor Leadership Training",
@@ -15232,7 +15198,7 @@
     "name": "NOLS Wilderness First Aid - New Hampshire",
     "program": "Professional Guides",
     "registerByDate": "2027-11-03",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-05",
     "registrationType": "Registration",
     "secondaryType": "Outdoor Leadership Training",
@@ -15434,7 +15400,7 @@
     "name": "NOLS Wilderness First Aid - New Hampshire",
     "program": "Professional Guides",
     "registerByDate": "2027-05-28",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-05",
     "registrationType": "Registration",
     "secondaryType": "Outdoor Leadership Training",
@@ -15471,7 +15437,7 @@
     "name": "NOLS Wilderness First Aid - Maine",
     "program": "Professional Guides",
     "registerByDate": "2027-05-21",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-05",
     "registrationType": "Registration",
     "secondaryType": "Outdoor Leadership Training",
@@ -16244,41 +16210,6 @@
     "costs": [],
     "difficulty": 5,
     "difficultyLabel": "5 - Vigorous",
-    "endDate": "2026-11-06",
-    "id": "a5UVX000001McVt2AK",
-    "keywords": "weekday sunrise fitness",
-    "leaders": [
-      "Patricia Lambert"
-    ],
-    "location": {
-      "city": "Northborough",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "November Early Morning Fitness Hike",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-11-04",
-    "registration": "closed",
-    "registrationOpenDate": "2026-11-02",
-    "registrationType": "Application",
-    "startDate": "2026-11-06",
-    "startTime": "6:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001McVt2AK"
-  },
-  {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg069AAB",
-    "coords": {
-      "lat": 42.36,
-      "lon": -71.67
-    },
-    "costs": [],
-    "difficulty": 5,
-    "difficultyLabel": "5 - Vigorous",
     "endDate": "2026-11-20",
     "id": "a5UVX000001Mcaj2AC",
     "keywords": "weekday sunrise fitness",
@@ -16617,7 +16548,7 @@
     "name": "NOLS Wilderness First Aid - Worcester",
     "program": "Professional Guides",
     "registerByDate": "2027-04-16",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-05",
     "registrationType": "Registration",
     "secondaryType": "Outdoor Leadership Training",
@@ -16654,7 +16585,7 @@
     "name": "NOLS Wilderness First Aid - Worcester",
     "program": "Professional Guides",
     "registerByDate": "2027-09-10",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-05",
     "registrationType": "Registration",
     "secondaryType": "Outdoor Leadership Training",
@@ -16999,39 +16930,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001MmVF2A0"
-  },
-  {
-    "chapterId": "0015000001Sg05zAAB",
-    "coords": {
-      "lat": 41.18,
-      "lon": -73.6
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-11-05",
-    "id": "a5UVX000001MnmH2AS",
-    "keywords": "Westchester Wilderness Walk, Pound Ridge, McCarthy",
-    "leaders": [
-      "Bill McCarthy"
-    ],
-    "location": {
-      "city": "Pound Ridge",
-      "country": "United States",
-      "state": "NY"
-    },
-    "name": "Westchester Wilderness Walk, Pound Ridge, NY MODERATE",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-11-05",
-    "startTime": "10:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001MnmH2AS"
   },
   {
     "chapterId": "0015000001Sg064AAB",
@@ -17590,6 +17488,70 @@
     "url": "/s/oc-activity/a5UVX000001MvK12AK"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.34,
+      "lon": -71.88
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-12-17",
+    "id": "a5UVX000001MvLd2AK",
+    "leaders": [
+      "June Powell"
+    ],
+    "location": {
+      "city": "Stonington",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Barn Island, Stonington, (C3D, Easy)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-12-17",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MvLd2AK"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.87,
+      "lon": -71.95
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-12-08",
+    "id": "a5UVX000001MvOr2AK",
+    "leaders": [
+      "June Powell"
+    ],
+    "location": {
+      "city": "Pomfret",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Audubon Bafflin Sanctuary, Pomfret - C3C",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-12-08",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MvOr2AK"
+  },
+  {
     "chapterId": "0015000001Sg060AAB",
     "coords": {
       "lat": 43.08,
@@ -17621,5 +17583,365 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001MvTh2AK"
+  },
+  {
+    "chapterId": "0015000001Sg065AAB",
+    "coords": {
+      "lat": 43.81,
+      "lon": -70.1
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-15",
+    "id": "a5UVX000001MvdN2AS",
+    "keywords": "Play in the dirt. Learn a few skills. Make a difference.",
+    "leaders": [
+      "Phillip Coyne"
+    ],
+    "location": {
+      "city": "Freeport",
+      "country": "United States",
+      "state": "ME"
+    },
+    "name": "Annual Meeting - Join Us for a “Try Trail Work” Session",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running;Outdoor Learning Experience;Volunteer Opportunities",
+    "startDate": "2026-11-15",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Trail Work",
+    "timeZone": "US EST",
+    "type": "Trail Work",
+    "url": "/s/oc-activity/a5UVX000001MvdN2AS"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.2,
+      "lon": -74.26
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-12-09",
+    "id": "a5UVX000001MvqH2AS",
+    "leaders": [
+      "Anastasia Tavarez"
+    ],
+    "location": {
+      "city": "Tuxedo Park",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Sterling Forest Fire Tower and Sterling Ridge Loop Hike! 8 miles (Vigorous)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-12-09",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MvqH2AS"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-13",
+    "id": "a5UVX000001MwO92AK",
+    "keywords": "Guest, speaker, talk, nature, free, public, presentation, lecture, education, educational, naturalist, nature talk, evening program, programming, evening, science, volunteer naturalist, Pinkham, Pinkham Notch, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Evening Program: Mammals of Northern New England",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-11-13",
+    "startTime": "7:30 PM",
+    "status": "Published",
+    "subType": "Evening Programs",
+    "timeZone": "US EST",
+    "type": "Evening Programs",
+    "url": "/s/oc-activity/a5UVX000001MwO92AK"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-21",
+    "id": "a5UVX000001MwSz2AK",
+    "keywords": "trivia, Guest, speaker, talk, nature, free, public, presentation, lecture, education, educational, naturalist, nature talk, evening program, programming, evening, science, volunteer naturalist, Pinkham, Pinkham Notch, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Evening Program: White Mountain Trivia",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-11-21",
+    "startTime": "7:30 PM",
+    "status": "Published",
+    "subType": "Evening Programs",
+    "timeZone": "US EST",
+    "type": "Evening Programs",
+    "url": "/s/oc-activity/a5UVX000001MwSz2AK"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-27",
+    "id": "a5UVX000001MwZR2A0",
+    "keywords": "Guest, speaker, talk, nature, free, public, presentation, lecture, education, educational, naturalist, nature talk, evening program, programming, evening, science, volunteer naturalist, Pinkham, Pinkham Notch, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Evening Program: The Weeks Act",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-11-27",
+    "startTime": "7:30 PM",
+    "status": "Published",
+    "subType": "Evening Programs",
+    "timeZone": "US EST",
+    "type": "Evening Programs",
+    "url": "/s/oc-activity/a5UVX000001MwZR2A0"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-28",
+    "id": "a5UVX000001Mwb32AC",
+    "keywords": "Guest, speaker, talk, nature, free, public, presentation, lecture, education, educational, naturalist, nature talk, evening program, programming, evening, science, volunteer naturalist, Pinkham, Pinkham Notch, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Evening Program: White Mountain Trivia",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-11-28",
+    "startTime": "7:30 PM",
+    "status": "Published",
+    "subType": "Evening Programs",
+    "timeZone": "US EST",
+    "type": "Evening Programs",
+    "url": "/s/oc-activity/a5UVX000001Mwb32AC"
+  },
+  {
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.34,
+      "lon": -72.59
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-19",
+    "id": "a5UVX000001Mwcf2AC",
+    "keywords": "Accessible, birding",
+    "leaders": [
+      "Jakob Palches"
+    ],
+    "location": {
+      "city": "Hadley",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Accessible Hike | Silvio O. Conte Fort River Birding and Nature National Recreation Trail",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-19",
+    "startTime": "2:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Mwcf2AC"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.21,
+      "lon": -75.71
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-11-15",
+    "id": "a5UVX000001MwuP2AS",
+    "leaders": [
+      "George Rockett"
+    ],
+    "location": {
+      "city": "Pottstown",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Coventry Woods, A Brisk Hike of 9 ish Miles.",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-15",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MwuP2AS"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.65,
+      "lon": -75.63
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-05",
+    "id": "a5UVX000001MyHt2AK",
+    "keywords": "hike, 20s/30s",
+    "leaders": [
+      "Kyle Sullivan"
+    ],
+    "location": {
+      "city": "Schnecksville",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "20s/30s Hike: 6.3-to-9-mile Trexler Nature Preserve",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Nature Walks",
+    "startDate": "2026-12-05",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MyHt2AK"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.58,
+      "lon": -72.98
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-12-01",
+    "id": "a5UVX000001MyOL2A0",
+    "leaders": [
+      "Joanna Miller"
+    ],
+    "location": {
+      "city": "Wolcott",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Easy Hike around Scoville Reservoir, Wolcott",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-01",
+    "startTime": "9:15 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MyOL2A0"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.71,
+      "lon": -73
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-08",
+    "id": "a5UVX000001MyUn2AK",
+    "leaders": [
+      "Joanna Miller"
+    ],
+    "location": {
+      "city": "Plymouth",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Moderate hike at Mile of Ledges, Terryville/Burlington",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-12-08",
+    "startTime": "9:15 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MyUn2AK"
   }
 ]
