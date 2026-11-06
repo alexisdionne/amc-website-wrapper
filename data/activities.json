@@ -215,7 +215,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-11-15",
     "startTime": "9:45 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -749,7 +749,7 @@
     "secondaryType": "Nature & Arts",
     "startDate": "2026-11-21",
     "startTime": "11:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -3349,7 +3349,7 @@
     "secondaryType": "Snowshoeing",
     "startDate": "2026-11-07",
     "startTime": "9:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -4240,7 +4240,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-11-08",
     "startTime": "8:30 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Trail Work",
     "timeZone": "US EST",
     "type": "Trail Work",
@@ -4301,7 +4301,7 @@
     "name": "Winter Workshop and Hike at Bradley Palmer State Park (Topsfield)",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-06",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-23",
     "registrationType": "Registration",
     "startDate": "2026-11-08",
@@ -4473,7 +4473,7 @@
     "name": "Winter Workshop at The Blue Hills Reservation",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-06",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-12",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -5746,7 +5746,7 @@
     "name": "An Epic Pre-Thanksgiving Traverse of the Appleton Branch of the Bay Circuit Trail",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-20",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-06",
     "registrationType": "Application",
     "startDate": "2026-11-22",
@@ -7649,7 +7649,7 @@
     "registrationType": "Registration",
     "startDate": "2026-11-07",
     "startTime": "10:00 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -7812,7 +7812,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-22",
     "startTime": "10:00 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -10736,36 +10736,38 @@
     "url": "/s/oc-activity/a5UVX000001Lm2f2AC"
   },
   {
-    "chapterId": "0015000001Sg069AAB",
+    "chapterId": "0015000001Sg061AAB",
     "coords": {
-      "lat": 42.38,
-      "lon": -71.5
+      "lat": 42.69,
+      "lon": -70.9
     },
     "costs": [],
     "difficulty": 4,
     "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-11-07",
-    "id": "a5UVX000001LnA12AK",
+    "endDate": "2026-12-05",
+    "id": "a5UVX000001LmNd2AK",
     "leaders": [
-      "Joe Massery"
+      "Jonathan Unger"
     ],
     "location": {
-      "city": "Hudson",
+      "city": "Ipswich",
       "country": "United States",
       "state": "MA"
     },
-    "name": "Hike the Boroughs - Boroughs Loop Trail (BLT1)",
+    "name": "An Early Winter Willowdale Walk and Dance with the BCT",
     "program": "Volunteer Led",
-    "registration": "open",
+    "registerByDate": "2026-12-03",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-11-19",
     "registrationType": "Application",
-    "secondaryType": "Hiking, Local Walks, & Trail Running;Snowshoeing",
-    "startDate": "2026-11-07",
-    "startTime": "8:30 AM",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-05",
+    "startTime": "10:00 AM",
     "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001LnA12AK"
+    "url": "/s/oc-activity/a5UVX000001LmNd2AK"
   },
   {
     "chapterId": "0015000001Sg069AAB",
@@ -12843,7 +12845,7 @@
       "lon": -77.13
     },
     "costs": [
-      450
+      165
     ],
     "difficulty": 3,
     "difficultyLabel": "3 - Easy",
@@ -13641,7 +13643,7 @@
     "id": "a5UVX000001MJoD2AW",
     "keywords": "Nature, Fall Folliage, Art, Photo Moments, Relaxed, Scenic, Social",
     "leaders": [
-      "Richard Perez"
+      "Eileen Yin"
     ],
     "location": {
       "city": "New York",
@@ -15538,7 +15540,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-29",
     "startTime": "All Day",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -16094,7 +16096,7 @@
       "country": "United States",
       "state": "NY"
     },
-    "name": "Lake Sebago 8 miles (Moderate)",
+    "name": "CANCELLED:  Lake Sebago 8 miles (Moderate)",
     "program": "Volunteer Led",
     "registration": "open",
     "registrationType": "Registration",
@@ -16106,38 +16108,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001MdYP2A0"
-  },
-  {
-    "chapterId": "0015000001Sg064AAB",
-    "coords": {
-      "lat": 41.26,
-      "lon": -74.15
-    },
-    "costs": [],
-    "difficulty": 5,
-    "difficultyLabel": "5 - Vigorous",
-    "endDate": "2026-11-06",
-    "id": "a5UVX000001Me4f2AC",
-    "keywords": "hiking, moderate",
-    "leaders": [
-      "Rolande Hodel"
-    ],
-    "location": {
-      "city": "Tuxedo",
-      "country": "United States",
-      "state": "NY"
-    },
-    "name": "Elk Pen @ 9 AM (Vigorous)",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2026-11-06",
-    "startTime": "9:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001Me4f2AC"
   },
   {
     "chapterId": "0015000001Sg064AAB",
@@ -16662,7 +16632,7 @@
     "name": "Ocseolas VIA Greeley Ponds",
     "program": "Volunteer Led",
     "registerByDate": "2026-12-03",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-06",
     "registrationType": "Application",
     "startDate": "2026-12-05",
@@ -16769,6 +16739,40 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001MpWL2A0"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.35,
+      "lon": -71.07
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-17",
+    "id": "a5UVX000001MpbB2AS",
+    "leaders": [
+      "Jason Bui"
+    ],
+    "location": {
+      "city": "Boston",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "20s and 30s Back Bay Walk",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-17",
+    "registration": "open",
+    "registrationOpenDate": "2026-11-04",
+    "registrationType": "Registration",
+    "startDate": "2026-11-17",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MpbB2AS"
   },
   {
     "chapterId": "001VX00000utYFKYA2",
@@ -17037,6 +17041,38 @@
   },
   {
     "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.6,
+      "lon": -73.09
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-12-05",
+    "id": "a5UVX000001MuPZ2A0",
+    "leaders": [
+      "Claire Rusowicz"
+    ],
+    "location": {
+      "city": "Sharon",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Hike the CT AT : West Cornwall Rd.to Falls Village",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-12-05",
+    "startTime": "8:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MuPZ2A0"
+  },
+  {
+    "audience": "Adults",
     "chapterId": "0015000001Sg061AAB",
     "coords": {
       "lat": 42.58,
@@ -17070,6 +17106,10 @@
   },
   {
     "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.43,
+      "lon": -73.97
+    },
     "costs": [],
     "difficulty": 5,
     "difficultyLabel": "5 - Vigorous",
@@ -17291,6 +17331,39 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001MvTh2AK"
+  },
+  {
+    "chapterId": "0015000001Sg060AAB",
+    "coords": {
+      "lat": 44.23,
+      "lon": -71.75
+    },
+    "costs": [],
+    "difficulty": 6,
+    "difficultyLabel": "6 - Strenuous",
+    "endDate": "2026-12-28",
+    "id": "a5UVX000001MvVJ2A0",
+    "leaders": [
+      "Frank Silva"
+    ],
+    "location": {
+      "city": "Franconia",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Early Winter Hike To Cannon Mountain",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-20",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-12-01",
+    "registrationType": "Application",
+    "startDate": "2026-12-28",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MvVJ2A0"
   },
   {
     "chapterId": "0015000001Sg065AAB",
@@ -17588,6 +17661,41 @@
     "url": "/s/oc-activity/a5UVX000001MwuP2AS"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 40.87,
+      "lon": -73.88
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-11-11",
+    "id": "a5UVX000001Mxk12AC",
+    "leaders": [
+      "Gwen Hartstein"
+    ],
+    "location": {
+      "city": "Bronx",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Veteran's Day Forest Walk and Garden Stroll at the New York Botanical Garden, Bronx, NY",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-10",
+    "registration": "open",
+    "registrationOpenDate": "2026-11-06",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-11",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Local Walks",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Mxk12AC"
+  },
+  {
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg06BAAR",
     "coords": {
@@ -17749,5 +17857,163 @@
     "timeZone": "US EST",
     "type": "Biking",
     "url": "/s/oc-activity/a5UVX000001MyrN2AS"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-11-14",
+    "id": "a5UVX000001N1fZ2AS",
+    "leaders": [
+      "Rebeca Galbinski"
+    ],
+    "location": {
+      "city": "Manhattan",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Riverside Park Phone Photo Walk: From Dinosaur Playground to Dinosaur BBQ",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-14",
+    "startTime": "11:45 AM",
+    "status": "Published",
+    "subType": "Local Walks",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001N1fZ2AS"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.81,
+      "lon": -75.53
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-19",
+    "id": "a5UVX000001N1hB2AS",
+    "keywords": "hike, AT",
+    "leaders": [
+      "Susan Bickford-Martin"
+    ],
+    "location": {
+      "city": "Danielsville",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Hike Little Gap Skinny Loop",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-19",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001N1hB2AS"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.42,
+      "lon": -72.9
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-12-05",
+    "id": "a5UVX000001N1pF2AS",
+    "keywords": "Hike, Hiking,  Sleeping Giant State Park, Giant Master",
+    "leaders": [
+      "Mary Anne Hardy"
+    ],
+    "location": {
+      "city": "Hamden",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Sleeping Giant Blue & Yellow Loop (giant master hike #6) - Strenuous",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-12-05",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001N1pF2AS"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg066AAB",
+    "coords": {
+      "lat": 41.83,
+      "lon": -71.41
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-11-08",
+    "id": "a5UVX000001N2dF2AS",
+    "keywords": "20s/30s, 20s and 30s, 20s&30s, Providence",
+    "leaders": [
+      "Christopher Vieira"
+    ],
+    "location": {
+      "city": "Providence",
+      "country": "United States",
+      "state": "RI"
+    },
+    "name": "Sunday Morning along the Providence River: Coffee & Walk 20s and 30s",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-08",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Local Walks",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001N2dF2AS"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 42.45,
+      "lon": -71.88
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-24",
+    "id": "a5UVX000001N34f2AC",
+    "keywords": "hiking full moon",
+    "leaders": [
+      "Christopher Vieira"
+    ],
+    "location": {
+      "city": "Princeton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "20's & 30's Full Moon Hike at Mt. Wachusett",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-11-24",
+    "startTime": "6:30 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001N34f2AC"
   }
 ]
