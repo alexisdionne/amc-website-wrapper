@@ -3070,7 +3070,7 @@
     "name": "SEM 50th ANNUAL MEETING AND CELEBRATION DINNER",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-07",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-07-23",
     "registrationType": "Registration",
     "secondaryType": "Social",
@@ -3943,6 +3943,38 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001Ho6H2AS"
+  },
+  {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.26,
+      "lon": -71
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-11-15",
+    "id": "a5UVX000001HoCj2AK",
+    "keywords": "fall, avy, avalanche, beacon, search, practice, ski, skiing, riding, backcountry, AT, alpine, touring, boston, splitboarding, split-boarding, split, boarding",
+    "leaders": [
+      "Emily Madsen"
+    ],
+    "location": {
+      "city": "Quincy",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Boston Ski - Fall Avy Beacon Practice",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-15",
+    "startTime": "1:00 PM",
+    "status": "Published",
+    "subType": "Backcountry",
+    "timeZone": "US EST",
+    "type": "Skiing",
+    "url": "/s/oc-activity/a5UVX000001HoCj2AK"
   },
   {
     "chapterId": "0015000001Sg064AAB",
@@ -4921,41 +4953,6 @@
     "timeZone": "US EST",
     "type": "Skiing",
     "url": "/s/oc-activity/a5UVX000001ItFB2A0"
-  },
-  {
-    "chapterId": "0015000001Sg064AAB",
-    "coords": {
-      "lat": 43.48,
-      "lon": -75.34
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2027-01-18",
-    "id": "a5UVX000001Iucf2AC",
-    "keywords": "cross country ski xc nordic new york tug hill adirondack",
-    "leaders": [
-      "Ronaldo Gonzalez"
-    ],
-    "location": {
-      "city": "Boonville",
-      "country": "United States",
-      "state": "NY"
-    },
-    "name": "MLK Weekend Tug Hill Ski Touring - Go With The Snow!",
-    "program": "Volunteer Led",
-    "registerByDate": "2027-01-08",
-    "registration": "open",
-    "registrationOpenDate": "2026-09-18",
-    "registrationType": "Application",
-    "secondaryType": "Skiing",
-    "startDate": "2027-01-15",
-    "startTime": "6:00 PM",
-    "status": "Waitlist",
-    "subType": "Cross Country",
-    "timeZone": "US EST",
-    "type": "Skiing",
-    "url": "/s/oc-activity/a5UVX000001Iucf2AC"
   },
   {
     "chapterId": "0015000001Sg064AAB",
@@ -8451,6 +8448,43 @@
     "url": "/s/oc-activity/a5UVX000001L6uf2AC"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 45.46,
+      "lon": -69.59
+    },
+    "costs": [
+      875
+    ],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2027-01-18",
+    "id": "a5UVX000001L7SX2A0",
+    "leaders": [
+      "Jim Hutchinson"
+    ],
+    "location": {
+      "city": "Greenville",
+      "country": "United States",
+      "state": "ME"
+    },
+    "name": "Boston Ski - Maine Woods West Branch and Little Lyford XC Ski Tour",
+    "program": "Volunteer Led",
+    "registerByDate": "2027-01-12",
+    "registration": "open",
+    "registrationOpenDate": "2026-10-25",
+    "registrationType": "Application",
+    "secondaryType": "Skiing",
+    "startDate": "2027-01-14",
+    "startTime": "11:00 AM",
+    "status": "Published",
+    "subType": "Backcountry",
+    "timeZone": "US EST",
+    "type": "Skiing",
+    "url": "/s/oc-activity/a5UVX000001L7SX2A0"
+  },
+  {
     "chapterId": "001UN00000bpnMdYAI",
     "costs": [],
     "difficulty": 1,
@@ -11830,6 +11864,38 @@
     "url": "/s/oc-activity/a5UVX000001M6kX2AS"
   },
   {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 43.95,
+      "lon": -71.5
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2027-01-30",
+    "id": "a5UVX000001M6nl2AC",
+    "keywords": "nordic skiing, cross-country skiing, workshop, lessons",
+    "leaders": [
+      "Michael Barry"
+    ],
+    "location": {
+      "city": "Waterville Valley",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Boston Ski 2027 First Day on XC Skis Workshop at Waterville Valley, NH",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2027-01-30",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Cross Country",
+    "timeZone": "US EST",
+    "type": "Skiing",
+    "url": "/s/oc-activity/a5UVX000001M6nl2AC"
+  },
+  {
     "audience": "Adults",
     "chapterId": "0015000001Sg061AAB",
     "coords": {
@@ -11891,6 +11957,39 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001M6uD2AS"
+  },
+  {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 44.17,
+      "lon": -71.16
+    },
+    "costs": [
+      20
+    ],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-12-06",
+    "id": "a5UVX000001M6vp2AC",
+    "leaders": [
+      "Louis NeJame"
+    ],
+    "location": {
+      "city": "Jackson",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Boston Ski - Intro to Uphill - Black Mountain NH",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-12-06",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Backcountry",
+    "timeZone": "US EST",
+    "type": "Skiing",
+    "url": "/s/oc-activity/a5UVX000001M6vp2AC"
   },
   {
     "chapterId": "0015000001Sg060AAB",
@@ -12813,7 +12912,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-11-07",
     "startTime": "9:30 AM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -14958,42 +15057,6 @@
     "url": "/s/oc-activity/a5UVX000001MZD32AO"
   },
   {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg06DAAR",
-    "coords": {
-      "lat": 42.06,
-      "lon": -71.17
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-12-03",
-    "id": "a5UVX000001MZMj2AO",
-    "keywords": "Borderland",
-    "leaders": [
-      "Gerard Campbell"
-    ],
-    "location": {
-      "city": "Easton",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "Thursday Morning Hike at Borderland State Park Hike",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-12-01",
-    "registration": "not-yet",
-    "registrationOpenDate": "2026-11-19",
-    "registrationType": "Application",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-12-03",
-    "startTime": "10:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001MZMj2AO"
-  },
-  {
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg069AAB",
     "coords": {
@@ -16238,7 +16301,9 @@
     },
     "name": "A Big Loop over Cardigan on a Wednesday",
     "program": "Volunteer Led",
+    "registerByDate": "2026-11-15",
     "registration": "open",
+    "registrationOpenDate": "2026-11-07",
     "registrationType": "Application",
     "startDate": "2026-11-18",
     "startTime": "All Day",
@@ -17091,7 +17156,7 @@
     "name": "Pawtuckaway State Park South Mountain",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-18",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-07",
     "registrationType": "Registration",
     "startDate": "2026-11-21",
