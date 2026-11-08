@@ -450,7 +450,7 @@
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg05xAAB",
     "costs": [
-      25
+      80
     ],
     "difficulty": 1,
     "difficultyLabel": "1 - Accessible",
@@ -1908,7 +1908,7 @@
       "lon": -74.64
     },
     "costs": [
-      40
+      5
     ],
     "difficulty": 4,
     "difficultyLabel": "4 - Moderate",
@@ -2072,7 +2072,7 @@
       "lon": -71.18
     },
     "costs": [
-      5
+      86
     ],
     "difficulty": 2,
     "difficultyLabel": "2 - Relaxed",
@@ -5370,7 +5370,7 @@
     "name": "PROGRESSIVE HIKING SERIES FROM THE BLUE HILLS TO METRO WEST – HIKE #8",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-08",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-27",
     "registrationType": "Registration",
     "startDate": "2026-11-10",
@@ -7138,7 +7138,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-08",
     "startTime": "11:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -8249,7 +8249,7 @@
     "name": "Fitness Hike - Adams Farm Walpole",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-08",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-11-01",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -10175,7 +10175,7 @@
       "lon": -69.59
     },
     "costs": [
-      999999
+      833.27
     ],
     "difficulty": 4,
     "difficultyLabel": "4 - Moderate",
@@ -10606,7 +10606,7 @@
       "lon": -69.32
     },
     "costs": [
-      999999
+      487.1
     ],
     "difficulty": 2,
     "difficultyLabel": "2 - Relaxed",
@@ -11157,7 +11157,7 @@
     "registrationType": "Registration",
     "startDate": "2026-11-12",
     "startTime": "9:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -11601,7 +11601,7 @@
     "name": "Hiking with Trailwork in the Blue Hills",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-08",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-26",
     "registrationType": "Registration",
     "secondaryType": "Trail Work",
@@ -11954,7 +11954,7 @@
       "lon": -77.13
     },
     "costs": [
-      165
+      450
     ],
     "difficulty": 3,
     "difficultyLabel": "3 - Easy",
@@ -12408,7 +12408,7 @@
       "lon": -71.35
     },
     "costs": [
-      100
+      80
     ],
     "difficulty": 6,
     "difficultyLabel": "6 - Strenuous",
@@ -13034,7 +13034,7 @@
       "lon": -71.1
     },
     "costs": [
-      165
+      450
     ],
     "difficulty": 3,
     "difficultyLabel": "3 - Easy",
@@ -16607,7 +16607,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-11-11",
     "startTime": "10:00 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Local Walks",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -17035,7 +17035,7 @@
       "lon": -74.32
     },
     "costs": [
-      90
+      180
     ],
     "difficulty": 3,
     "difficultyLabel": "3 - Easy",
@@ -17293,6 +17293,41 @@
     "url": "/s/oc-activity/a5UVX000001N6KH2A0"
   },
   {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.09
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-22",
+    "id": "a5UVX000001N6P72AK",
+    "keywords": "Blue Hills",
+    "leaders": [
+      "Jason Bui"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "20's and 30's Blue Hills Dog-Friendly Beginner Hike",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-22",
+    "registration": "open",
+    "registrationOpenDate": "2026-11-08",
+    "registrationType": "Registration",
+    "startDate": "2026-11-22",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001N6P72AK"
+  },
+  {
     "chapterId": "0015000001Sg05zAAB",
     "coords": {
       "lat": 41.84,
@@ -17469,5 +17504,105 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001N6wz2AC"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.61
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-11-26",
+    "id": "a5UVX000001N7Ej2AK",
+    "keywords": "Thanksgiving Day Morning",
+    "leaders": [
+      "Patricia Lambert"
+    ],
+    "location": {
+      "city": "Upton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "The Gobbler Burner!",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-22",
+    "registration": "open",
+    "registrationOpenDate": "2026-11-08",
+    "registrationType": "Application",
+    "startDate": "2026-11-26",
+    "startTime": "7:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001N7Ej2AK"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.2,
+      "lon": -74.13
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-11",
+    "id": "a5UVX000001N7GL2A0",
+    "leaders": [
+      "Jay Beilis"
+    ],
+    "location": {
+      "city": "Sloatsburg",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Lake Sebago 8 miles 9:30 am (Moderate)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-11",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001N7GL2A0"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 42.51,
+      "lon": -71.86
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-27",
+    "id": "a5UVX000001N7Hx2AK",
+    "leaders": [
+      "Peter Eggleston"
+    ],
+    "location": {
+      "city": "Princeton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "20s & 30s Hike at Leominster State Forest (Optional Social After)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-27",
+    "startTime": "10:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001N7Hx2AK"
   }
 ]
