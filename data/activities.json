@@ -1463,6 +1463,42 @@
     "url": "/s/oc-activity/a5UVX0000017AID2A2"
   },
   {
+    "audience": "Women+",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 44.24,
+      "lon": -71.01
+    },
+    "costs": [
+      400
+    ],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-13",
+    "id": "a5UVX0000017C3t2AE",
+    "leaders": [
+      "Kate O'Brien"
+    ],
+    "location": {
+      "city": "Chatham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Womens+ Hiking Weekend at Cold River Camp 2026",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-13",
+    "registration": "open",
+    "registrationOpenDate": "2026-08-04",
+    "registrationType": "Application",
+    "startDate": "2026-10-02",
+    "startTime": "5:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX0000017C3t2AE"
+  },
+  {
     "chapterId": "0015000001TGzFBAA1",
     "coords": {
       "lat": 43.3,
@@ -2950,7 +2986,7 @@
     "registrationType": "Registration",
     "startDate": "2026-11-04",
     "startTime": "7:00 PM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -3110,7 +3146,7 @@
     "secondaryType": "Conservation",
     "startDate": "2026-12-19",
     "startTime": "9:00 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Conservation",
     "timeZone": "US EST",
     "type": "Conservation",
@@ -3263,9 +3299,9 @@
       "Brian Gollub"
     ],
     "location": {
-      "city": "Norwalk",
+      "city": "Milton",
       "country": "United States",
-      "state": "CT"
+      "state": "MA"
     },
     "name": "Fall Tuesday Morning Blue Hills Conditioning Series Hike #10",
     "program": "Volunteer Led",
@@ -4154,40 +4190,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001IY4H2AW"
-  },
-  {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg06DAAR",
-    "coords": {
-      "lat": 42.24,
-      "lon": -71.1
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-12-01",
-    "id": "a5UVX000001IYAj2AO",
-    "leaders": [
-      "Janet Harris"
-    ],
-    "location": {
-      "city": "Milton",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "Fall Tuesday Morning Blue Hills Conditioning Hike Series #11",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-11-29",
-    "registration": "not-yet",
-    "registrationOpenDate": "2026-11-10",
-    "registrationType": "Application",
-    "startDate": "2026-12-01",
-    "startTime": "9:45 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001IYAj2AO"
   },
   {
     "chapterId": "0015000001Sg06DAAR",
@@ -5216,7 +5218,7 @@
     "name": "PROGRESSIVE HIKING SERIES FROM THE BLUE HILLS TO METRO WEST – HIKE #10",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-22",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-10",
     "registrationType": "Registration",
     "startDate": "2026-11-24",
@@ -6249,7 +6251,7 @@
     "secondaryType": "Biking",
     "startDate": "2026-11-12",
     "startTime": "8:45 AM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -7259,39 +7261,6 @@
     "url": "/s/oc-activity/a5UVX000001KxY12AK"
   },
   {
-    "chapterId": "0015000001Sg05xAAB",
-    "coords": {
-      "lat": 42.59,
-      "lon": -72.6
-    },
-    "costs": [],
-    "difficulty": 1,
-    "difficultyLabel": "1 - Accessible",
-    "endDate": "2026-11-28",
-    "id": "a5UVX000001Ky5t2AC",
-    "keywords": "Climbing, Mountaineering, Social",
-    "leaders": [
-      "Christopher Neil"
-    ],
-    "location": {
-      "city": "Greenfield",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "SendsGiving - Western Ma Mountaineering Social",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Social",
-    "startDate": "2026-11-28",
-    "startTime": "4:00 PM",
-    "status": "Published",
-    "subType": "Gym",
-    "timeZone": "US EST",
-    "type": "Climbing & Mountaineering",
-    "url": "/s/oc-activity/a5UVX000001Ky5t2AC"
-  },
-  {
     "chapterId": "0015000001Sg05zAAB",
     "coords": {
       "lat": 41.2,
@@ -7419,7 +7388,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-14",
     "startTime": "10:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Top Rope Rock",
     "timeZone": "US EST",
     "type": "Climbing & Mountaineering",
@@ -7584,7 +7553,7 @@
     "name": "Mount Garfield",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-10",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-30",
     "registrationType": "Application",
     "startDate": "2026-11-14",
@@ -7902,7 +7871,7 @@
     "registrationType": "Application",
     "startDate": "2026-12-05",
     "startTime": "All Day",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -14788,7 +14757,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-18",
     "startTime": "All Day",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -15052,7 +15021,7 @@
     "registrationType": "Registration",
     "startDate": "2026-11-17",
     "startTime": "6:00 PM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -16635,6 +16604,39 @@
     "url": "/s/oc-activity/a5UVX000001N6Dp2AK"
   },
   {
+    "chapterId": "001UN00000bpnMdYAI",
+    "coords": {
+      "lat": 40.75,
+      "lon": -73.98
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-14",
+    "id": "a5UVX000001N6FR2A0",
+    "keywords": "Concrete to Trails, NYGrowth, C2T, AMC NYC, hike, nature, walk, bus",
+    "leaders": [
+      "Mari Ishihara"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Public Transportation Hike : Cold Spring    Bull Hill Loop",
+    "program": "Staff Activities",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-14",
+    "startTime": "8:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001N6FR2A0"
+  },
+  {
     "chapterId": "0015000001Sg069AAB",
     "costs": [],
     "difficulty": 5,
@@ -16931,6 +16933,7 @@
     },
     "name": "20s & 30s Hike at Leominster State Forest (Optional Social After)",
     "program": "Volunteer Led",
+    "registerByDate": "2026-11-26",
     "registration": "open",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -17201,6 +17204,40 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001N7pp2AC"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg066AAB",
+    "coords": {
+      "lat": 41.83,
+      "lon": -71.41
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-16",
+    "id": "a5UVX000001N7uf2AC",
+    "keywords": "20s/30s, 20s and 30s, 20s&30s, Providence",
+    "leaders": [
+      "Christopher Vieira"
+    ],
+    "location": {
+      "city": "Providence",
+      "country": "United States",
+      "state": "RI"
+    },
+    "name": "20s/30s Providence River After Work Walk",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Social",
+    "startDate": "2026-11-16",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001N7uf2AC"
   },
   {
     "audience": "Adults",
