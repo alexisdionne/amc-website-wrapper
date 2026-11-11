@@ -4193,7 +4193,7 @@
     "registrationType": "Registration",
     "startDate": "2026-11-14",
     "startTime": "8:45 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -4658,7 +4658,7 @@
     "registrationType": "Show & Go",
     "startDate": "2026-11-14",
     "startTime": "11:00 AM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -4727,7 +4727,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-11-12",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5239,37 +5239,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001Jjor2AC"
-  },
-  {
-    "chapterId": "0015000001Sg064AAB",
-    "coords": {
-      "lat": 41.15,
-      "lon": -74.35
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-11-15",
-    "id": "a5UVX000001Jjs52AC",
-    "leaders": [
-      "David Hartree"
-    ],
-    "location": {
-      "city": "West Milford",
-      "country": "United States",
-      "state": "NJ"
-    },
-    "name": "Terrace Pond from the North (Moderate)",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "startDate": "2026-11-15",
-    "startTime": "9:15 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001Jjs52AC"
   },
   {
     "chapterId": "0015000001Sg05zAAB",
@@ -6128,7 +6097,7 @@
     "secondaryType": "Biking",
     "startDate": "2026-11-12",
     "startTime": "8:45 AM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -6639,7 +6608,7 @@
     "registrationType": "Application",
     "startDate": "2026-12-13",
     "startTime": "All Day",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -7849,7 +7818,7 @@
     "program": "Volunteer Led",
     "registerByDate": "2027-01-02",
     "registration": "not-yet",
-    "registrationOpenDate": "2026-11-22",
+    "registrationOpenDate": "2026-12-06",
     "registrationType": "Registration",
     "startDate": "2027-01-09",
     "startTime": "8:00 AM",
@@ -7890,39 +7859,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001LNYv2AO"
-  },
-  {
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 40.46,
-      "lon": -75.24
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-11-12",
-    "id": "a5UVX000001LO1x2AG",
-    "keywords": "guided hike nockamixon state park outdoor adventure beginner friendly hiking pennsylvania highlands trail bucks county",
-    "leaders": [
-      "Madison Nicole DeGerolamo"
-    ],
-    "location": {
-      "city": "Quakertown",
-      "country": "United States",
-      "state": "PA"
-    },
-    "name": "Guided Hike on the Pennsylvania Highlands Trail at Nockamixon State Park",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Nature Walks",
-    "startDate": "2026-11-12",
-    "startTime": "10:00 AM",
-    "status": "Waitlist",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001LO1x2AG"
   },
   {
     "chapterId": "0015000001Sg06BAAR",
@@ -8609,6 +8545,40 @@
     "url": "/s/oc-activity/a5UVX000001Ldtp2AC"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.49,
+      "lon": -71.88
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-14",
+    "id": "a5UVX000001LeRh2AK",
+    "keywords": "Hike",
+    "leaders": [
+      "Sujatha Srinivasan"
+    ],
+    "location": {
+      "city": "Princeton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Wachusetts Mountain",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-14",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001LeRh2AK"
+  },
+  {
     "chapterId": "001UN00000bpnMdYAI",
     "coords": {
       "lat": 44.17,
@@ -9138,7 +9108,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running;Snowshoeing",
     "startDate": "2026-11-12",
     "startTime": "9:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -10928,7 +10898,7 @@
       "lon": -77.13
     },
     "costs": [
-      450
+      165
     ],
     "difficulty": 3,
     "difficultyLabel": "3 - Easy",
@@ -15394,7 +15364,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-11-11",
     "startTime": "10:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Local Walks",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -17995,5 +17965,497 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001N9y52AC"
+  },
+  {
+    "chapterId": "0015000001Sg060AAB",
+    "coords": {
+      "lat": 42.84,
+      "lon": -72.11
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-23",
+    "id": "a5UVX000001NA9N2AW",
+    "leaders": [
+      "Stephanie Croteau"
+    ],
+    "location": {
+      "city": "Jaffrey",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "The peaks below Mt Monadnock",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-11-23",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NA9N2AW"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.72,
+      "lon": -72.74
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-15",
+    "id": "a5UVX000001NAAz2AO",
+    "leaders": [
+      "Leo Pon"
+    ],
+    "location": {
+      "city": "Newington",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Newington Fastrak to Shuttle Meadow Reservoir (SO, FL/RL, RG, 10-12) 19 miles",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Biking",
+    "startDate": "2026-11-15",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Road",
+    "timeZone": "US EST",
+    "type": "Biking",
+    "url": "/s/oc-activity/a5UVX000001NAAz2AO"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-12-28",
+    "id": "a5UVX000001NAMH2A4",
+    "keywords": "yoga, free, public, programming, Pinkham, Pinkham Notch, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Yoga",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-12-28",
+    "startTime": "4:00 PM",
+    "status": "Published",
+    "subType": "Yoga",
+    "timeZone": "US EST",
+    "type": "Yoga",
+    "url": "/s/oc-activity/a5UVX000001NAMH2A4"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-12-29",
+    "id": "a5UVX000001NANt2AO",
+    "keywords": "meditation, mindfulness free, public, programming, Pinkham, Pinkham Notch, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Morning Meditation",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-12-29",
+    "startTime": "6:30 AM",
+    "status": "Published",
+    "subType": "Yoga",
+    "timeZone": "US EST",
+    "type": "Yoga",
+    "url": "/s/oc-activity/a5UVX000001NANt2AO"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-12-29",
+    "id": "a5UVX000001NAPV2A4",
+    "keywords": "yoga, free, public, programming, Pinkham, Pinkham Notch, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Morning Yoga",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-12-29",
+    "startTime": "7:00 AM",
+    "status": "Published",
+    "subType": "Yoga",
+    "timeZone": "US EST",
+    "type": "Yoga",
+    "url": "/s/oc-activity/a5UVX000001NAPV2A4"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-12-29",
+    "id": "a5UVX000001NASj2AO",
+    "keywords": "yoga, free, public, programming, Pinkham, Pinkham Notch, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Afternoon Yoga",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-12-29",
+    "startTime": "4:00 PM",
+    "status": "Published",
+    "subType": "Yoga",
+    "timeZone": "US EST",
+    "type": "Yoga",
+    "url": "/s/oc-activity/a5UVX000001NASj2AO"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-12-30",
+    "id": "a5UVX000001NAUL2A4",
+    "keywords": "meditation, mindfulness free, public, programming, Pinkham, Pinkham Notch, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Morning Meditation",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-12-30",
+    "startTime": "6:30 AM",
+    "status": "Published",
+    "subType": "Yoga",
+    "timeZone": "US EST",
+    "type": "Yoga",
+    "url": "/s/oc-activity/a5UVX000001NAUL2A4"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-12-30",
+    "id": "a5UVX000001NAXZ2A4",
+    "keywords": "yoga, free, public, programming, Pinkham, Pinkham Notch, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Morning Yoga",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-12-30",
+    "startTime": "7:00 AM",
+    "status": "Published",
+    "subType": "Yoga",
+    "timeZone": "US EST",
+    "type": "Yoga",
+    "url": "/s/oc-activity/a5UVX000001NAXZ2A4"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-12-28",
+    "id": "a5UVX000001NAZB2A4",
+    "keywords": "bingo, game, flowers, alpine, Guest, speaker, talk, nature, free, public, presentation, lecture, education, educational, naturalist, nature talk, evening program, programming, evening, science, volunteer naturalist, Pinkham, Pinkham Notch, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Evening Program: Flower and Fauna Bingo",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-12-28",
+    "startTime": "7:30 PM",
+    "status": "Published",
+    "subType": "Evening Programs",
+    "timeZone": "US EST",
+    "type": "Evening Programs",
+    "url": "/s/oc-activity/a5UVX000001NAZB2A4"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-12-29",
+    "id": "a5UVX000001NAan2AG",
+    "keywords": "jeopardy, game, hut, huts, Guest, speaker, talk, nature, free, public, presentation, lecture, education, educational, naturalist, nature talk, evening program, programming, evening, science, volunteer naturalist, Pinkham, Pinkham Notch, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Evening Program: AMC Hut Jeopardy",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-12-29",
+    "startTime": "7:30 PM",
+    "status": "Published",
+    "subType": "Evening Programs",
+    "timeZone": "US EST",
+    "type": "Evening Programs",
+    "url": "/s/oc-activity/a5UVX000001NAan2AG"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-12-30",
+    "id": "a5UVX000001NAcP2AW",
+    "keywords": "stars, astronomy, Guest, speaker, talk, nature, free, public, presentation, lecture, education, educational, naturalist, nature talk, evening program, programming, evening, science, volunteer naturalist, Pinkham, Pinkham Notch, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Evening Program: Mountains of Stars",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-12-30",
+    "startTime": "7:30 PM",
+    "status": "Published",
+    "subType": "Evening Programs",
+    "timeZone": "US EST",
+    "type": "Evening Programs",
+    "url": "/s/oc-activity/a5UVX000001NAcP2AW"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.22,
+      "lon": -71.41
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-12-27",
+    "id": "a5UVX000001NAe12AG",
+    "keywords": "yoga, free, public, programming, Highland, Highland Center, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Carroll",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Morning Yoga",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-12-27",
+    "startTime": "8:00 AM",
+    "status": "Published",
+    "subType": "Yoga",
+    "timeZone": "US EST",
+    "type": "Yoga",
+    "url": "/s/oc-activity/a5UVX000001NAe12AG"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.22,
+      "lon": -71.41
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-12-28",
+    "id": "a5UVX000001NAfd2AG",
+    "keywords": "yoga, free, public, programming, Highland, Highland Center, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Carroll",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Morning Yoga",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-12-28",
+    "startTime": "8:00 AM",
+    "status": "Published",
+    "subType": "Yoga",
+    "timeZone": "US EST",
+    "type": "Yoga",
+    "url": "/s/oc-activity/a5UVX000001NAfd2AG"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.22,
+      "lon": -71.41
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-12-29",
+    "id": "a5UVX000001NAhF2AW",
+    "keywords": "yoga, free, public, programming, Highland, Highland Center, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Carroll",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Morning Yoga",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-12-29",
+    "startTime": "8:00 AM",
+    "status": "Published",
+    "subType": "Yoga",
+    "timeZone": "US EST",
+    "type": "Yoga",
+    "url": "/s/oc-activity/a5UVX000001NAhF2AW"
+  },
+  {
+    "chapterId": "001VX00000utYFKYA2",
+    "coords": {
+      "lat": 44.22,
+      "lon": -71.41
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-12-30",
+    "id": "a5UVX000001NAir2AG",
+    "keywords": "yoga, free, public, programming, Highland, Highland Center, white mountains",
+    "leaders": [
+      "AMC Naturalist"
+    ],
+    "location": {
+      "city": "Carroll",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Morning Yoga",
+    "program": "Naturalist Program",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Nature & Arts",
+    "startDate": "2026-12-30",
+    "startTime": "8:00 AM",
+    "status": "Published",
+    "subType": "Yoga",
+    "timeZone": "US EST",
+    "type": "Yoga",
+    "url": "/s/oc-activity/a5UVX000001NAir2AG"
   }
 ]
