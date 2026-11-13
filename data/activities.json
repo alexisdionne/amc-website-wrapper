@@ -1980,40 +1980,6 @@
     "url": "/s/oc-activity/a5UVX000001Avdx2AC"
   },
   {
-    "audience": "20’s & 30’s",
-    "chapterId": "0015000001Sg066AAB",
-    "coords": {
-      "lat": 41.73,
-      "lon": -71.47
-    },
-    "costs": [],
-    "difficulty": 1,
-    "difficultyLabel": "1 - Accessible",
-    "endDate": "2026-11-12",
-    "id": "a5UVX000001CAKn2AO",
-    "keywords": "20s/30s, 20s and 30s, 20s&30s, Providence",
-    "leaders": [
-      "Christopher Vieira"
-    ],
-    "location": {
-      "city": "Warwick",
-      "country": "United States",
-      "state": "RI"
-    },
-    "name": "20s and 30s Social at Apponaug Brewing Company",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "secondaryType": "Social",
-    "startDate": "2026-11-12",
-    "startTime": "6:00 PM",
-    "status": "Published",
-    "subType": "Local Socials",
-    "timeZone": "US EST",
-    "type": "Social",
-    "url": "/s/oc-activity/a5UVX000001CAKn2AO"
-  },
-  {
     "chapterId": "001UN00000bpnMdYAI",
     "coords": {
       "lat": 44.15,
@@ -4266,7 +4232,7 @@
     "name": "Winter Hiking Workshop - Worcester Chapter",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-12",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-26",
     "registrationType": "Application",
     "secondaryType": "Outdoor Learning Experience",
@@ -4407,7 +4373,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-17",
     "startTime": "9:45 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -4637,40 +4603,6 @@
     "timeZone": "US EST",
     "type": "Backpacking",
     "url": "/s/oc-activity/a5UVX000001JOSf2AO"
-  },
-  {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg06DAAR",
-    "coords": {
-      "lat": 41.68,
-      "lon": -70.12
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-11-12",
-    "id": "a5UVX000001JPJt2AO",
-    "keywords": "Cape Hikes",
-    "leaders": [
-      "Carla Fogaren"
-    ],
-    "location": {
-      "city": "Harwich",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "Cape Hikes- Bell's Neck, Harwich",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-11-12",
-    "startTime": "10:00 AM",
-    "status": "Waitlist",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001JPJt2AO"
   },
   {
     "chapterId": "0015000001Sg060AAB",
@@ -4904,13 +4836,13 @@
     "name": "Fall Ramble down Tetasset Ridge to Deed Rock (and back)",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-13",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-09-24",
     "registrationType": "Application",
     "secondaryType": "Nature Walks",
     "startDate": "2026-11-15",
     "startTime": "9:45 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5682,41 +5614,6 @@
     "url": "/s/oc-activity/a5UVX000001K4wX2AS"
   },
   {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg06DAAR",
-    "coords": {
-      "lat": 42.12,
-      "lon": -71.21
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-11-12",
-    "id": "a5UVX000001K5qz2AC",
-    "leaders": [
-      "Annemarie McKee"
-    ],
-    "location": {
-      "city": "Sharon",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "Thursday Morning Hike - Moose Hill Wildlife Santuary (Mass Audubon)",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-11-10",
-    "registration": "closed",
-    "registrationOpenDate": "2026-10-18",
-    "registrationType": "Application",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-11-12",
-    "startTime": "9:45 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001K5qz2AC"
-  },
-  {
     "chapterId": "0015000001Sg060AAB",
     "coords": {
       "lat": 43.66,
@@ -6042,39 +5939,6 @@
   },
   {
     "audience": "Adults",
-    "chapterId": "0015000001Sg05zAAB",
-    "coords": {
-      "lat": 41.62,
-      "lon": -72.96
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-11-12",
-    "id": "a5UVX000001KJif2AG",
-    "leaders": [
-      "Joanna Miller"
-    ],
-    "location": {
-      "city": "Wolcott",
-      "country": "United States",
-      "state": "CT"
-    },
-    "name": "Moderate hike of southern terminus of Tunxis Trail, Wolcott",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Biking",
-    "startDate": "2026-11-12",
-    "startTime": "8:45 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001KJif2AG"
-  },
-  {
-    "audience": "Adults",
     "chapterId": "0015000001Sg061AAB",
     "coords": {
       "lat": 44.14,
@@ -6323,7 +6187,8 @@
     },
     "name": "New York-North Jersey Annual Business Meeting and Dinner November 14, 2026",
     "program": "Volunteer Led",
-    "registration": "open",
+    "registerByDate": "2026-11-12",
+    "registration": "closed",
     "registrationType": "Registration",
     "secondaryType": "Trail Work",
     "startDate": "2026-11-14",
@@ -6806,7 +6671,7 @@
     "secondaryType": "Climbing & Mountaineering",
     "startDate": "2026-12-10",
     "startTime": "7:00 PM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Backcountry",
     "timeZone": "US EST",
     "type": "Skiing",
@@ -8239,7 +8104,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-21",
     "startTime": "9:30 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -8951,38 +8816,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001LmNd2AK"
-  },
-  {
-    "chapterId": "0015000001Sg069AAB",
-    "coords": {
-      "lat": 42.27,
-      "lon": -71.64
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-11-12",
-    "id": "a5UVX000001LnEr2AK",
-    "leaders": [
-      "Joe Massery"
-    ],
-    "location": {
-      "city": "Westborough",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "Hike the Boroughs - Westboro Charm Bracelet (WCB2)",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Application",
-    "secondaryType": "Hiking, Local Walks, & Trail Running;Snowshoeing",
-    "startDate": "2026-11-12",
-    "startTime": "9:00 AM",
-    "status": "Waitlist",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001LnEr2AK"
   },
   {
     "chapterId": "0015000001Sg069AAB",
@@ -10045,37 +9878,6 @@
     "timeZone": "US EST",
     "type": "Social",
     "url": "/s/oc-activity/a5UVX000001M6ZF2A0"
-  },
-  {
-    "chapterId": "0015000001Sg05zAAB",
-    "coords": {
-      "lat": 41.44,
-      "lon": -72.67
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-11-12",
-    "id": "a5UVX000001M6kX2AS",
-    "leaders": [
-      "Dennis Jakiela"
-    ],
-    "location": {
-      "city": "Durham",
-      "country": "United States",
-      "state": "CT"
-    },
-    "name": "Mattabesett Trail – Rockland Preserve, Mt. Pisgah, Pyramid Rock",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2026-11-12",
-    "startTime": "9:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001M6kX2AS"
   },
   {
     "chapterId": "0015000001Sg061AAB",
@@ -12435,7 +12237,7 @@
     "secondaryType": "Skiing",
     "startDate": "2027-01-29",
     "startTime": "6:00 PM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Backcountry",
     "timeZone": "US EST",
     "type": "Skiing",
@@ -13088,39 +12890,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001MaU52AK"
-  },
-  {
-    "chapterId": "0015000001Sg05zAAB",
-    "coords": {
-      "lat": 41.64,
-      "lon": -72.12
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-11-12",
-    "id": "a5UVX000001MaVh2AK",
-    "keywords": "Hiking, Sprague, Franklin",
-    "leaders": [
-      "Barry Black"
-    ],
-    "location": {
-      "city": "Franklin",
-      "country": "United States",
-      "state": "CT"
-    },
-    "name": "Sprague Land Preserve (C3C) Easy",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-11-12",
-    "startTime": "10:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001MaVh2AK"
   },
   {
     "audience": "Adults",
@@ -15143,38 +14912,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001MyUn2AK"
-  },
-  {
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 40.2,
-      "lon": -74.92
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-11-12",
-    "id": "a5UVX000001Mykv2AC",
-    "leaders": [
-      "Dave Hoke"
-    ],
-    "location": {
-      "city": "Langhorne",
-      "country": "United States",
-      "state": "PA"
-    },
-    "name": "Hike Core Creek Park, 5 miles",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-11-12",
-    "startTime": "8:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001Mykv2AC"
   },
   {
     "audience": "20’s & 30’s;55+;Adults",
@@ -18339,6 +18076,40 @@
     "url": "/s/oc-activity/a5UVX000001NBF72AO"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.6,
+      "lon": -73.09
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-17",
+    "id": "a5UVX000001NBIL2A4",
+    "leaders": [
+      "Maite Barainca"
+    ],
+    "location": {
+      "city": "Litchfield",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Prospect Mountain Preserve, Litchfield, CT - Moderate",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-14",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-11-15",
+    "registrationType": "Application",
+    "startDate": "2026-12-17",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NBIL2A4"
+  },
+  {
     "chapterId": "0015000001Sg061AAB",
     "coords": {
       "lat": 42.61,
@@ -18370,5 +18141,68 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001NBNB2A4"
+  },
+  {
+    "chapterId": "0015000001Sg060AAB",
+    "costs": [
+      10
+    ],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-12-10",
+    "id": "a5UVX000001NBTd2AO",
+    "keywords": "Fun, Friends, Food",
+    "leaders": [
+      "Thomas Loeff"
+    ],
+    "location": {
+      "city": "Concord",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "New Hampshire Chapter Social",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Snowshoeing",
+    "startDate": "2026-12-10",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Local Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001NBTd2AO"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.16,
+      "lon": -71.04
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-18",
+    "id": "a5UVX000001NBa52AG",
+    "leaders": [
+      "Nick Georgantas"
+    ],
+    "location": {
+      "city": "Randolph",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Blue Hills Trail Trace- Donovan School",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-18",
+    "startTime": "8:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NBa52AG"
   }
 ]
