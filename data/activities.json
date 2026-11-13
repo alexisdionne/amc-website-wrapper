@@ -187,6 +187,39 @@
   },
   {
     "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 41.65,
+      "lon": -70.48
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-20",
+    "id": "a5UUN000001YXFV2A4",
+    "keywords": "Cape Hikes",
+    "leaders": [
+      "Barbara Gaughan"
+    ],
+    "location": {
+      "city": "Mashpee",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Cape Hikes - Johns Pond Park Conservation Area, Mashpee",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-12-20",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UUN000001YXFV2A4"
+  },
+  {
+    "audience": "Adults",
     "chapterId": "0015000001Sg065AAB",
     "coords": {
       "lat": 43.82,
@@ -1492,7 +1525,7 @@
     "registrationType": "Application",
     "startDate": "2026-10-02",
     "startTime": "5:00 PM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -1856,7 +1889,7 @@
       "lon": -74.64
     },
     "costs": [
-      5
+      40
     ],
     "difficulty": 4,
     "difficultyLabel": "4 - Moderate",
@@ -4231,14 +4264,14 @@
     },
     "name": "Winter Hiking Workshop - Worcester Chapter",
     "program": "Volunteer Led",
-    "registerByDate": "2026-11-12",
+    "registerByDate": "2026-11-13",
     "registration": "closed",
     "registrationOpenDate": "2026-09-26",
     "registrationType": "Application",
     "secondaryType": "Outdoor Learning Experience",
     "startDate": "2026-11-14",
     "startTime": "9:00 AM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5891,7 +5924,7 @@
     "name": "Explore the Tompson Street Reservation in Autumn on the North Shore",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-27",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-13",
     "registrationType": "Application",
     "secondaryType": "Biking",
@@ -6932,7 +6965,7 @@
     "name": "Day After Thanksgiving Hike at Callahan State Park",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-25",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-13",
     "registrationType": "Application",
     "startDate": "2026-11-27",
@@ -7110,41 +7143,6 @@
     "timeZone": "US EST",
     "type": "Climbing & Mountaineering",
     "url": "/s/oc-activity/a5UVX000001L5dd2AC"
-  },
-  {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg061AAB",
-    "coords": {
-      "lat": 44.28,
-      "lon": -71.69
-    },
-    "costs": [],
-    "difficulty": 6,
-    "difficultyLabel": "6 - Strenuous",
-    "endDate": "2026-11-14",
-    "id": "a5UVX000001L6uf2AC",
-    "keywords": "summit, 4000, view",
-    "leaders": [
-      "Marie Sorensen"
-    ],
-    "location": {
-      "city": "Bethlehem",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "Mount Garfield",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-11-10",
-    "registration": "closed",
-    "registrationOpenDate": "2026-10-30",
-    "registrationType": "Application",
-    "startDate": "2026-11-14",
-    "startTime": "8:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001L6uf2AC"
   },
   {
     "audience": "Adults",
@@ -11943,7 +11941,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-17",
     "startTime": "10:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -15404,7 +15402,7 @@
     "secondaryType": "Trail Work",
     "startDate": "2026-11-16",
     "startTime": "10:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -15927,7 +15925,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-12-11",
     "startTime": "8:30 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -15999,6 +15997,40 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001N7uf2AC"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg066AAB",
+    "coords": {
+      "lat": 41.87,
+      "lon": -71.46
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-23",
+    "id": "a5UVX000001N7wH2AS",
+    "keywords": "20s/30s, 20s and 30s, 20s&30s, Providence",
+    "leaders": [
+      "Christopher Vieira"
+    ],
+    "location": {
+      "city": "North Providence",
+      "country": "United States",
+      "state": "RI"
+    },
+    "name": "20s/30s Governor Notte Park After Work Walk",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Social",
+    "startDate": "2026-11-23",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001N7wH2AS"
   },
   {
     "audience": "Adults",
@@ -16480,6 +16512,39 @@
     "url": "/s/oc-activity/a5UVX000001N8ab2AC"
   },
   {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.28,
+      "lon": -71.18
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-23",
+    "id": "a5UVX000001N8h32AC",
+    "leaders": [
+      "Ann Murphy"
+    ],
+    "location": {
+      "city": "Boston",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Blue Heron trail loop",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-22",
+    "registration": "open",
+    "registrationOpenDate": "2026-11-09",
+    "registrationType": "Registration",
+    "startDate": "2026-11-23",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001N8h32AC"
+  },
+  {
     "chapterId": "0015000001Sg064AAB",
     "coords": {
       "lat": 40.71,
@@ -16750,6 +16815,106 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001N95F2AS"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg066AAB",
+    "coords": {
+      "lat": 41.8,
+      "lon": -71.89
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-25",
+    "id": "a5UVX000001N9I92AK",
+    "keywords": "20s/30s, 20s and 30s, 20s&30s",
+    "leaders": [
+      "Christopher Vieira"
+    ],
+    "location": {
+      "city": "Killingly",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "20s/30s Quinebaug River Trail Walk",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-11-25",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001N9I92AK"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg066AAB",
+    "coords": {
+      "lat": 41.82,
+      "lon": -71.41
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-12-04",
+    "id": "a5UVX000001N9Jl2AK",
+    "keywords": "20s/30s, 20s and 30s, 20s&30s, Providence",
+    "leaders": [
+      "Christopher Vieira"
+    ],
+    "location": {
+      "city": "Providence",
+      "country": "United States",
+      "state": "RI"
+    },
+    "name": "20s and 30s Social at The Guild PVD Beer Garden",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-12-04",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Local Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001N9Jl2AK"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg066AAB",
+    "coords": {
+      "lat": 41.82,
+      "lon": -71.39
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-11-29",
+    "id": "a5UVX000001N9LN2A0",
+    "keywords": "20s/30s, 20s and 30s, 20s&30s, Providence",
+    "leaders": [
+      "Christopher Vieira"
+    ],
+    "location": {
+      "city": "Providence",
+      "country": "United States",
+      "state": "RI"
+    },
+    "name": "Sunday Morning by India Point Park: Coffee & Walk 20s and 30s",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-29",
+    "startTime": "8:30 AM",
+    "status": "Published",
+    "subType": "Local Walks",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001N9LN2A0"
   },
   {
     "chapterId": "001UN00000bpnMdYAI",
@@ -17264,6 +17429,39 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001N9y52AC"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.16,
+      "lon": -71.14
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-24",
+    "id": "a5UVX000001NA7l2AG",
+    "leaders": [
+      "Nick Georgantas"
+    ],
+    "location": {
+      "city": "Canton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Blue Hills Ponkapoag North & East Trail Trace",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-24",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NA7l2AG"
   },
   {
     "chapterId": "0015000001Sg060AAB",
@@ -18143,6 +18341,38 @@
     "url": "/s/oc-activity/a5UVX000001NBNB2A4"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.41,
+      "lon": -75.04
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-27",
+    "id": "a5UVX000001NBQP2A4",
+    "leaders": [
+      "Welles Lobb"
+    ],
+    "location": {
+      "city": "Stockton",
+      "country": "United States",
+      "state": "NJ"
+    },
+    "name": "7 MILES BULLS ISLAND-LOCKATONG BLACK FRIDAY LOOP HIKE",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-27",
+    "startTime": "11:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NBQP2A4"
+  },
+  {
     "chapterId": "0015000001Sg060AAB",
     "costs": [
       10
@@ -18172,6 +18402,69 @@
     "timeZone": "US EST",
     "type": "Social",
     "url": "/s/oc-activity/a5UVX000001NBTd2AO"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.08,
+      "lon": -75.22
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-24",
+    "id": "a5UVX000001NBVF2A4",
+    "leaders": [
+      "Lisa Kleiman"
+    ],
+    "location": {
+      "city": "Philadelphia",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Afternoon Wissahickon Rim to Rim trek - 6 miles",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-11-24",
+    "startTime": "12:30 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NBVF2A4"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.16,
+      "lon": -71.14
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-21",
+    "id": "a5UVX000001NBYT2A4",
+    "leaders": [
+      "Nick Georgantas"
+    ],
+    "location": {
+      "city": "Canton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Ponkapoag Circumferance Trail Trace",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-21",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NBYT2A4"
   },
   {
     "audience": "Adults",
@@ -18204,5 +18497,229 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001NBa52AG"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.44,
+      "lon": -75.08
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-09",
+    "id": "a5UVX000001NBbh2AG",
+    "leaders": [
+      "Susan Weida"
+    ],
+    "location": {
+      "city": "Pipersville",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Tohickon Valley Park to Ralph Stover",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-12-09",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NBbh2AG"
+  },
+  {
+    "chapterId": "0015000001Sg060AAB",
+    "coords": {
+      "lat": 44.27,
+      "lon": -71.55
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2027-01-04",
+    "id": "a5UVX000001NBdJ2AW",
+    "leaders": [
+      "Wanda Rice"
+    ],
+    "location": {
+      "city": "Carroll",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Mount Hale via old Fire warden's route",
+    "program": "Volunteer Led",
+    "registerByDate": "2027-01-01",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-12-04",
+    "registrationType": "Application",
+    "secondaryType": "Snowshoeing",
+    "startDate": "2027-01-04",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NBdJ2AW"
+  },
+  {
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.47,
+      "lon": -72.34
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-12-12",
+    "id": "a5UVX000001NBev2AG",
+    "keywords": "Hiking, Outdoors, trees, water, brook, waterfall,",
+    "leaders": [
+      "David MacLean"
+    ],
+    "location": {
+      "city": "New Salem",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "The Quabbin Reservoir, Gate 22",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-12-12",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NBev2AG"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.22,
+      "lon": -74.97
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-19",
+    "id": "a5UVX000001NBlN2AW",
+    "leaders": [
+      "Dave Hoke"
+    ],
+    "location": {
+      "city": "Churchville",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "MORNING HIKE AT TYLER STATE PARK",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-19",
+    "startTime": "8:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NBlN2AW"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.36,
+      "lon": -72.96
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-17",
+    "id": "a5UVX000001NBmz2AG",
+    "leaders": [
+      "Joanna Miller"
+    ],
+    "location": {
+      "city": "Hamden",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Moderate hike at West Rock: Lake Wintergreen and the Regicides' Trail",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-17",
+    "startTime": "8:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NBmz2AG"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 40.75,
+      "lon": -73.47
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-16",
+    "id": "a5UVX000001NBv32AG",
+    "leaders": [
+      "Brian Lownds"
+    ],
+    "location": {
+      "city": "Old Bethpage",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Biking - Bethpage to Jones Beach on Bike Path and Quiet Roads",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-16",
+    "startTime": "10:30 AM",
+    "status": "Published",
+    "subType": "Road",
+    "timeZone": "US EST",
+    "type": "Biking",
+    "url": "/s/oc-activity/a5UVX000001NBv32AG"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.24,
+      "lon": -73.4
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-18",
+    "id": "a5UVX000001NBzt2AG",
+    "keywords": "50 Hikes in CT",
+    "leaders": [
+      "Mary Anne Hardy"
+    ],
+    "location": {
+      "city": "Weston",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Devil's Den Preserve (scouting hike)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-18",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NBzt2AG"
   }
 ]
