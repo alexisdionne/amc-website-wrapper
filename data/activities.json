@@ -18626,39 +18626,6 @@
     "url": "/s/oc-activity/a5UVX000001NBmz2AG"
   },
   {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg06DAAR",
-    "coords": {
-      "lat": 42.21,
-      "lon": -71.09
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-11-28",
-    "id": "a5UVX000001NBrp2AG",
-    "keywords": "winter hiking, Saturday, blue hills",
-    "leaders": [
-      "William Belben"
-    ],
-    "location": {
-      "city": "Milton",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "SEM Winter Hiking Series Hike #1A  at the Blue Hills",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Application",
-    "startDate": "2026-11-28",
-    "startTime": "9:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001NBrp2AG"
-  },
-  {
     "chapterId": "0015000001Sg064AAB",
     "coords": {
       "lat": 40.75,
@@ -18720,6 +18687,109 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001NBzt2AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 44.24,
+      "lon": -71.26
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2027-02-14",
+    "id": "a5UVX000001NC1V2AW",
+    "leaders": [
+      "Nick Georgantas"
+    ],
+    "location": {
+      "city": "Pinkham's Grant",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Boston Ski- Avalanche Brook, Pinkham Notch NH",
+    "program": "Volunteer Led",
+    "registerByDate": "2027-02-12",
+    "registration": "not-yet",
+    "registrationOpenDate": "2027-01-08",
+    "registrationType": "Application",
+    "startDate": "2027-02-14",
+    "startTime": "8:30 AM",
+    "status": "Published",
+    "subType": "Backcountry",
+    "timeZone": "US EST",
+    "type": "Skiing",
+    "url": "/s/oc-activity/a5UVX000001NC1V2AW"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2027-02-19",
+    "id": "a5UVX000001NC4j2AG",
+    "leaders": [
+      "Nick Georgantas"
+    ],
+    "location": {
+      "city": "Pinkham's Grant",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Boston Ski- Wildcat Backside Ski To Dana Place",
+    "program": "Volunteer Led",
+    "registerByDate": "2027-02-17",
+    "registration": "not-yet",
+    "registrationOpenDate": "2027-01-08",
+    "registrationType": "Application",
+    "startDate": "2027-02-19",
+    "startTime": "8:30 AM",
+    "status": "Published",
+    "subType": "Backcountry",
+    "timeZone": "US EST",
+    "type": "Skiing",
+    "url": "/s/oc-activity/a5UVX000001NC4j2AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 44.15,
+      "lon": -71.19
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2027-03-06",
+    "id": "a5UVX000001NC9Z2AW",
+    "leaders": [
+      "Nick Georgantas"
+    ],
+    "location": {
+      "city": "Jackson",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Boston Ski- Perkins Notch Ski Tour",
+    "program": "Volunteer Led",
+    "registerByDate": "2027-03-04",
+    "registration": "not-yet",
+    "registrationOpenDate": "2027-01-22",
+    "registrationType": "Application",
+    "secondaryType": "Skiing",
+    "startDate": "2027-03-06",
+    "startTime": "8:30 AM",
+    "status": "Published",
+    "subType": "Cross Country",
+    "timeZone": "US EST",
+    "type": "Skiing",
+    "url": "/s/oc-activity/a5UVX000001NC9Z2AW"
   },
   {
     "chapterId": "0015000001Sg06BAAR",
@@ -18866,7 +18936,7 @@
     "name": "Fitness Hike – Wheaton Farm",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-29",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-14",
     "registrationType": "Registration",
     "startDate": "2026-12-01",
@@ -18876,6 +18946,41 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001NCJF2A4"
+  },
+  {
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.17,
+      "lon": -73.47
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-03",
+    "id": "a5UVX000001NCPh2AO",
+    "keywords": "scenic views",
+    "leaders": [
+      "Trish Johnston"
+    ],
+    "location": {
+      "city": "Egremont",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "South Taconic Trail NY/MA (Third Section)",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-02",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-11-19",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-03",
+    "startTime": "8:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NCPh2AO"
   },
   {
     "chapterId": "0015000001Sg05zAAB",
