@@ -3649,7 +3649,7 @@
     "name": "Boston Ski: Rangeley Ski Adventure",
     "program": "Volunteer Led",
     "registerByDate": "2027-02-05",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-15",
     "registrationType": "Application",
     "startDate": "2027-02-26",
@@ -4525,7 +4525,7 @@
     "name": "PROGRESSIVE HIKING SERIES FROM THE BLUE HILLS TO METRO WEST  - HIKE #9",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-15",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-11-03",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -8003,7 +8003,7 @@
     "name": "Explore Your Inner Winter Hiker (Track II): Mt. Monadnock Pre-Hike and Winter Upcountry Leader Training",
     "program": "Volunteer Led",
     "registerByDate": "2026-12-27",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-15",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running;Snowshoeing",
@@ -8663,7 +8663,7 @@
     "name": "EXPLORE YOUR INNER WINTER HIKER (Track I): CROW HILL LEDGES",
     "program": "Volunteer Led",
     "registerByDate": "2026-12-16",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-15",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -9064,7 +9064,7 @@
     "name": "Explore Your Inner Winter Hiker (Track II): Mt. Monadnock (Group A)",
     "program": "Volunteer Led",
     "registerByDate": "2027-01-06",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-15",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running;Snowshoeing",
@@ -9098,7 +9098,7 @@
     "name": "Explore Your Inner Winter Hiker (Track II): Mt. Monadnock (Group B)",
     "program": "Volunteer Led",
     "registerByDate": "2027-01-06",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-15",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running;Snowshoeing",
@@ -11206,7 +11206,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-17",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -11812,7 +11812,7 @@
     "secondaryType": "Snowshoeing",
     "startDate": "2026-12-13",
     "startTime": "8:30 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -12116,7 +12116,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-11-17",
     "startTime": "9:00 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -13150,7 +13150,8 @@
     },
     "name": "(20s/30s/40s) Mt. Greylock Globetrot",
     "program": "Volunteer Led",
-    "registration": "open",
+    "registerByDate": "2026-11-15",
+    "registration": "closed",
     "registrationType": "Application",
     "startDate": "2026-11-15",
     "startTime": "10:00 AM",
@@ -14845,38 +14846,6 @@
     "url": "/s/oc-activity/a5UVX000001N7OP2A0"
   },
   {
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 40.58,
-      "lon": -75.34
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-11-15",
-    "id": "a5UVX000001N7Y52AK",
-    "keywords": "Biking",
-    "leaders": [
-      "Martha Keck"
-    ],
-    "location": {
-      "city": "Hellertown",
-      "country": "United States",
-      "state": "PA"
-    },
-    "name": "Bike ride on the Saucon Rail Trail",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2026-11-15",
-    "startTime": "11:00 AM",
-    "status": "Published",
-    "subType": "Gravel",
-    "timeZone": "US EST",
-    "type": "Biking",
-    "url": "/s/oc-activity/a5UVX000001N7Y52AK"
-  },
-  {
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg06DAAR",
     "coords": {
@@ -15615,7 +15584,7 @@
     "name": "EXPLORE YOUR INNER WINTER HIKER (Track I): Wachusett Loop",
     "program": "Volunteer Led",
     "registerByDate": "2027-01-13",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-15",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running;Outdoor Learning Experience;Snowshoeing",
@@ -15650,7 +15619,7 @@
     "name": "Explore Your Inner Winter Hiker-Bearsden. Track 1 hike",
     "program": "Volunteer Led",
     "registerByDate": "2027-01-04",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-15",
     "registrationType": "Application",
     "secondaryType": "Snowshoeing",
@@ -17866,7 +17835,9 @@
     },
     "name": "Winter hike to Carter Dome & Mount Hight",
     "program": "Volunteer Led",
-    "registration": "open",
+    "registerByDate": "2027-02-03",
+    "registration": "not-yet",
+    "registrationOpenDate": "2027-01-03",
     "registrationType": "Application",
     "secondaryType": "Snowshoeing",
     "startDate": "2027-02-06",
@@ -18387,5 +18358,138 @@
     "timeZone": "US EST",
     "type": "Social",
     "url": "/s/oc-activity/a5UVX000001NDAT2A4"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.63,
+      "lon": -71
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-22",
+    "id": "a5UVX000001NDC52AO",
+    "keywords": "Bald HIll Conservation Area, Boxford State Forest, Bay Circuit Trail, Essex County Greenbelt Association",
+    "leaders": [
+      "Richard Lombard"
+    ],
+    "location": {
+      "city": "Boxford",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "LET'S HIKE THE SOUTHERN SECTION OF BALD HILL CONSERVATION/BOXFORD MA",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-21",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-11-15",
+    "registrationType": "Registration",
+    "startDate": "2026-11-22",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NDC52AO"
+  },
+  {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.08
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-11-30",
+    "id": "a5UVX000001NDGv2AO",
+    "keywords": "trailwork",
+    "leaders": [
+      "Joanne Newton"
+    ],
+    "location": {
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Hiking with Trailwork in the Blue Hills",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-29",
+    "registration": "open",
+    "registrationOpenDate": "2026-11-15",
+    "registrationType": "Registration",
+    "secondaryType": "Trail Work",
+    "startDate": "2026-11-30",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NDGv2AO"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.45,
+      "lon": -71.89
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-08",
+    "id": "a5UVX000001NDIX2A4",
+    "leaders": [
+      "Colleen Doshna"
+    ],
+    "location": {
+      "city": "North Stonington",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Hewitt Farm N. Stonington",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-08",
+    "startTime": "9:15 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NDIX2A4"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.25,
+      "lon": -71.28
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-17",
+    "id": "a5UVX000001NDLl2AO",
+    "leaders": [
+      "Susan Davis"
+    ],
+    "location": {
+      "city": "Dover",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Thursday Morning Hike - Noanet Woods",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-12-17",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NDLl2AO"
   }
 ]
