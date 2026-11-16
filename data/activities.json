@@ -1812,7 +1812,7 @@
       "lon": -74.64
     },
     "costs": [
-      40
+      5
     ],
     "difficulty": 4,
     "difficultyLabel": "4 - Moderate",
@@ -1942,7 +1942,7 @@
       "lon": -71.18
     },
     "costs": [
-      5
+      86
     ],
     "difficulty": 2,
     "difficultyLabel": "2 - Relaxed",
@@ -2952,6 +2952,32 @@
     "url": "/s/oc-activity/a5UVX000001GpIv2AK"
   },
   {
+    "chapterId": "0015000001Sg061AAB",
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-12-09",
+    "id": "a5UVX000001HCYr2AO",
+    "leaders": [
+      "Gregory Maslowe"
+    ],
+    "location": {
+      "country": "United States"
+    },
+    "name": "Boston Ski and Ride Committee monthly meeting",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Volunteer Opportunities",
+    "startDate": "2026-12-09",
+    "startTime": "7:00 PM",
+    "status": "Published",
+    "subType": "Backcountry",
+    "timeZone": "US EST",
+    "type": "Skiing",
+    "url": "/s/oc-activity/a5UVX000001HCYr2AO"
+  },
+  {
     "chapterId": "0015000001Sg065AAB",
     "coords": {
       "lat": 45.67,
@@ -3049,7 +3075,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-17",
     "startTime": "9:45 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -3500,7 +3526,9 @@
       "lat": 44.89,
       "lon": -70.79
     },
-    "costs": [],
+    "costs": [
+      640
+    ],
     "difficulty": 5,
     "difficultyLabel": "5 - Vigorous",
     "endDate": "2027-03-01",
@@ -4469,7 +4497,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-22",
     "startTime": "9:00 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -5256,7 +5284,7 @@
     "secondaryType": "Biking",
     "startDate": "2026-11-29",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -6096,7 +6124,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-27",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -7854,7 +7882,7 @@
       "lon": -69.59
     },
     "costs": [
-      999999
+      833.27
     ],
     "difficulty": 4,
     "difficultyLabel": "4 - Moderate",
@@ -8250,7 +8278,7 @@
       "lon": -69.32
     },
     "costs": [
-      999999
+      487.1
     ],
     "difficulty": 2,
     "difficultyLabel": "2 - Relaxed",
@@ -8450,8 +8478,8 @@
     "audience": "Adults",
     "chapterId": "0015000001Sg06DAAR",
     "coords": {
-      "lat": 42.22,
-      "lon": -71.07
+      "lat": 42.21,
+      "lon": -71.09
     },
     "costs": [],
     "difficulty": 4,
@@ -9062,7 +9090,7 @@
     "registrationType": "Application",
     "startDate": "2026-12-06",
     "startTime": "All Day",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -9656,7 +9684,7 @@
       "lon": -71.53
     },
     "costs": [
-      25
+      35
     ],
     "difficulty": 3,
     "difficultyLabel": "3 - Easy",
@@ -9797,7 +9825,7 @@
       "lon": -71.35
     },
     "costs": [
-      100
+      80
     ],
     "difficulty": 6,
     "difficultyLabel": "6 - Strenuous",
@@ -9969,7 +9997,7 @@
       "lon": -71.88
     },
     "costs": [
-      175
+      180
     ],
     "difficulty": 4,
     "difficultyLabel": "4 - Moderate",
@@ -9992,7 +10020,7 @@
     "registrationType": "Application",
     "startDate": "2027-02-05",
     "startTime": "7:00 PM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -10677,7 +10705,7 @@
     "name": "Go Take A Hike - It's National Take A Hike Day!",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-16",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-30",
     "registrationType": "Application",
     "startDate": "2026-11-17",
@@ -11558,7 +11586,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-11-17",
     "startTime": "9:00 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -11717,7 +11745,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-29",
     "startTime": "All Day",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -12305,6 +12333,40 @@
   },
   {
     "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 44.26,
+      "lon": -71.25
+    },
+    "costs": [
+      20
+    ],
+    "difficulty": 6,
+    "difficultyLabel": "6 - Strenuous",
+    "endDate": "2027-01-10",
+    "id": "a5UVX000001Mihl2AC",
+    "leaders": [
+      "Louis NeJame"
+    ],
+    "location": {
+      "city": "Jackson",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Boston Ski: Mount Washington - Double Trouble - Sherburne And Gulf of Slides Ski Trails",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2027-01-10",
+    "startTime": "8:30 AM",
+    "status": "Published",
+    "subType": "Backcountry",
+    "timeZone": "US EST",
+    "type": "Skiing",
+    "url": "/s/oc-activity/a5UVX000001Mihl2AC"
+  },
+  {
+    "audience": "Adults",
     "chapterId": "0015000001Sg064AAB",
     "coords": {
       "lat": 42.29,
@@ -12431,7 +12493,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-18",
     "startTime": "All Day",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -14382,7 +14444,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-11-20",
     "startTime": "6:00 PM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -14544,7 +14606,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-11-24",
     "startTime": "9:00 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -16833,6 +16895,40 @@
     "url": "/s/oc-activity/a5UVX000001NBrp2AG"
   },
   {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg066AAB",
+    "coords": {
+      "lat": 41.6,
+      "lon": -71.76
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-27",
+    "id": "a5UVX000001NBtR2AW",
+    "keywords": "20s/30s, 20s&30s, 20s and 30s",
+    "leaders": [
+      "Catherine LiVolsi"
+    ],
+    "location": {
+      "city": "West Greenwich",
+      "country": "United States",
+      "state": "RI"
+    },
+    "name": "20s/30s Black Friday hike in Arcadia",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Social",
+    "startDate": "2026-11-27",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NBtR2AW"
+  },
+  {
     "chapterId": "0015000001Sg064AAB",
     "coords": {
       "lat": 40.75,
@@ -17609,6 +17705,70 @@
     "url": "/s/oc-activity/a5UVX000001NDGv2AO"
   },
   {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.45,
+      "lon": -71.89
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-15",
+    "id": "a5UVX000001NDIX2A4",
+    "leaders": [
+      "Colleen Doshna"
+    ],
+    "location": {
+      "city": "North Stonington",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Hewitt Farm N. Stonington",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-15",
+    "startTime": "9:15 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NDIX2A4"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 41.68,
+      "lon": -70.4
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-19",
+    "id": "a5UVX000001NDK92AO",
+    "leaders": [
+      "Barbara Gaughan"
+    ],
+    "location": {
+      "city": "Barnstable",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Cape Hike - Fitness Hike - Danforth  & Otis Atwood Conservation Areas,  Marstons Mills",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-12-19",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NDK92AO"
+  },
+  {
     "audience": "Adults",
     "chapterId": "0015000001Sg06DAAR",
     "coords": {
@@ -17799,5 +17959,329 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001NDaH2AW"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.54,
+      "lon": -72.61
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-24",
+    "id": "a5UVX000001NDs12AG",
+    "leaders": [
+      "Ethan Guertin"
+    ],
+    "location": {
+      "city": "Deerfield",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "(20s/30s/40s) Night Hike - North Sugarloaf Loop",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-11-24",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NDs12AG"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.34,
+      "lon": -73.51
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-19",
+    "id": "a5UVX000001NDvF2AW",
+    "leaders": [
+      "Kathy Miville"
+    ],
+    "location": {
+      "city": "Ridgefield",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Pine Mountain hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-11-19",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NDvF2AW"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-11-21",
+    "id": "a5UVX000001NDwr2AG",
+    "leaders": [
+      "Joseph Nigro"
+    ],
+    "location": {
+      "city": "Cold Springs",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "8-10 Mile Cold Spring Hike (Vigorous)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-21",
+    "startTime": "9:15 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NDwr2AG"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-11-20",
+    "id": "a5UVX000001NE052AG",
+    "keywords": "Ramapo Valley County",
+    "leaders": [
+      "Marianne Ansari"
+    ],
+    "location": {
+      "city": "Mahwah",
+      "country": "United States",
+      "state": "NJ"
+    },
+    "name": "Ramapo Valley County Reservation Roll (Vigorous)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-20",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NE052AG"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-17",
+    "id": "a5UVX000001NE9l2AG",
+    "leaders": [
+      "Christopher Granata"
+    ],
+    "location": {
+      "city": "Glastonbury",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Central Rock Gym, Indoor climbing",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Climbing & Mountaineering",
+    "startDate": "2026-11-17",
+    "startTime": "3:30 PM",
+    "status": "Published",
+    "subType": "Gym",
+    "timeZone": "US EST",
+    "type": "Climbing & Mountaineering",
+    "url": "/s/oc-activity/a5UVX000001NE9l2AG"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-24",
+    "id": "a5UVX000001NEBN2A4",
+    "leaders": [
+      "Christopher Granata"
+    ],
+    "location": {
+      "city": "Glastonbury",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Central Rock Gym, Indoor climbing",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Climbing & Mountaineering",
+    "startDate": "2026-11-24",
+    "startTime": "3:30 PM",
+    "status": "Published",
+    "subType": "Gym",
+    "timeZone": "US EST",
+    "type": "Climbing & Mountaineering",
+    "url": "/s/oc-activity/a5UVX000001NEBN2A4"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-12-01",
+    "id": "a5UVX000001NECz2AO",
+    "leaders": [
+      "Christopher Granata"
+    ],
+    "location": {
+      "city": "Glastonbury",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Central Rock Gym, Indoor climbing",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Climbing & Mountaineering",
+    "startDate": "2026-12-01",
+    "startTime": "3:30 PM",
+    "status": "Published",
+    "subType": "Gym",
+    "timeZone": "US EST",
+    "type": "Climbing & Mountaineering",
+    "url": "/s/oc-activity/a5UVX000001NECz2AO"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-12-08",
+    "id": "a5UVX000001NEEb2AO",
+    "leaders": [
+      "Christopher Granata"
+    ],
+    "location": {
+      "city": "Glastonbury",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Central Rock Gym, Indoor climbing",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Climbing & Mountaineering",
+    "startDate": "2026-12-08",
+    "startTime": "3:30 PM",
+    "status": "Published",
+    "subType": "Gym",
+    "timeZone": "US EST",
+    "type": "Climbing & Mountaineering",
+    "url": "/s/oc-activity/a5UVX000001NEEb2AO"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-12-15",
+    "id": "a5UVX000001NEGD2A4",
+    "leaders": [
+      "Christopher Granata"
+    ],
+    "location": {
+      "city": "Glastonbury",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Central Rock Gym, Indoor climbing",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Climbing & Mountaineering",
+    "startDate": "2026-12-15",
+    "startTime": "3:30 PM",
+    "status": "Published",
+    "subType": "Gym",
+    "timeZone": "US EST",
+    "type": "Climbing & Mountaineering",
+    "url": "/s/oc-activity/a5UVX000001NEGD2A4"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-12-22",
+    "id": "a5UVX000001NEHp2AO",
+    "leaders": [
+      "Christopher Granata"
+    ],
+    "location": {
+      "city": "Glastonbury",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Central Rock Gym, Indoor climbing",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Climbing & Mountaineering",
+    "startDate": "2026-12-22",
+    "startTime": "3:30 PM",
+    "status": "Published",
+    "subType": "Gym",
+    "timeZone": "US EST",
+    "type": "Climbing & Mountaineering",
+    "url": "/s/oc-activity/a5UVX000001NEHp2AO"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.19,
+      "lon": -71.12
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-12-24",
+    "id": "a5UVX000001NEJR2A4",
+    "keywords": "Hiking; moderate pace; flat",
+    "leaders": [
+      "Ken Cohen"
+    ],
+    "location": {
+      "city": "Canton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "THURSDAY MORNING - BLUE HILLS LOWLAND HIKE!",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-22",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-12-01",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-24",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NEJR2A4"
   }
 ]
