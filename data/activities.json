@@ -1216,7 +1216,7 @@
       "lon": -71.54
     },
     "costs": [
-      20
+      50
     ],
     "difficulty": 1,
     "difficultyLabel": "1 - Accessible",
@@ -2570,7 +2570,7 @@
   {
     "chapterId": "0015000001Sg061AAB",
     "costs": [
-      20
+      200
     ],
     "difficulty": 1,
     "difficultyLabel": "1 - Accessible",
@@ -2794,7 +2794,7 @@
       "lon": -71.16
     },
     "costs": [
-      69
+      99
     ],
     "difficulty": 4,
     "difficultyLabel": "4 - Moderate",
@@ -3145,7 +3145,7 @@
     "registrationType": "Application",
     "startDate": "2026-12-15",
     "startTime": "8:30 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -3853,7 +3853,7 @@
     "registrationType": "Application",
     "startDate": "2026-12-01",
     "startTime": "9:45 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -4351,7 +4351,7 @@
     "name": "PROGRESSIVE HIKING SERIES FROM THE BLUE HILLS TO METRO WEST  - HIKE #11",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-29",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-17",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -4620,7 +4620,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-21",
     "startTime": "9:00 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -4962,38 +4962,6 @@
     "timeZone": "US EST",
     "type": "Skiing",
     "url": "/s/oc-activity/a5UVX000001K4wX2AS"
-  },
-  {
-    "chapterId": "0015000001Sg060AAB",
-    "coords": {
-      "lat": 43.66,
-      "lon": -72.24
-    },
-    "costs": [],
-    "difficulty": 1,
-    "difficultyLabel": "1 - Accessible",
-    "endDate": "2027-10-28",
-    "id": "a5UVX000001K79d2AC",
-    "leaders": [
-      "David Crocco"
-    ],
-    "location": {
-      "city": "Lebanon",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "Gym Night at the Notch Climbing Gym in Lebanon NH",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Climbing & Mountaineering",
-    "startDate": "2026-10-28",
-    "startTime": "6:30 PM",
-    "status": "Published",
-    "subType": "Gym",
-    "timeZone": "US EST",
-    "type": "Climbing & Mountaineering",
-    "url": "/s/oc-activity/a5UVX000001K79d2AC"
   },
   {
     "chapterId": "0015000001Sg060AAB",
@@ -5999,7 +5967,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-27",
     "startTime": "10:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -7580,7 +7548,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running;Snowshoeing",
     "startDate": "2026-11-19",
     "startTime": "9:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -7777,7 +7745,7 @@
     "registrationType": "Application",
     "startDate": "2027-02-19",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Cross Country",
     "timeZone": "US EST",
     "type": "Skiing",
@@ -8179,39 +8147,6 @@
     "timeZone": "US EST",
     "type": "Skiing",
     "url": "/s/oc-activity/a5UVX000001LwRp2AK"
-  },
-  {
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 41.51,
-      "lon": -76.82
-    },
-    "costs": [],
-    "difficulty": 5,
-    "difficultyLabel": "5 - Vigorous",
-    "endDate": "2026-11-25",
-    "id": "a5UVX000001LzSv2AK",
-    "keywords": "Campanelli, Backpacking, Backcountry, Trekking, Old Loggers Path",
-    "leaders": [
-      "Steven Campanelli"
-    ],
-    "location": {
-      "city": "Masten",
-      "country": "United States",
-      "state": "PA"
-    },
-    "name": "Old Loggers Path (OLP)",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Application",
-    "secondaryType": "Backpacking",
-    "startDate": "2026-11-23",
-    "startTime": "7:30 AM",
-    "status": "Published",
-    "subType": "Backpacking",
-    "timeZone": "US EST",
-    "type": "Backpacking",
-    "url": "/s/oc-activity/a5UVX000001LzSv2AK"
   },
   {
     "audience": "20’s & 30’s;55+;Adults",
@@ -8801,7 +8736,7 @@
     "secondaryType": "Backpacking",
     "startDate": "2026-12-05",
     "startTime": "10:30 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Backpacking",
     "timeZone": "US EST",
     "type": "Backpacking",
@@ -11800,6 +11735,40 @@
     "url": "/s/oc-activity/a5UVX000001Mcaj2AC"
   },
   {
+    "chapterId": "0015000001Sg060AAB",
+    "coords": {
+      "lat": 44.4,
+      "lon": -70.79
+    },
+    "costs": [
+      30
+    ],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-12-06",
+    "id": "a5UVX000001Mcqr2AC",
+    "leaders": [
+      "Adam Berthiaume"
+    ],
+    "location": {
+      "city": "Bethel",
+      "country": "United States",
+      "state": "ME"
+    },
+    "name": "NH Mountaineering Committee Retreat",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Climbing & Mountaineering",
+    "startDate": "2026-12-04",
+    "startTime": "5:00 PM",
+    "status": "Published",
+    "subType": "Meetings",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001Mcqr2AC"
+  },
+  {
     "audience": "Adults",
     "chapterId": "0015000001Sg05zAAB",
     "coords": {
@@ -13802,6 +13771,10 @@
   },
   {
     "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.43,
+      "lon": -73.97
+    },
     "costs": [],
     "difficulty": 5,
     "difficultyLabel": "5 - Vigorous",
@@ -13811,7 +13784,9 @@
       "Anastasia Tavarez"
     ],
     "location": {
-      "country": "United States"
+      "city": "Cold Spring",
+      "country": "United States",
+      "state": "NY"
     },
     "name": "Appalachian Trail NY Hike: NY 9D to Old Albany Post Rd 8.6 mi (Vigorous)",
     "program": "Volunteer Led",
@@ -16998,6 +16973,40 @@
     "url": "/s/oc-activity/a5UVX000001NCJF2A4"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.23,
+      "lon": -71.23
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-28",
+    "id": "a5UVX000001NCMT2A4",
+    "leaders": [
+      "Kay Bowes"
+    ],
+    "location": {
+      "city": "Westwood",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Hale Reservation Westwood hike - steady patient pace",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-27",
+    "registration": "open",
+    "registrationOpenDate": "2026-11-14",
+    "registrationType": "Application",
+    "startDate": "2026-11-28",
+    "startTime": "8:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NCMT2A4"
+  },
+  {
     "chapterId": "0015000001Sg05xAAB",
     "coords": {
       "lat": 42.17,
@@ -17573,39 +17582,6 @@
     "url": "/s/oc-activity/a5UVX000001NDNN2A4"
   },
   {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg061AAB",
-    "coords": {
-      "lat": 44.1,
-      "lon": -71.9
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-12-05",
-    "id": "a5UVX000001NDOz2AO",
-    "leaders": [
-      "Emma Shin"
-    ],
-    "location": {
-      "city": "Benton",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "Black Mountain in Benton, one of 52WAV",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-12-05",
-    "startTime": "9:30 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001NDOz2AO"
-  },
-  {
     "chapterId": "0015000001Sg061AAB",
     "coords": {
       "lat": 42.64,
@@ -18156,5 +18132,101 @@
     "timeZone": "US EST",
     "type": "Trail Work",
     "url": "/s/oc-activity/a5UVX000001NEcn2AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.42,
+      "lon": -74.8
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-21",
+    "id": "a5UVX000001NEg12AG",
+    "leaders": [
+      "Stanton de Riel"
+    ],
+    "location": {
+      "city": "Hopewell",
+      "country": "United States",
+      "state": "NJ"
+    },
+    "name": "D&R Greenway Sourland Ecosystem Loop",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-21",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NEg12AG"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.18,
+      "lon": -74.16
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-20",
+    "id": "a5UVX000001NEuX2AW",
+    "leaders": [
+      "Jay Beilis"
+    ],
+    "location": {
+      "city": "Sloatsburg",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Johnsontown Circle 7.5 miles 9:30 am (Moderate)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-20",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NEuX2AW"
+  },
+  {
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.49,
+      "lon": -72.61
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-12-14",
+    "id": "a5UVX000001NEw92AG",
+    "leaders": [
+      "Hew Hart"
+    ],
+    "location": {
+      "city": "Deerfield",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Western MA Leader Social @ Tree House",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-12-14",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Local Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001NEw92AG"
   }
 ]
