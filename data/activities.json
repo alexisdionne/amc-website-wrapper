@@ -516,7 +516,7 @@
     "secondaryType": "Nature & Arts",
     "startDate": "2026-11-21",
     "startTime": "11:00 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -1805,6 +1805,41 @@
     "url": "/s/oc-activity/a5UVX0000019kEL2AY"
   },
   {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.24,
+      "lon": -71.1
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2027-01-01",
+    "id": "a5UVX0000019pVl2AI",
+    "keywords": "no-calendar no-meetup",
+    "leaders": [
+      "Michael Hanley"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "OC Testing Social Everyone Registration Yes-waitlist  Q:basic",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-18",
+    "registration": "closed",
+    "registrationOpenDate": "2026-11-15",
+    "registrationType": "Registration",
+    "secondaryType": "Social",
+    "startDate": "2027-01-01",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "Local Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX0000019pVl2AI"
+  },
+  {
     "audience": "Adults",
     "chapterId": "0015000001Sg064AAB",
     "coords": {
@@ -2881,7 +2916,7 @@
     "secondaryType": "Conservation",
     "startDate": "2026-12-01",
     "startTime": "9:00 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Conservation",
     "timeZone": "US EST",
     "type": "Conservation",
@@ -3043,7 +3078,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-24",
     "startTime": "9:45 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -3114,7 +3149,7 @@
     "secondaryType": "Social",
     "startDate": "2026-11-20",
     "startTime": "2:00 PM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Local Socials",
     "timeZone": "US EST",
     "type": "Social",
@@ -3452,6 +3487,42 @@
     "timeZone": "US EST",
     "type": "Skiing",
     "url": "/s/oc-activity/a5UVX000001I0Qn2AK"
+  },
+  {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 44.89,
+      "lon": -70.79
+    },
+    "costs": [
+      640
+    ],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2027-03-01",
+    "id": "a5UVX000001I8Un2AK",
+    "keywords": "alpine touring telemark splitboard Saddleback",
+    "leaders": [
+      "Gregory Maslowe"
+    ],
+    "location": {
+      "city": "ADAMSTOWN Township",
+      "country": "United States",
+      "state": "ME"
+    },
+    "name": "Boston Ski: Rangeley Ski Adventure",
+    "program": "Volunteer Led",
+    "registerByDate": "2027-02-05",
+    "registration": "open",
+    "registrationOpenDate": "2026-11-15",
+    "registrationType": "Application",
+    "startDate": "2027-02-26",
+    "startTime": "1:00 PM",
+    "status": "Published",
+    "subType": "Backcountry",
+    "timeZone": "US EST",
+    "type": "Skiing",
+    "url": "/s/oc-activity/a5UVX000001I8Un2AK"
   },
   {
     "audience": "Adults",
@@ -5044,7 +5115,7 @@
     "secondaryType": "Biking",
     "startDate": "2026-11-29",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -8848,7 +8919,7 @@
       "lon": -77.13
     },
     "costs": [
-      450
+      165
     ],
     "difficulty": 3,
     "difficultyLabel": "3 - Easy",
@@ -8891,7 +8962,7 @@
     "endDate": "2026-12-10",
     "id": "a5UVX000001MC0L2AW",
     "leaders": [
-      "Diane Simms"
+      "Brian Gollub"
     ],
     "location": {
       "city": "Milton",
@@ -11131,7 +11202,7 @@
     "secondaryType": "Social",
     "startDate": "2026-11-22",
     "startTime": "10:30 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -11229,7 +11300,7 @@
     "name": "November Early Morning Fitness Hike",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-18",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-11-02",
     "registrationType": "Application",
     "startDate": "2026-11-20",
@@ -16072,7 +16143,9 @@
     },
     "name": "Liberty & Flume- A winter Summit Adventure",
     "program": "Volunteer Led",
-    "registration": "open",
+    "registerByDate": "2027-02-16",
+    "registration": "not-yet",
+    "registrationOpenDate": "2027-02-01",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2027-02-21",
@@ -16804,37 +16877,6 @@
     "url": "/s/oc-activity/a5UVX000001ND5d2AG"
   },
   {
-    "chapterId": "0015000001Sg064AAB",
-    "coords": {
-      "lat": 40.75,
-      "lon": -73.97
-    },
-    "costs": [],
-    "difficulty": 1,
-    "difficultyLabel": "1 - Accessible",
-    "endDate": "2026-11-19",
-    "id": "a5UVX000001ND7F2AW",
-    "leaders": [
-      "John Power"
-    ],
-    "location": {
-      "city": "New York",
-      "country": "United States",
-      "state": "NY"
-    },
-    "name": "AMC NY/NJ 20s and 30s Thirsty Thursday (Long Island City)",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2026-11-19",
-    "startTime": "6:30 PM",
-    "status": "Published",
-    "subType": "Local Socials",
-    "timeZone": "US EST",
-    "type": "Social",
-    "url": "/s/oc-activity/a5UVX000001ND7F2AW"
-  },
-  {
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg064AAB",
     "coords": {
@@ -16862,7 +16904,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-11-21",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -17312,35 +17354,6 @@
     "url": "/s/oc-activity/a5UVX000001NDwr2AG"
   },
   {
-    "chapterId": "0015000001Sg064AAB",
-    "costs": [],
-    "difficulty": 5,
-    "difficultyLabel": "5 - Vigorous",
-    "endDate": "2026-11-20",
-    "id": "a5UVX000001NE052AG",
-    "keywords": "Ramapo Valley County",
-    "leaders": [
-      "Marianne Ansari"
-    ],
-    "location": {
-      "city": "Mahwah",
-      "country": "United States",
-      "state": "NJ"
-    },
-    "name": "Ramapo Valley County Reservation Roll (Vigorous)",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-11-20",
-    "startTime": "10:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001NE052AG"
-  },
-  {
     "chapterId": "0015000001Sg05zAAB",
     "costs": [],
     "difficulty": 3,
@@ -17547,38 +17560,6 @@
     "timeZone": "US EST",
     "type": "Biking",
     "url": "/s/oc-activity/a5UVX000001NEZZ2A4"
-  },
-  {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 40,
-      "lon": -75.65
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-11-29",
-    "id": "a5UVX000001NEbB2AW",
-    "leaders": [
-      "Lisa Lombardo"
-    ],
-    "location": {
-      "city": "Wayne",
-      "country": "United States",
-      "state": "PA"
-    },
-    "name": "4.0-Mile McCaig Education Center Preserve Hike, Wayne, PA",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2026-11-29",
-    "startTime": "10:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001NEbB2AW"
   },
   {
     "chapterId": "0015000001Sg05zAAB",
@@ -17943,5 +17924,134 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001NFLx2AO"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05xAAB",
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-28",
+    "id": "a5UVX000001NFNZ2A4",
+    "leaders": [
+      "Mark Hawthorne"
+    ],
+    "location": {
+      "city": "Dalton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "BNRC Series - The Boulders Bustle",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-11-28",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NFNZ2A4"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.69,
+      "lon": -74.52
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-26",
+    "id": "a5UVX000001NFdh2AG",
+    "leaders": [
+      "Dave Hoke"
+    ],
+    "location": {
+      "city": "Bernards",
+      "country": "United States",
+      "state": "NJ"
+    },
+    "name": "LORD STIRLING PARK (GREAT SWAMP)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-26",
+    "startTime": "1:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NFdh2AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.4,
+      "lon": -71.46
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-21",
+    "id": "a5UVX000001NFoz2AG",
+    "keywords": "Sudbury, LWHBoston, Local Walks/Hikes, AMC, hikes",
+    "leaders": [
+      "Marc Hurwitz"
+    ],
+    "location": {
+      "city": "Sudbury",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Assabet River National Wildlife Refuge, Sudbury",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-11-21",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NFoz2AG"
+  },
+  {
+    "audience": "Women+",
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.34,
+      "lon": -72.58
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-12-18",
+    "id": "a5UVX000001NFtp2AG",
+    "keywords": "Climbing, Gym Climbing, Women Only, Socials",
+    "leaders": [
+      "Danielle Rich"
+    ],
+    "location": {
+      "city": "Hadley",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Women's Night at CRG Hadley!",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-17",
+    "registration": "open",
+    "registrationOpenDate": "2026-11-18",
+    "registrationType": "Registration",
+    "secondaryType": "Social",
+    "startDate": "2026-12-18",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Gym",
+    "timeZone": "US EST",
+    "type": "Climbing & Mountaineering",
+    "url": "/s/oc-activity/a5UVX000001NFtp2AG"
   }
 ]
