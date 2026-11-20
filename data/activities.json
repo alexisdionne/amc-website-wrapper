@@ -484,7 +484,7 @@
     "secondaryType": "Nature & Arts",
     "startDate": "2026-11-21",
     "startTime": "11:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -1771,6 +1771,41 @@
     "timeZone": "US EST",
     "type": "Adventure Travel",
     "url": "/s/oc-activity/a5UVX0000019kEL2AY"
+  },
+  {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.24,
+      "lon": -71.1
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2027-01-01",
+    "id": "a5UVX0000019pVl2AI",
+    "keywords": "no-calendar no-meetup",
+    "leaders": [
+      "Chao Xie"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "OC Testing Social Everyone Registration Yes-waitlist  Q:basic",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-27",
+    "registration": "open",
+    "registrationOpenDate": "2026-11-16",
+    "registrationType": "Registration",
+    "secondaryType": "Social",
+    "startDate": "2027-01-01",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "Local Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX0000019pVl2AI"
   },
   {
     "audience": "Adults",
@@ -3451,7 +3486,7 @@
     "registrationType": "Application",
     "startDate": "2027-02-26",
     "startTime": "1:00 PM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Backcountry",
     "timeZone": "US EST",
     "type": "Skiing",
@@ -4123,7 +4158,7 @@
     "name": "An Epic Pre-Thanksgiving Traverse of the Appleton Branch of the Bay Circuit Trail",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-20",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-11-06",
     "registrationType": "Application",
     "startDate": "2026-11-22",
@@ -5176,7 +5211,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-11-29",
     "startTime": "12:00 PM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Outdoor Leadership Training",
     "timeZone": "US EST",
     "type": "Outdoor Leadership Training",
@@ -5303,7 +5338,7 @@
     "name": "20s and 30s Blue Hills Moderate Hike #4",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-20",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-10",
     "registrationType": "Application",
     "startDate": "2026-11-22",
@@ -6597,7 +6632,7 @@
     "registrationType": "Application",
     "startDate": "2027-01-08",
     "startTime": "12:00 PM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -6797,7 +6832,7 @@
     "name": "Full Moon Hike at Borderland State Park",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-20",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-10-28",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -7036,7 +7071,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running;Snowshoeing",
     "startDate": "2026-11-22",
     "startTime": "9:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -7937,7 +7972,7 @@
     "registrationType": "Registration",
     "startDate": "2026-12-06",
     "startTime": "9:00 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Backcountry",
     "timeZone": "US EST",
     "type": "Skiing",
@@ -8466,41 +8501,6 @@
     "url": "/s/oc-activity/a5UVX000001MAPx2AO"
   },
   {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg06DAAR",
-    "coords": {
-      "lat": 43.73,
-      "lon": -71.33
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-12-05",
-    "id": "a5UVX000001MAWP2A4",
-    "leaders": [
-      "Dia Prantis"
-    ],
-    "location": {
-      "city": "Moultonborough",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "SEM Beginner Winter Hiking Series #2",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-11-29",
-    "registration": "not-yet",
-    "registrationOpenDate": "2026-11-22",
-    "registrationType": "Application",
-    "secondaryType": "Snowshoeing",
-    "startDate": "2026-12-05",
-    "startTime": "9:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001MAWP2A4"
-  },
-  {
     "chapterId": "0015000001Sg061AAB",
     "coords": {
       "lat": 42.6,
@@ -8569,6 +8569,41 @@
     "timeZone": "US EST",
     "type": "Wilderness First Aid",
     "url": "/s/oc-activity/a5UVX000001MBx72AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.09
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-10",
+    "id": "a5UVX000001MC0L2AW",
+    "leaders": [
+      "Diane Simms"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "SEM Winter Hike & Learn #1",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-07",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-11-22",
+    "registrationType": "Application",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-10",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MC0L2AW"
   },
   {
     "audience": "Adults",
@@ -9185,7 +9220,7 @@
     "registrationType": "Show & Go",
     "startDate": "2026-11-21",
     "startTime": "9:30 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -12330,7 +12365,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-21",
     "startTime": "All Day",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -13419,7 +13454,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-12-19",
     "startTime": "7:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -16084,6 +16119,38 @@
     "url": "/s/oc-activity/a5UVX000001ND2P2AW"
   },
   {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 40.75,
+      "lon": -74.03
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2027-01-12",
+    "id": "a5UVX000001ND412AG",
+    "keywords": "Indoor climbing gym evening",
+    "leaders": [
+      "Alex de Chazal"
+    ],
+    "location": {
+      "city": "Hoboken",
+      "country": "United States",
+      "state": "NJ"
+    },
+    "name": "Indoor climbing evening - Hoboken",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2027-01-12",
+    "startTime": "7:00 PM",
+    "status": "Published",
+    "subType": "Local Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001ND412AG"
+  },
+  {
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg064AAB",
     "coords": {
@@ -18010,6 +18077,72 @@
     "url": "/s/oc-activity/a5UVX000001NH2n2AG"
   },
   {
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 42.24,
+      "lon": -72.65
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-12",
+    "id": "a5UVX000001NH4P2AW",
+    "leaders": [
+      "Thomas McParland"
+    ],
+    "location": {
+      "city": "Holyoke",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Tom leads Mt Tom/ Holyoke MA.",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-12-12",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NH4P2AW"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 43.95,
+      "lon": -71.5
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2027-01-24",
+    "id": "a5UVX000001NH7d2AG",
+    "keywords": "WHP",
+    "leaders": [
+      "Robert Mackin"
+    ],
+    "location": {
+      "city": "Waterville Valley",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "WHP: Welch/Dickey",
+    "program": "Volunteer Led",
+    "registerByDate": "2027-01-21",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-12-27",
+    "registrationType": "Application",
+    "startDate": "2027-01-24",
+    "startTime": "8:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NH7d2AG"
+  },
+  {
     "chapterId": "0015000001Sg06DAAR",
     "coords": {
       "lat": 41.73,
@@ -18039,5 +18172,329 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001NH9F2AW"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.13,
+      "lon": -75.48
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-12-07",
+    "id": "a5UVX000001NHAr2AO",
+    "keywords": "hiking, walks, dog walk, Phoenixville",
+    "leaders": [
+      "Jay Gross"
+    ],
+    "location": {
+      "city": "Phoenixville",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Monday Evening Hike in Phoenixville",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-12-07",
+    "startTime": "6:30 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NHAr2AO"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.13,
+      "lon": -75.48
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-12-14",
+    "id": "a5UVX000001NHCT2A4",
+    "keywords": "hiking, walks, dog walk, Phoenixville",
+    "leaders": [
+      "Jay Gross"
+    ],
+    "location": {
+      "city": "Phoenixville",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Monday Evening Hike in Phoenixville",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-12-14",
+    "startTime": "6:30 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NHCT2A4"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.13,
+      "lon": -75.48
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-12-21",
+    "id": "a5UVX000001NHE52AO",
+    "keywords": "hiking, walks, dog walk, Phoenixville",
+    "leaders": [
+      "Jay Gross"
+    ],
+    "location": {
+      "city": "Phoenixville",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Monday Evening Hike in Phoenixville",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-12-21",
+    "startTime": "6:30 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NHE52AO"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.2,
+      "lon": -75.79
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-12-06",
+    "id": "a5UVX000001NHFh2AO",
+    "keywords": "hiking, French Creek",
+    "leaders": [
+      "Jay Gross"
+    ],
+    "location": {
+      "city": "Elverson",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "French Creek Sunday Morning 10 at 10 Hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-12-06",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NHFh2AO"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.2,
+      "lon": -75.79
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-12-13",
+    "id": "a5UVX000001NHIv2AO",
+    "keywords": "hiking, French Creek",
+    "leaders": [
+      "Jay Gross"
+    ],
+    "location": {
+      "city": "Elverson",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "French Creek Sunday Morning 10 at 10 Hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-12-13",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NHIv2AO"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.2,
+      "lon": -75.79
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-12-20",
+    "id": "a5UVX000001NHKX2A4",
+    "keywords": "hiking, French Creek",
+    "leaders": [
+      "Jay Gross"
+    ],
+    "location": {
+      "city": "Elverson",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "French Creek Sunday Morning 10 at 10 Hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-12-20",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NHKX2A4"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 40.87,
+      "lon": -73.88
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-25",
+    "id": "a5UVX000001NHPN2A4",
+    "keywords": "Old Growth Forest, Relaxed, Social, Photo Moments,",
+    "leaders": [
+      "Richard Perez"
+    ],
+    "location": {
+      "city": "The Bronc",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "EXPLORE NEW YORK BOTANICAL GARDEN TRAILS IN THE BRONX",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Social",
+    "startDate": "2026-11-25",
+    "startTime": "10:30 AM",
+    "status": "Published",
+    "subType": "Local Walks",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NHPN2A4"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 40.85,
+      "lon": -73.89
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-11-25",
+    "id": "a5UVX000001NHQz2AO",
+    "keywords": "Italian Food, Sweets, Savory, History, Relaxed, Social",
+    "leaders": [
+      "Richard Perez"
+    ],
+    "location": {
+      "city": "Bronx",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Eat The Day B4 Turkey Day In Little Italy Of The Bronx",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Social",
+    "startDate": "2026-11-25",
+    "startTime": "2:45 AM",
+    "status": "Published",
+    "subType": "Local Walks",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NHQz2AO"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.83,
+      "lon": -75.7
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-12",
+    "id": "a5UVX000001NHcH2AW",
+    "leaders": [
+      "Theresa Oravec"
+    ],
+    "location": {
+      "city": "Lehighton",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "8 to 9.5 Miles:  Weissport to Jim Thorpe Hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-12-12",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NHcH2AW"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 43.99,
+      "lon": -71.82
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-12-04",
+    "id": "a5UVX000001NHkL2AW",
+    "leaders": [
+      "William Belben"
+    ],
+    "location": {
+      "city": "Woodstock",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Winter Hike of Mount Moosilauke",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-01",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-11-22",
+    "registrationType": "Application",
+    "startDate": "2026-12-04",
+    "startTime": "8:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NHkL2AW"
   }
 ]
