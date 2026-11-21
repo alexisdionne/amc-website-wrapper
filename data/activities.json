@@ -5383,37 +5383,6 @@
     "url": "/s/oc-activity/a5UVX000001KulR2AS"
   },
   {
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 39.97,
-      "lon": -75.19
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-11-20",
-    "id": "a5UVX000001Kv812AC",
-    "leaders": [
-      "Lisa Kleiman"
-    ],
-    "location": {
-      "city": "Philadelphia",
-      "country": "United States",
-      "state": "PA"
-    },
-    "name": "Philly Firsts Urban Hike - 8 - 10 miles",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "startDate": "2026-11-20",
-    "startTime": "10:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001Kv812AC"
-  },
-  {
     "audience": "Adults",
     "chapterId": "0015000001Sg06DAAR",
     "coords": {
@@ -6458,7 +6427,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-21",
     "startTime": "9:30 AM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -6944,39 +6913,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001Llpl2AC"
-  },
-  {
-    "chapterId": "001VX00000utYFKYA2",
-    "coords": {
-      "lat": 44.22,
-      "lon": -71.41
-    },
-    "costs": [],
-    "difficulty": 1,
-    "difficultyLabel": "1 - Accessible",
-    "endDate": "2026-11-20",
-    "id": "a5UVX000001LlzR2AS",
-    "keywords": "Guest, speaker, talk, nature, free, public, presentation, lecture, education, educational, naturalist, nature talk, evening program, programming, evening, science, volunteer naturalist, Highland, Highland Center, white mountains",
-    "leaders": [
-      "AMC Naturalist"
-    ],
-    "location": {
-      "city": "Carroll",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "Evening Program: Plants in Winter",
-    "program": "Naturalist Program",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "secondaryType": "Nature & Arts",
-    "startDate": "2026-11-20",
-    "startTime": "7:30 PM",
-    "status": "Published",
-    "subType": "Evening Programs",
-    "timeZone": "US EST",
-    "type": "Evening Programs",
-    "url": "/s/oc-activity/a5UVX000001LlzR2AS"
   },
   {
     "chapterId": "001VX00000utYFKYA2",
@@ -10835,41 +10771,6 @@
     "url": "/s/oc-activity/a5UVX000001McMD2A0"
   },
   {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg069AAB",
-    "coords": {
-      "lat": 42.36,
-      "lon": -71.67
-    },
-    "costs": [],
-    "difficulty": 5,
-    "difficultyLabel": "5 - Vigorous",
-    "endDate": "2026-11-20",
-    "id": "a5UVX000001Mcaj2AC",
-    "keywords": "weekday sunrise fitness",
-    "leaders": [
-      "Patricia Lambert"
-    ],
-    "location": {
-      "city": "Northborough",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "November Early Morning Fitness Hike",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-11-18",
-    "registration": "closed",
-    "registrationOpenDate": "2026-11-02",
-    "registrationType": "Application",
-    "startDate": "2026-11-20",
-    "startTime": "6:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001Mcaj2AC"
-  },
-  {
     "chapterId": "0015000001Sg060AAB",
     "coords": {
       "lat": 44.4,
@@ -10969,38 +10870,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001MdF32AK"
-  },
-  {
-    "audience": "20’s & 30’s;Adults",
-    "chapterId": "0015000001Sg05xAAB",
-    "coords": {
-      "lat": 42.47,
-      "lon": -72.6
-    },
-    "costs": [],
-    "difficulty": 2,
-    "difficultyLabel": "2 - Relaxed",
-    "endDate": "2026-11-20",
-    "id": "a5UVX000001Mda12AC",
-    "leaders": [
-      "Robert Williams"
-    ],
-    "location": {
-      "city": "Deerfield",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "(20s/30s/40s) Friday Sunrise from Mt. Sugarloaf",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2026-11-20",
-    "startTime": "5:45 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001Mda12AC"
   },
   {
     "audience": "Adults",
@@ -13072,40 +12941,6 @@
     "url": "/s/oc-activity/a5UVX000001N7xt2AC"
   },
   {
-    "audience": "20’s & 30’s",
-    "chapterId": "0015000001Sg069AAB",
-    "coords": {
-      "lat": 42.28,
-      "lon": -71.78
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-11-20",
-    "id": "a5UVX000001N82j2AC",
-    "keywords": "Hiking",
-    "leaders": [
-      "Laura Reynolds"
-    ],
-    "location": {
-      "city": "Worcester",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "20's & 30's Greenhill Park Hike (after work night hike)",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Application",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-11-20",
-    "startTime": "6:00 PM",
-    "status": "Waitlist",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001N82j2AC"
-  },
-  {
     "audience": "Adults",
     "chapterId": "0015000001Sg06DAAR",
     "coords": {
@@ -13998,39 +13833,6 @@
     "costs": [],
     "difficulty": 3,
     "difficultyLabel": "3 - Easy",
-    "endDate": "2026-11-20",
-    "id": "a5UVX000001N9lB2AS",
-    "keywords": "urban, walk, tour, city, canals, historic tour, waterpower, mill town, canals,",
-    "leaders": [
-      "Nancy Condon"
-    ],
-    "location": {
-      "city": "Holyoke",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "HOLYOKE’S HISTORIC CANALS AND DAM TOUR",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Outdoor Learning Experience",
-    "startDate": "2026-11-20",
-    "startTime": "10:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001N9lB2AS"
-  },
-  {
-    "chapterId": "0015000001Sg05xAAB",
-    "coords": {
-      "lat": 42.2,
-      "lon": -72.61
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
     "endDate": "2026-11-28",
     "id": "a5UVX000001N9oP2AS",
     "keywords": "urban, walk, tour, city, canals, historic tour, waterpower, mill town, canals,",
@@ -14249,6 +14051,40 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001N9y52AC"
+  },
+  {
+    "audience": "Families",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.44,
+      "lon": -71.11
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-12-19",
+    "id": "a5UVX000001N9zh2AC",
+    "leaders": [
+      "Heather McCurdy"
+    ],
+    "location": {
+      "city": "Medford",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Family hike to Wrights Tower and Panther Cave",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-18",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-12-04",
+    "registrationType": "Application",
+    "startDate": "2026-12-19",
+    "startTime": "12:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001N9zh2AC"
   },
   {
     "audience": "Adults",
@@ -16910,38 +16746,6 @@
     "url": "/s/oc-activity/a5UVX000001NEsv2AG"
   },
   {
-    "chapterId": "0015000001Sg064AAB",
-    "coords": {
-      "lat": 41.18,
-      "lon": -74.16
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-11-20",
-    "id": "a5UVX000001NEuX2AW",
-    "leaders": [
-      "Jay Beilis"
-    ],
-    "location": {
-      "city": "Sloatsburg",
-      "country": "United States",
-      "state": "NY"
-    },
-    "name": "Johnsontown Circle 7.5 miles 9:30 am (Moderate)",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-11-20",
-    "startTime": "9:30 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001NEuX2AW"
-  },
-  {
     "chapterId": "0015000001Sg05xAAB",
     "coords": {
       "lat": 42.49,
@@ -17693,37 +17497,6 @@
     "url": "/s/oc-activity/a5UVX000001NGJd2AO"
   },
   {
-    "chapterId": "0015000001Sg064AAB",
-    "coords": {
-      "lat": 41.3,
-      "lon": -74.02
-    },
-    "costs": [],
-    "difficulty": 5,
-    "difficultyLabel": "5 - Vigorous",
-    "endDate": "2026-11-20",
-    "id": "a5UVX000001NGMr2AO",
-    "keywords": "hiking, vigerous",
-    "leaders": [
-      "Rolande Hodel"
-    ],
-    "location": {
-      "country": "United States",
-      "state": "NY"
-    },
-    "name": "West Mt. From Exit 19 @ 9 AM (Vigorous)",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "startDate": "2026-11-20",
-    "startTime": "9:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001NGMr2AO"
-  },
-  {
     "chapterId": "0015000001Sg05xAAB",
     "costs": [],
     "difficulty": 3,
@@ -18042,6 +17815,42 @@
     "timeZone": "US EST",
     "type": "Paddling",
     "url": "/s/oc-activity/a5UVX000001NGxx2AG"
+  },
+  {
+    "audience": "55+",
+    "chapterId": "0015000001Sg060AAB",
+    "coords": {
+      "lat": 43.74,
+      "lon": -71.46
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2027-02-16",
+    "id": "a5UVX000001NGzZ2AW",
+    "keywords": "2",
+    "leaders": [
+      "Peter Martino"
+    ],
+    "location": {
+      "city": "Moultonborough",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Over 55 Winter Tuesday Hike – Red Hill & Cabin Trail - Moultonborough, NH – Feb 16, 2027",
+    "program": "Volunteer Led",
+    "registerByDate": "2027-02-13",
+    "registration": "not-yet",
+    "registrationOpenDate": "2027-01-16",
+    "registrationType": "Application",
+    "secondaryType": "Snowshoeing",
+    "startDate": "2027-02-16",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NGzZ2AW"
   },
   {
     "chapterId": "0015000001Sg069AAB",
@@ -18496,5 +18305,141 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001NHkL2AW"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.18,
+      "lon": -72.67
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-21",
+    "id": "a5UVX000001NHvd2AG",
+    "keywords": "Winter Solstice Hike",
+    "leaders": [
+      "Jeannette Pierce"
+    ],
+    "location": {
+      "city": "Holyoke",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Winter Solstice Sunset Hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-12-21",
+    "startTime": "2:15 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NHvd2AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.13,
+      "lon": -71.21
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-08",
+    "id": "a5UVX000001NI3h2AG",
+    "keywords": "Fitness Hike",
+    "leaders": [
+      "Kathleen O’Keefe"
+    ],
+    "location": {
+      "city": "Sharon",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Fitness Hike at Moose Hill Farm a Trustees Property",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-06",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-11-27",
+    "registrationType": "Registration",
+    "startDate": "2026-12-08",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NI3h2AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.06,
+      "lon": -71.17
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-22",
+    "id": "a5UVX000001NI5J2AW",
+    "keywords": "Fitness Hike",
+    "leaders": [
+      "Kathleen O’Keefe"
+    ],
+    "location": {
+      "city": "Easton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Fitness Hike - Borderland State Park",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-20",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-12-11",
+    "registrationType": "Registration",
+    "startDate": "2026-12-22",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NI5J2AW"
+  },
+  {
+    "audience": "Families",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.41,
+      "lon": -71.1
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-11-29",
+    "id": "a5UVX000001NI6v2AG",
+    "leaders": [
+      "Heather McCurdy"
+    ],
+    "location": {
+      "city": "Medford",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Family Outings Leader Social  - open to all interested in leading families!",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Social",
+    "startDate": "2026-11-29",
+    "startTime": "5:00 PM",
+    "status": "Published",
+    "subType": "Meetings",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001NI6v2AG"
   }
 ]
