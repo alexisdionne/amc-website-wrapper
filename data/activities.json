@@ -13165,38 +13165,6 @@
     "url": "/s/oc-activity/a5UVX000001N8XN2A0"
   },
   {
-    "chapterId": "0015000001Sg064AAB",
-    "coords": {
-      "lat": 41.71,
-      "lon": -73.94
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-11-22",
-    "id": "a5UVX000001N8ab2AC",
-    "leaders": [
-      "Steve Galla"
-    ],
-    "location": {
-      "city": "Poughkeepsie",
-      "country": "United States",
-      "state": "NY"
-    },
-    "name": "FRANNY REESE STATE PARK (MODERATE)",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Conservation",
-    "startDate": "2026-11-22",
-    "startTime": "11:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001N8ab2AC"
-  },
-  {
     "chapterId": "0015000001Sg061AAB",
     "coords": {
       "lat": 42.28,
@@ -17525,6 +17493,39 @@
     "url": "/s/oc-activity/a5UVX000001NGOT2A4"
   },
   {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.85,
+      "lon": -72.09
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-21",
+    "id": "a5UVX000001NGQ52AO",
+    "keywords": "winter solstice, mt monadnock, early winter, winter warm-up, winter hike, evening hike, close to Boston",
+    "leaders": [
+      "James Robinson"
+    ],
+    "location": {
+      "city": "Jaffrey",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Winter Solstice on Monadnock",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running;Snowshoeing",
+    "startDate": "2026-12-21",
+    "startTime": "3:45 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NGQ52AO"
+  },
+  {
     "chapterId": "0015000001Sg064AAB",
     "coords": {
       "lat": 41.14,
@@ -18307,6 +18308,104 @@
     "url": "/s/oc-activity/a5UVX000001NHkL2AW"
   },
   {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.79,
+      "lon": -72.46
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-25",
+    "id": "a5UVX000001NHpB2AW",
+    "keywords": "Phelon, Bolton Notch",
+    "leaders": [
+      "Jeffrey Phelon"
+    ],
+    "location": {
+      "city": "Bolton",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Bolton Notch to Box Mountain Bolton/ Vernon.",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-11-25",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NHpB2AW"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 43.98,
+      "lon": -71.82
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-12-08",
+    "id": "a5UVX000001NHsP2AW",
+    "leaders": [
+      "Christopher Dallmus"
+    ],
+    "location": {
+      "city": "Warren",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "MOOSILAUKE and possibly SOUTH PEAK on a Weekday",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-05",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-11-22",
+    "registrationType": "Application",
+    "startDate": "2026-12-08",
+    "startTime": "8:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NHsP2AW"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.58,
+      "lon": -75.34
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-24",
+    "id": "a5UVX000001NHu12AG",
+    "leaders": [
+      "Joseph Nanfara"
+    ],
+    "location": {
+      "city": "Hellertown",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Saucon Rail Trail- Hellertown PA-Slow & Easy 1.25 or 3.25 Miles",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-24",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NHu12AG"
+  },
+  {
     "audience": "Adults",
     "chapterId": "0015000001Sg05xAAB",
     "coords": {
@@ -18441,5 +18540,63 @@
     "timeZone": "US EST",
     "type": "Social",
     "url": "/s/oc-activity/a5UVX000001NI6v2AG"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.58,
+      "lon": -75.34
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-01",
+    "id": "a5UVX000001NIOf2AO",
+    "leaders": [
+      "Joseph Nanfara"
+    ],
+    "location": {
+      "city": "Hellertown",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Saucon Rail Trail Workout-Hellertown PA",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-01",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NIOf2AO"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-27",
+    "id": "a5UVX000001NIQH2A4",
+    "leaders": [
+      "Jay Beilis"
+    ],
+    "location": {
+      "country": "United States"
+    },
+    "name": "reaves meadow Nov 27 9:30 am ( moderate)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-27",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NIQH2A4"
   }
 ]
