@@ -827,6 +827,41 @@
     "url": "/s/oc-activity/a5UVX00000109lt2AA"
   },
   {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.05,
+      "lon": -71.27
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2027-01-12",
+    "id": "a5UVX0000010dDh2AI",
+    "keywords": "Fitness Hike",
+    "leaders": [
+      "Kathleen O’Keefe"
+    ],
+    "location": {
+      "city": "Foxborough",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Fitness Hike - F Gilbert Hills State Forest",
+    "program": "Volunteer Led",
+    "registerByDate": "2027-01-10",
+    "registration": "not-yet",
+    "registrationOpenDate": "2027-01-02",
+    "registrationType": "Registration",
+    "startDate": "2027-01-12",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX0000010dDh2AI"
+  },
+  {
     "chapterId": "0015000001Sg06DAAR",
     "coords": {
       "lat": 41.99,
@@ -2852,7 +2887,7 @@
     "secondaryType": "Conservation",
     "startDate": "2026-12-19",
     "startTime": "9:00 AM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Conservation",
     "timeZone": "US EST",
     "type": "Conservation",
@@ -3017,7 +3052,7 @@
     "registrationType": "Application",
     "startDate": "2026-12-15",
     "startTime": "8:30 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -3726,7 +3761,7 @@
     "registrationType": "Registration",
     "startDate": "2027-02-06",
     "startTime": "9:00 AM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Backcountry",
     "timeZone": "US EST",
     "type": "Skiing",
@@ -4090,7 +4125,7 @@
     "name": "PROGRESSIVE HIKING SERIES FROM THE BLUE HILLS TO METRO WEST – HIKE #10",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-22",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-11-10",
     "registrationType": "Registration",
     "startDate": "2026-11-24",
@@ -6165,7 +6200,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-11-22",
     "startTime": "1:00 PM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -8130,7 +8165,7 @@
     "name": "- SEM Beginner Winter Hiking Series #2- Mt Roberts",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-29",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-22",
     "registrationType": "Application",
     "secondaryType": "Snowshoeing",
@@ -8182,7 +8217,7 @@
       "lon": -77.13
     },
     "costs": [
-      450
+      165
     ],
     "difficulty": 3,
     "difficultyLabel": "3 - Easy",
@@ -8235,7 +8270,7 @@
     "name": "SEM Winter Hike & Learn #1",
     "program": "Volunteer Led",
     "registerByDate": "2026-12-07",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-22",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -10366,7 +10401,7 @@
     "name": "Fitness Hike - F Gilbert Hills State Forest",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-22",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-11-11",
     "registrationType": "Registration",
     "startDate": "2026-11-24",
@@ -10716,7 +10751,7 @@
     "registrationType": "Registration",
     "startDate": "2027-01-10",
     "startTime": "8:30 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Backcountry",
     "timeZone": "US EST",
     "type": "Skiing",
@@ -11821,7 +11856,7 @@
       "lon": -74.32
     },
     "costs": [
-      180
+      90
     ],
     "difficulty": 3,
     "difficultyLabel": "3 - Easy",
@@ -12044,7 +12079,7 @@
     "registrationType": "Registration",
     "startDate": "2026-11-22",
     "startTime": "10:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -12505,7 +12540,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-11-24",
     "startTime": "9:00 AM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -12607,38 +12642,6 @@
     "url": "/s/oc-activity/a5UVX000001N8XN2A0"
   },
   {
-    "chapterId": "0015000001Sg064AAB",
-    "coords": {
-      "lat": 41.71,
-      "lon": -73.94
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-11-22",
-    "id": "a5UVX000001N8ab2AC",
-    "leaders": [
-      "Steve Galla"
-    ],
-    "location": {
-      "city": "Poughkeepsie",
-      "country": "United States",
-      "state": "NY"
-    },
-    "name": "CANCELLED:  FRANNY REESE STATE PARK (MODERATE)",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Conservation",
-    "startDate": "2026-11-22",
-    "startTime": "11:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001N8ab2AC"
-  },
-  {
     "chapterId": "0015000001Sg061AAB",
     "coords": {
       "lat": 42.28,
@@ -12660,7 +12663,7 @@
     "name": "Blue Heron trail loop",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-22",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-11-09",
     "registrationType": "Registration",
     "startDate": "2026-11-23",
@@ -14403,7 +14406,7 @@
     "name": "Moose Hill Farm Loop",
     "program": "Volunteer Led",
     "registerByDate": "2026-12-05",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-22",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -15002,7 +15005,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-28",
     "startTime": "8:00 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -15470,7 +15473,7 @@
     "costs": [],
     "difficulty": 5,
     "difficultyLabel": "5 - Vigorous",
-    "endDate": "2026-11-22",
+    "endDate": "2026-11-29",
     "id": "a5UVX000001NDYf2AO",
     "keywords": "Hike, Zoar Trail, Newtown",
     "leaders": [
@@ -15485,7 +15488,7 @@
     "program": "Volunteer Led",
     "registration": "open",
     "registrationType": "Show & Go",
-    "startDate": "2026-11-22",
+    "startDate": "2026-11-29",
     "startTime": "12:00 PM",
     "status": "Published",
     "subType": "Hiking",
@@ -17358,7 +17361,7 @@
     "name": "Winter Hike of Mount Moosilauke",
     "program": "Volunteer Led",
     "registerByDate": "2026-12-01",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-22",
     "registrationType": "Application",
     "startDate": "2026-12-04",
@@ -17368,38 +17371,6 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001NHkL2AW"
-  },
-  {
-    "chapterId": "0015000001Sg05zAAB",
-    "coords": {
-      "lat": 41.79,
-      "lon": -72.46
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-11-25",
-    "id": "a5UVX000001NHpB2AW",
-    "keywords": "Phelon, Bolton Notch",
-    "leaders": [
-      "Jeffrey Phelon"
-    ],
-    "location": {
-      "city": "Bolton",
-      "country": "United States",
-      "state": "CT"
-    },
-    "name": "Bolton Notch to Box Mountain Bolton/ Vernon.",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "startDate": "2026-11-25",
-    "startTime": "9:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001NHpB2AW"
   },
   {
     "audience": "Adults",
@@ -17704,6 +17675,40 @@
     "url": "/s/oc-activity/a5UVX000001NIQH2A4"
   },
   {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 40.75,
+      "lon": -73.98
+    },
+    "costs": [],
+    "difficulty": 6,
+    "difficultyLabel": "6 - Strenuous",
+    "endDate": "2026-11-26",
+    "id": "a5UVX000001NIV72AO",
+    "keywords": "challenge, hike, cold spring, beacon, public transit, metronorth, hudson valley",
+    "leaders": [
+      "Eltan Samoylov"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Turkey Day Trot & Talk: Cold Spring to Beacon #OptOutside (Strenuous)",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-25",
+    "registration": "open",
+    "registrationOpenDate": "2026-11-22",
+    "registrationType": "Registration",
+    "startDate": "2026-11-26",
+    "startTime": "6:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NIV72AO"
+  },
+  {
     "chapterId": "0015000001Sg06BAAR",
     "costs": [],
     "difficulty": 1,
@@ -17728,6 +17733,38 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001NIWj2AO"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.31,
+      "lon": -72.92
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-12-01",
+    "id": "a5UVX000001NIYL2A4",
+    "leaders": [
+      "Conrad Ward"
+    ],
+    "location": {
+      "city": "New Haven",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "(20s/30s) New Haven New Member Urban Night Walk",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-12-01",
+    "startTime": "6:15 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NIYL2A4"
   },
   {
     "chapterId": "0015000001Sg06BAAR",
@@ -17762,6 +17799,40 @@
   },
   {
     "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 40.67,
+      "lon": -73.97
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-27",
+    "id": "a5UVX000001NIdB2AW",
+    "keywords": "walk, hike, brooklyn, prospect park, public transit, nyc, new york city, reflection, mental health",
+    "leaders": [
+      "Eltan Samoylov"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Turkey Day Trot & Talk: Prospect Park Loop #OptOutside (Easy)",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-26",
+    "registration": "open",
+    "registrationOpenDate": "2026-11-22",
+    "registrationType": "Registration",
+    "startDate": "2026-11-27",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Local Walks",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NIdB2AW"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
     "costs": [],
     "difficulty": 5,
     "difficultyLabel": "5 - Vigorous",
@@ -17787,5 +17858,300 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001NIen2AG"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 40.7,
+      "lon": -74.01
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-11-29",
+    "id": "a5UVX000001NIgP2AW",
+    "keywords": "challenge, hike, staten island, greenbelt, public transit, mental health, ferry",
+    "leaders": [
+      "Eltan Samoylov"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Turkey Day Trot & Talk: The Greenbelt (Staten Island) #OptOutside (Vigorous)",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-28",
+    "registration": "open",
+    "registrationOpenDate": "2026-11-22",
+    "registrationType": "Registration",
+    "startDate": "2026-11-29",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NIgP2AW"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 40.75,
+      "lon": -73.99
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-11-28",
+    "id": "a5UVX000001NIi12AG",
+    "keywords": "challenge, hike, south mountain reservation, new jersey, public transit, mental health",
+    "leaders": [
+      "Eltan Samoylov"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Turkey Day Trot & Talk: South Mountain Reservation (NJ) #OptOutside (Vigorous)",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-27",
+    "registration": "open",
+    "registrationOpenDate": "2026-11-22",
+    "registrationType": "Registration",
+    "startDate": "2026-11-28",
+    "startTime": "8:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NIi12AG"
+  },
+  {
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.02,
+      "lon": -70.04
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-14",
+    "id": "a5UVX000001NIjd2AG",
+    "keywords": "Cape Hikes",
+    "leaders": [
+      "Jay Vivian"
+    ],
+    "location": {
+      "city": "Truro",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Cape Hikes--2026's Best Meteor Shower -- Truro",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running;Nature & Arts;Outdoor Learning Experience;Social;Evening Programs;Nature Walks",
+    "startDate": "2026-12-13",
+    "startTime": "11:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NIjd2AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.55,
+      "lon": -75.48
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-23",
+    "id": "a5UVX000001NIuv2AG",
+    "leaders": [
+      "Theresa Oravec"
+    ],
+    "location": {
+      "city": "Emmaus",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "7 Mile Hike:  South Mountain Preserve, Emmaus",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-12-23",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NIuv2AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.05,
+      "lon": -71.27
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2027-01-07",
+    "id": "a5UVX000001NIwX2AW",
+    "keywords": "Thursday Hike",
+    "leaders": [
+      "Kathleen O’Keefe"
+    ],
+    "location": {
+      "city": "Foxborough",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Thursday Hike at F Gilbert State Forest",
+    "program": "Volunteer Led",
+    "registerByDate": "2027-01-04",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-12-26",
+    "registrationType": "Application",
+    "startDate": "2027-01-07",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NIwX2AW"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.75,
+      "lon": -74.73
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-12-12",
+    "id": "a5UVX000001NIy92AG",
+    "leaders": [
+      "Theresa Berntsen"
+    ],
+    "location": {
+      "city": "Washington Township",
+      "country": "United States",
+      "state": "NJ"
+    },
+    "name": "Holiday Hike Hacklebarney SP and Ice Sculpting",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-12",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NIy92AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.79,
+      "lon": -72.46
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-25",
+    "id": "a5UVX000001NJ2z2AG",
+    "leaders": [
+      "Jeffrey Phelon"
+    ],
+    "location": {
+      "city": "Bolton",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Bolton Notch to Box Mountain, Bolton/ Vernon, Moderate",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-11-25",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NJ2z2AG"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 41.19,
+      "lon": -74.88
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-11-28",
+    "id": "a5UVX000001NJ4b2AG",
+    "leaders": [
+      "Greg Bernet"
+    ],
+    "location": {
+      "city": "Pocono Ranch Lands",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Hornbeck's Creek and PEEC",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-28",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NJ4b2AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.96,
+      "lon": -72.41
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-22",
+    "id": "a5UVX000001NJ7p2AG",
+    "leaders": [
+      "Eugene Mark Grayson"
+    ],
+    "location": {
+      "city": "Somers",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Moderate Hike B3C on Soapstone Mountain, Somers",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-12-22",
+    "startTime": "9:15 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NJ7p2AG"
   }
 ]
