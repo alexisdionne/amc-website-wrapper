@@ -3017,7 +3017,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-24",
     "startTime": "9:45 AM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -3190,6 +3190,38 @@
     "timeZone": "US EST",
     "type": "Skiing",
     "url": "/s/oc-activity/a5UVX000001HfSn2AK"
+  },
+  {
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 41.76,
+      "lon": -70.15
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2027-01-03",
+    "id": "a5UVX000001Hnwb2AC",
+    "keywords": "Cape Hikes Dennis Crowes",
+    "leaders": [
+      "Margaret Christen"
+    ],
+    "location": {
+      "city": "Dennis",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Cape Hikes - Dennis, MA Crowes Pasture and Cold Storage Beach",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2027-01-03",
+    "startTime": "12:45 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001Hnwb2AC"
   },
   {
     "audience": "Adults",
@@ -3953,7 +3985,7 @@
       "country": "United States",
       "state": "MA"
     },
-    "name": "PROGRESSIVE HIKING SERIES FROM THE BLUE HILLS TO METRO WEST  - HIKE #11",
+    "name": "THE PROGRESSIVE HIKING SERIES - HIKE #11",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-29",
     "registration": "open",
@@ -3989,11 +4021,11 @@
       "country": "United States",
       "state": "MA"
     },
-    "name": "PROGRESSIVE HIKING SERIES FROM THE BLUE HILLS TO METRO WEST FINALE! - HIKE #13",
+    "name": "THE PROGRESSIVE HIKING SERIES FINALE! - HIKE #13",
     "program": "Volunteer Led",
     "registerByDate": "2026-12-13",
     "registration": "not-yet",
-    "registrationOpenDate": "2026-12-01",
+    "registrationOpenDate": "2026-11-24",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-12-15",
@@ -4037,6 +4069,10 @@
   {
     "audience": "Adults",
     "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.13,
+      "lon": -71.21
+    },
     "costs": [],
     "difficulty": 3,
     "difficultyLabel": "3 - Easy",
@@ -4050,7 +4086,7 @@
       "country": "United States",
       "state": "MA"
     },
-    "name": "PROGRESSIVE HIKING SERIES FROM THE BLUE HILLS TO METRO WEST – HIKE #12",
+    "name": "THE PROGRESSIVE HIKING SERIES – HIKE #12",
     "program": "Volunteer Led",
     "registerByDate": "2026-12-06",
     "registration": "not-yet",
@@ -4595,7 +4631,7 @@
     "secondaryType": "Biking",
     "startDate": "2026-11-29",
     "startTime": "10:00 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -4629,7 +4665,7 @@
     "registrationType": "Registration",
     "startDate": "2026-12-12",
     "startTime": "All Day",
-    "status": "Published",
+    "status": "Full",
     "subType": "Local Socials",
     "timeZone": "US EST",
     "type": "Social",
@@ -5078,7 +5114,7 @@
     "secondaryType": "Climbing & Mountaineering",
     "startDate": "2026-12-10",
     "startTime": "7:00 PM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Backcountry",
     "timeZone": "US EST",
     "type": "Skiing",
@@ -7007,7 +7043,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-24",
     "startTime": "9:45 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -7702,7 +7738,7 @@
     "registrationType": "Application",
     "startDate": "2026-12-06",
     "startTime": "All Day",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -7936,7 +7972,7 @@
     "secondaryType": "Snowshoeing",
     "startDate": "2026-12-05",
     "startTime": "9:00 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -7982,7 +8018,7 @@
       "lon": -77.13
     },
     "costs": [
-      450
+      165
     ],
     "difficulty": 3,
     "difficultyLabel": "3 - Easy",
@@ -9603,7 +9639,7 @@
     "secondaryType": "Snowshoeing",
     "startDate": "2026-12-13",
     "startTime": "8:30 AM",
-    "status": "Waitlist",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -11425,7 +11461,7 @@
       "lon": -74.32
     },
     "costs": [
-      180
+      90
     ],
     "difficulty": 3,
     "difficultyLabel": "3 - Easy",
@@ -14549,40 +14585,6 @@
     "url": "/s/oc-activity/a5UVX000001NCPh2AO"
   },
   {
-    "audience": "Adults",
-    "chapterId": "0015000001Sg061AAB",
-    "coords": {
-      "lat": 43.95,
-      "lon": -71.21
-    },
-    "costs": [],
-    "difficulty": 5,
-    "difficultyLabel": "5 - Vigorous",
-    "endDate": "2026-12-01",
-    "id": "a5UVX000001NCW92AO",
-    "leaders": [
-      "Christopher Dallmus"
-    ],
-    "location": {
-      "city": "Albany",
-      "country": "United States",
-      "state": "NH"
-    },
-    "name": "Middle Sister via Carter Ledge and Middle Sister Trail Loop on a Tuesday",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-11-27",
-    "registration": "open",
-    "registrationOpenDate": "2026-11-16",
-    "registrationType": "Application",
-    "startDate": "2026-12-01",
-    "startTime": "8:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001NCW92AO"
-  },
-  {
     "chapterId": "0015000001Sg069AAB",
     "coords": {
       "lat": 42.47,
@@ -15327,7 +15329,7 @@
     "name": "Feel the Wind on Straightback Mtn and Mt Major",
     "program": "Volunteer Led",
     "registerByDate": "2026-12-09",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-23",
     "registrationType": "Application",
     "startDate": "2026-12-10",
@@ -17007,6 +17009,38 @@
     "url": "/s/oc-activity/a5UVX000001NI6v2AG"
   },
   {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.24,
+      "lon": -71.03
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-12",
+    "id": "a5UVX000001NI8X2AW",
+    "leaders": [
+      "Xiaoyu Chen"
+    ],
+    "location": {
+      "city": "Quincy",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "[BCMC] Rock/Ice Climbing Self-Rescue Fundamentals",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "secondaryType": "Climbing & Mountaineering",
+    "startDate": "2026-12-12",
+    "startTime": "8:00 AM",
+    "status": "Published",
+    "subType": "Top Rope Rock",
+    "timeZone": "US EST",
+    "type": "Climbing & Mountaineering",
+    "url": "/s/oc-activity/a5UVX000001NI8X2AW"
+  },
+  {
     "audience": "Adults;Teens",
     "chapterId": "0015000001Sg060AAB",
     "coords": {
@@ -17030,7 +17064,7 @@
     "name": "See The Dark: Mt. Pierce Hike",
     "program": "Volunteer Led",
     "registerByDate": "2026-12-11",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-23",
     "registrationType": "Application",
     "secondaryType": "Snowshoeing",
@@ -17519,6 +17553,39 @@
     "url": "/s/oc-activity/a5UVX000001NIy92AG"
   },
   {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 40.75,
+      "lon": -73.99
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-05",
+    "id": "a5UVX000001NJ1N2AW",
+    "keywords": "Concrete to Trails, NYGrowth, C2T, AMC NYC, hike, nature, walk, bus, public transit, mass transit, public transportation, train",
+    "leaders": [
+      "Mari Ishihara"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Public Transportation Hike : Tuxedo Claudius Smith Den (Moderate)",
+    "program": "Staff Activities",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-05",
+    "startTime": "8:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NJ1N2AW"
+  },
+  {
     "audience": "Adults",
     "chapterId": "0015000001Sg05zAAB",
     "coords": {
@@ -17812,6 +17879,37 @@
     "url": "/s/oc-activity/a5UVX000001NJFt2AO"
   },
   {
+    "audience": "Educators",
+    "chapterId": "0015000001Sg060AAB",
+    "coords": {
+      "lat": 43.19,
+      "lon": -71.57
+    },
+    "costs": [],
+    "difficulty": 6,
+    "difficultyLabel": "6 - Strenuous",
+    "endDate": "2026-12-12",
+    "id": "a5UVX000001NJHV2A4",
+    "leaders": [
+      "Jillian Willard"
+    ],
+    "location": {
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "AMC NH Ski Committee Leaders Only On The Snow Ski Clinic - Telemark",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-12-12",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "Backcountry",
+    "timeZone": "US EST",
+    "type": "Skiing",
+    "url": "/s/oc-activity/a5UVX000001NJHV2A4"
+  },
+  {
     "chapterId": "0015000001Sg061AAB",
     "coords": {
       "lat": 42.64,
@@ -17847,6 +17945,33 @@
     "url": "/s/oc-activity/a5UVX000001NJJ72AO"
   },
   {
+    "audience": "Educators",
+    "chapterId": "0015000001Sg060AAB",
+    "costs": [],
+    "difficulty": 6,
+    "difficultyLabel": "6 - Strenuous",
+    "endDate": "2026-12-13",
+    "id": "a5UVX000001NJKj2AO",
+    "leaders": [
+      "Jillian Willard"
+    ],
+    "location": {
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "AMC NH Ski Committee Leaders Only On The Snow Ski Clinic - Alpine",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2026-12-13",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "Backcountry",
+    "timeZone": "US EST",
+    "type": "Skiing",
+    "url": "/s/oc-activity/a5UVX000001NJKj2AO"
+  },
+  {
     "chapterId": "0015000001Sg064AAB",
     "coords": {
       "lat": 40.71,
@@ -17877,5 +18002,562 @@
     "timeZone": "US EST",
     "type": "Social",
     "url": "/s/oc-activity/a5UVX000001NJML2A4"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 44,
+      "lon": -71.37
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2027-01-17",
+    "id": "a5UVX000001NJe52AG",
+    "keywords": "Winter Hiking Programm, Mt. Hedgehog NH, 52 WAV, Winter hiking NH",
+    "leaders": [
+      "Rosa Zhang"
+    ],
+    "location": {
+      "city": "Albany",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "WHP: Mt. Hedgehog",
+    "program": "Volunteer Led",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-12-20",
+    "registrationType": "Application",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2027-01-17",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NJe52AG"
+  },
+  {
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 42.49,
+      "lon": -71.91
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2027-02-20",
+    "id": "a5UVX000001NJfh2AG",
+    "keywords": "Explore you Winter Hiker Track I, Wachusett Mountain, Winter hike",
+    "leaders": [
+      "Joseph Ciras"
+    ],
+    "location": {
+      "city": "Westminster",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Explore Your Inner Winter Hiker: Wachusett Mountain (Track I)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2027-02-20",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NJfh2AG"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 40.76,
+      "lon": -73.92
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-11-29",
+    "id": "a5UVX000001NJm92AG",
+    "keywords": "Movies, museum, Social event",
+    "leaders": [
+      "Rebeca Galbinski"
+    ],
+    "location": {
+      "city": "Astoria",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Friendsgiving in Astoria: Lunch at Rio Market & Brigadoon Movie at MOMI",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-11-29",
+    "startTime": "10:45 AM",
+    "status": "Published",
+    "subType": "Local Walks",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NJm92AG"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.45,
+      "lon": -76.78
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-12-11",
+    "id": "a5UVX000001NJnl2AG",
+    "keywords": "Campanelli, Backpacking, Backcountry, Trekking, Winter Backpacking, Winter",
+    "leaders": [
+      "Steven Campanelli"
+    ],
+    "location": {
+      "city": "Carsonville",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Festivus for the Rest of Us: Winter Backpack on the AT",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "secondaryType": "Backpacking",
+    "startDate": "2026-12-10",
+    "startTime": "9:00 AM",
+    "status": "Published",
+    "subType": "Backpacking",
+    "timeZone": "US EST",
+    "type": "Backpacking",
+    "url": "/s/oc-activity/a5UVX000001NJnl2AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.31,
+      "lon": -72.53
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-12-08",
+    "id": "a5UVX000001NJpN2AW",
+    "keywords": "New England Trail, Seven Sisters ,Holyoke Range",
+    "leaders": [
+      "Julie Huber"
+    ],
+    "location": {
+      "city": "Amherst",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Another Tuesday on the New England Trail",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-06",
+    "registration": "open",
+    "registrationOpenDate": "2026-11-23",
+    "registrationType": "Application",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-08",
+    "startTime": "7:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NJpN2AW"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.23,
+      "lon": -74.18
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-11-27",
+    "id": "a5UVX000001NJqz2AG",
+    "leaders": [
+      "Gwen Hartstein"
+    ],
+    "location": {
+      "city": "Tuxedo",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Post Thanksgiving Fall Foliage Hike: Exploring Sterling Forest & Harriman State Park - Public Transportation Accessible (Vigorous)",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-26",
+    "registration": "open",
+    "registrationOpenDate": "2026-11-23",
+    "registrationType": "Registration",
+    "startDate": "2026-11-27",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NJqz2AG"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.09,
+      "lon": -75.45
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-05",
+    "id": "a5UVX000001NJsb2AG",
+    "leaders": [
+      "Sue Auyeung"
+    ],
+    "location": {
+      "city": "King of Prussia",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Valley Forge Saturday Afternoon Hike",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-12-05",
+    "startTime": "1:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NJsb2AG"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg060AAB",
+    "costs": [
+      175
+    ],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2027-01-17",
+    "id": "a5UVX000001NJuD2AW",
+    "leaders": [
+      "Jamie Cullinane"
+    ],
+    "location": {
+      "city": "Gorham",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "NH 20's & 30s Annual JDL Weekend",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2027-01-15",
+    "startTime": "4:00 PM",
+    "status": "Published",
+    "subType": "Local Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001NJuD2AW"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.6,
+      "lon": -72.65
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-12-03",
+    "id": "a5UVX000001NJvp2AG",
+    "leaders": [
+      "Phillip Wilsey"
+    ],
+    "location": {
+      "city": "Cromwell",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "River Highlands State Park, Cromwell, (C3C, Easy)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-12-03",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NJvp2AG"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.7,
+      "lon": -72.92
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2027-01-02",
+    "id": "a5UVX000001NK3t2AG",
+    "keywords": "Kayak whitewater instruction pool session",
+    "leaders": [
+      "Mark Schappert"
+    ],
+    "location": {
+      "city": "Bristol",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "CT AMC Whitewater BRISTOL, CT Pool Rolling sessions 2027",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Biking",
+    "startDate": "2027-01-02",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Whitewater",
+    "timeZone": "US EST",
+    "type": "Paddling",
+    "url": "/s/oc-activity/a5UVX000001NK3t2AG"
+  },
+  {
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.1,
+      "lon": -73.57
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-27",
+    "id": "a5UVX000001NK5V2AW",
+    "keywords": "Westchester Wildernesss Walk, Pound Ridge, McCarthy",
+    "leaders": [
+      "Bill McCarthy"
+    ],
+    "location": {
+      "city": "Stamford",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Westchester Wilderness Walk, Pound Ridge, NY  EASY/MODERATE",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-11-27",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NK5V2AW"
+  },
+  {
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 42.32,
+      "lon": -71.64
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-12-16",
+    "id": "a5UVX000001NK772AG",
+    "leaders": [
+      "Joe Massery"
+    ],
+    "location": {
+      "city": "Northborough",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "3rd Wednesday Potluck Social & Trivia Night",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Social;Evening Programs",
+    "startDate": "2026-12-16",
+    "startTime": "6:30 PM",
+    "status": "Published",
+    "subType": "Local Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001NK772AG"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.12,
+      "lon": -75.46
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-12-05",
+    "id": "a5UVX000001NKAL2A4",
+    "keywords": "Hike",
+    "leaders": [
+      "Mary Toomey"
+    ],
+    "location": {
+      "city": "Phoenixville",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "AMAZING tree + HOLIDAY market! Short hike, Oaks & Valley Forge PA",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-05",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NKAL2A4"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.69,
+      "lon": -74.88
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-12-11",
+    "id": "a5UVX000001NKBx2AO",
+    "keywords": "Easy, flat, river",
+    "leaders": [
+      "Kathryn Douglas"
+    ],
+    "location": {
+      "city": "Lebanon Township",
+      "country": "United States",
+      "state": "NJ"
+    },
+    "name": "Ken Lockwood Gorge: Easy 3.2 mile River Walk with optional outing afterwards",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-12-11",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NKBx2AO"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.63,
+      "lon": -75.14
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-12-15",
+    "id": "a5UVX000001NKDZ2A4",
+    "keywords": "vigorous, forest, stream, stream crossings",
+    "leaders": [
+      "Kathryn Douglas"
+    ],
+    "location": {
+      "city": "Bloomsbury",
+      "country": "United States",
+      "state": "NJ"
+    },
+    "name": "Musconetcong Gorge Hike: 2.9 miles / 669 elevation gain",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-12-15",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NKDZ2A4"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.37,
+      "lon": -73.95
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-11-27",
+    "id": "a5UVX000001NKK12AO",
+    "leaders": [
+      "Hank Zupnick"
+    ],
+    "location": {
+      "city": "Garrison",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Castle Rock at Hudson Highlands (Moderate)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-27",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NKK12AO"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 44.15,
+      "lon": -71.19
+    },
+    "costs": [
+      15
+    ],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-12-20",
+    "id": "a5UVX000001NKOr2AO",
+    "keywords": "Ice climbing, Mixed Climbing, Climbing, Mountaineering, Skiing, Snowboarding, Hiking, Cabin",
+    "leaders": [
+      "Seda Salar"
+    ],
+    "location": {
+      "city": "Jackson",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "[BCMC]   2027 Ice Season December Dust Off Community Weekend - AMC Boston Climbers",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "secondaryType": "Climbing & Mountaineering",
+    "startDate": "2026-12-18",
+    "startTime": "7:00 PM",
+    "status": "Published",
+    "subType": "Lodges, Huts, Camps, Cabins, & Campsites",
+    "timeZone": "US EST",
+    "type": "Camping",
+    "url": "/s/oc-activity/a5UVX000001NKOr2AO"
   }
 ]
