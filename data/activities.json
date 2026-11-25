@@ -63,6 +63,43 @@
     "url": "/s/oc-activity/a5UUN000000l4wD2AQ"
   },
   {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.19,
+      "lon": -71.1
+    },
+    "costs": [
+      125
+    ],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2027-09-07",
+    "id": "a5UUN000000xXuP2AU",
+    "keywords": "no-meetup",
+    "leaders": [
+      "Michael Hanley"
+    ],
+    "location": {
+      "city": "Canton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "OC Testing Payment 20s and 30s",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-11-30",
+    "registration": "open",
+    "registrationOpenDate": "2026-04-01",
+    "registrationType": "Application",
+    "startDate": "2027-09-07",
+    "startTime": "All Day",
+    "status": "Published",
+    "subType": "Local Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UUN000000xXuP2AU"
+  },
+  {
     "audience": "Adults",
     "chapterId": "0015000001TGzFBAA1",
     "coords": {
@@ -3696,38 +3733,6 @@
     "url": "/s/oc-activity/a5UVX000001IYAj2AO"
   },
   {
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 40.64,
-      "lon": -75.38
-    },
-    "costs": [],
-    "difficulty": 1,
-    "difficultyLabel": "1 - Accessible",
-    "endDate": "2027-10-01",
-    "id": "a5UVX000001ImVR2A0",
-    "leaders": [
-      "Peni MacMeekin"
-    ],
-    "location": {
-      "city": "Bethlehem",
-      "country": "United States",
-      "state": "PA"
-    },
-    "name": "AMC DV Wordpress website help needed!",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Volunteer Opportunities",
-    "startDate": "2026-10-01",
-    "startTime": "All Day",
-    "status": "Published",
-    "subType": "All Volunteer Opportunities",
-    "timeZone": "US EST",
-    "type": "Volunteer Opportunities",
-    "url": "/s/oc-activity/a5UVX000001ImVR2A0"
-  },
-  {
     "chapterId": "0015000001Sg06DAAR",
     "coords": {
       "lat": 42.21,
@@ -5152,7 +5157,7 @@
     "name": "Day After Thanksgiving Hike at Callahan State Park",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-25",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-11-13",
     "registrationType": "Application",
     "startDate": "2026-11-27",
@@ -5541,7 +5546,7 @@
     "registrationType": "Application",
     "startDate": "2026-12-05",
     "startTime": "All Day",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -6312,7 +6317,7 @@
     "name": "Full Moon Hike at Borderland State Park",
     "program": "Volunteer Led",
     "registerByDate": "2026-12-18",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-25",
     "registrationType": "Registration",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
@@ -9708,7 +9713,8 @@
     },
     "name": "Tecumseh in Late-November (Sunday)",
     "program": "Volunteer Led",
-    "registration": "open",
+    "registerByDate": "2026-11-25",
+    "registration": "closed",
     "registrationType": "Application",
     "startDate": "2026-11-29",
     "startTime": "All Day",
@@ -11322,7 +11328,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-26",
     "startTime": "7:45 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -11492,7 +11498,7 @@
     "registrationType": "Application",
     "startDate": "2026-12-27",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -11948,7 +11954,7 @@
     "name": "EXPLORE YOUR INNER WINTER HIKER - North Pack Monadnock",
     "program": "Volunteer Led",
     "registerByDate": "2026-12-11",
-    "registration": "not-yet",
+    "registration": "open",
     "registrationOpenDate": "2026-11-25",
     "registrationType": "Application",
     "startDate": "2026-12-13",
@@ -13325,7 +13331,7 @@
     "registrationType": "Registration",
     "startDate": "2026-11-27",
     "startTime": "11:45 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -13587,7 +13593,7 @@
     "name": "SEM Winter Hiking Series Hike #1A  at the Blue Hills",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-25",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-11-14",
     "registrationType": "Application",
     "startDate": "2026-11-28",
@@ -13956,7 +13962,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-28",
     "startTime": "8:00 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -13991,7 +13997,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-12-03",
     "startTime": "8:45 AM",
-    "status": "Published",
+    "status": "Full",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -14956,39 +14962,6 @@
     "url": "/s/oc-activity/a5UVX000001NFc52AG"
   },
   {
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 40.75,
-      "lon": -75.6
-    },
-    "costs": [],
-    "difficulty": 3,
-    "difficultyLabel": "3 - Easy",
-    "endDate": "2026-11-26",
-    "id": "a5UVX000001NFll2AG",
-    "leaders": [
-      "Janet Penner"
-    ],
-    "location": {
-      "city": "Walnutport",
-      "country": "United States",
-      "state": "PA"
-    },
-    "name": "Thanksgiving Morning - Flat and Easy Canal Trail Hike – 4- or 8-mile options",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-11-26",
-    "registration": "open",
-    "registrationOpenDate": "2026-11-18",
-    "registrationType": "Registration",
-    "startDate": "2026-11-26",
-    "startTime": "9:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001NFll2AG"
-  },
-  {
     "audience": "20’s & 30’s",
     "chapterId": "0015000001Sg05xAAB",
     "coords": {
@@ -15309,7 +15282,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running;Snowshoeing",
     "startDate": "2026-12-21",
     "startTime": "3:45 PM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -16601,40 +16574,6 @@
     "url": "/s/oc-activity/a5UVX000001NITV2A4"
   },
   {
-    "chapterId": "0015000001Sg064AAB",
-    "coords": {
-      "lat": 40.75,
-      "lon": -73.98
-    },
-    "costs": [],
-    "difficulty": 6,
-    "difficultyLabel": "6 - Strenuous",
-    "endDate": "2026-11-26",
-    "id": "a5UVX000001NIV72AO",
-    "keywords": "challenge, hike, cold spring, beacon, public transit, metronorth, hudson valley",
-    "leaders": [
-      "Eltan Samoylov"
-    ],
-    "location": {
-      "city": "New York",
-      "country": "United States",
-      "state": "NY"
-    },
-    "name": "Turkey Day Trot & Talk: Cold Spring to Beacon #OptOutside (Strenuous)",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-11-25",
-    "registration": "open",
-    "registrationOpenDate": "2026-11-22",
-    "registrationType": "Registration",
-    "startDate": "2026-11-26",
-    "startTime": "6:30 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001NIV72AO"
-  },
-  {
     "chapterId": "0015000001Sg06BAAR",
     "costs": [],
     "difficulty": 1,
@@ -17349,7 +17288,7 @@
       "lon": -71.31
     },
     "costs": [
-      15
+      150
     ],
     "difficulty": 4,
     "difficultyLabel": "4 - Moderate",
@@ -18955,37 +18894,6 @@
     "url": "/s/oc-activity/a5UVX000001NLRN2A4"
   },
   {
-    "chapterId": "0015000001Sg06BAAR",
-    "coords": {
-      "lat": 40.53,
-      "lon": -75.06
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2027-01-01",
-    "id": "a5UVX000001NLSz2AO",
-    "leaders": [
-      "Peter Jarrett"
-    ],
-    "location": {
-      "city": "Frenchtown",
-      "country": "United States",
-      "state": "NJ"
-    },
-    "name": "New Year's Day Delaware Canal: Frenchtown to Upper Black Eddy",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Show & Go",
-    "startDate": "2007-01-01",
-    "startTime": "10:00 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001NLSz2AO"
-  },
-  {
     "chapterId": "0015000001Sg064AAB",
     "coords": {
       "lat": 42.62,
@@ -19017,5 +18925,359 @@
     "timeZone": "US EST",
     "type": "Skiing",
     "url": "/s/oc-activity/a5UVX000001NLWD2A4"
+  },
+  {
+    "chapterId": "0015000001Sg066AAB",
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-11-29",
+    "id": "a5UVX000001NLXp2AO",
+    "keywords": "hikes, walks, conservation",
+    "leaders": [
+      "Linda Pease"
+    ],
+    "location": {
+      "city": "Burrillville",
+      "country": "United States",
+      "state": "RI"
+    },
+    "name": "WALK OFF THE TURKEY AND CELEBRATE AMERICA’S 250TH ONE MORE TIME",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Conservation;Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-29",
+    "startTime": "1:30 PM",
+    "status": "Published",
+    "subType": "Local Walks",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NLXp2AO"
+  },
+  {
+    "chapterId": "0015000001Sg060AAB",
+    "costs": [
+      25
+    ],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2027-01-23",
+    "id": "a5UVX000001NLb32AG",
+    "keywords": "whitewater, kayaking, rolling, practice, pool",
+    "leaders": [
+      "Maxwell Auger"
+    ],
+    "location": {
+      "city": "Manchester",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Kayak Roll Practice - Pool Session 1",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Paddling",
+    "startDate": "2027-01-23",
+    "startTime": "2:30 PM",
+    "status": "Published",
+    "subType": "Whitewater",
+    "timeZone": "US EST",
+    "type": "Paddling",
+    "url": "/s/oc-activity/a5UVX000001NLb32AG"
+  },
+  {
+    "chapterId": "0015000001Sg060AAB",
+    "costs": [
+      25
+    ],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2027-02-07",
+    "id": "a5UVX000001NLcf2AG",
+    "keywords": "whitewater, kayaking, rolling, practice, pool",
+    "leaders": [
+      "Maxwell Auger"
+    ],
+    "location": {
+      "city": "Manchester",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Kayak Roll Practice - Pool Session 2",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Paddling",
+    "startDate": "2027-02-07",
+    "startTime": "11:30 AM",
+    "status": "Published",
+    "subType": "Whitewater",
+    "timeZone": "US EST",
+    "type": "Paddling",
+    "url": "/s/oc-activity/a5UVX000001NLcf2AG"
+  },
+  {
+    "chapterId": "0015000001Sg060AAB",
+    "costs": [
+      25
+    ],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2027-02-21",
+    "id": "a5UVX000001NLeH2AW",
+    "keywords": "whitewater, kayaking, rolling, practice, pool",
+    "leaders": [
+      "Maxwell Auger"
+    ],
+    "location": {
+      "city": "Manchester",
+      "country": "United States",
+      "state": "NH"
+    },
+    "name": "Kayak Roll Practice - Pool Session 3 (FINAL!)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Paddling",
+    "startDate": "2027-02-21",
+    "startTime": "11:30 AM",
+    "status": "Published",
+    "subType": "Whitewater",
+    "timeZone": "US EST",
+    "type": "Paddling",
+    "url": "/s/oc-activity/a5UVX000001NLeH2AW"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 42.29,
+      "lon": -71.63
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-12-04",
+    "id": "a5UVX000001NLj72AG",
+    "leaders": [
+      "Patricia Lambert"
+    ],
+    "location": {
+      "city": "Westborough",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "December Early Morning Fitness Hike",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-02",
+    "registration": "open",
+    "registrationOpenDate": "2026-11-25",
+    "registrationType": "Application",
+    "startDate": "2026-12-04",
+    "startTime": "6:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NLj72AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
+      "lat": 38.79,
+      "lon": -106.53
+    },
+    "costs": [],
+    "difficulty": 5,
+    "difficultyLabel": "5 - Vigorous",
+    "endDate": "2026-12-18",
+    "id": "a5UVX000001NLkj2AG",
+    "leaders": [
+      "Patricia Lambert"
+    ],
+    "location": {
+      "city": "Westborough",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "December Early Morning Fitness Hike",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-16",
+    "registration": "open",
+    "registrationOpenDate": "2026-11-25",
+    "registrationType": "Application",
+    "startDate": "2026-12-18",
+    "startTime": "6:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NLkj2AG"
+  },
+  {
+    "chapterId": "0015000001Sg061AAB",
+    "coords": {
+      "lat": 42.77,
+      "lon": -70.86
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-11-28",
+    "id": "a5UVX000001NLnx2AG",
+    "leaders": [
+      "Robin Doyle"
+    ],
+    "location": {
+      "city": "Newbury",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Old Town Hill, Newbury",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-11-28",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NLnx2AG"
+  },
+  {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg05xAAB",
+    "coords": {
+      "lat": 42.48,
+      "lon": -72.61
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2027-01-01",
+    "id": "a5UVX000001NLpZ2AW",
+    "leaders": [
+      "Taylor Guss"
+    ],
+    "location": {
+      "city": "Deerfield",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "(20s/30s) New Year's Sunrise Hike on Mt. Sugarloaf",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Application",
+    "startDate": "2027-01-01",
+    "startTime": "6:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NLpZ2AW"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.64,
+      "lon": -74.82
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-17",
+    "id": "a5UVX000001NLsn2AG",
+    "leaders": [
+      "Peni MacMeekin"
+    ],
+    "location": {
+      "city": "Lebanon",
+      "country": "United States",
+      "state": "NJ"
+    },
+    "name": "Windy Acres hike - 4.5 miles",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-17",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NLsn2AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06DAAR",
+    "coords": {
+      "lat": 42.21,
+      "lon": -71.09
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-17",
+    "id": "a5UVX000001NLuP2AW",
+    "keywords": "hike, hills, thursday, moderate",
+    "leaders": [
+      "Ken Cohen"
+    ],
+    "location": {
+      "city": "Milton",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "BLUE HILLS THURSDAY MORNING HIKE - EXPLORING THE \"YELLOW TRIANGLES\" TRAIL",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-15",
+    "registration": "not-yet",
+    "registrationOpenDate": "2026-12-01",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-17",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NLuP2AW"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.78,
+      "lon": -74.72
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-08",
+    "id": "a5UVX000001NLw12AG",
+    "leaders": [
+      "Peni MacMeekin"
+    ],
+    "location": {
+      "city": "Chester",
+      "country": "United States",
+      "state": "NJ"
+    },
+    "name": "Cooper Grist Mill - Black River Hike - 7 miles",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-08",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NLw12AG"
   }
 ]
