@@ -63,43 +63,6 @@
     "url": "/s/oc-activity/a5UUN000000l4wD2AQ"
   },
   {
-    "audience": "20’s & 30’s",
-    "chapterId": "0015000001Sg061AAB",
-    "coords": {
-      "lat": 42.19,
-      "lon": -71.1
-    },
-    "costs": [
-      125
-    ],
-    "difficulty": 2,
-    "difficultyLabel": "2 - Relaxed",
-    "endDate": "2027-09-07",
-    "id": "a5UUN000000xXuP2AU",
-    "keywords": "no-meetup",
-    "leaders": [
-      "Michael Hanley"
-    ],
-    "location": {
-      "city": "Canton",
-      "country": "United States",
-      "state": "MA"
-    },
-    "name": "OC Testing Payment 20s and 30s",
-    "program": "Volunteer Led",
-    "registerByDate": "2026-11-30",
-    "registration": "open",
-    "registrationOpenDate": "2026-04-01",
-    "registrationType": "Application",
-    "startDate": "2027-09-07",
-    "startTime": "All Day",
-    "status": "Published",
-    "subType": "Local Socials",
-    "timeZone": "US EST",
-    "type": "Social",
-    "url": "/s/oc-activity/a5UUN000000xXuP2AU"
-  },
-  {
     "audience": "Adults",
     "chapterId": "0015000001TGzFBAA1",
     "coords": {
@@ -5162,7 +5125,7 @@
     "registrationType": "Application",
     "startDate": "2026-11-27",
     "startTime": "10:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -6536,7 +6499,7 @@
       "lon": -69.59
     },
     "costs": [
-      833.27
+      999999
     ],
     "difficulty": 4,
     "difficultyLabel": "4 - Moderate",
@@ -7847,7 +7810,7 @@
     },
     "name": "SEM Winter Hike & Learn #1",
     "program": "Volunteer Led",
-    "registerByDate": "2026-12-07",
+    "registerByDate": "2026-12-08",
     "registration": "open",
     "registrationOpenDate": "2026-11-22",
     "registrationType": "Application",
@@ -7882,9 +7845,9 @@
     },
     "name": "SEM Winter Hike & Learn #2",
     "program": "Volunteer Led",
-    "registerByDate": "2026-12-16",
+    "registerByDate": "2026-12-17",
     "registration": "not-yet",
-    "registrationOpenDate": "2026-11-29",
+    "registrationOpenDate": "2026-11-26",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-12-19",
@@ -7917,9 +7880,9 @@
     },
     "name": "SEM Winter Hike & Learn #3",
     "program": "Volunteer Led",
-    "registerByDate": "2026-12-19",
+    "registerByDate": "2026-12-20",
     "registration": "not-yet",
-    "registrationOpenDate": "2026-11-30",
+    "registrationOpenDate": "2026-11-26",
     "registrationType": "Application",
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-12-22",
@@ -9622,7 +9585,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-12-03",
     "startTime": "10:00 AM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -10572,6 +10535,38 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001MvK12AK"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.34,
+      "lon": -71.88
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-12-17",
+    "id": "a5UVX000001MvLd2AK",
+    "leaders": [
+      "June Powell"
+    ],
+    "location": {
+      "city": "Stonington",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "Barn Island, Stonington, (C3D, Easy)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-12-17",
+    "startTime": "9:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001MvLd2AK"
   },
   {
     "audience": "Adults",
@@ -13233,7 +13228,7 @@
     "registrationType": "Registration",
     "startDate": "2026-11-27",
     "startTime": "11:45 AM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -13494,8 +13489,8 @@
     },
     "name": "SEM Winter Hiking Series Hike #1A  at the Blue Hills",
     "program": "Volunteer Led",
-    "registerByDate": "2026-11-25",
-    "registration": "closed",
+    "registerByDate": "2026-11-26",
+    "registration": "open",
     "registrationOpenDate": "2026-11-14",
     "registrationType": "Application",
     "startDate": "2026-11-28",
@@ -16220,38 +16215,6 @@
     "url": "/s/oc-activity/a5UVX000001NIOf2AO"
   },
   {
-    "chapterId": "0015000001Sg064AAB",
-    "coords": {
-      "lat": 41.17,
-      "lon": -74.17
-    },
-    "costs": [],
-    "difficulty": 4,
-    "difficultyLabel": "4 - Moderate",
-    "endDate": "2026-11-27",
-    "id": "a5UVX000001NIQH2A4",
-    "leaders": [
-      "Jay Beilis"
-    ],
-    "location": {
-      "city": "Sloatsburg",
-      "country": "United States",
-      "state": "NY"
-    },
-    "name": "Reeves Meadow 9:30 am (Moderate)",
-    "program": "Volunteer Led",
-    "registration": "open",
-    "registrationType": "Registration",
-    "secondaryType": "Hiking, Local Walks, & Trail Running",
-    "startDate": "2026-11-27",
-    "startTime": "9:30 AM",
-    "status": "Published",
-    "subType": "Hiking",
-    "timeZone": "US EST",
-    "type": "Hiking, Local Walks, & Trail Running",
-    "url": "/s/oc-activity/a5UVX000001NIQH2A4"
-  },
-  {
     "chapterId": "0015000001Sg061AAB",
     "coords": {
       "lat": 44.23,
@@ -18899,6 +18862,39 @@
     "url": "/s/oc-activity/a5UVX000001NLXp2AO"
   },
   {
+    "audience": "20’s & 30’s",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.28,
+      "lon": -72.68
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-12-04",
+    "id": "a5UVX000001NLZR2A4",
+    "leaders": [
+      "Conrad Ward"
+    ],
+    "location": {
+      "city": "Guilford",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "(20s/30s) Holiday Candlelight Walk in Guilford",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Social",
+    "startDate": "2026-12-04",
+    "startTime": "6:00 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NLZR2A4"
+  },
+  {
     "chapterId": "0015000001Sg060AAB",
     "costs": [
       25
@@ -19124,6 +19120,40 @@
     "url": "/s/oc-activity/a5UVX000001NLpZ2AW"
   },
   {
+    "audience": "20’s & 30’s;Adults",
+    "chapterId": "0015000001Sg05zAAB",
+    "coords": {
+      "lat": 41.64,
+      "lon": -72.12
+    },
+    "costs": [],
+    "difficulty": 3,
+    "difficultyLabel": "3 - Easy",
+    "endDate": "2026-12-05",
+    "id": "a5UVX000001NLrB2AW",
+    "keywords": "hike, hiking, 20s & 30s, 20s and 30s, Social",
+    "leaders": [
+      "Lee Thao"
+    ],
+    "location": {
+      "city": "North Franklin",
+      "country": "United States",
+      "state": "CT"
+    },
+    "name": "20s & 30s Fairy, Dam, Waterfalls, River Ridge, and Beaver Trail Loop",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Social;Nature Walks",
+    "startDate": "2026-12-05",
+    "startTime": "10:00 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NLrB2AW"
+  },
+  {
     "chapterId": "0015000001Sg06BAAR",
     "coords": {
       "lat": 40.64,
@@ -19244,5 +19274,101 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001NM452AG"
+  },
+  {
+    "audience": "Adults",
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.59,
+      "lon": -75.48
+    },
+    "costs": [],
+    "difficulty": 2,
+    "difficultyLabel": "2 - Relaxed",
+    "endDate": "2026-12-21",
+    "id": "a5UVX000001NMIb2AO",
+    "leaders": [
+      "Theresa Oravec"
+    ],
+    "location": {
+      "city": "Allentown",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "2.3 Mile Walk Through Lights in the Parkway, Allentown, PA",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "startDate": "2026-12-21",
+    "startTime": "5:15 PM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NMIb2AO"
+  },
+  {
+    "chapterId": "0015000001Sg06BAAR",
+    "coords": {
+      "lat": 40.89,
+      "lon": -75.56
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-19",
+    "id": "a5UVX000001NMTt2AO",
+    "leaders": [
+      "Dave Hoke"
+    ],
+    "location": {
+      "city": "Lehighton",
+      "country": "United States",
+      "state": "PA"
+    },
+    "name": "Beltzville State Park",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Show & Go",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-19",
+    "startTime": "10:45 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NMTt2AO"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 41.14,
+      "lon": -74.11
+    },
+    "costs": [],
+    "difficulty": 6,
+    "difficultyLabel": "6 - Strenuous",
+    "endDate": "2026-12-02",
+    "id": "a5UVX000001NMVV2A4",
+    "leaders": [
+      "Hank Zupnick"
+    ],
+    "location": {
+      "city": "Montebello",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "Harriman: Kakiat and Back (Strenuous)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "secondaryType": "Hiking, Local Walks, & Trail Running",
+    "startDate": "2026-12-02",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NMVV2A4"
   }
 ]
