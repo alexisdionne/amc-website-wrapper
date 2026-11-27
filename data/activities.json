@@ -3689,7 +3689,7 @@
     "registrationType": "Application",
     "startDate": "2026-12-01",
     "startTime": "9:45 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -4526,13 +4526,13 @@
     "name": "Explore the Tompson Street Reservation in Autumn on the North Shore",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-27",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-11-13",
     "registrationType": "Application",
     "secondaryType": "Biking",
     "startDate": "2026-11-29",
     "startTime": "10:00 AM",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -4885,7 +4885,7 @@
     "registrationType": "Application",
     "startDate": "2026-12-13",
     "startTime": "All Day",
-    "status": "Full",
+    "status": "Waitlist",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -9516,7 +9516,7 @@
     "secondaryType": "Hiking, Local Walks, & Trail Running",
     "startDate": "2026-12-03",
     "startTime": "10:00 AM",
-    "status": "Waitlist",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -11480,7 +11480,7 @@
     "secondaryType": "Social",
     "startDate": "2026-12-02",
     "startTime": "6:00 PM",
-    "status": "Published",
+    "status": "Waitlist",
     "subType": "All Volunteer Opportunities",
     "timeZone": "US EST",
     "type": "Volunteer Opportunities",
@@ -12924,7 +12924,8 @@
     },
     "name": "LETS EXPLORE PIPER AND SWETT MOUNTAINS",
     "program": "Volunteer Led",
-    "registration": "open",
+    "registerByDate": "2026-11-27",
+    "registration": "closed",
     "registrationType": "Application",
     "startDate": "2026-11-28",
     "startTime": "8:30 AM",
@@ -13717,12 +13718,12 @@
     "name": "Hale Reservation Westwood hike - steady patient pace",
     "program": "Volunteer Led",
     "registerByDate": "2026-11-27",
-    "registration": "open",
+    "registration": "closed",
     "registrationOpenDate": "2026-11-14",
     "registrationType": "Application",
     "startDate": "2026-11-28",
     "startTime": "8:00 AM",
-    "status": "Full",
+    "status": "Published",
     "subType": "Hiking",
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
@@ -14170,6 +14171,7 @@
     },
     "name": "Explore Hidden Trails at Waterville Valley",
     "program": "Volunteer Led",
+    "registerByDate": "2026-11-28",
     "registration": "open",
     "registrationType": "Application",
     "startDate": "2026-11-28",
@@ -19177,6 +19179,40 @@
   {
     "chapterId": "0015000001Sg069AAB",
     "coords": {
+      "lat": 42.31,
+      "lon": -71.59
+    },
+    "costs": [],
+    "difficulty": 4,
+    "difficultyLabel": "4 - Moderate",
+    "endDate": "2026-12-13",
+    "id": "a5UVX000001NMQf2AO",
+    "leaders": [
+      "Joe Massery"
+    ],
+    "location": {
+      "city": "Northborough",
+      "country": "United States",
+      "state": "MA"
+    },
+    "name": "Hike the Boroughs - Boroughs Loop Trail (BLT4)",
+    "program": "Volunteer Led",
+    "registerByDate": "2026-12-11",
+    "registration": "open",
+    "registrationOpenDate": "2026-11-26",
+    "registrationType": "Application",
+    "secondaryType": "Hiking, Local Walks, & Trail Running;Snowshoeing",
+    "startDate": "2026-12-13",
+    "startTime": "9:30 AM",
+    "status": "Published",
+    "subType": "Hiking",
+    "timeZone": "US EST",
+    "type": "Hiking, Local Walks, & Trail Running",
+    "url": "/s/oc-activity/a5UVX000001NMQf2AO"
+  },
+  {
+    "chapterId": "0015000001Sg069AAB",
+    "coords": {
       "lat": 42.24,
       "lon": -71.61
     },
@@ -19271,5 +19307,36 @@
     "timeZone": "US EST",
     "type": "Hiking, Local Walks, & Trail Running",
     "url": "/s/oc-activity/a5UVX000001NMVV2A4"
+  },
+  {
+    "chapterId": "0015000001Sg064AAB",
+    "coords": {
+      "lat": 40.75,
+      "lon": -73.97
+    },
+    "costs": [],
+    "difficulty": 1,
+    "difficultyLabel": "1 - Accessible",
+    "endDate": "2026-12-03",
+    "id": "a5UVX000001NMor2AG",
+    "leaders": [
+      "John Power"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "state": "NY"
+    },
+    "name": "AMC NY/NJ 20s and 30s Thirsty Thursday (Midtown Manhattan)",
+    "program": "Volunteer Led",
+    "registration": "open",
+    "registrationType": "Registration",
+    "startDate": "2026-12-03",
+    "startTime": "6:30 PM",
+    "status": "Published",
+    "subType": "Local Socials",
+    "timeZone": "US EST",
+    "type": "Social",
+    "url": "/s/oc-activity/a5UVX000001NMor2AG"
   }
 ]
